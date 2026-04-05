@@ -152,6 +152,126 @@
     "bot": "gemma"
   },
   {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Kept \u2014 dash.nik.co \u2192 mrsharma213/command-center (GitHub Pages)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Deleted DNS \u2014 pjm-board.niksharma.co, yosharma.niksharma.co, internal.niksharma.co",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Kept \u2014 dash.nik.co \u2192 mrsharma213/command-center (GitHub Pages)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Deleted DNS \u2014 pjm-board.niksharma.co, yosharma.niksharma.co, internal.niksharma.co",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Kept \u2014 dash.nik.co \u2192 mrsharma213/command-center (GitHub Pages)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Deleted DNS \u2014 pjm-board.niksharma.co, yosharma.niksharma.co, internal.niksharma.co",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Kept \u2014 dash.nik.co \u2192 mrsharma213/command-center (GitHub Pages)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Deleted DNS \u2014 pjm-board.niksharma.co, yosharma.niksharma.co, internal.niksharma.co",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Cafe Empire Game",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Nik Pixel \u2014 Analytics Pixel for nik.co",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Project \u2014 `projects/nik-pixel`",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Stack \u2014 Next.js 16, TypeScript, Tailwind CSS, SQLite (better-sqlite3), Recharts",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Status \u2014 \u2705 Built and running. All pages, APIs, and pixel script functional.",
+    "category": "content",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "What it is \u2014 Lightweight analytics pixel Nik can install on any website via a single `<script",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Key features",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Agent-friendly \u2014 Homepage + JSON endpoint designed so autonomous agents can grab and install the ",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Site approval flow \u2014 New sites land as \"pending\" \u2014 Nik approves or denies from dashboard",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Demo data \u2014 Seed script creates 200 events for a demo site",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Admin key \u2014 `dev-admin-key` (in .env.local, change for production)",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Next steps \u2014 Deploy to Vercel at pixel.nik.co when ready",
+    "category": "deploy",
+    "bot": "gemma"
+  },
+  {
     "ts": "2026-04-05T10:01:00-04:00",
     "action": "Delivered Printing Press daily \u2014 5 tweets, 2 threads, 1 newsletter angle",
     "category": "content",
