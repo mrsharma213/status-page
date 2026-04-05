@@ -48,6 +48,10 @@
   .badge-unknown { background: rgba(128, 128, 128, 0.15); color: #888; }
 
   /* Activity log */
+  .tab-bar { display: flex; gap: 6px; margin-bottom: 12px; flex-wrap: wrap; }
+  .tab-btn { font-size: 12px; font-weight: 500; padding: 6px 12px; border-radius: 8px; border: 1px solid #222; background: #141414; color: #888; cursor: pointer; transition: all 0.15s; white-space: nowrap; }
+  .tab-btn:hover { border-color: #444; color: #ccc; }
+  .tab-btn.active { background: rgba(251, 191, 36, 0.1); border-color: rgba(251, 191, 36, 0.3); color: #fbbf24; }
   .activity-list { background: #141414; border: 1px solid #222; border-radius: 12px; overflow: hidden; max-height: 480px; overflow-y: auto; }
   .activity-item { display: flex; gap: 12px; padding: 12px 20px; border-bottom: 1px solid #1a1a1a; align-items: flex-start; }
   .activity-item:last-child { border-bottom: none; }
@@ -130,6 +134,18 @@
 
   <div class="section">
     <h2>Activity Log</h2>
+    <div class="tab-bar" id="bot-tabs">
+      <button class="tab-btn active" data-bot="all">All</button>
+      <button class="tab-btn" data-bot="jet">⚡ Jet</button>
+      <button class="tab-btn" data-bot="crm">📇 CRM</button>
+      <button class="tab-btn" data-bot="macra">💊 Macra</button>
+      <button class="tab-btn" data-bot="macra-app">📱 Macra App</button>
+      <button class="tab-btn" data-bot="printingpress">🖨️ Press</button>
+      <button class="tab-btn" data-bot="writer">✍️ Josiah</button>
+      <button class="tab-btn" data-bot="gemma">🤓 Chip</button>
+      <button class="tab-btn" data-bot="grok">🔍 Grok</button>
+      <button class="tab-btn" data-bot="health">💪 Health</button>
+    </div>
     <div id="activity" class="activity-list">
       <div class="no-incidents">Loading...</div>
     </div>
@@ -194,30 +210,52 @@ inputs.forEach((input, i) => {
 </script>
 
 <script>
+let allActivity = [];
+let activeBot = 'all';
+
+const botEmojis = { jet: '⚡', crm: '📇', macra: '💊', 'macra-app': '📱', printingpress: '🖨️', writer: '✍️', gemma: '🤓', grok: '🔍', health: '💪' };
+
 async function loadActivity() {
   try {
     const res = await fetch('./activity-log.json?' + Date.now());
-    const data = await res.json();
-    const sorted = data.sort((a, b) => new Date(b.ts) - new Date(a.ts));
-    const el = document.getElementById('activity');
-    if (sorted.length === 0) {
-      el.innerHTML = '<div class="no-incidents">No activity yet</div>';
-      return;
-    }
-    el.innerHTML = sorted.map(item => {
-      const d = new Date(item.ts);
-      const time = d.toLocaleString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'America/New_York' });
-      const cat = item.category || 'other';
-      return `<div class="activity-item">
-        <span class="activity-time">${time}</span>
-        <span class="activity-cat cat-${cat}">${cat}</span>
-        <span class="activity-text">${item.action}</span>
-      </div>`;
-    }).join('');
+    allActivity = await res.json();
+    allActivity.sort((a, b) => new Date(b.ts) - new Date(a.ts));
+    renderActivity();
   } catch (e) {
     document.getElementById('activity').innerHTML = '<div class="no-incidents">Unable to load activity</div>';
   }
 }
+
+function renderActivity() {
+  const filtered = activeBot === 'all' ? allActivity : allActivity.filter(item => item.bot === activeBot);
+  const el = document.getElementById('activity');
+  if (filtered.length === 0) {
+    el.innerHTML = '<div class="no-incidents">No activity' + (activeBot !== 'all' ? ' for this bot' : '') + '</div>';
+    return;
+  }
+  el.innerHTML = filtered.map(item => {
+    const d = new Date(item.ts);
+    const time = d.toLocaleString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'America/New_York' });
+    const cat = item.category || 'other';
+    const botTag = activeBot === 'all' && item.bot ? `<span class="activity-cat cat-infra" style="font-size:9px">${botEmojis[item.bot] || ''} ${item.bot}</span>` : '';
+    return `<div class="activity-item">
+      <span class="activity-time">${time}</span>
+      ${botTag}
+      <span class="activity-cat cat-${cat}">${cat}</span>
+      <span class="activity-text">${item.action}</span>
+    </div>`;
+  }).join('');
+}
+
+// Tab click handlers
+document.getElementById('bot-tabs').addEventListener('click', (e) => {
+  if (e.target.classList.contains('tab-btn')) {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    e.target.classList.add('active');
+    activeBot = e.target.dataset.bot;
+    renderActivity();
+  }
+});
 
 async function loadStatus() {
   try {

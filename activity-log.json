@@ -1,18 +1,296 @@
 [
-  {"ts": "2026-04-05T06:05:00-04:00", "action": "Fixed exec approval policy — tools.exec.ask off, tools.exec.security full", "category": "fix"},
-  {"ts": "2026-04-05T06:04:00-04:00", "action": "Removed Docker/sandbox requirement from Chip (Gemma) bot", "category": "fix"},
-  {"ts": "2026-04-05T06:04:00-04:00", "action": "Ran full status check — all systems operational", "category": "check"},
-  {"ts": "2026-04-05T06:03:00-04:00", "action": "Sent Minul Telegram re: Figma renewal Apr 10 — check for overcharges", "category": "outbound"},
-  {"ts": "2026-04-05T06:02:00-04:00", "action": "Memory flush — saved session context to memory/2026-04-05.md", "category": "memory"},
-  {"ts": "2026-04-05T05:48:00-04:00", "action": "Gateway restarted and confirmed running after config changes", "category": "infra"},
-  {"ts": "2026-04-05T01:10:00-04:00", "action": "Searched nik@nik.co inbox — pulled full Vinyl photographer email thread (12 messages)", "category": "research"},
-  {"ts": "2026-04-04T20:41:00-04:00", "action": "Heartbeat — checked both inboxes, updated heartbeat-state.json", "category": "check"},
-  {"ts": "2026-04-04T20:25:00-04:00", "action": "Built OPENCLAW-ISSUES.md — 7 known issues documented on Desktop", "category": "docs"},
-  {"ts": "2026-04-04T20:22:00-04:00", "action": "Set Sunday reminder — Dylan Wandra text, Manaf/Niles/Jerel FaceTime, family calls, newsletter", "category": "reminder"},
-  {"ts": "2026-04-05T10:01:00-04:00", "action": "Delivered Printing Press daily — 5 tweets, 2 threads, 1 newsletter angle", "category": "content"},
-  {"ts": "2026-04-05T10:01:00-04:00", "action": "Fired Sunday reminders — call list + newsletter", "category": "reminder"},
-  {"ts": "2026-04-05T13:00:00-04:00", "action": "Fired reminder — FaceTime Manaf, Niles, Jerel", "category": "reminder"},
-  {"ts": "2026-04-05T13:10:00-04:00", "action": "Fixed bot token detection in status checker — all 9 bots now green", "category": "fix"},
-  {"ts": "2026-04-05T13:10:00-04:00", "action": "Deployed status page to status.nik.co with passcode lock", "category": "deploy"},
-  {"ts": "2026-04-05T13:35:00-04:00", "action": "Diagnosed Josiah Drive issue — root cause was exec approval blocking, already fixed", "category": "fix"}
+  {
+    "ts": "2026-04-05T13:35:00-04:00",
+    "action": "Diagnosed Josiah Drive issue \u2014 root cause was exec approval blocking, already fixed",
+    "category": "fix",
+    "bot": "jet"
+  },
+  {
+    "ts": "2026-04-05T13:10:00-04:00",
+    "action": "Fixed bot token detection in status checker \u2014 all 9 bots now green",
+    "category": "fix",
+    "bot": "jet"
+  },
+  {
+    "ts": "2026-04-05T13:10:00-04:00",
+    "action": "Deployed status page to status.nik.co with passcode lock",
+    "category": "deploy",
+    "bot": "jet"
+  },
+  {
+    "ts": "2026-04-05T13:00:00-04:00",
+    "action": "Fired reminder \u2014 FaceTime Manaf, Niles, Jerel",
+    "category": "reminder",
+    "bot": "jet"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "04:37\u201306:02 ET \u2014 Late Night / Early Morning Session (Nik at Mac)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "04:37\u201306:02 ET \u2014 Late Night / Early Morning Session (Nik at Mac)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "04:37\u201306:02 ET \u2014 Late Night / Early Morning Session (Nik at Mac)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "04:37\u201306:02 ET \u2014 Late Night / Early Morning Session (Nik at Mac)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Caf\u00e9 Empire \u2014 Game Prototype Built",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Brief: \u2014 Nik sent a 10-page game design document for \"Caf\u00e9 Empire\" \u2014 a deep caf\u00e9 manageme",
+    "category": "outbound",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Decision: \u2014 Build a playable web prototype first to validate core loop before investing in n",
+    "category": "content",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Stack: \u2014 Next.js + TypeScript + Tailwind, ~1600 lines of game code",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Location: \u2014 projects/cafe-empire/",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Features built:",
+    "category": "content",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Running on: \u2014 port 3849, tunneled via cloudflared",
+    "category": "deploy",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Previous: FriendGames & Daily Todo",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T12:00:00-04:00",
+    "action": "Handler Notes",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-05T10:01:00-04:00",
+    "action": "Delivered Printing Press daily \u2014 5 tweets, 2 threads, 1 newsletter angle",
+    "category": "content",
+    "bot": "jet"
+  },
+  {
+    "ts": "2026-04-05T10:01:00-04:00",
+    "action": "Fired Sunday reminders \u2014 call list + newsletter",
+    "category": "reminder",
+    "bot": "jet"
+  },
+  {
+    "ts": "2026-04-05T06:05:00-04:00",
+    "action": "Fixed exec approval policy \u2014 tools.exec.ask off, tools.exec.security full",
+    "category": "fix",
+    "bot": "jet"
+  },
+  {
+    "ts": "2026-04-05T06:04:00-04:00",
+    "action": "Removed Docker/sandbox requirement from Chip (Gemma) bot",
+    "category": "fix",
+    "bot": "jet"
+  },
+  {
+    "ts": "2026-04-05T06:04:00-04:00",
+    "action": "Ran full status check \u2014 all systems operational",
+    "category": "check",
+    "bot": "jet"
+  },
+  {
+    "ts": "2026-04-05T06:03:00-04:00",
+    "action": "Sent Minul Telegram re: Figma renewal Apr 10 \u2014 check for overcharges",
+    "category": "outbound",
+    "bot": "jet"
+  },
+  {
+    "ts": "2026-04-05T06:02:00-04:00",
+    "action": "Memory flush \u2014 saved session context to memory/2026-04-05.md",
+    "category": "memory",
+    "bot": "jet"
+  },
+  {
+    "ts": "2026-04-05T05:48:00-04:00",
+    "action": "Gateway restarted and confirmed running after config changes",
+    "category": "infra",
+    "bot": "jet"
+  },
+  {
+    "ts": "2026-04-05T01:10:00-04:00",
+    "action": "Searched nik@nik.co inbox \u2014 pulled full Vinyl photographer email thread (12 messages)",
+    "category": "research",
+    "bot": "jet"
+  },
+  {
+    "ts": "2026-04-04T20:41:00-04:00",
+    "action": "Heartbeat \u2014 checked both inboxes, updated heartbeat-state.json",
+    "category": "check",
+    "bot": "jet"
+  },
+  {
+    "ts": "2026-04-04T20:25:00-04:00",
+    "action": "Built OPENCLAW-ISSUES.md \u2014 7 known issues documented on Desktop",
+    "category": "docs",
+    "bot": "jet"
+  },
+  {
+    "ts": "2026-04-04T20:22:00-04:00",
+    "action": "Set Sunday reminder \u2014 Dylan Wandra text, Manaf/Niles/Jerel FaceTime, family calls, newsletter",
+    "category": "reminder",
+    "bot": "jet"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Evening \u2014 Nik Back from Miami",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Key People (new)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Chris Montelongo \u2014 has a new venue in Philly, connected to After Ours/music scene. Seen in Nik's em",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Vinyl Show Thread (Email)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Josiah Drive Access Issue",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Evening \u2014 Nik Back from Miami",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Key People (new)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Chris Montelongo \u2014 has a new venue in Philly, connected to After Ours/music scene. Seen in Nik's em",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Vinyl Show Thread (Email)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Josiah Drive Access Issue",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Evening \u2014 Nik Back from Miami",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Key People (new)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Chris Montelongo \u2014 has a new venue in Philly, connected to After Ours/music scene. Seen in Nik's em",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Vinyl Show Thread (Email)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Josiah Drive Access Issue",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Evening \u2014 Nik Back from Miami",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Key People (new)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Chris Montelongo \u2014 has a new venue in Philly, connected to After Ours/music scene. Seen in Nik's em",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Vinyl Show Thread (Email)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-04T12:00:00-04:00",
+    "action": "Josiah Drive Access Issue",
+    "category": "other",
+    "bot": "writer"
+  }
 ]
