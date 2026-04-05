@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jet Damon — Operational Status</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro', 'Segoe UI', sans-serif; background: #0a0a0a; color: #e0e0e0; min-height: 100vh; }
+  .container { max-width: 720px; margin: 0 auto; padding: 32px 20px; }
+  header { margin-bottom: 40px; }
+  header h1 { font-size: 24px; font-weight: 600; color: #fff; display: flex; align-items: center; gap: 10px; }
+  header h1 .bolt { color: #fbbf24; }
+  .overall-status { padding: 20px 24px; border-radius: 12px; margin-bottom: 32px; display: flex; align-items: center; gap: 12px; }
+  .overall-status.operational { background: rgba(34, 197, 94, 0.1); border: 1px solid rgba(34, 197, 94, 0.2); }
+  .overall-status.degraded { background: rgba(251, 191, 36, 0.1); border: 1px solid rgba(251, 191, 36, 0.2); }
+  .overall-status.down { background: rgba(239, 68, 68, 0.1); border: 1px solid rgba(239, 68, 68, 0.2); }
+  .overall-status .dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+  .overall-status.operational .dot { background: #22c55e; box-shadow: 0 0 8px rgba(34, 197, 94, 0.5); }
+  .overall-status.degraded .dot { background: #fbbf24; box-shadow: 0 0 8px rgba(251, 191, 36, 0.5); }
+  .overall-status.down .dot { background: #ef4444; box-shadow: 0 0 8px rgba(239, 68, 68, 0.5); }
+  .overall-status .text { font-size: 16px; font-weight: 500; }
+  .overall-status.operational .text { color: #22c55e; }
+  .overall-status.degraded .text { color: #fbbf24; }
+  .overall-status.down .text { color: #ef4444; }
+
+  .section { margin-bottom: 32px; }
+  .section h2 { font-size: 14px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: #888; margin-bottom: 12px; }
+  .component-list { background: #141414; border: 1px solid #222; border-radius: 12px; overflow: hidden; }
+  .component { display: flex; align-items: center; justify-content: space-between; padding: 16px 20px; border-bottom: 1px solid #1a1a1a; }
+  .component:last-child { border-bottom: none; }
+  .component .name { display: flex; align-items: center; gap: 8px; font-size: 14px; }
+  .component .name .emoji { font-size: 16px; }
+  .component .status-badge { font-size: 12px; font-weight: 500; padding: 4px 10px; border-radius: 6px; }
+  .badge-operational { background: rgba(34, 197, 94, 0.15); color: #22c55e; }
+  .badge-degraded { background: rgba(251, 191, 36, 0.15); color: #fbbf24; }
+  .badge-down { background: rgba(239, 68, 68, 0.15); color: #ef4444; }
+  .badge-unknown { background: rgba(128, 128, 128, 0.15); color: #888; }
+
+  .incidents { background: #141414; border: 1px solid #222; border-radius: 12px; overflow: hidden; }
+  .incident { padding: 16px 20px; border-bottom: 1px solid #1a1a1a; }
+  .incident:last-child { border-bottom: none; }
+  .incident .date { font-size: 12px; color: #666; margin-bottom: 4px; }
+  .incident .title { font-size: 14px; font-weight: 500; margin-bottom: 4px; }
+  .incident .desc { font-size: 13px; color: #999; line-height: 1.5; }
+  .incident .resolved { color: #22c55e; font-size: 12px; margin-top: 6px; }
+
+  .footer { margin-top: 48px; text-align: center; font-size: 12px; color: #444; }
+  .footer .updated { margin-bottom: 4px; }
+  .no-incidents { padding: 24px; text-align: center; color: #666; font-size: 14px; }
+
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+  .loading { animation: pulse 1.5s ease-in-out infinite; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1><span class="bolt">⚡</span> Jet Damon — Status</h1>
+  </header>
+
+  <div id="overall" class="overall-status operational">
+    <div class="dot"></div>
+    <div class="text loading">Loading...</div>
+  </div>
+
+  <div class="section">
+    <h2>Infrastructure</h2>
+    <div id="infra" class="component-list">
+      <div class="component"><span class="name">Loading...</span></div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Bot Fleet</h2>
+    <div id="bots" class="component-list">
+      <div class="component"><span class="name">Loading...</span></div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Integrations</h2>
+    <div id="integrations" class="component-list">
+      <div class="component"><span class="name">Loading...</span></div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Recent Incidents</h2>
+    <div id="incidents" class="incidents">
+      <div class="no-incidents">Loading...</div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="updated" id="last-updated">Last updated: —</div>
+    <div>Powered by OpenClaw</div>
+  </div>
+</div>
+
+<script>
+async function loadStatus() {
+  try {
+    const res = await fetch('./status.json?' + Date.now());
+    const data = await res.json();
+    render(data);
+  } catch (e) {
+    document.getElementById('overall').className = 'overall-status unknown';
+    document.querySelector('#overall .text').textContent = 'Unable to load status';
+  }
+}
+
+function badge(status) {
+  const labels = { operational: 'Operational', degraded: 'Degraded', down: 'Down', unknown: 'Unknown' };
+  return `<span class="status-badge badge-${status}">${labels[status] || status}</span>`;
+}
+
+function render(data) {
+  // Overall
+  const el = document.getElementById('overall');
+  el.className = `overall-status ${data.overall}`;
+  const labels = { operational: 'All Systems Operational', degraded: 'Partial Degradation', down: 'Major Outage' };
+  el.querySelector('.text').textContent = labels[data.overall] || data.overall;
+  el.querySelector('.text').classList.remove('loading');
+
+  // Infrastructure
+  document.getElementById('infra').innerHTML = data.infrastructure.map(c =>
+    `<div class="component"><span class="name"><span class="emoji">${c.emoji || ''}</span> ${c.name}</span>${badge(c.status)}</div>`
+  ).join('');
+
+  // Bots
+  document.getElementById('bots').innerHTML = data.bots.map(c =>
+    `<div class="component"><span class="name"><span class="emoji">${c.emoji || ''}</span> ${c.name}</span>${badge(c.status)}</div>`
+  ).join('');
+
+  // Integrations
+  document.getElementById('integrations').innerHTML = data.integrations.map(c =>
+    `<div class="component"><span class="name"><span class="emoji">${c.emoji || ''}</span> ${c.name}</span>${badge(c.status)}</div>`
+  ).join('');
+
+  // Incidents
+  if (data.incidents && data.incidents.length > 0) {
+    document.getElementById('incidents').innerHTML = data.incidents.map(i =>
+      `<div class="incident">
+        <div class="date">${i.date}</div>
+        <div class="title">${i.title}</div>
+        <div class="desc">${i.description}</div>
+        ${i.resolved ? `<div class="resolved">✓ Resolved${i.resolvedAt ? ' — ' + i.resolvedAt : ''}</div>` : ''}
+      </div>`
+    ).join('');
+  } else {
+    document.getElementById('incidents').innerHTML = '<div class="no-incidents">No incidents in the last 30 days 🎉</div>';
+  }
+
+  // Footer
+  document.getElementById('last-updated').textContent = `Last updated: ${data.updatedAt || 'Unknown'}`;
+}
+
+loadStatus();
+setInterval(loadStatus, 60000);
+</script>
+</body>
+</html>

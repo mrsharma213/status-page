@@ -1,0 +1,56 @@
+{
+  "overall": "operational",
+  "updatedAt": "April 05, 2026 at 06:05 AM ET",
+  "updatedAtUTC": "2026-04-05T10:05:21Z",
+  "infrastructure": [
+    {"name": "Gateway", "emoji": "🖥️", "status": "operational"},
+    {"name": "Anthropic API", "emoji": "🧠", "status": "operational"},
+    {"name": "Exec Engine", "emoji": "⚙️", "status": "operational"}
+  ],
+  "bots": [
+    {"name": "Jet (Main)", "emoji": "⚡", "status": "unknown"},
+    {"name": "CRM", "emoji": "📇", "status": "operational"},
+    {"name": "Macra Supps", "emoji": "💊", "status": "operational"},
+    {"name": "Macra App", "emoji": "📱", "status": "unknown"},
+    {"name": "Printing Press", "emoji": "🖨️", "status": "operational"},
+    {"name": "Josiah (Writer)", "emoji": "✍️", "status": "operational"},
+    {"name": "Chip (Gemma)", "emoji": "🤓", "status": "unknown"},
+    {"name": "Grok Research", "emoji": "🔍", "status": "unknown"}
+  ],
+  "integrations": [
+    {"name": "Gmail (jet@nik.co)", "emoji": "📧", "status": "operational"},
+    {"name": "Gmail (nik@nik.co)", "emoji": "📧", "status": "operational"},
+    {"name": "Slack", "emoji": "💬", "status": "operational"},
+    {"name": "Fireflies", "emoji": "🔥", "status": "unknown"}
+  ],
+  "incidents": [
+  {
+    "date": "April 4, 2026",
+    "title": "Exec Approval Timeouts — All Commands Blocked",
+    "description": "Every exec command was auto-denied after 2-minute approval timeout. Jet could not run any CLI tools, check email, send messages, or perform any operational tasks.",
+    "resolved": true,
+    "resolvedAt": "April 5, 2026 — tools.exec.ask set to off, tools.exec.security set to full"
+  },
+  {
+    "date": "April 4, 2026",
+    "title": "Anthropic API Credits Depleted",
+    "description": "Cron jobs failed (morning briefing, Printing Press daily) due to insufficient API credits. All LLM-dependent tasks stopped.",
+    "resolved": true,
+    "resolvedAt": "April 4, 2026 2:27 PM ET — credits topped up"
+  },
+  {
+    "date": "April 1–4, 2026",
+    "title": "Google Auth — Both Accounts Timing Out",
+    "description": "OAuth tokens expired for both jet@nik.co and nik@nik.co. All Gmail, Calendar, Drive, and Contacts API calls failed with 60s timeouts for 4 consecutive days.",
+    "resolved": true,
+    "resolvedAt": "April 4, 2026 ~7:41 PM ET — tokens refreshed"
+  },
+  {
+    "date": "March 23 – April 1, 2026",
+    "title": "9-Day Gateway Outage",
+    "description": "Gateway went down after openclaw gateway restart unloaded the LaunchAgent. Complete blackout — no heartbeats, cron, or messaging for 9 days.",
+    "resolved": true,
+    "resolvedAt": "April 1, 2026 — Watchdog LaunchAgent deployed to prevent recurrence"
+  }
+]
+}
