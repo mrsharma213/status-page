@@ -7,6 +7,16 @@
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro', 'Segoe UI', sans-serif; background: #0a0a0a; color: #e0e0e0; min-height: 100vh; }
+  
+  /* Lock screen */
+  #lock-screen { display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; }
+  #lock-screen .bolt { font-size: 48px; margin-bottom: 24px; }
+  #lock-screen h2 { font-size: 18px; color: #888; font-weight: 400; margin-bottom: 32px; }
+  .pin-input { display: flex; gap: 12px; margin-bottom: 24px; }
+  .pin-input input { width: 52px; height: 60px; background: #141414; border: 1px solid #333; border-radius: 10px; color: #fff; font-size: 24px; text-align: center; outline: none; -webkit-text-security: disc; }
+  .pin-input input:focus { border-color: #fbbf24; box-shadow: 0 0 0 2px rgba(251, 191, 36, 0.2); }
+  .pin-error { color: #ef4444; font-size: 13px; height: 20px; }
+  #main-content { display: none; }
   .container { max-width: 720px; margin: 0 auto; padding: 32px 20px; }
   header { margin-bottom: 40px; }
   header h1 { font-size: 24px; font-weight: 600; color: #fff; display: flex; align-items: center; gap: 10px; }
@@ -54,7 +64,19 @@
 </style>
 </head>
 <body>
-<div class="container">
+<div id="lock-screen">
+  <div class="bolt">⚡</div>
+  <h2>Enter passcode</h2>
+  <div class="pin-input">
+    <input type="tel" maxlength="1" autofocus>
+    <input type="tel" maxlength="1">
+    <input type="tel" maxlength="1">
+    <input type="tel" maxlength="1">
+  </div>
+  <div class="pin-error" id="pin-error"></div>
+</div>
+
+<div id="main-content" class="container">
   <header>
     <h1><span class="bolt">⚡</span> Jet Damon — Status</h1>
   </header>
@@ -97,6 +119,51 @@
     <div>Powered by OpenClaw</div>
   </div>
 </div>
+
+<script>
+// Passcode gate
+const HASH = '7586';
+const inputs = document.querySelectorAll('.pin-input input');
+const lockScreen = document.getElementById('lock-screen');
+const mainContent = document.getElementById('main-content');
+
+// Check if already authed this session
+if (sessionStorage.getItem('jet-auth') === 'true') {
+  lockScreen.style.display = 'none';
+  mainContent.style.display = 'block';
+  loadStatus();
+}
+
+inputs.forEach((input, i) => {
+  input.addEventListener('input', (e) => {
+    if (e.target.value.length === 1 && i < inputs.length - 1) {
+      inputs[i + 1].focus();
+    }
+    if (i === inputs.length - 1 && e.target.value.length === 1) {
+      const code = Array.from(inputs).map(inp => inp.value).join('');
+      if (code === HASH) {
+        sessionStorage.setItem('jet-auth', 'true');
+        lockScreen.style.display = 'none';
+        mainContent.style.display = 'block';
+        loadStatus();
+      } else {
+        document.getElementById('pin-error').textContent = 'Wrong code';
+        inputs.forEach(inp => { inp.value = ''; inp.style.borderColor = '#ef4444'; });
+        inputs[0].focus();
+        setTimeout(() => {
+          inputs.forEach(inp => inp.style.borderColor = '#333');
+          document.getElementById('pin-error').textContent = '';
+        }, 1500);
+      }
+    }
+  });
+  input.addEventListener('keydown', (e) => {
+    if (e.key === 'Backspace' && !e.target.value && i > 0) {
+      inputs[i - 1].focus();
+    }
+  });
+});
+</script>
 
 <script>
 async function loadStatus() {
