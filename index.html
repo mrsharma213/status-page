@@ -47,6 +47,27 @@
   .badge-down { background: rgba(239, 68, 68, 0.15); color: #ef4444; }
   .badge-unknown { background: rgba(128, 128, 128, 0.15); color: #888; }
 
+  /* Activity log */
+  .activity-list { background: #141414; border: 1px solid #222; border-radius: 12px; overflow: hidden; max-height: 480px; overflow-y: auto; }
+  .activity-item { display: flex; gap: 12px; padding: 12px 20px; border-bottom: 1px solid #1a1a1a; align-items: flex-start; }
+  .activity-item:last-child { border-bottom: none; }
+  .activity-time { font-size: 11px; color: #555; white-space: nowrap; min-width: 70px; padding-top: 2px; }
+  .activity-cat { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; padding: 2px 6px; border-radius: 4px; white-space: nowrap; }
+  .cat-fix { background: rgba(139, 92, 246, 0.15); color: #a78bfa; }
+  .cat-check { background: rgba(34, 197, 94, 0.15); color: #22c55e; }
+  .cat-outbound { background: rgba(59, 130, 246, 0.15); color: #60a5fa; }
+  .cat-memory { background: rgba(251, 191, 36, 0.15); color: #fbbf24; }
+  .cat-infra { background: rgba(239, 68, 68, 0.15); color: #f87171; }
+  .cat-research { background: rgba(45, 212, 191, 0.15); color: #2dd4bf; }
+  .cat-docs { background: rgba(156, 163, 175, 0.15); color: #9ca3af; }
+  .cat-reminder { background: rgba(251, 146, 60, 0.15); color: #fb923c; }
+  .cat-content { background: rgba(236, 72, 153, 0.15); color: #f472b6; }
+  .cat-deploy { background: rgba(14, 165, 233, 0.15); color: #38bdf8; }
+  .activity-text { font-size: 13px; color: #ccc; line-height: 1.4; }
+  .activity-list::-webkit-scrollbar { width: 6px; }
+  .activity-list::-webkit-scrollbar-track { background: #141414; }
+  .activity-list::-webkit-scrollbar-thumb { background: #333; border-radius: 3px; }
+
   .incidents { background: #141414; border: 1px solid #222; border-radius: 12px; overflow: hidden; }
   .incident { padding: 16px 20px; border-bottom: 1px solid #1a1a1a; }
   .incident:last-child { border-bottom: none; }
@@ -108,6 +129,13 @@
   </div>
 
   <div class="section">
+    <h2>Activity Log</h2>
+    <div id="activity" class="activity-list">
+      <div class="no-incidents">Loading...</div>
+    </div>
+  </div>
+
+  <div class="section">
     <h2>Recent Incidents</h2>
     <div id="incidents" class="incidents">
       <div class="no-incidents">Loading...</div>
@@ -131,7 +159,7 @@ const mainContent = document.getElementById('main-content');
 if (sessionStorage.getItem('jet-auth') === 'true') {
   lockScreen.style.display = 'none';
   mainContent.style.display = 'block';
-  loadStatus();
+  loadStatus(); loadActivity();
 }
 
 inputs.forEach((input, i) => {
@@ -145,7 +173,7 @@ inputs.forEach((input, i) => {
         sessionStorage.setItem('jet-auth', 'true');
         lockScreen.style.display = 'none';
         mainContent.style.display = 'block';
-        loadStatus();
+        loadStatus(); loadActivity();
       } else {
         document.getElementById('pin-error').textContent = 'Wrong code';
         inputs.forEach(inp => { inp.value = ''; inp.style.borderColor = '#ef4444'; });
@@ -166,6 +194,31 @@ inputs.forEach((input, i) => {
 </script>
 
 <script>
+async function loadActivity() {
+  try {
+    const res = await fetch('./activity-log.json?' + Date.now());
+    const data = await res.json();
+    const sorted = data.sort((a, b) => new Date(b.ts) - new Date(a.ts));
+    const el = document.getElementById('activity');
+    if (sorted.length === 0) {
+      el.innerHTML = '<div class="no-incidents">No activity yet</div>';
+      return;
+    }
+    el.innerHTML = sorted.map(item => {
+      const d = new Date(item.ts);
+      const time = d.toLocaleString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'America/New_York' });
+      const cat = item.category || 'other';
+      return `<div class="activity-item">
+        <span class="activity-time">${time}</span>
+        <span class="activity-cat cat-${cat}">${cat}</span>
+        <span class="activity-text">${item.action}</span>
+      </div>`;
+    }).join('');
+  } catch (e) {
+    document.getElementById('activity').innerHTML = '<div class="no-incidents">Unable to load activity</div>';
+  }
+}
+
 async function loadStatus() {
   try {
     const res = await fetch('./status.json?' + Date.now());
@@ -224,7 +277,9 @@ function render(data) {
 }
 
 loadStatus();
+loadActivity();
 setInterval(loadStatus, 60000);
+setInterval(loadActivity, 60000);
 </script>
 </body>
 </html>
