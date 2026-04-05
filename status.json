@@ -1,21 +1,22 @@
 {
   "overall": "operational",
-  "updatedAt": "April 05, 2026 at 01:06 PM ET",
-  "updatedAtUTC": "2026-04-05T17:06:15Z",
+  "updatedAt": "April 05, 2026 at 01:10 PM ET",
+  "updatedAtUTC": "2026-04-05T17:10:02Z",
   "infrastructure": [
     {"name": "Gateway", "emoji": "🖥️", "status": "operational"},
     {"name": "Anthropic API", "emoji": "🧠", "status": "operational"},
     {"name": "Exec Engine", "emoji": "⚙️", "status": "operational"}
   ],
   "bots": [
-    {"name": "Jet (Main)", "emoji": "⚡", "status": "unknown"},
+    {"name": "Jet (Main)", "emoji": "⚡", "status": "operational"},
     {"name": "CRM", "emoji": "📇", "status": "operational"},
     {"name": "Macra Supps", "emoji": "💊", "status": "operational"},
-    {"name": "Macra App", "emoji": "📱", "status": "unknown"},
+    {"name": "Macra App", "emoji": "📱", "status": "operational"},
     {"name": "Printing Press", "emoji": "🖨️", "status": "operational"},
     {"name": "Josiah (Writer)", "emoji": "✍️", "status": "operational"},
-    {"name": "Chip (Gemma)", "emoji": "🤓", "status": "unknown"},
-    {"name": "Grok Research", "emoji": "🔍", "status": "unknown"}
+    {"name": "Chip (Gemma)", "emoji": "🤓", "status": "operational"},
+    {"name": "Grok Research", "emoji": "🔍", "status": "operational"},
+    {"name": "Health & Fitness", "emoji": "💪", "status": "operational"}
   ],
   "integrations": [
     {"name": "Gmail (jet@nik.co)", "emoji": "📧", "status": "operational"},
