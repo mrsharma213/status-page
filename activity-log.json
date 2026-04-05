@@ -1,5 +1,50 @@
 [
   {
+    "ts": "2026-04-05T17:27:06-04:00",
+    "action": "Fixed health bot \u2014 added lunch (1pm) and dinner (5pm) nutrition check crons",
+    "category": "fix"
+  },
+  {
+    "ts": "2026-04-05T17:27:06-04:00",
+    "action": "Anthropic balance monitoring cron \u2014 checks 3x daily, alerts on low credits",
+    "category": "deploy"
+  },
+  {
+    "ts": "2026-04-05T17:27:06-04:00",
+    "action": "Google auth self-healing script \u2014 Cloudflare tunnel for remote reauth",
+    "category": "deploy"
+  },
+  {
+    "ts": "2026-04-05T17:27:06-04:00",
+    "action": "QA heartbeat monitoring added \u2014 checks QA compliance every 4-6 hours",
+    "category": "deploy"
+  },
+  {
+    "ts": "2026-04-05T17:27:06-04:00",
+    "action": "DESIGN.md created (Framer-based) and deployed to all 9 bot workspaces",
+    "category": "deploy"
+  },
+  {
+    "ts": "2026-04-05T17:27:06-04:00",
+    "action": "Consolidated dashboards \u2014 killed pjm-board, yosharma, internal. One link: dash.nik.co",
+    "category": "fix"
+  },
+  {
+    "ts": "2026-04-05T17:27:06-04:00",
+    "action": "Crosshair icon deployed to Command Center dashboard",
+    "category": "deploy"
+  },
+  {
+    "ts": "2026-04-05T17:27:06-04:00",
+    "action": "Design system comparison showroom built at status.nik.co/design-compare",
+    "category": "deploy"
+  },
+  {
+    "ts": "2026-04-05T17:27:06-04:00",
+    "action": "DESIGN.md auto-read rule added to all bot AGENTS.md files",
+    "category": "deploy"
+  },
+  {
     "ts": "2026-04-05T14:45:25-04:00",
     "action": "Deployed QA system \u2014 QA-RULES.md + QA-PROMPT.md + verification workflow to all content bots (Josiah, Printing Press, CRM, Macra)",
     "category": "deploy"
