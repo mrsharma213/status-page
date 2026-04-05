@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-04-05T14:45:25-04:00",
+    "action": "Deployed QA system \u2014 QA-RULES.md + QA-PROMPT.md + verification workflow to all content bots (Josiah, Printing Press, CRM, Macra)",
+    "category": "deploy"
+  },
+  {
     "ts": "2026-04-05T13:35:00-04:00",
     "action": "Diagnosed Josiah Drive issue \u2014 root cause was exec approval blocking, already fixed",
     "category": "fix",

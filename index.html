@@ -47,6 +47,23 @@
   .badge-down { background: rgba(239, 68, 68, 0.15); color: #ef4444; }
   .badge-unknown { background: rgba(128, 128, 128, 0.15); color: #888; }
 
+  /* QA Stats */
+  .qa-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-bottom: 12px; }
+  .qa-stat { background: #141414; border: 1px solid #222; border-radius: 10px; padding: 16px; text-align: center; }
+  .qa-stat .number { font-size: 28px; font-weight: 700; margin-bottom: 4px; }
+  .qa-stat .label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; color: #666; }
+  .qa-stat.pass .number { color: #22c55e; }
+  .qa-stat.fail .number { color: #ef4444; }
+  .qa-stat.flagged .number { color: #fbbf24; }
+  .qa-review-list { background: #141414; border: 1px solid #222; border-radius: 12px; overflow: hidden; max-height: 320px; overflow-y: auto; }
+  .qa-item { display: flex; gap: 12px; padding: 12px 20px; border-bottom: 1px solid #1a1a1a; align-items: flex-start; }
+  .qa-item:last-child { border-bottom: none; }
+  .qa-badge { font-size: 10px; font-weight: 600; text-transform: uppercase; padding: 2px 8px; border-radius: 4px; white-space: nowrap; }
+  .qa-badge.pass { background: rgba(34, 197, 94, 0.15); color: #22c55e; }
+  .qa-badge.fail { background: rgba(239, 68, 68, 0.15); color: #ef4444; }
+  .qa-badge.flagged { background: rgba(251, 191, 36, 0.15); color: #fbbf24; }
+  .qa-badge.deploy { background: rgba(59, 130, 246, 0.15); color: #60a5fa; }
+
   /* Activity log */
   .tab-bar { display: flex; gap: 6px; margin-bottom: 12px; flex-wrap: wrap; }
   .tab-btn { font-size: 12px; font-weight: 500; padding: 6px 12px; border-radius: 8px; border: 1px solid #222; background: #141414; color: #888; cursor: pointer; transition: all 0.15s; white-space: nowrap; }
@@ -133,6 +150,18 @@
   </div>
 
   <div class="section">
+    <h2>QA Verification</h2>
+    <div class="qa-stats">
+      <div class="qa-stat pass"><div class="number" id="qa-pass">0</div><div class="label">Passed</div></div>
+      <div class="qa-stat fail"><div class="number" id="qa-fail">0</div><div class="label">Failed</div></div>
+      <div class="qa-stat flagged"><div class="number" id="qa-flagged">0</div><div class="label">Flagged</div></div>
+    </div>
+    <div id="qa-reviews" class="qa-review-list">
+      <div class="no-incidents">Loading...</div>
+    </div>
+  </div>
+
+  <div class="section">
     <h2>Activity Log</h2>
     <div class="tab-bar" id="bot-tabs">
       <button class="tab-btn active" data-bot="all">All</button>
@@ -175,7 +204,7 @@ const mainContent = document.getElementById('main-content');
 if (sessionStorage.getItem('jet-auth') === 'true') {
   lockScreen.style.display = 'none';
   mainContent.style.display = 'block';
-  loadStatus(); loadActivity();
+  loadStatus(); loadActivity(); loadQA();
 }
 
 inputs.forEach((input, i) => {
@@ -189,7 +218,7 @@ inputs.forEach((input, i) => {
         sessionStorage.setItem('jet-auth', 'true');
         lockScreen.style.display = 'none';
         mainContent.style.display = 'block';
-        loadStatus(); loadActivity();
+        loadStatus(); loadActivity(); loadQA();
       } else {
         document.getElementById('pin-error').textContent = 'Wrong code';
         inputs.forEach(inp => { inp.value = ''; inp.style.borderColor = '#ef4444'; });
@@ -210,6 +239,41 @@ inputs.forEach((input, i) => {
 </script>
 
 <script>
+async function loadQA() {
+  try {
+    const res = await fetch('./qa-log.json?' + Date.now());
+    const data = await res.json();
+    const sorted = data.sort((a, b) => new Date(b.ts) - new Date(a.ts));
+    
+    const pass = data.filter(d => d.status === 'pass').length;
+    const fail = data.filter(d => d.status === 'fail').length;
+    const flagged = data.filter(d => d.status === 'flagged').length;
+    
+    document.getElementById('qa-pass').textContent = pass;
+    document.getElementById('qa-fail').textContent = fail;
+    document.getElementById('qa-flagged').textContent = flagged;
+    
+    const el = document.getElementById('qa-reviews');
+    if (sorted.length === 0) {
+      el.innerHTML = '<div class="no-incidents">No QA reviews yet</div>';
+      return;
+    }
+    el.innerHTML = sorted.map(item => {
+      const d = new Date(item.ts);
+      const time = d.toLocaleString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'America/New_York' });
+      const botEmoji = botEmojis[item.bot] || '🤖';
+      return `<div class="qa-item">
+        <span class="activity-time">${time}</span>
+        <span class="qa-badge ${item.status}">${item.status}</span>
+        <span style="font-size:14px">${botEmoji}</span>
+        <span class="activity-text">${item.action}${item.details ? '<br><span style="color:#666;font-size:12px">' + item.details + '</span>' : ''}</span>
+      </div>`;
+    }).join('');
+  } catch (e) {
+    document.getElementById('qa-reviews').innerHTML = '<div class="no-incidents">Unable to load QA data</div>';
+  }
+}
+
 let allActivity = [];
 let activeBot = 'all';
 
@@ -316,8 +380,10 @@ function render(data) {
 
 loadStatus();
 loadActivity();
+loadQA();
 setInterval(loadStatus, 60000);
 setInterval(loadActivity, 60000);
+setInterval(loadQA, 60000);
 </script>
 </body>
 </html>
