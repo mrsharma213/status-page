@@ -1,5 +1,125 @@
 [
   {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Remy Liebersohn \u2014 (refuge.nyc) accepted **Zurp x Refuge** video call \u2014 Wed Apr 8, 4:00\u20134:30 PM EDT",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Rahul Hettiarachchi \u2014 (yo.vc) also accepted same Zurp x Refuge call.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Andrew Ferenci \u2014 (Comrad Socks) \u2014 wants to catch up, working on something new. Rameez proposed ti",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Lindsey Walther \u2014 (human.vc) \u2014 RSVP confirmation for \"Human Attention @ Night\" event.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Costco \u2014 order pickup notification (personal, skipped).",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Remy Liebersohn \u2014 (refuge.nyc) accepted **Zurp x Refuge** video call \u2014 Wed Apr 8, 4:00\u20134:30 PM EDT",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Rahul Hettiarachchi \u2014 (yo.vc) also accepted same Zurp x Refuge call.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Andrew Ferenci \u2014 (Comrad Socks) \u2014 wants to catch up, working on something new. Rameez proposed ti",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Lindsey Walther \u2014 (human.vc) \u2014 RSVP confirmation for \"Human Attention @ Night\" event.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Costco \u2014 order pickup notification (personal, skipped).",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Remy Liebersohn \u2014 (refuge.nyc) accepted **Zurp x Refuge** video call \u2014 Wed Apr 8, 4:00\u20134:30 PM EDT",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Rahul Hettiarachchi \u2014 (yo.vc) also accepted same Zurp x Refuge call.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Andrew Ferenci \u2014 (Comrad Socks) \u2014 wants to catch up, working on something new. Rameez proposed ti",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Lindsey Walther \u2014 (human.vc) \u2014 RSVP confirmation for \"Human Attention @ Night\" event.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Costco \u2014 order pickup notification (personal, skipped).",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Remy Liebersohn \u2014 (refuge.nyc) accepted **Zurp x Refuge** video call \u2014 Wed Apr 8, 4:00\u20134:30 PM EDT",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Rahul Hettiarachchi \u2014 (yo.vc) also accepted same Zurp x Refuge call.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Andrew Ferenci \u2014 (Comrad Socks) \u2014 wants to catch up, working on something new. Rameez proposed ti",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Lindsey Walther \u2014 (human.vc) \u2014 RSVP confirmation for \"Human Attention @ Night\" event.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T6:00:00-04:00",
+    "action": "Costco \u2014 order pickup notification (personal, skipped).",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-06T2:00:00-04:00",
     "action": "Rahul Hettiarachchi \u2014 (yo.vc) accepted **Zurp x Refuge** video call \u2014 Wed Apr 8, 3:00\u20133:30 PM EDT.",
     "category": "other",
@@ -1066,24 +1186,6 @@
   {
     "ts": "2026-04-04T12:00:00-04:00",
     "action": "Key People (new)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Chris Montelongo \u2014 has a new venue in Philly, connected to After Ours/music scene. Seen in Nik's em",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Vinyl Show Thread (Email)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Josiah Drive Access Issue",
     "category": "other",
     "bot": "writer"
   }
