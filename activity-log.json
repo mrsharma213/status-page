@@ -72,6 +72,270 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Sites Rebuilt with rv-starter (overnight 4/5 \u2192 4/6)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "built.nik.co \u2014 deployed, Next.js + shadcn/ui, pin lock 7586, commit `8e87062`",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "status.nik.co \u2014 rebuilt with rv-starter, live data fetching (status.json, activity-log.json, qa-",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Check-In Meeting Notes (Gemini, 12:27 PM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Decision: Pause WordPress, move everything to Shopify \u2014 research custom forms + approval natively in Shopify",
+    "category": "research",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Rameez owns this. \u2014 Nik said we don't need to do anything here.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Bot Session Management Updates",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "New cron: session-refresh-reminder \u2014 (ID: c10c67a5) \u2014 2pm weekdays, checks if bot configs updated since last session",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Nik Requests",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "CRM Digest (9am)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Health",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Sites Rebuilt with rv-starter (overnight 4/5 \u2192 4/6)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "built.nik.co \u2014 deployed, Next.js + shadcn/ui, pin lock 7586, commit `8e87062`",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "status.nik.co \u2014 rebuilt with rv-starter, live data fetching (status.json, activity-log.json, qa-",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Check-In Meeting Notes (Gemini, 12:27 PM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Decision: Pause WordPress, move everything to Shopify \u2014 research custom forms + approval natively in Shopify",
+    "category": "research",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Rameez owns this. \u2014 Nik said we don't need to do anything here.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Bot Session Management Updates",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "New cron: session-refresh-reminder \u2014 (ID: c10c67a5) \u2014 2pm weekdays, checks if bot configs updated since last session",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Nik Requests",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "CRM Digest (9am)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Health",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Sites Rebuilt with rv-starter (overnight 4/5 \u2192 4/6)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "built.nik.co \u2014 deployed, Next.js + shadcn/ui, pin lock 7586, commit `8e87062`",
+    "category": "content",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "status.nik.co \u2014 rebuilt with rv-starter, live data fetching (status.json, activity-log.json, qa-",
+    "category": "content",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Check-In Meeting Notes (Gemini, 12:27 PM)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Decision: Pause WordPress, move everything to Shopify \u2014 research custom forms + approval natively in Shopify",
+    "category": "research",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Rameez owns this. \u2014 Nik said we don't need to do anything here.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Bot Session Management Updates",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "New cron: session-refresh-reminder \u2014 (ID: c10c67a5) \u2014 2pm weekdays, checks if bot configs updated since last session",
+    "category": "check",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Nik Requests",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "CRM Digest (9am)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Health",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Sites Rebuilt with rv-starter (overnight 4/5 \u2192 4/6)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "built.nik.co \u2014 deployed, Next.js + shadcn/ui, pin lock 7586, commit `8e87062`",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "status.nik.co \u2014 rebuilt with rv-starter, live data fetching (status.json, activity-log.json, qa-",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Check-In Meeting Notes (Gemini, 12:27 PM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Decision: Pause WordPress, move everything to Shopify \u2014 research custom forms + approval natively in Shopify",
+    "category": "research",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Rameez owns this. \u2014 Nik said we don't need to do anything here.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Bot Session Management Updates",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "New cron: session-refresh-reminder \u2014 (ID: c10c67a5) \u2014 2pm weekdays, checks if bot configs updated since last session",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Nik Requests",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "CRM Digest (9am)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T2:00:00-04:00",
+    "action": "Health",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-06T12:00:00-04:00",
     "action": "Tomorrow's Schedule",
     "category": "other",
