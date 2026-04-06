@@ -1,5 +1,173 @@
 [
   {
+    "ts": "2026-04-06T7:00:00-04:00",
+    "action": "Operating Principles Locked In",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T7:00:00-04:00",
+    "action": "Peptides",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T7:00:00-04:00",
+    "action": "Still Pending",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T7:00:00-04:00",
+    "action": "Operating Principles Locked In",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T7:00:00-04:00",
+    "action": "Peptides",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T7:00:00-04:00",
+    "action": "Still Pending",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T7:00:00-04:00",
+    "action": "Operating Principles Locked In",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T7:00:00-04:00",
+    "action": "Peptides",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T7:00:00-04:00",
+    "action": "Still Pending",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T7:00:00-04:00",
+    "action": "Operating Principles Locked In",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T7:00:00-04:00",
+    "action": "Peptides",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T7:00:00-04:00",
+    "action": "Still Pending",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T6:30:00-04:00",
+    "action": "Newsletter Archive & Style Guide Rebuild",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T6:30:00-04:00",
+    "action": "Nik flagged: \u2014 17 newsletters is nowhere near enough. Limited Supply has 500+ editions. Need Gm",
+    "category": "reminder",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T6:30:00-04:00",
+    "action": "Lesson: \u2014 Always question sample size. 17/500+ is unacceptable for reverse-engineering a w",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T6:30:00-04:00",
+    "action": "Manager Bot \u2192 Sentinel Built",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-06T6:30:00-04:00",
+    "action": "Newsletter Archive & Style Guide Rebuild",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T6:30:00-04:00",
+    "action": "Nik flagged: \u2014 17 newsletters is nowhere near enough. Limited Supply has 500+ editions. Need Gm",
+    "category": "reminder",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T6:30:00-04:00",
+    "action": "Lesson: \u2014 Always question sample size. 17/500+ is unacceptable for reverse-engineering a w",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T6:30:00-04:00",
+    "action": "Manager Bot \u2192 Sentinel Built",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-06T6:30:00-04:00",
+    "action": "Newsletter Archive & Style Guide Rebuild",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T6:30:00-04:00",
+    "action": "Nik flagged: \u2014 17 newsletters is nowhere near enough. Limited Supply has 500+ editions. Need Gm",
+    "category": "reminder",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T6:30:00-04:00",
+    "action": "Lesson: \u2014 Always question sample size. 17/500+ is unacceptable for reverse-engineering a w",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T6:30:00-04:00",
+    "action": "Manager Bot \u2192 Sentinel Built",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-06T6:30:00-04:00",
+    "action": "Newsletter Archive & Style Guide Rebuild",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T6:30:00-04:00",
+    "action": "Nik flagged: \u2014 17 newsletters is nowhere near enough. Limited Supply has 500+ editions. Need Gm",
+    "category": "reminder",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T6:30:00-04:00",
+    "action": "Lesson: \u2014 Always question sample size. 17/500+ is unacceptable for reverse-engineering a w",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-06T6:30:00-04:00",
+    "action": "Manager Bot \u2192 Sentinel Built",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-06T6:00:00-04:00",
     "action": "Remy Liebersohn \u2014 (refuge.nyc) accepted **Zurp x Refuge** video call \u2014 Wed Apr 8, 4:00\u20134:30 PM EDT",
     "category": "other",
@@ -1020,173 +1188,5 @@
     "action": "Delivered Printing Press daily \u2014 5 tweets, 2 threads, 1 newsletter angle",
     "category": "content",
     "bot": "jet"
-  },
-  {
-    "ts": "2026-04-05T10:01:00-04:00",
-    "action": "Fired Sunday reminders \u2014 call list + newsletter",
-    "category": "reminder",
-    "bot": "jet"
-  },
-  {
-    "ts": "2026-04-05T06:05:00-04:00",
-    "action": "Fixed exec approval policy \u2014 tools.exec.ask off, tools.exec.security full",
-    "category": "fix",
-    "bot": "jet"
-  },
-  {
-    "ts": "2026-04-05T06:04:00-04:00",
-    "action": "Removed Docker/sandbox requirement from Chip (Gemma) bot",
-    "category": "fix",
-    "bot": "jet"
-  },
-  {
-    "ts": "2026-04-05T06:04:00-04:00",
-    "action": "Ran full status check \u2014 all systems operational",
-    "category": "check",
-    "bot": "jet"
-  },
-  {
-    "ts": "2026-04-05T06:03:00-04:00",
-    "action": "Sent Minul Telegram re: Figma renewal Apr 10 \u2014 check for overcharges",
-    "category": "outbound",
-    "bot": "jet"
-  },
-  {
-    "ts": "2026-04-05T06:02:00-04:00",
-    "action": "Memory flush \u2014 saved session context to memory/2026-04-05.md",
-    "category": "memory",
-    "bot": "jet"
-  },
-  {
-    "ts": "2026-04-05T05:48:00-04:00",
-    "action": "Gateway restarted and confirmed running after config changes",
-    "category": "infra",
-    "bot": "jet"
-  },
-  {
-    "ts": "2026-04-05T01:10:00-04:00",
-    "action": "Searched nik@nik.co inbox \u2014 pulled full Vinyl photographer email thread (12 messages)",
-    "category": "research",
-    "bot": "jet"
-  },
-  {
-    "ts": "2026-04-04T20:41:00-04:00",
-    "action": "Heartbeat \u2014 checked both inboxes, updated heartbeat-state.json",
-    "category": "check",
-    "bot": "jet"
-  },
-  {
-    "ts": "2026-04-04T20:25:00-04:00",
-    "action": "Built OPENCLAW-ISSUES.md \u2014 7 known issues documented on Desktop",
-    "category": "docs",
-    "bot": "jet"
-  },
-  {
-    "ts": "2026-04-04T20:22:00-04:00",
-    "action": "Set Sunday reminder \u2014 Dylan Wandra text, Manaf/Niles/Jerel FaceTime, family calls, newsletter",
-    "category": "reminder",
-    "bot": "jet"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Evening \u2014 Nik Back from Miami",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Key People (new)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Chris Montelongo \u2014 has a new venue in Philly, connected to After Ours/music scene. Seen in Nik's em",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Vinyl Show Thread (Email)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Josiah Drive Access Issue",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Evening \u2014 Nik Back from Miami",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Key People (new)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Chris Montelongo \u2014 has a new venue in Philly, connected to After Ours/music scene. Seen in Nik's em",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Vinyl Show Thread (Email)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Josiah Drive Access Issue",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Evening \u2014 Nik Back from Miami",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Key People (new)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Chris Montelongo \u2014 has a new venue in Philly, connected to After Ours/music scene. Seen in Nik's em",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Vinyl Show Thread (Email)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Josiah Drive Access Issue",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Evening \u2014 Nik Back from Miami",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-04T12:00:00-04:00",
-    "action": "Key People (new)",
-    "category": "other",
-    "bot": "writer"
   }
 ]
