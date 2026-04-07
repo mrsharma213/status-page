@@ -288,6 +288,78 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Email Scan \u2014 6:00 PM ET",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "\ud83d\udd25 Maruchan deal advancing (Minul thread): \u2014 Katelyn Stokes (Maruchan) replied at 5:55 PM with an independent contractor agre",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "CPGD listing update (Andrea Popova): \u2014 Categories on cpgd.xyz updated \u2014 asking agencies to review their listings. Low p",
+    "category": "fix",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Email Scan \u2014 6:00 PM ET",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "\ud83d\udd25 Maruchan deal advancing (Minul thread): \u2014 Katelyn Stokes (Maruchan) replied at 5:55 PM with an independent contractor agre",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "CPGD listing update (Andrea Popova): \u2014 Categories on cpgd.xyz updated \u2014 asking agencies to review their listings. Low p",
+    "category": "fix",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Email Scan \u2014 6:00 PM ET",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "\ud83d\udd25 Maruchan deal advancing (Minul thread): \u2014 Katelyn Stokes (Maruchan) replied at 5:55 PM with an independent contractor agre",
+    "category": "outbound",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "CPGD listing update (Andrea Popova): \u2014 Categories on cpgd.xyz updated \u2014 asking agencies to review their listings. Low p",
+    "category": "fix",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Email Scan \u2014 6:00 PM ET",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "\ud83d\udd25 Maruchan deal advancing (Minul thread): \u2014 Katelyn Stokes (Maruchan) replied at 5:55 PM with an independent contractor agre",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "CPGD listing update (Andrea Popova): \u2014 Categories on cpgd.xyz updated \u2014 asking agencies to review their listings. Low p",
+    "category": "fix",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-06T7:00:00-04:00",
     "action": "Operating Principles Locked In",
     "category": "other",
@@ -1126,77 +1198,5 @@
     "action": "Office Hours survey \u2014 Paid $45/12min for music creators who use AI. Minor.",
     "category": "other",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-06T12:00:00-04:00",
-    "action": "Email Scan",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T12:00:00-04:00",
-    "action": "xPass (fka festivalPass) deal flow \u2014 Ed Vincent, $3M SAFE @ $14M cap, AI OS for live experiences. Sent via PEF deal f",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T12:00:00-04:00",
-    "action": "UPS package \u2014 GALES (c/o Fosdick Fulfillment) arriving Tue 4/7, 11:45 AM\u20133:45 PM.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T12:00:00-04:00",
-    "action": "Office Hours survey \u2014 Paid $45/12min for music creators who use AI. Minor.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T12:00:00-04:00",
-    "action": "Email Scan",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T12:00:00-04:00",
-    "action": "xPass (fka festivalPass) deal flow \u2014 Ed Vincent, $3M SAFE @ $14M cap, AI OS for live experiences. Sent via PEF deal f",
-    "category": "outbound",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T12:00:00-04:00",
-    "action": "UPS package \u2014 GALES (c/o Fosdick Fulfillment) arriving Tue 4/7, 11:45 AM\u20133:45 PM.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T12:00:00-04:00",
-    "action": "Office Hours survey \u2014 Paid $45/12min for music creators who use AI. Minor.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T12:00:00-04:00",
-    "action": "Email Scan",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-06T12:00:00-04:00",
-    "action": "xPass (fka festivalPass) deal flow \u2014 Ed Vincent, $3M SAFE @ $14M cap, AI OS for live experiences. Sent via PEF deal f",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-06T12:00:00-04:00",
-    "action": "UPS package \u2014 GALES (c/o Fosdick Fulfillment) arriving Tue 4/7, 11:45 AM\u20133:45 PM.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-06T12:00:00-04:00",
-    "action": "Office Hours survey \u2014 Paid $45/12min for music creators who use AI. Minor.",
-    "category": "other",
-    "bot": "writer"
   }
 ]
