@@ -24,6 +24,174 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Email Scan \u2014 12:00 PM ET",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "United Airlines \u2014 Troy's flight booked (B7QQBS): \u2014 EWR \u2192 Houston \u2192 Palm Springs, Thu Apr 9, United First. Troy is flying out Thursd",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Shopify \u2014 ACTION REQUIRED: \u2014 Reconnect FedEx account by April 20 or carrier-calculated rates stop at checkout",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Hetal Retail investor update: \u2014 Strong March \u2014 >$400k FFARR, Q1 ~$1.35M (beat $1.26M stretch goal). Curious abou",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Nicole Baqai (LookUp) \u2014 MALKA launch: \u2014 Investor update announcing new brand \"Malka\" \u2014 elevated phone accessories. Brand",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Oscar Hellier / Big Idea Ventures \u2014 Series A pitch: \u2014 BioBond (petroleum-free adhesives) & TerraSafe (biomaterials). Attached one-page",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Robinhood \u2014 crypto monthly statement available (routine)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Email Scan \u2014 12:00 PM ET",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "United Airlines \u2014 Troy's flight booked (B7QQBS): \u2014 EWR \u2192 Houston \u2192 Palm Springs, Thu Apr 9, United First. Troy is flying out Thursd",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Shopify \u2014 ACTION REQUIRED: \u2014 Reconnect FedEx account by April 20 or carrier-calculated rates stop at checkout",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Hetal Retail investor update: \u2014 Strong March \u2014 >$400k FFARR, Q1 ~$1.35M (beat $1.26M stretch goal). Curious abou",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Nicole Baqai (LookUp) \u2014 MALKA launch: \u2014 Investor update announcing new brand \"Malka\" \u2014 elevated phone accessories. Brand",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Oscar Hellier / Big Idea Ventures \u2014 Series A pitch: \u2014 BioBond (petroleum-free adhesives) & TerraSafe (biomaterials). Attached one-page",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Robinhood \u2014 crypto monthly statement available (routine)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Email Scan \u2014 12:00 PM ET",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "United Airlines \u2014 Troy's flight booked (B7QQBS): \u2014 EWR \u2192 Houston \u2192 Palm Springs, Thu Apr 9, United First. Troy is flying out Thursd",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Shopify \u2014 ACTION REQUIRED: \u2014 Reconnect FedEx account by April 20 or carrier-calculated rates stop at checkout",
+    "category": "check",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Hetal Retail investor update: \u2014 Strong March \u2014 >$400k FFARR, Q1 ~$1.35M (beat $1.26M stretch goal). Curious abou",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Nicole Baqai (LookUp) \u2014 MALKA launch: \u2014 Investor update announcing new brand \"Malka\" \u2014 elevated phone accessories. Brand",
+    "category": "deploy",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Oscar Hellier / Big Idea Ventures \u2014 Series A pitch: \u2014 BioBond (petroleum-free adhesives) & TerraSafe (biomaterials). Attached one-page",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Robinhood \u2014 crypto monthly statement available (routine)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Email Scan \u2014 12:00 PM ET",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "United Airlines \u2014 Troy's flight booked (B7QQBS): \u2014 EWR \u2192 Houston \u2192 Palm Springs, Thu Apr 9, United First. Troy is flying out Thursd",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Shopify \u2014 ACTION REQUIRED: \u2014 Reconnect FedEx account by April 20 or carrier-calculated rates stop at checkout",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Hetal Retail investor update: \u2014 Strong March \u2014 >$400k FFARR, Q1 ~$1.35M (beat $1.26M stretch goal). Curious abou",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Nicole Baqai (LookUp) \u2014 MALKA launch: \u2014 Investor update announcing new brand \"Malka\" \u2014 elevated phone accessories. Brand",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Oscar Hellier / Big Idea Ventures \u2014 Series A pitch: \u2014 BioBond (petroleum-free adhesives) & TerraSafe (biomaterials). Attached one-page",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Robinhood \u2014 crypto monthly statement available (routine)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-06T7:00:00-04:00",
     "action": "Operating Principles Locked In",
     "category": "other",
@@ -1020,173 +1188,5 @@
     "action": "04:37\u201306:02 ET \u2014 Late Night / Early Morning Session (Nik at Mac)",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "04:37\u201306:02 ET \u2014 Late Night / Early Morning Session (Nik at Mac)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "04:37\u201306:02 ET \u2014 Late Night / Early Morning Session (Nik at Mac)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Caf\u00e9 Empire \u2014 Game Prototype Built",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Brief: \u2014 Nik sent a 10-page game design document for \"Caf\u00e9 Empire\" \u2014 a deep caf\u00e9 manageme",
-    "category": "outbound",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Decision: \u2014 Build a playable web prototype first to validate core loop before investing in n",
-    "category": "content",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Stack: \u2014 Next.js + TypeScript + Tailwind, ~1600 lines of game code",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Location: \u2014 projects/cafe-empire/",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Features built:",
-    "category": "content",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Running on: \u2014 port 3849, tunneled via cloudflared",
-    "category": "deploy",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Previous: FriendGames & Daily Todo",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Handler Notes",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Kept \u2014 dash.nik.co \u2192 mrsharma213/command-center (GitHub Pages)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Deleted DNS \u2014 pjm-board.niksharma.co, yosharma.niksharma.co, internal.niksharma.co",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Kept \u2014 dash.nik.co \u2192 mrsharma213/command-center (GitHub Pages)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Deleted DNS \u2014 pjm-board.niksharma.co, yosharma.niksharma.co, internal.niksharma.co",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Kept \u2014 dash.nik.co \u2192 mrsharma213/command-center (GitHub Pages)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Deleted DNS \u2014 pjm-board.niksharma.co, yosharma.niksharma.co, internal.niksharma.co",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Kept \u2014 dash.nik.co \u2192 mrsharma213/command-center (GitHub Pages)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Deleted DNS \u2014 pjm-board.niksharma.co, yosharma.niksharma.co, internal.niksharma.co",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Cafe Empire Game",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Nik Pixel \u2014 Analytics Pixel for nik.co",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Project \u2014 `projects/nik-pixel`",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Stack \u2014 Next.js 16, TypeScript, Tailwind CSS, SQLite (better-sqlite3), Recharts",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Status \u2014 \u2705 Built and running. All pages, APIs, and pixel script functional.",
-    "category": "content",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "What it is \u2014 Lightweight analytics pixel Nik can install on any website via a single `<script",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Key features",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Agent-friendly \u2014 Homepage + JSON endpoint designed so autonomous agents can grab and install the ",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-05T12:00:00-04:00",
-    "action": "Site approval flow \u2014 New sites land as \"pending\" \u2014 Nik approves or denies from dashboard",
-    "category": "other",
-    "bot": "gemma"
   }
 ]
