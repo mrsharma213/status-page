@@ -840,6 +840,102 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Session Overview",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Sharmlytics Rebrand \u2014 Phase 1 \u2705",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Domain Migration \u2014 pixel.nik.co \u2192 sharmlytics.com (all references updated)",
+    "category": "fix",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Product Name \u2014 \"Sharmlytics \u2014 DTC Analytics Platform\"",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Hero Copy \u2014 Focused on DTC use case vs generic analytics",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Founder Section \u2014 Added Nik's AG1 background and DTC credibility",
+    "category": "research",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Metadata \u2014 Updated titles, descriptions, structured data",
+    "category": "fix",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Backward Compatibility \u2014 Kept API naming (window.nk, data-nk-track) intact",
+    "category": "infra",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Strategic Research Completed",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "DTC-focused features \u2014 Cart thresholds, quiz tracking, product performance",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Custom event orchestration \u2014 Auto-mapping to Meta/Google events",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Advanced segmentation \u2014 VIP behavior, bargain hunters, repeat customers",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Marketing channel optimization \u2014 Email/SMS attribution, influencer tracking",
+    "category": "outbound",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Operator tools \u2014 A/B testing, customer health scoring, competitive intelligence",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Next Steps Identified",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "User Feedback",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
     "ts": "2026-04-07T12:00:00-04:00",
     "action": "Slack Digest \u2014 9:00 AM ET",
     "category": "other",
@@ -1102,101 +1198,5 @@
     "action": "Shopify \u2014 legacy customer accounts deprecated: \u2014 Legacy accounts no longer receive updates/support. Final sunset TBD. May affect ",
     "category": "other",
     "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Email Scan \u2014 4:00 PM ET",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Troy Osinoff \u2192 Mesh (Cumulus Coffee) & Gulshan (Swishables): \u2014 Intro email connecting the two founders to discuss retail strategies. Troy calli",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Nik \u2192 Sumukh Setty (Front Row Health) re: Swishables: \u2014 Nik asked if Swishables qualifies for Front Row's Clinician's Choice badge. Sumu",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Shopify \u2014 legacy customer accounts deprecated: \u2014 Legacy accounts no longer receive updates/support. Final sunset TBD. May affect ",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Email Scan \u2014 6:00 PM ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "\ud83d\udd25 Maruchan deal advancing (Minul thread): \u2014 Katelyn Stokes (Maruchan) replied at 5:55 PM with an independent contractor agre",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "CPGD listing update (Andrea Popova): \u2014 Categories on cpgd.xyz updated \u2014 asking agencies to review their listings. Low p",
-    "category": "fix",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Email Scan \u2014 6:00 PM ET",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "\ud83d\udd25 Maruchan deal advancing (Minul thread): \u2014 Katelyn Stokes (Maruchan) replied at 5:55 PM with an independent contractor agre",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "CPGD listing update (Andrea Popova): \u2014 Categories on cpgd.xyz updated \u2014 asking agencies to review their listings. Low p",
-    "category": "fix",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Email Scan \u2014 6:00 PM ET",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "\ud83d\udd25 Maruchan deal advancing (Minul thread): \u2014 Katelyn Stokes (Maruchan) replied at 5:55 PM with an independent contractor agre",
-    "category": "outbound",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "CPGD listing update (Andrea Popova): \u2014 Categories on cpgd.xyz updated \u2014 asking agencies to review their listings. Low p",
-    "category": "fix",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Email Scan \u2014 6:00 PM ET",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "\ud83d\udd25 Maruchan deal advancing (Minul thread): \u2014 Katelyn Stokes (Maruchan) replied at 5:55 PM with an independent contractor agre",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "CPGD listing update (Andrea Popova): \u2014 Categories on cpgd.xyz updated \u2014 asking agencies to review their listings. Low p",
-    "category": "fix",
-    "bot": "writer"
   }
 ]
