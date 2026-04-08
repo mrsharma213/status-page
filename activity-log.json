@@ -816,6 +816,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Tomorrow's Schedule",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Tomorrow's Schedule",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Tomorrow's Schedule",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Tomorrow's Schedule",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-07T12:00:00-04:00",
     "action": "Slack Digest \u2014 9:00 AM ET",
     "category": "other",
@@ -1174,29 +1198,5 @@
     "action": "CPGD listing update (Andrea Popova): \u2014 Categories on cpgd.xyz updated \u2014 asking agencies to review their listings. Low p",
     "category": "fix",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Email Scan \u2014 8:00 PM ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Sandbox Studios Fund II (PEF deal flow): \u2014 Celebrity-driven consumer VC fund, $15M first close, 2/20 structure. Returned ca",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Email Scan \u2014 8:00 PM ET",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Sandbox Studios Fund II (PEF deal flow): \u2014 Celebrity-driven consumer VC fund, $15M first close, 2/20 structure. Returned ca",
-    "category": "other",
-    "bot": "macra"
   }
 ]
