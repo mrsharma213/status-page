@@ -936,267 +936,267 @@
     "bot": "gemma"
   },
   {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Slack Digest \u2014 9:00 AM ET",
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Phase 2 Complete \u2705 \u2014 Advanced DTC Features",
     "category": "other",
-    "bot": "crm"
+    "bot": "gemma"
   },
   {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Slack Digest \u2014 9:00 AM ET",
-    "category": "other",
-    "bot": "macra"
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Custom Events Dashboard \u2014 `/dashboard/events` with DTC-focused configuration",
+    "category": "infra",
+    "bot": "gemma"
   },
   {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Slack Digest \u2014 9:00 AM ET",
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Enhanced Pixel Script \u2014 Auto-detects cart totals, quiz steps, form captures",
     "category": "other",
-    "bot": "printingpress"
+    "bot": "gemma"
   },
   {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Slack Digest \u2014 9:00 AM ET",
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Platform Event Mapping \u2014 Auto-fire Meta, Google, TikTok events based on triggers",
     "category": "other",
-    "bot": "writer"
+    "bot": "gemma"
   },
   {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Email Scan \u2014 12:00 PM ET",
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Database Schema \u2014 `custom_events` table with migration completed",
     "category": "other",
-    "bot": "crm"
+    "bot": "gemma"
   },
   {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "United Airlines \u2014 Troy's flight booked (B7QQBS): \u2014 EWR \u2192 Houston \u2192 Palm Springs, Thu Apr 9, United First. Troy is flying out Thursd",
-    "category": "other",
-    "bot": "crm"
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "API Infrastructure \u2014 Full CRUD for custom events + pixel configuration endpoint",
+    "category": "infra",
+    "bot": "gemma"
   },
   {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Shopify \u2014 ACTION REQUIRED: \u2014 Reconnect FedEx account by April 20 or carrier-calculated rates stop at checkout",
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Cart Value Thresholds \u2014 $150+ triggers high-value events automatically",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Quiz Flow Tracking \u2014 Monitor completion via `data-quiz-step` attributes",
     "category": "check",
-    "bot": "crm"
+    "bot": "gemma"
   },
   {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Hetal Retail investor update: \u2014 Strong March \u2014 >$400k FFARR, Q1 ~$1.35M (beat $1.26M stretch goal). Curious abou",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Nicole Baqai (LookUp) \u2014 MALKA launch: \u2014 Investor update announcing new brand \"Malka\" \u2014 elevated phone accessories. Brand",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Oscar Hellier / Big Idea Ventures \u2014 Series A pitch: \u2014 BioBond (petroleum-free adhesives) & TerraSafe (biomaterials). Attached one-page",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Robinhood \u2014 crypto monthly statement available (routine)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Email Scan \u2014 12:00 PM ET",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "United Airlines \u2014 Troy's flight booked (B7QQBS): \u2014 EWR \u2192 Houston \u2192 Palm Springs, Thu Apr 9, United First. Troy is flying out Thursd",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Shopify \u2014 ACTION REQUIRED: \u2014 Reconnect FedEx account by April 20 or carrier-calculated rates stop at checkout",
-    "category": "check",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Hetal Retail investor update: \u2014 Strong March \u2014 >$400k FFARR, Q1 ~$1.35M (beat $1.26M stretch goal). Curious abou",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Nicole Baqai (LookUp) \u2014 MALKA launch: \u2014 Investor update announcing new brand \"Malka\" \u2014 elevated phone accessories. Brand",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Oscar Hellier / Big Idea Ventures \u2014 Series A pitch: \u2014 BioBond (petroleum-free adhesives) & TerraSafe (biomaterials). Attached one-page",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Robinhood \u2014 crypto monthly statement available (routine)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Email Scan \u2014 12:00 PM ET",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "United Airlines \u2014 Troy's flight booked (B7QQBS): \u2014 EWR \u2192 Houston \u2192 Palm Springs, Thu Apr 9, United First. Troy is flying out Thursd",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Shopify \u2014 ACTION REQUIRED: \u2014 Reconnect FedEx account by April 20 or carrier-calculated rates stop at checkout",
-    "category": "check",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Hetal Retail investor update: \u2014 Strong March \u2014 >$400k FFARR, Q1 ~$1.35M (beat $1.26M stretch goal). Curious abou",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Nicole Baqai (LookUp) \u2014 MALKA launch: \u2014 Investor update announcing new brand \"Malka\" \u2014 elevated phone accessories. Brand",
-    "category": "deploy",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Oscar Hellier / Big Idea Ventures \u2014 Series A pitch: \u2014 BioBond (petroleum-free adhesives) & TerraSafe (biomaterials). Attached one-page",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Robinhood \u2014 crypto monthly statement available (routine)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Email Scan \u2014 12:00 PM ET",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "United Airlines \u2014 Troy's flight booked (B7QQBS): \u2014 EWR \u2192 Houston \u2192 Palm Springs, Thu Apr 9, United First. Troy is flying out Thursd",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Shopify \u2014 ACTION REQUIRED: \u2014 Reconnect FedEx account by April 20 or carrier-calculated rates stop at checkout",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Hetal Retail investor update: \u2014 Strong March \u2014 >$400k FFARR, Q1 ~$1.35M (beat $1.26M stretch goal). Curious abou",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Nicole Baqai (LookUp) \u2014 MALKA launch: \u2014 Investor update announcing new brand \"Malka\" \u2014 elevated phone accessories. Brand",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Oscar Hellier / Big Idea Ventures \u2014 Series A pitch: \u2014 BioBond (petroleum-free adhesives) & TerraSafe (biomaterials). Attached one-page",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Robinhood \u2014 crypto monthly statement available (routine)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Email Scan \u2014 4:00 PM ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Troy Osinoff \u2192 Mesh (Cumulus Coffee) & Gulshan (Swishables): \u2014 Intro email connecting the two founders to discuss retail strategies. Troy calli",
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Lead Capture Detection \u2014 Auto-detect email/phone submissions",
     "category": "outbound",
-    "bot": "crm"
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Platform Pixel Orchestration \u2014 One Sharmlytics script manages all pixels",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Real-time Monitoring \u2014 Cart changes, form interactions, behavioral triggers",
+    "category": "check",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Marketing Homepage Transformation \u2705 \u2014 MAJOR MILESTONE",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Problem/Solution Narrative \u2014 Opens with iOS 14.5 attribution pain, not features",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Quantified Pain Points \u2014 $500K-$2M wasted ad spend annually for $5M+ ARR brands",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Authority Positioning \u2014 AG1 scale story ($100M \u2192 $300M ARR) prominently featured",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Concrete Case Study \u2014 Supplement brand results ($2.1M \u2192 $3.8M ARR, +40% ROAS)",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Social Proof \u2014 100+ DTC brands using Sharmlytics",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Multiple CTAs \u2014 Start Free Trial, View Demo Dashboard, See Case Study",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "~5x more content \u2014 than basic feature page",
+    "category": "content",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Emotional journey \u2014 Pain \u2192 Solution \u2192 Authority \u2192 Proof",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "DTC-specific messaging \u2014 throughout (no generic analytics speak)",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Conversion optimization \u2014 Multiple paths to trial, objection handling",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Requested marketing-focused homepage \u2014 like advertorials.nik.co \u2705 ATTEMPTED",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Homepage Approach Correction \u2014 CRITICAL LEARNING",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "DEPLOYMENT ISSUE \u2014 ONGOING",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "GitHub \u2014 Latest clean homepage in main branch (commits dee2bf4, 0416e2a)",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Live Site \u2014 Still showing old complex version with Install/Features/API nav",
+    "category": "infra",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Suspected Issue \u2014 Vercel deployment lag or Next.js build cache",
+    "category": "deploy",
+    "bot": "gemma"
   },
   {
     "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Nik \u2192 Sumukh Setty (Front Row Health) re: Swishables: \u2014 Nik asked if Swishables qualifies for Front Row's Clinician's Choice badge. Sumu",
+    "action": "Slack Digest \u2014 9:00 AM ET",
     "category": "other",
     "bot": "crm"
   },
   {
     "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Shopify \u2014 legacy customer accounts deprecated: \u2014 Legacy accounts no longer receive updates/support. Final sunset TBD. May affect ",
+    "action": "Slack Digest \u2014 9:00 AM ET",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Slack Digest \u2014 9:00 AM ET",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Slack Digest \u2014 9:00 AM ET",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Email Scan \u2014 12:00 PM ET",
     "category": "other",
     "bot": "crm"
   },
   {
     "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Email Scan \u2014 4:00 PM ET",
+    "action": "United Airlines \u2014 Troy's flight booked (B7QQBS): \u2014 EWR \u2192 Houston \u2192 Palm Springs, Thu Apr 9, United First. Troy is flying out Thursd",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Shopify \u2014 ACTION REQUIRED: \u2014 Reconnect FedEx account by April 20 or carrier-calculated rates stop at checkout",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Hetal Retail investor update: \u2014 Strong March \u2014 >$400k FFARR, Q1 ~$1.35M (beat $1.26M stretch goal). Curious abou",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Nicole Baqai (LookUp) \u2014 MALKA launch: \u2014 Investor update announcing new brand \"Malka\" \u2014 elevated phone accessories. Brand",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Oscar Hellier / Big Idea Ventures \u2014 Series A pitch: \u2014 BioBond (petroleum-free adhesives) & TerraSafe (biomaterials). Attached one-page",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Robinhood \u2014 crypto monthly statement available (routine)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Email Scan \u2014 12:00 PM ET",
     "category": "other",
     "bot": "macra"
   },
   {
     "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Troy Osinoff \u2192 Mesh (Cumulus Coffee) & Gulshan (Swishables): \u2014 Intro email connecting the two founders to discuss retail strategies. Troy calli",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Nik \u2192 Sumukh Setty (Front Row Health) re: Swishables: \u2014 Nik asked if Swishables qualifies for Front Row's Clinician's Choice badge. Sumu",
+    "action": "United Airlines \u2014 Troy's flight booked (B7QQBS): \u2014 EWR \u2192 Houston \u2192 Palm Springs, Thu Apr 9, United First. Troy is flying out Thursd",
     "category": "other",
     "bot": "macra"
   },
   {
     "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Shopify \u2014 legacy customer accounts deprecated: \u2014 Legacy accounts no longer receive updates/support. Final sunset TBD. May affect ",
+    "action": "Shopify \u2014 ACTION REQUIRED: \u2014 Reconnect FedEx account by April 20 or carrier-calculated rates stop at checkout",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-07T12:00:00-04:00",
+    "action": "Hetal Retail investor update: \u2014 Strong March \u2014 >$400k FFARR, Q1 ~$1.35M (beat $1.26M stretch goal). Curious abou",
     "category": "other",
     "bot": "macra"
   },
   {
     "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Email Scan \u2014 4:00 PM ET",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Troy Osinoff \u2192 Mesh (Cumulus Coffee) & Gulshan (Swishables): \u2014 Intro email connecting the two founders to discuss retail strategies. Troy calli",
-    "category": "outbound",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Nik \u2192 Sumukh Setty (Front Row Health) re: Swishables: \u2014 Nik asked if Swishables qualifies for Front Row's Clinician's Choice badge. Sumu",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Shopify \u2014 legacy customer accounts deprecated: \u2014 Legacy accounts no longer receive updates/support. Final sunset TBD. May affect ",
-    "category": "other",
-    "bot": "printingpress"
+    "action": "Nicole Baqai (LookUp) \u2014 MALKA launch: \u2014 Investor update announcing new brand \"Malka\" \u2014 elevated phone accessories. Brand",
+    "category": "deploy",
+    "bot": "macra"
   }
 ]
