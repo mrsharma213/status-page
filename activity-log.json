@@ -1104,6 +1104,48 @@
     "bot": "gemma"
   },
   {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "DEPLOYMENT ISSUE \u2014 RESOLVED \u2705",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Homepage Content \u2014 Shows \"DTC analytics that actually understand e-commerce operations\"",
+    "category": "content",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Founder Section \u2014 Displays \"Former head of growth at Athletic Greens (AG1)\"",
+    "category": "research",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Navigation \u2014 NO complex navigation (Install/Features/API removed)",
+    "category": "fix",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "CTAs \u2014 \"Start Free Trial\" + \"View Demo\" working",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Branding \u2014 Clean \"Sharmlytics\" title prominently featured",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Phase 2 Features \u2014 Enhanced pixel script still functional at /api/pixel.js",
+    "category": "infra",
+    "bot": "gemma"
+  },
+  {
     "ts": "2026-04-07T12:00:00-04:00",
     "action": "Slack Digest \u2014 9:00 AM ET",
     "category": "other",
@@ -1156,47 +1198,5 @@
     "action": "Nicole Baqai (LookUp) \u2014 MALKA launch: \u2014 Investor update announcing new brand \"Malka\" \u2014 elevated phone accessories. Brand",
     "category": "deploy",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Oscar Hellier / Big Idea Ventures \u2014 Series A pitch: \u2014 BioBond (petroleum-free adhesives) & TerraSafe (biomaterials). Attached one-page",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Robinhood \u2014 crypto monthly statement available (routine)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Email Scan \u2014 12:00 PM ET",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "United Airlines \u2014 Troy's flight booked (B7QQBS): \u2014 EWR \u2192 Houston \u2192 Palm Springs, Thu Apr 9, United First. Troy is flying out Thursd",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Shopify \u2014 ACTION REQUIRED: \u2014 Reconnect FedEx account by April 20 or carrier-calculated rates stop at checkout",
-    "category": "check",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Hetal Retail investor update: \u2014 Strong March \u2014 >$400k FFARR, Q1 ~$1.35M (beat $1.26M stretch goal). Curious abou",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Nicole Baqai (LookUp) \u2014 MALKA launch: \u2014 Investor update announcing new brand \"Malka\" \u2014 elevated phone accessories. Brand",
-    "category": "deploy",
-    "bot": "macra"
   }
 ]
