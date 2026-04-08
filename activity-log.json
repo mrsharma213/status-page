@@ -264,6 +264,390 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Slack Scan \u2014 1:01 PM",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "#nik-airoasis \u2014 Derek shared a Google Drive folder link, asked to confirm access. Low-priority.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Overnight Work (1-2 AM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Problem: \u2014 GitHub Pages SSL provisioning failed/stuck for all 3 sites (returned 000 on HTTP",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Fix: \u2014 Switched all 3 back to Vercel immediately. DNS reverted to `cname.vercel-dns.com",
+    "category": "fix",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Lesson: \u2014 GitHub Pages SSL provisioning too slow/unreliable for multiple custom domains. K",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Translator Upgrade (translate.nik.co)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Air Oasis Call Recap (11:30 AM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Nik owes: \u2014 Font pairing mockup to Derek today, sidebar with Derek before Friday, mold graph",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Pre-Call Brief Cron Issue",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Sentinel Morning Audit",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Infrastructure State",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "GitHub Pages (7): \u2014 dash, built, status, pp (all \u2705), flexpower/vc/learnings (repos exist but serving",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Vercel (5): \u2014 translate, pixel, flexpower, vc, learnings",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Manus (19): \u2014 all project demos, untouched",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Orphaned DNS deleted: \u2014 go.nik.co, travel.nik.co",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Slack Scan \u2014 1:01 PM",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "#nik-airoasis \u2014 Derek shared a Google Drive folder link, asked to confirm access. Low-priority.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Overnight Work (1-2 AM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Problem: \u2014 GitHub Pages SSL provisioning failed/stuck for all 3 sites (returned 000 on HTTP",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Fix: \u2014 Switched all 3 back to Vercel immediately. DNS reverted to `cname.vercel-dns.com",
+    "category": "fix",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Lesson: \u2014 GitHub Pages SSL provisioning too slow/unreliable for multiple custom domains. K",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Translator Upgrade (translate.nik.co)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Air Oasis Call Recap (11:30 AM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Nik owes: \u2014 Font pairing mockup to Derek today, sidebar with Derek before Friday, mold graph",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Pre-Call Brief Cron Issue",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Sentinel Morning Audit",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Infrastructure State",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "GitHub Pages (7): \u2014 dash, built, status, pp (all \u2705), flexpower/vc/learnings (repos exist but serving",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Vercel (5): \u2014 translate, pixel, flexpower, vc, learnings",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Manus (19): \u2014 all project demos, untouched",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Orphaned DNS deleted: \u2014 go.nik.co, travel.nik.co",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Slack Scan \u2014 1:01 PM",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "#nik-airoasis \u2014 Derek shared a Google Drive folder link, asked to confirm access. Low-priority.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Overnight Work (1-2 AM)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Problem: \u2014 GitHub Pages SSL provisioning failed/stuck for all 3 sites (returned 000 on HTTP",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Fix: \u2014 Switched all 3 back to Vercel immediately. DNS reverted to `cname.vercel-dns.com",
+    "category": "fix",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Lesson: \u2014 GitHub Pages SSL provisioning too slow/unreliable for multiple custom domains. K",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Translator Upgrade (translate.nik.co)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Air Oasis Call Recap (11:30 AM)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Nik owes: \u2014 Font pairing mockup to Derek today, sidebar with Derek before Friday, mold graph",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Pre-Call Brief Cron Issue",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Sentinel Morning Audit",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Infrastructure State",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "GitHub Pages (7): \u2014 dash, built, status, pp (all \u2705), flexpower/vc/learnings (repos exist but serving",
+    "category": "content",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Vercel (5): \u2014 translate, pixel, flexpower, vc, learnings",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Manus (19): \u2014 all project demos, untouched",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Orphaned DNS deleted: \u2014 go.nik.co, travel.nik.co",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Slack Scan \u2014 1:01 PM",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "#nik-airoasis \u2014 Derek shared a Google Drive folder link, asked to confirm access. Low-priority.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Overnight Work (1-2 AM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Problem: \u2014 GitHub Pages SSL provisioning failed/stuck for all 3 sites (returned 000 on HTTP",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Fix: \u2014 Switched all 3 back to Vercel immediately. DNS reverted to `cname.vercel-dns.com",
+    "category": "fix",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Lesson: \u2014 GitHub Pages SSL provisioning too slow/unreliable for multiple custom domains. K",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Translator Upgrade (translate.nik.co)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Air Oasis Call Recap (11:30 AM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Nik owes: \u2014 Font pairing mockup to Derek today, sidebar with Derek before Friday, mold graph",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Pre-Call Brief Cron Issue",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Sentinel Morning Audit",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Infrastructure State",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "GitHub Pages (7): \u2014 dash, built, status, pp (all \u2705), flexpower/vc/learnings (repos exist but serving",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Vercel (5): \u2014 translate, pixel, flexpower, vc, learnings",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Manus (19): \u2014 all project demos, untouched",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-08T12:00:00-04:00",
+    "action": "Orphaned DNS deleted: \u2014 go.nik.co, travel.nik.co",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-07T12:00:00-04:00",
     "action": "Slack Digest \u2014 9:00 AM ET",
     "category": "other",
@@ -814,389 +1198,5 @@
     "action": "Evening Session \u2014 Infrastructure & Bot Fleet",
     "category": "other",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "dash.nik.co Overhaul \u2014 Nik's Direction (10:55 PM)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "dash.nik.co Overhaul \u2014 Nik's Direction (10:55 PM)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "dash.nik.co Overhaul \u2014 Nik's Direction (10:55 PM)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "dash.nik.co Overhaul \u2014 Nik's Direction (10:55 PM)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-06T7:00:00-04:00",
-    "action": "Operating Principles Locked In",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-06T7:00:00-04:00",
-    "action": "Peptides",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-06T7:00:00-04:00",
-    "action": "Still Pending",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-06T7:00:00-04:00",
-    "action": "Operating Principles Locked In",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T7:00:00-04:00",
-    "action": "Peptides",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T7:00:00-04:00",
-    "action": "Still Pending",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T7:00:00-04:00",
-    "action": "Operating Principles Locked In",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T7:00:00-04:00",
-    "action": "Peptides",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T7:00:00-04:00",
-    "action": "Still Pending",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T7:00:00-04:00",
-    "action": "Operating Principles Locked In",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-06T7:00:00-04:00",
-    "action": "Peptides",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-06T7:00:00-04:00",
-    "action": "Still Pending",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-06T7:00:00-04:00",
-    "action": "YouTube Transcript (KifnZpGDxfs) \u2014 Still Blocked",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T7:00:00-04:00",
-    "action": "YouTube Transcript (KifnZpGDxfs) \u2014 Still Blocked",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T7:00:00-04:00",
-    "action": "YouTube Transcript (KifnZpGDxfs) \u2014 Still Blocked",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-06T7:00:00-04:00",
-    "action": "YouTube Transcript (KifnZpGDxfs) \u2014 Still Blocked",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-06T6:30:00-04:00",
-    "action": "Newsletter Archive & Style Guide Rebuild",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-06T6:30:00-04:00",
-    "action": "Nik flagged: \u2014 17 newsletters is nowhere near enough. Limited Supply has 500+ editions. Need Gm",
-    "category": "reminder",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-06T6:30:00-04:00",
-    "action": "Lesson: \u2014 Always question sample size. 17/500+ is unacceptable for reverse-engineering a w",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-06T6:30:00-04:00",
-    "action": "Manager Bot \u2192 Sentinel Built",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-06T6:30:00-04:00",
-    "action": "Newsletter Archive & Style Guide Rebuild",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T6:30:00-04:00",
-    "action": "Nik flagged: \u2014 17 newsletters is nowhere near enough. Limited Supply has 500+ editions. Need Gm",
-    "category": "reminder",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T6:30:00-04:00",
-    "action": "Lesson: \u2014 Always question sample size. 17/500+ is unacceptable for reverse-engineering a w",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T6:30:00-04:00",
-    "action": "Manager Bot \u2192 Sentinel Built",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T6:30:00-04:00",
-    "action": "Newsletter Archive & Style Guide Rebuild",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T6:30:00-04:00",
-    "action": "Nik flagged: \u2014 17 newsletters is nowhere near enough. Limited Supply has 500+ editions. Need Gm",
-    "category": "reminder",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T6:30:00-04:00",
-    "action": "Lesson: \u2014 Always question sample size. 17/500+ is unacceptable for reverse-engineering a w",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T6:30:00-04:00",
-    "action": "Manager Bot \u2192 Sentinel Built",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T6:30:00-04:00",
-    "action": "Newsletter Archive & Style Guide Rebuild",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-06T6:30:00-04:00",
-    "action": "Nik flagged: \u2014 17 newsletters is nowhere near enough. Limited Supply has 500+ editions. Need Gm",
-    "category": "reminder",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-06T6:30:00-04:00",
-    "action": "Lesson: \u2014 Always question sample size. 17/500+ is unacceptable for reverse-engineering a w",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-06T6:30:00-04:00",
-    "action": "Manager Bot \u2192 Sentinel Built",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Remy Liebersohn \u2014 (refuge.nyc) accepted **Zurp x Refuge** video call \u2014 Wed Apr 8, 4:00\u20134:30 PM EDT",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Rahul Hettiarachchi \u2014 (yo.vc) also accepted same Zurp x Refuge call.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Andrew Ferenci \u2014 (Comrad Socks) \u2014 wants to catch up, working on something new. Rameez proposed ti",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Lindsey Walther \u2014 (human.vc) \u2014 RSVP confirmation for \"Human Attention @ Night\" event.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Costco \u2014 order pickup notification (personal, skipped).",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Remy Liebersohn \u2014 (refuge.nyc) accepted **Zurp x Refuge** video call \u2014 Wed Apr 8, 4:00\u20134:30 PM EDT",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Rahul Hettiarachchi \u2014 (yo.vc) also accepted same Zurp x Refuge call.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Andrew Ferenci \u2014 (Comrad Socks) \u2014 wants to catch up, working on something new. Rameez proposed ti",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Lindsey Walther \u2014 (human.vc) \u2014 RSVP confirmation for \"Human Attention @ Night\" event.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Costco \u2014 order pickup notification (personal, skipped).",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Remy Liebersohn \u2014 (refuge.nyc) accepted **Zurp x Refuge** video call \u2014 Wed Apr 8, 4:00\u20134:30 PM EDT",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Rahul Hettiarachchi \u2014 (yo.vc) also accepted same Zurp x Refuge call.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Andrew Ferenci \u2014 (Comrad Socks) \u2014 wants to catch up, working on something new. Rameez proposed ti",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Lindsey Walther \u2014 (human.vc) \u2014 RSVP confirmation for \"Human Attention @ Night\" event.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Costco \u2014 order pickup notification (personal, skipped).",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Remy Liebersohn \u2014 (refuge.nyc) accepted **Zurp x Refuge** video call \u2014 Wed Apr 8, 4:00\u20134:30 PM EDT",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Rahul Hettiarachchi \u2014 (yo.vc) also accepted same Zurp x Refuge call.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Andrew Ferenci \u2014 (Comrad Socks) \u2014 wants to catch up, working on something new. Rameez proposed ti",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Lindsey Walther \u2014 (human.vc) \u2014 RSVP confirmation for \"Human Attention @ Night\" event.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-06T6:00:00-04:00",
-    "action": "Costco \u2014 order pickup notification (personal, skipped).",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-06T2:00:00-04:00",
-    "action": "Rahul Hettiarachchi \u2014 (yo.vc) accepted **Zurp x Refuge** video call \u2014 Wed Apr 8, 3:00\u20133:30 PM EDT.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-06T2:00:00-04:00",
-    "action": "Left Lane meeting \u2014 Kristina Igoe rescheduled Nik/Troy <> Left Lane in-person meeting AGAIN from 4/8",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-06T2:00:00-04:00",
-    "action": "Jeff Katz (Roku) \u2014 posted LinkedIn about his Limited Supply podcast appearance. FYI only.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-06T2:00:00-04:00",
-    "action": "Rahul Hettiarachchi \u2014 (yo.vc) accepted **Zurp x Refuge** video call \u2014 Wed Apr 8, 3:00\u20133:30 PM EDT.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T2:00:00-04:00",
-    "action": "Left Lane meeting \u2014 Kristina Igoe rescheduled Nik/Troy <> Left Lane in-person meeting AGAIN from 4/8",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T2:00:00-04:00",
-    "action": "Jeff Katz (Roku) \u2014 posted LinkedIn about his Limited Supply podcast appearance. FYI only.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-06T2:00:00-04:00",
-    "action": "Rahul Hettiarachchi \u2014 (yo.vc) accepted **Zurp x Refuge** video call \u2014 Wed Apr 8, 3:00\u20133:30 PM EDT.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-06T2:00:00-04:00",
-    "action": "Left Lane meeting \u2014 Kristina Igoe rescheduled Nik/Troy <> Left Lane in-person meeting AGAIN from 4/8",
-    "category": "other",
-    "bot": "printingpress"
   }
 ]
