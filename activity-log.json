@@ -552,6 +552,54 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Call Recaps (Fireflies)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Zurp rebranding green \u2192 blue \u2014 across all creatives, screens, product visuals",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Call Recaps (Fireflies)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Zurp rebranding green \u2192 blue \u2014 across all creatives, screens, product visuals",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Call Recaps (Fireflies)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Zurp rebranding green \u2192 blue \u2014 across all creatives, screens, product visuals",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Call Recaps (Fireflies)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Zurp rebranding green \u2192 blue \u2014 across all creatives, screens, product visuals",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-08T12:00:00-04:00",
     "action": "All day \u2014 Home",
     "category": "other",
@@ -1148,54 +1196,6 @@
   {
     "ts": "2026-04-08T12:00:00-04:00",
     "action": "Air Oasis Call Recap (11:30 AM)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Nik owes: \u2014 Font pairing mockup to Derek today, sidebar with Derek before Friday, mold graph",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Pre-Call Brief Cron Issue",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Sentinel Morning Audit",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Infrastructure State",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "GitHub Pages (7): \u2014 dash, built, status, pp (all \u2705), flexpower/vc/learnings (repos exist but serving",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Vercel (5): \u2014 translate, pixel, flexpower, vc, learnings",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Manus (19): \u2014 all project demos, untouched",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Orphaned DNS deleted: \u2014 go.nik.co, travel.nik.co",
     "category": "other",
     "bot": "writer"
   }
