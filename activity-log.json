@@ -336,6 +336,174 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Slack Bot Access Issue (Flagged 3:15 PM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Email Flags",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "David Jacobson (Artisan VC) \u2014 Grapevine/New Engen escrow wire coming in next 2 days. Larger escrow pending 202",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Connor Tomkies (PEF) \u2014 NY Retreat invite May 29-31. Locking group next week.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Guidepoint (Justin Stepnowski) \u2014 Expert consultation request re: Big Box/Mass Merchant. Pays for calls.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Maven (Delaney Niermann) \u2014 Confidential invitation, likely instructor/expert feature opportunity.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Cron Fixes",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Slack Bot Access Issue (Flagged 3:15 PM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Email Flags",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "David Jacobson (Artisan VC) \u2014 Grapevine/New Engen escrow wire coming in next 2 days. Larger escrow pending 202",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Connor Tomkies (PEF) \u2014 NY Retreat invite May 29-31. Locking group next week.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Guidepoint (Justin Stepnowski) \u2014 Expert consultation request re: Big Box/Mass Merchant. Pays for calls.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Maven (Delaney Niermann) \u2014 Confidential invitation, likely instructor/expert feature opportunity.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Cron Fixes",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Slack Bot Access Issue (Flagged 3:15 PM)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Email Flags",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "David Jacobson (Artisan VC) \u2014 Grapevine/New Engen escrow wire coming in next 2 days. Larger escrow pending 202",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Connor Tomkies (PEF) \u2014 NY Retreat invite May 29-31. Locking group next week.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Guidepoint (Justin Stepnowski) \u2014 Expert consultation request re: Big Box/Mass Merchant. Pays for calls.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Maven (Delaney Niermann) \u2014 Confidential invitation, likely instructor/expert feature opportunity.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Cron Fixes",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Slack Bot Access Issue (Flagged 3:15 PM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Email Flags",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "David Jacobson (Artisan VC) \u2014 Grapevine/New Engen escrow wire coming in next 2 days. Larger escrow pending 202",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Connor Tomkies (PEF) \u2014 NY Retreat invite May 29-31. Locking group next week.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Guidepoint (Justin Stepnowski) \u2014 Expert consultation request re: Big Box/Mass Merchant. Pays for calls.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Maven (Delaney Niermann) \u2014 Confidential invitation, likely instructor/expert feature opportunity.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Cron Fixes",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-08T12:00:00-04:00",
     "action": "All day \u2014 Home",
     "category": "other",
@@ -1030,173 +1198,5 @@
     "action": "Email Scan \u2014 2:00 PM",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "jet@nik.co: \u2014 Clean. No unread in last 2h.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "nik@nik.co notable:",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Joel Feldman (Greenberg Traurig) \u2014 Asked about abandoning SHARMLYTICS trademark (Class 42, owned by Sharma Brands I",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "GoDaddy renewal warning \u2014 Payment method missing/invalid on nik@sharmabrands.com GoDaddy account. Could lo",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Tyler Kelly (tennissocial.ai) \u2014 \"DocuSign\" contract/RFP sent to undisclosed-recipients via ClickUp link. Likely ",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Robinhood \u2014 Trade order executed (5-msg thread). FYI only.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Email Scan \u2014 2:00 PM",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "jet@nik.co: \u2014 Clean. No unread in last 2h.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "nik@nik.co notable:",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Joel Feldman (Greenberg Traurig) \u2014 Asked about abandoning SHARMLYTICS trademark (Class 42, owned by Sharma Brands I",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "GoDaddy renewal warning \u2014 Payment method missing/invalid on nik@sharmabrands.com GoDaddy account. Could lo",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Tyler Kelly (tennissocial.ai) \u2014 \"DocuSign\" contract/RFP sent to undisclosed-recipients via ClickUp link. Likely ",
-    "category": "outbound",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Robinhood \u2014 Trade order executed (5-msg thread). FYI only.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Email Scan \u2014 2:00 PM",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "jet@nik.co: \u2014 Clean. No unread in last 2h.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "nik@nik.co notable:",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Joel Feldman (Greenberg Traurig) \u2014 Asked about abandoning SHARMLYTICS trademark (Class 42, owned by Sharma Brands I",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "GoDaddy renewal warning \u2014 Payment method missing/invalid on nik@sharmabrands.com GoDaddy account. Could lo",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Tyler Kelly (tennissocial.ai) \u2014 \"DocuSign\" contract/RFP sent to undisclosed-recipients via ClickUp link. Likely ",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Robinhood \u2014 Trade order executed (5-msg thread). FYI only.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Tomorrow's Schedule",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Tomorrow's Schedule",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Tomorrow's Schedule",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Tomorrow's Schedule",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Session Overview",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Sharmlytics Rebrand \u2014 Phase 1 \u2705",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Domain Migration \u2014 pixel.nik.co \u2192 sharmlytics.com (all references updated)",
-    "category": "fix",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Product Name \u2014 \"Sharmlytics \u2014 DTC Analytics Platform\"",
-    "category": "other",
-    "bot": "gemma"
   }
 ]
