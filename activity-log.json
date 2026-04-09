@@ -1,5 +1,341 @@
 [
   {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "All Day \u2014 Office",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "9:45 AM \u2013 10:00 AM \u2014 Travel Time",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "10:00 AM \u2013 10:45 AM \u2014 Beard Trim",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "10:45 AM \u2013 11:00 AM \u2014 Travel Time",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "12:15 PM \u2013 1:00 PM \u2014 Travel to Airport",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "12:30 PM \u2013 1:00 PM \u2014 Monika x Nik Sharma",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "1:30 PM \u2013 2:00 PM \u2014 YoSharma Check-In",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "2:00 PM \u2013 2:30 PM \u2014 Ecom Founders TB",
+    "category": "research",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "2:30 PM \u2013 3:00 PM \u2014 Workweek x Nik",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "3:00 PM \u2013 3:30 PM \u2014 Macra TB",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "3:30 PM \u2013 4:00 PM \u2014 EXT | Lunar: Ideal Living Weekly Leadership TB (Hold)",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "4:07 PM \u2013 8:07 PM \u2014 Flight to Houston (UA 2674)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "4:30 PM \u2013 5:00 PM \u2014 PEF Group Onboarding / Shlomo PEF Group Onboarding with Shlomo Dalezman",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "8:50 PM \u2013 12:36 AM \u2014 Flight to Palm Springs (UA 6181)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "All Day \u2014 Office",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "9:45 AM \u2013 10:00 AM \u2014 Travel Time",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "10:00 AM \u2013 10:45 AM \u2014 Beard Trim",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "10:45 AM \u2013 11:00 AM \u2014 Travel Time",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "12:15 PM \u2013 1:00 PM \u2014 Travel to Airport",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "12:30 PM \u2013 1:00 PM \u2014 Monika x Nik Sharma",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "1:30 PM \u2013 2:00 PM \u2014 YoSharma Check-In",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "2:00 PM \u2013 2:30 PM \u2014 Ecom Founders TB",
+    "category": "research",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "2:30 PM \u2013 3:00 PM \u2014 Workweek x Nik",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "3:00 PM \u2013 3:30 PM \u2014 Macra TB",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "3:30 PM \u2013 4:00 PM \u2014 EXT | Lunar: Ideal Living Weekly Leadership TB (Hold)",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "4:07 PM \u2013 8:07 PM \u2014 Flight to Houston (UA 2674)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "4:30 PM \u2013 5:00 PM \u2014 PEF Group Onboarding / Shlomo PEF Group Onboarding with Shlomo Dalezman",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "8:50 PM \u2013 12:36 AM \u2014 Flight to Palm Springs (UA 6181)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "All Day \u2014 Office",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "9:45 AM \u2013 10:00 AM \u2014 Travel Time",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "10:00 AM \u2013 10:45 AM \u2014 Beard Trim",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "10:45 AM \u2013 11:00 AM \u2014 Travel Time",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "12:15 PM \u2013 1:00 PM \u2014 Travel to Airport",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "12:30 PM \u2013 1:00 PM \u2014 Monika x Nik Sharma",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "1:30 PM \u2013 2:00 PM \u2014 YoSharma Check-In",
+    "category": "check",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "2:00 PM \u2013 2:30 PM \u2014 Ecom Founders TB",
+    "category": "research",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "2:30 PM \u2013 3:00 PM \u2014 Workweek x Nik",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "3:00 PM \u2013 3:30 PM \u2014 Macra TB",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "3:30 PM \u2013 4:00 PM \u2014 EXT | Lunar: Ideal Living Weekly Leadership TB (Hold)",
+    "category": "deploy",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "4:07 PM \u2013 8:07 PM \u2014 Flight to Houston (UA 2674)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "4:30 PM \u2013 5:00 PM \u2014 PEF Group Onboarding / Shlomo PEF Group Onboarding with Shlomo Dalezman",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "8:50 PM \u2013 12:36 AM \u2014 Flight to Palm Springs (UA 6181)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "All Day \u2014 Office",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "9:45 AM \u2013 10:00 AM \u2014 Travel Time",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "10:00 AM \u2013 10:45 AM \u2014 Beard Trim",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "10:45 AM \u2013 11:00 AM \u2014 Travel Time",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "12:15 PM \u2013 1:00 PM \u2014 Travel to Airport",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "12:30 PM \u2013 1:00 PM \u2014 Monika x Nik Sharma",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "1:30 PM \u2013 2:00 PM \u2014 YoSharma Check-In",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "2:00 PM \u2013 2:30 PM \u2014 Ecom Founders TB",
+    "category": "research",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "2:30 PM \u2013 3:00 PM \u2014 Workweek x Nik",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "3:00 PM \u2013 3:30 PM \u2014 Macra TB",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "3:30 PM \u2013 4:00 PM \u2014 EXT | Lunar: Ideal Living Weekly Leadership TB (Hold)",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "4:07 PM \u2013 8:07 PM \u2014 Flight to Houston (UA 2674)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "4:30 PM \u2013 5:00 PM \u2014 PEF Group Onboarding / Shlomo PEF Group Onboarding with Shlomo Dalezman",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "8:50 PM \u2013 12:36 AM \u2014 Flight to Palm Springs (UA 6181)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-08T12:00:00-04:00",
     "action": "All day \u2014 Home",
     "category": "other",
@@ -862,341 +1198,5 @@
     "action": "Product Name \u2014 \"Sharmlytics \u2014 DTC Analytics Platform\"",
     "category": "other",
     "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Hero Copy \u2014 Focused on DTC use case vs generic analytics",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Founder Section \u2014 Added Nik's AG1 background and DTC credibility",
-    "category": "research",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Metadata \u2014 Updated titles, descriptions, structured data",
-    "category": "fix",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Backward Compatibility \u2014 Kept API naming (window.nk, data-nk-track) intact",
-    "category": "infra",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Strategic Research Completed",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "DTC-focused features \u2014 Cart thresholds, quiz tracking, product performance",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Custom event orchestration \u2014 Auto-mapping to Meta/Google events",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Advanced segmentation \u2014 VIP behavior, bargain hunters, repeat customers",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Marketing channel optimization \u2014 Email/SMS attribution, influencer tracking",
-    "category": "outbound",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Operator tools \u2014 A/B testing, customer health scoring, competitive intelligence",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Next Steps Identified",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "User Feedback",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Phase 2 Complete \u2705 \u2014 Advanced DTC Features",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Custom Events Dashboard \u2014 `/dashboard/events` with DTC-focused configuration",
-    "category": "infra",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Enhanced Pixel Script \u2014 Auto-detects cart totals, quiz steps, form captures",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Platform Event Mapping \u2014 Auto-fire Meta, Google, TikTok events based on triggers",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Database Schema \u2014 `custom_events` table with migration completed",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "API Infrastructure \u2014 Full CRUD for custom events + pixel configuration endpoint",
-    "category": "infra",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Cart Value Thresholds \u2014 $150+ triggers high-value events automatically",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Quiz Flow Tracking \u2014 Monitor completion via `data-quiz-step` attributes",
-    "category": "check",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Lead Capture Detection \u2014 Auto-detect email/phone submissions",
-    "category": "outbound",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Platform Pixel Orchestration \u2014 One Sharmlytics script manages all pixels",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Real-time Monitoring \u2014 Cart changes, form interactions, behavioral triggers",
-    "category": "check",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Marketing Homepage Transformation \u2705 \u2014 MAJOR MILESTONE",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Problem/Solution Narrative \u2014 Opens with iOS 14.5 attribution pain, not features",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Quantified Pain Points \u2014 $500K-$2M wasted ad spend annually for $5M+ ARR brands",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Authority Positioning \u2014 AG1 scale story ($100M \u2192 $300M ARR) prominently featured",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Concrete Case Study \u2014 Supplement brand results ($2.1M \u2192 $3.8M ARR, +40% ROAS)",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Social Proof \u2014 100+ DTC brands using Sharmlytics",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Multiple CTAs \u2014 Start Free Trial, View Demo Dashboard, See Case Study",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "~5x more content \u2014 than basic feature page",
-    "category": "content",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Emotional journey \u2014 Pain \u2192 Solution \u2192 Authority \u2192 Proof",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "DTC-specific messaging \u2014 throughout (no generic analytics speak)",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Conversion optimization \u2014 Multiple paths to trial, objection handling",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Requested marketing-focused homepage \u2014 like advertorials.nik.co \u2705 ATTEMPTED",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Homepage Approach Correction \u2014 CRITICAL LEARNING",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "DEPLOYMENT ISSUE \u2014 ONGOING",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "GitHub \u2014 Latest clean homepage in main branch (commits dee2bf4, 0416e2a)",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Live Site \u2014 Still showing old complex version with Install/Features/API nav",
-    "category": "infra",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Suspected Issue \u2014 Vercel deployment lag or Next.js build cache",
-    "category": "deploy",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "DEPLOYMENT ISSUE \u2014 RESOLVED \u2705",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Homepage Content \u2014 Shows \"DTC analytics that actually understand e-commerce operations\"",
-    "category": "content",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Founder Section \u2014 Displays \"Former head of growth at Athletic Greens (AG1)\"",
-    "category": "research",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Navigation \u2014 NO complex navigation (Install/Features/API removed)",
-    "category": "fix",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "CTAs \u2014 \"Start Free Trial\" + \"View Demo\" working",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Branding \u2014 Clean \"Sharmlytics\" title prominently featured",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Phase 2 Features \u2014 Enhanced pixel script still functional at /api/pixel.js",
-    "category": "infra",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Slack Digest \u2014 9:00 AM ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Slack Digest \u2014 9:00 AM ET",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Slack Digest \u2014 9:00 AM ET",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Slack Digest \u2014 9:00 AM ET",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Email Scan \u2014 12:00 PM ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "United Airlines \u2014 Troy's flight booked (B7QQBS): \u2014 EWR \u2192 Houston \u2192 Palm Springs, Thu Apr 9, United First. Troy is flying out Thursd",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Shopify \u2014 ACTION REQUIRED: \u2014 Reconnect FedEx account by April 20 or carrier-calculated rates stop at checkout",
-    "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Hetal Retail investor update: \u2014 Strong March \u2014 >$400k FFARR, Q1 ~$1.35M (beat $1.26M stretch goal). Curious abou",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-07T12:00:00-04:00",
-    "action": "Nicole Baqai (LookUp) \u2014 MALKA launch: \u2014 Investor update announcing new brand \"Malka\" \u2014 elevated phone accessories. Brand",
-    "category": "deploy",
-    "bot": "crm"
   }
 ]
