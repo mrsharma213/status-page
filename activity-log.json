@@ -858,6 +858,54 @@
     "bot": "gemma"
   },
   {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Pre-Compaction Flush \u2014 10:19 PM ET",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "After Ours \u2014 GM Role (10:20 PM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Pre-Compaction Flush \u2014 10:19 PM ET",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "After Ours \u2014 GM Role (10:20 PM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Pre-Compaction Flush \u2014 10:19 PM ET",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "After Ours \u2014 GM Role (10:20 PM)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Pre-Compaction Flush \u2014 10:19 PM ET",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "After Ours \u2014 GM Role (10:20 PM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-08T12:00:00-04:00",
     "action": "All day \u2014 Home",
     "category": "other",
@@ -1149,54 +1197,6 @@
     "ts": "2026-04-08T12:00:00-04:00",
     "action": "Fix: \u2014 Switched all 3 back to Vercel immediately. DNS reverted to `cname.vercel-dns.com",
     "category": "fix",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Lesson: \u2014 GitHub Pages SSL provisioning too slow/unreliable for multiple custom domains. K",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Translator Upgrade (translate.nik.co)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Air Oasis Call Recap (11:30 AM)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Nik owes: \u2014 Font pairing mockup to Derek today, sidebar with Derek before Friday, mold graph",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Pre-Call Brief Cron Issue",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Sentinel Morning Audit",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Infrastructure State",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "GitHub Pages (7): \u2014 dash, built, status, pp (all \u2705), flexpower/vc/learnings (repos exist but serving",
-    "category": "content",
     "bot": "crm"
   }
 ]
