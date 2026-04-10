@@ -768,6 +768,96 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Slack Bot Access Issue (Flagged 3:15 PM \u2192 Partially Fixed ~9 PM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Slack Bot Access Issue (Flagged 3:15 PM \u2192 Partially Fixed ~9 PM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Slack Bot Access Issue (Flagged 3:15 PM \u2192 Partially Fixed ~9 PM)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Slack Bot Access Issue (Flagged 3:15 PM \u2192 Partially Fixed ~9 PM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Sharmlytics Homepage Crisis Resolution",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "CRITICAL ISSUE \u2014 Sophisticated homepage deployment was failing - Vercel kept serving old cached v",
+    "category": "deploy",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "ROOT CAUSE \u2014 Next.js layout conflicts and deployment pipeline issues",
+    "category": "deploy",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "SOLUTION \u2014 Complete rewrite with proper Next.js component structure, eliminated layout conf",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "OUTCOME \u2014 Clean dtc101.com-style homepage now live at pixel.nik.co with professional navig",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "DEMO ACCESS \u2014 Updated password to \"1234\" for easy demo access to /dashboard",
+    "category": "fix",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Zurp Business Model Microsite",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "REQUEST \u2014 Turn strategy document into professional microsite at zurp-models.nik.co",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "DELIVERABLE \u2014 Complete single-page strategic analysis site with:",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "STATUS \u2014 HTML file complete, ready for deployment to zurp-models.nik.co",
+    "category": "deploy",
+    "bot": "gemma"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Technical Notes",
+    "category": "other",
+    "bot": "gemma"
+  },
+  {
     "ts": "2026-04-08T12:00:00-04:00",
     "action": "All day \u2014 Home",
     "category": "other",
@@ -1108,95 +1198,5 @@
     "action": "GitHub Pages (7): \u2014 dash, built, status, pp (all \u2705), flexpower/vc/learnings (repos exist but serving",
     "category": "content",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Vercel (5): \u2014 translate, pixel, flexpower, vc, learnings",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Manus (19): \u2014 all project demos, untouched",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Orphaned DNS deleted: \u2014 go.nik.co, travel.nik.co",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Slack Scan \u2014 1:01 PM",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "#nik-airoasis \u2014 Derek shared a Google Drive folder link, asked to confirm access. Low-priority.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Overnight Work (1-2 AM)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Problem: \u2014 GitHub Pages SSL provisioning failed/stuck for all 3 sites (returned 000 on HTTP",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Fix: \u2014 Switched all 3 back to Vercel immediately. DNS reverted to `cname.vercel-dns.com",
-    "category": "fix",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Lesson: \u2014 GitHub Pages SSL provisioning too slow/unreliable for multiple custom domains. K",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Translator Upgrade (translate.nik.co)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Air Oasis Call Recap (11:30 AM)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Nik owes: \u2014 Font pairing mockup to Derek today, sidebar with Derek before Friday, mold graph",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Pre-Call Brief Cron Issue",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Sentinel Morning Audit",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Infrastructure State",
-    "category": "other",
-    "bot": "macra"
   }
 ]
