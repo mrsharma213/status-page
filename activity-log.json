@@ -1,5 +1,53 @@
 [
   {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "Slack Digest \u2014 1:15 PM",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "ACTION NEEDED: \u2014 Invite @jetreader bot to key Slack channels (all-nikco, nik-lovewellness, yoshar",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "Slack Digest \u2014 1:15 PM",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "ACTION NEEDED: \u2014 Invite @jetreader bot to key Slack channels (all-nikco, nik-lovewellness, yoshar",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "Slack Digest \u2014 1:15 PM",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "ACTION NEEDED: \u2014 Invite @jetreader bot to key Slack channels (all-nikco, nik-lovewellness, yoshar",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "Slack Digest \u2014 1:15 PM",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "ACTION NEEDED: \u2014 Invite @jetreader bot to key Slack channels (all-nikco, nik-lovewellness, yoshar",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-09T12:00:00-04:00",
     "action": "All Day \u2014 Office",
     "category": "other",
@@ -1150,53 +1198,5 @@
     "action": "Bot Scope Isolation Rule (Permanent)",
     "category": "other",
     "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Troy Paired with Bots",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "After Ours \u2014 Full Context Dump from Nik (10:27 PM)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "\"Future Classic\" \u2014 next release, dropping April 17th",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "April 17 \u2014 Y Combinator launch party (private event, DJing for a new magazine launch)",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "April 18 \u2014 Somewhere Nowhere NYC, opening for Moojo",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Minul \u2014 label boss, release dates, distribution, pipeline",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Paul Campbell \u2014 manager (N\u00dc MGMT)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Tristin \u2014 N\u00dc MGMT team (tristin@numgmt.net)",
-    "category": "other",
-    "bot": "writer"
   }
 ]
