@@ -240,6 +240,78 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "Changes made:",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "Jet Status bot: \u2014 Nik will create a new Telegram bot called \"Jet Status\" \u2014 once he provides the to",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "Rule: Jet main chat = only things requiring Nik's input or direct responses to him",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "Changes made:",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "Jet Status bot: \u2014 Nik will create a new Telegram bot called \"Jet Status\" \u2014 once he provides the to",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "Rule: Jet main chat = only things requiring Nik's input or direct responses to him",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "Changes made:",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "Jet Status bot: \u2014 Nik will create a new Telegram bot called \"Jet Status\" \u2014 once he provides the to",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "Rule: Jet main chat = only things requiring Nik's input or direct responses to him",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "Changes made:",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "Jet Status bot: \u2014 Nik will create a new Telegram bot called \"Jet Status\" \u2014 once he provides the to",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-10T12:00:00-04:00",
+    "action": "Rule: Jet main chat = only things requiring Nik's input or direct responses to him",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-09T12:00:00-04:00",
     "action": "All Day \u2014 Office",
     "category": "other",
@@ -1126,77 +1198,5 @@
     "action": "Pre-Compaction Flush \u2014 10:19 PM ET",
     "category": "other",
     "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "After Ours \u2014 GM Role (10:20 PM)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Pre-Compaction Flush \u2014 10:19 PM ET",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "After Ours \u2014 GM Role (10:20 PM)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "After Ours \u2014 Full Context Dump from Nik (10:27 PM)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "\"Future Classic\" \u2014 next release, dropping April 17th",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "April 17 \u2014 Y Combinator launch party (private event, DJing for a new magazine launch)",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "April 18 \u2014 Somewhere Nowhere NYC, opening for Moojo",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Minul \u2014 label boss, release dates, distribution, pipeline",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Paul Campbell \u2014 manager (N\u00dc MGMT)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Tristin \u2014 N\u00dc MGMT team (tristin@numgmt.net)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Brandon Launerts \u2014 social media/content (brandon@launerts.com)",
-    "category": "content",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Rameez \u2014 coordination/logistics",
-    "category": "other",
-    "bot": "crm"
   }
 ]
