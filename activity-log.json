@@ -744,6 +744,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Session Summary \u2014 Apr 9 Evening",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Session Summary \u2014 Apr 9 Evening",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Session Summary \u2014 Apr 9 Evening",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Session Summary \u2014 Apr 9 Evening",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-08T12:00:00-04:00",
     "action": "All day \u2014 Home",
     "category": "other",
@@ -1172,30 +1196,6 @@
   {
     "ts": "2026-04-08T12:00:00-04:00",
     "action": "Infrastructure State",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "GitHub Pages (7): \u2014 dash, built, status, pp (all \u2705), flexpower/vc/learnings (repos exist but serving",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Vercel (5): \u2014 translate, pixel, flexpower, vc, learnings",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Manus (19): \u2014 all project demos, untouched",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Orphaned DNS deleted: \u2014 go.nik.co, travel.nik.co",
     "category": "other",
     "bot": "macra"
   }
