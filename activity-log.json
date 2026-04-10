@@ -648,6 +648,102 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Inbound Worth Flagging",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Karen Danudjaja (Blume) \u2014 Series A fundraise, looking for strategic angels/family offices. $32M CAD rev, 4",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "MCFLY MMM \u2014 White-label Marketing Mix Models for DTC clients. $5K-15K per client. Partnershi",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "New Operating Rules \u2014 Calendar Management",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Inbound Worth Flagging",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Karen Danudjaja (Blume) \u2014 Series A fundraise, looking for strategic angels/family offices. $32M CAD rev, 4",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "MCFLY MMM \u2014 White-label Marketing Mix Models for DTC clients. $5K-15K per client. Partnershi",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "New Operating Rules \u2014 Calendar Management",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Inbound Worth Flagging",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Karen Danudjaja (Blume) \u2014 Series A fundraise, looking for strategic angels/family offices. $32M CAD rev, 4",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "MCFLY MMM \u2014 White-label Marketing Mix Models for DTC clients. $5K-15K per client. Partnershi",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "New Operating Rules \u2014 Calendar Management",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Inbound Worth Flagging",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "Karen Danudjaja (Blume) \u2014 Series A fundraise, looking for strategic angels/family offices. $32M CAD rev, 4",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "MCFLY MMM \u2014 White-label Marketing Mix Models for DTC clients. $5K-15K per client. Partnershi",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-09T12:00:00-04:00",
+    "action": "New Operating Rules \u2014 Calendar Management",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-08T12:00:00-04:00",
     "action": "All day \u2014 Home",
     "category": "other",
@@ -1102,101 +1198,5 @@
     "action": "Orphaned DNS deleted: \u2014 go.nik.co, travel.nik.co",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Slack Scan \u2014 1:01 PM",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "#nik-airoasis \u2014 Derek shared a Google Drive folder link, asked to confirm access. Low-priority.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Overnight Work (1-2 AM)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Problem: \u2014 GitHub Pages SSL provisioning failed/stuck for all 3 sites (returned 000 on HTTP",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Fix: \u2014 Switched all 3 back to Vercel immediately. DNS reverted to `cname.vercel-dns.com",
-    "category": "fix",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Lesson: \u2014 GitHub Pages SSL provisioning too slow/unreliable for multiple custom domains. K",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Translator Upgrade (translate.nik.co)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Air Oasis Call Recap (11:30 AM)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Nik owes: \u2014 Font pairing mockup to Derek today, sidebar with Derek before Friday, mold graph",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Pre-Call Brief Cron Issue",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Sentinel Morning Audit",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Infrastructure State",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "GitHub Pages (7): \u2014 dash, built, status, pp (all \u2705), flexpower/vc/learnings (repos exist but serving",
-    "category": "content",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Vercel (5): \u2014 translate, pixel, flexpower, vc, learnings",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Manus (19): \u2014 all project demos, untouched",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-08T12:00:00-04:00",
-    "action": "Orphaned DNS deleted: \u2014 go.nik.co, travel.nik.co",
-    "category": "other",
-    "bot": "printingpress"
   }
 ]
