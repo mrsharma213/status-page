@@ -192,6 +192,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "Insense x Ecom Founders \u2014 \u2705 CLOSED. DocuSign signed by Jade (Mon AM). Minul declined monthly invoicing (si",
+    "category": "research",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "Insense x Ecom Founders \u2014 \u2705 CLOSED. DocuSign signed by Jade (Mon AM). Minul declined monthly invoicing (si",
+    "category": "research",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "Insense x Ecom Founders \u2014 \u2705 CLOSED. DocuSign signed by Jade (Mon AM). Minul declined monthly invoicing (si",
+    "category": "research",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "Insense x Ecom Founders \u2014 \u2705 CLOSED. DocuSign signed by Jade (Mon AM). Minul declined monthly invoicing (si",
+    "category": "research",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-10T12:00:00-04:00",
     "action": "Slack Digest \u2014 1:15 PM",
     "category": "other",
@@ -1174,29 +1198,5 @@
     "action": "Action: \u2014 Verify any active ad creative / landing page pricing matches new structure",
     "category": "other",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Inbound Worth Flagging",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Karen Danudjaja (Blume) \u2014 Series A fundraise, looking for strategic angels/family offices. $32M CAD rev, 4",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "MCFLY MMM \u2014 White-label Marketing Mix Models for DTC clients. $5K-15K per client. Partnershi",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "New Operating Rules \u2014 Calendar Management",
-    "category": "other",
-    "bot": "crm"
   }
 ]
