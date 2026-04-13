@@ -1,5 +1,101 @@
 [
   {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "All Day \u2014 Drive to LA",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "2:00 PM \u2013 2:30 PM \u2014 Zagged All Hands (Weekly)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "4:00 PM \u2013 4:30 PM \u2014 Daily: Lunar x SB",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "6:30 PM \u2013 10:15 PM \u2014 Drive to LA",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "All Day \u2014 Drive to LA",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "2:00 PM \u2013 2:30 PM \u2014 Zagged All Hands (Weekly)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "4:00 PM \u2013 4:30 PM \u2014 Daily: Lunar x SB",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "6:30 PM \u2013 10:15 PM \u2014 Drive to LA",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "All Day \u2014 Drive to LA",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "2:00 PM \u2013 2:30 PM \u2014 Zagged All Hands (Weekly)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "4:00 PM \u2013 4:30 PM \u2014 Daily: Lunar x SB",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "6:30 PM \u2013 10:15 PM \u2014 Drive to LA",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "All Day \u2014 Drive to LA",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "2:00 PM \u2013 2:30 PM \u2014 Zagged All Hands (Weekly)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "4:00 PM \u2013 4:30 PM \u2014 Daily: Lunar x SB",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-13T12:00:00-04:00",
+    "action": "6:30 PM \u2013 10:15 PM \u2014 Drive to LA",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-10T12:00:00-04:00",
     "action": "Slack Digest \u2014 1:15 PM",
     "category": "other",
@@ -1102,101 +1198,5 @@
     "action": "Session Summary \u2014 Apr 9 Evening",
     "category": "other",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Slack Bot Access Issue (Flagged 3:15 PM \u2192 Partially Fixed ~9 PM)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Slack Bot Access Issue (Flagged 3:15 PM \u2192 Partially Fixed ~9 PM)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Slack Bot Access Issue (Flagged 3:15 PM \u2192 Partially Fixed ~9 PM)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Slack Bot Access Issue (Flagged 3:15 PM \u2192 Partially Fixed ~9 PM)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Sharmlytics Homepage Crisis Resolution",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "CRITICAL ISSUE \u2014 Sophisticated homepage deployment was failing - Vercel kept serving old cached v",
-    "category": "deploy",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "ROOT CAUSE \u2014 Next.js layout conflicts and deployment pipeline issues",
-    "category": "deploy",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "SOLUTION \u2014 Complete rewrite with proper Next.js component structure, eliminated layout conf",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "OUTCOME \u2014 Clean dtc101.com-style homepage now live at pixel.nik.co with professional navig",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "DEMO ACCESS \u2014 Updated password to \"1234\" for easy demo access to /dashboard",
-    "category": "fix",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Zurp Business Model Microsite",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "REQUEST \u2014 Turn strategy document into professional microsite at zurp-models.nik.co",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "DELIVERABLE \u2014 Complete single-page strategic analysis site with:",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "STATUS \u2014 HTML file complete, ready for deployment to zurp-models.nik.co",
-    "category": "deploy",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Technical Notes",
-    "category": "other",
-    "bot": "gemma"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "Pre-Compaction Flush \u2014 10:19 PM ET",
-    "category": "other",
-    "bot": "crm"
   }
 ]
