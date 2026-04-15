@@ -360,6 +360,54 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "MISTAKE \u2014 Sent Refuge Email Without Final Approval (9:24 PM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Rule reinforced: ALL external emails get final approval before send. Even if the body was pre-approved, any change (attachment, thread reply, etc.) means re-showing the final version. No exceptions.",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "MISTAKE \u2014 Sent Refuge Email Without Final Approval (9:24 PM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Rule reinforced: ALL external emails get final approval before send. Even if the body was pre-approved, any change (attachment, thread reply, etc.) means re-showing the final version. No exceptions.",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "MISTAKE \u2014 Sent Refuge Email Without Final Approval (9:24 PM)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Rule reinforced: ALL external emails get final approval before send. Even if the body was pre-approved, any change (attachment, thread reply, etc.) means re-showing the final version. No exceptions.",
+    "category": "outbound",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "MISTAKE \u2014 Sent Refuge Email Without Final Approval (9:24 PM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Rule reinforced: ALL external emails get final approval before send. Even if the body was pre-approved, any change (attachment, thread reply, etc.) means re-showing the final version. No exceptions.",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-13T12:00:00-04:00",
     "action": "All Day \u2014 Drive to LA",
     "category": "other",
@@ -1150,53 +1198,5 @@
     "action": "2:00 PM \u2013 2:30 PM \u2014 Ecom Founders TB",
     "category": "research",
     "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "2:30 PM \u2013 3:00 PM \u2014 Workweek x Nik",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "3:00 PM \u2013 3:30 PM \u2014 Macra TB",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "3:30 PM \u2013 4:00 PM \u2014 EXT | Lunar: Ideal Living Weekly Leadership TB (Hold)",
-    "category": "deploy",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "4:07 PM \u2013 8:07 PM \u2014 Flight to Houston (UA 2674)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "4:30 PM \u2013 5:00 PM \u2014 PEF Group Onboarding / Shlomo PEF Group Onboarding with Shlomo Dalezman",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "8:50 PM \u2013 12:36 AM \u2014 Flight to Palm Springs (UA 6181)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "All Day \u2014 Office",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "9:45 AM \u2013 10:00 AM \u2014 Travel Time",
-    "category": "other",
-    "bot": "writer"
   }
 ]
