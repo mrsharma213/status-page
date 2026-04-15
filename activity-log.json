@@ -696,6 +696,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Adversarial Copy System \u2014 APPROVED (12:46 AM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Adversarial Copy System \u2014 APPROVED (12:46 AM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Adversarial Copy System \u2014 APPROVED (12:46 AM)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Adversarial Copy System \u2014 APPROVED (12:46 AM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-13T12:00:00-04:00",
     "action": "All Day \u2014 Drive to LA",
     "category": "other",
@@ -1174,29 +1198,5 @@
     "action": "NEW RULE: \u2014 Domain renewal emails always go to Rameez, no need to ask",
     "category": "outbound",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-10T12:00:00-04:00",
-    "action": "Changes made:",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-10T12:00:00-04:00",
-    "action": "Jet Status bot: \u2014 Nik will create a new Telegram bot called \"Jet Status\" \u2014 once he provides the to",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-10T12:00:00-04:00",
-    "action": "Rule: Jet main chat = only things requiring Nik's input or direct responses to him",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-10T12:00:00-04:00",
-    "action": "Changes made:",
-    "category": "other",
-    "bot": "macra"
   }
 ]
