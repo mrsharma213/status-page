@@ -96,6 +96,78 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Slack Scan \u2014 11:15 AM",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "#nik-workweek \u2014 Rameez posted Ecom Equation VOTW Google Doc link for this week's newsletter",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Verdict: \u2014 Nothing urgent. Routine newsletter production only.",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Slack Scan \u2014 11:15 AM",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "#nik-workweek \u2014 Rameez posted Ecom Equation VOTW Google Doc link for this week's newsletter",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Verdict: \u2014 Nothing urgent. Routine newsletter production only.",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Slack Scan \u2014 11:15 AM",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "#nik-workweek \u2014 Rameez posted Ecom Equation VOTW Google Doc link for this week's newsletter",
+    "category": "content",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Verdict: \u2014 Nothing urgent. Routine newsletter production only.",
+    "category": "content",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Slack Scan \u2014 11:15 AM",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "#nik-workweek \u2014 Rameez posted Ecom Equation VOTW Google Doc link for this week's newsletter",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Verdict: \u2014 Nothing urgent. Routine newsletter production only.",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-14T12:00:00-04:00",
     "action": "Tomorrow's Schedule (pulled 9:00 PM Mon)",
     "category": "other",
@@ -1126,77 +1198,5 @@
     "action": "NEW RULE: \u2014 Domain renewal emails always go to Rameez, no need to ask",
     "category": "outbound",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-10T12:00:00-04:00",
-    "action": "Session Summary (12:00 AM \u2013 3:00 PM ET)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-10T12:00:00-04:00",
-    "action": "rollingventures.com \u2014 switched from Shopify to GitHub Pages (4 A records + www CNAME to mrsharma213.gi",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-10T12:00:00-04:00",
-    "action": "HTTPS \u2014 cert was stuck, fixed by removing/re-adding custom domain to force fresh provisi",
-    "category": "fix",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-10T12:00:00-04:00",
-    "action": "Dark mode removed \u2014 stripped all dark mode CSS from rollingventures.com after logo color issues. Lig",
-    "category": "fix",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-10T12:00:00-04:00",
-    "action": "Phase 1 complete: \u2014 51 person dossiers, 28 company pages, 12 originals, 3 templates, folder structur",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-10T12:00:00-04:00",
-    "action": "Phase 2 complete: \u2014 37 total originals, contact info enriched, cross-references audited, dream cycle",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-10T12:00:00-04:00",
-    "action": "119 total brain files \u2014 in brain/ directory",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-10T12:00:00-04:00",
-    "action": "NEW RULE: \u2014 Domain renewal emails always go to Rameez, no need to ask",
-    "category": "outbound",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-10T12:00:00-04:00",
-    "action": "Session Summary (12:00 AM \u2013 3:00 PM ET)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-10T12:00:00-04:00",
-    "action": "rollingventures.com \u2014 switched from Shopify to GitHub Pages (4 A records + www CNAME to mrsharma213.gi",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-10T12:00:00-04:00",
-    "action": "HTTPS \u2014 cert was stuck, fixed by removing/re-adding custom domain to force fresh provisi",
-    "category": "fix",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-10T12:00:00-04:00",
-    "action": "Dark mode removed \u2014 stripped all dark mode CSS from rollingventures.com after logo color issues. Lig",
-    "category": "fix",
-    "bot": "writer"
   }
 ]
