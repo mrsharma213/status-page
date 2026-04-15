@@ -312,6 +312,102 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Slack Scan \u2014 5:15 PM",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "ACCESS ISSUE: \u2014 Bot `jetreader` (U0AKAE6V3EW) is not a member of any nikco-workspace channel and",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Action needed: \u2014 Either add `channels:join` scope to the Slack app, or manually invite `@jetreade",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Verdict: \u2014 Unable to confirm channel status. No urgent items detected (by default \u2014 access ",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Slack Scan \u2014 5:15 PM",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "ACCESS ISSUE: \u2014 Bot `jetreader` (U0AKAE6V3EW) is not a member of any nikco-workspace channel and",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Action needed: \u2014 Either add `channels:join` scope to the Slack app, or manually invite `@jetreade",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Verdict: \u2014 Unable to confirm channel status. No urgent items detected (by default \u2014 access ",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Slack Scan \u2014 5:15 PM",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "ACCESS ISSUE: \u2014 Bot `jetreader` (U0AKAE6V3EW) is not a member of any nikco-workspace channel and",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Action needed: \u2014 Either add `channels:join` scope to the Slack app, or manually invite `@jetreade",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Verdict: \u2014 Unable to confirm channel status. No urgent items detected (by default \u2014 access ",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Slack Scan \u2014 5:15 PM",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "ACCESS ISSUE: \u2014 Bot `jetreader` (U0AKAE6V3EW) is not a member of any nikco-workspace channel and",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Action needed: \u2014 Either add `channels:join` scope to the Slack app, or manually invite `@jetreade",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Verdict: \u2014 Unable to confirm channel status. No urgent items detected (by default \u2014 access ",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-14T12:00:00-04:00",
     "action": "Tomorrow's Schedule (pulled 9:00 PM Mon)",
     "category": "other",
@@ -1102,101 +1198,5 @@
     "action": "Alexandra Zatarain (Eight Sleep) \u2014 still waiting on TikTok contact intro (2nd follow-up, orig Apr 6)",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "7:35 PM \u2013 8:35 PM \u2014 JSX XE1161 Thermal \u2192 Santa Monica (Troy 6A, Nik 7A)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "Oceans invoice 2wk past due \u2014 payments@oceanstalent.com, sent to nik/rameez/minul/accounting. Late fees accrui",
-    "category": "outbound",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "Insense x Ecom Founders \u2014 Jade asking re: DocuSign signer + 4 monthly invoices starting April. Minul repli",
-    "category": "research",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "Alexandra Zatarain (Eight Sleep) \u2014 still waiting on TikTok contact intro (2nd follow-up, orig Apr 6)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "7:35 PM \u2013 8:35 PM \u2014 JSX XE1161 Thermal \u2192 Santa Monica (Troy 6A, Nik 7A)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "Oceans invoice 2wk past due \u2014 payments@oceanstalent.com, sent to nik/rameez/minul/accounting. Late fees accrui",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "Insense x Ecom Founders \u2014 Jade asking re: DocuSign signer + 4 monthly invoices starting April. Minul repli",
-    "category": "research",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "Alexandra Zatarain (Eight Sleep) \u2014 still waiting on TikTok contact intro (2nd follow-up, orig Apr 6)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "Insense x Ecom Founders \u2014 \u2705 CLOSED. DocuSign signed by Jade (Mon AM). Minul declined monthly invoicing (si",
-    "category": "research",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "Insense x Ecom Founders \u2014 \u2705 CLOSED. DocuSign signed by Jade (Mon AM). Minul declined monthly invoicing (si",
-    "category": "research",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "Insense x Ecom Founders \u2014 \u2705 CLOSED. DocuSign signed by Jade (Mon AM). Minul declined monthly invoicing (si",
-    "category": "research",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "Insense x Ecom Founders \u2014 \u2705 CLOSED. DocuSign signed by Jade (Mon AM). Minul declined monthly invoicing (si",
-    "category": "research",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "Tomorrow's Schedule",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "Tomorrow's Schedule",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "Tomorrow's Schedule",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "Tomorrow's Schedule",
-    "category": "other",
-    "bot": "writer"
   }
 ]
