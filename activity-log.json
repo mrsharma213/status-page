@@ -288,6 +288,78 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Macra Product Names \u2014 FINAL (9:06 PM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Carb Mute \u2014 carb blocker (CB-628). White kidney bean, green tea, chromium.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Mood Bloom \u2014 mood booster (HP-719). Saffron, rhodiola, L-theanine.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Macra Product Names \u2014 FINAL (9:06 PM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Carb Mute \u2014 carb blocker (CB-628). White kidney bean, green tea, chromium.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Mood Bloom \u2014 mood booster (HP-719). Saffron, rhodiola, L-theanine.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Macra Product Names \u2014 FINAL (9:06 PM)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Carb Mute \u2014 carb blocker (CB-628). White kidney bean, green tea, chromium.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Mood Bloom \u2014 mood booster (HP-719). Saffron, rhodiola, L-theanine.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Macra Product Names \u2014 FINAL (9:06 PM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Carb Mute \u2014 carb blocker (CB-628). White kidney bean, green tea, chromium.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-14T12:00:00-04:00",
+    "action": "Mood Bloom \u2014 mood booster (HP-719). Saffron, rhodiola, L-theanine.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-13T12:00:00-04:00",
     "action": "All Day \u2014 Drive to LA",
     "category": "other",
@@ -1124,78 +1196,6 @@
   {
     "ts": "2026-04-09T12:00:00-04:00",
     "action": "9:45 AM \u2013 10:00 AM \u2014 Travel Time",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "10:00 AM \u2013 10:45 AM \u2014 Beard Trim",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "10:45 AM \u2013 11:00 AM \u2014 Travel Time",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "12:15 PM \u2013 1:00 PM \u2014 Travel to Airport",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "12:30 PM \u2013 1:00 PM \u2014 Monika x Nik Sharma",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "1:30 PM \u2013 2:00 PM \u2014 YoSharma Check-In",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "2:00 PM \u2013 2:30 PM \u2014 Ecom Founders TB",
-    "category": "research",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "2:30 PM \u2013 3:00 PM \u2014 Workweek x Nik",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "3:00 PM \u2013 3:30 PM \u2014 Macra TB",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "3:30 PM \u2013 4:00 PM \u2014 EXT | Lunar: Ideal Living Weekly Leadership TB (Hold)",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "4:07 PM \u2013 8:07 PM \u2014 Flight to Houston (UA 2674)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "4:30 PM \u2013 5:00 PM \u2014 PEF Group Onboarding / Shlomo PEF Group Onboarding with Shlomo Dalezman",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-09T12:00:00-04:00",
-    "action": "8:50 PM \u2013 12:36 AM \u2014 Flight to Palm Springs (UA 6181)",
     "category": "other",
     "bot": "writer"
   }
