@@ -312,6 +312,174 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Macra TB Recap (3:00 PM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Website launched today \u2014 live but minor corrections pending (images, product info, FDA disclaimers)",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Ads blocked on email \u2014 won't run until Klaviyo email templates done (1-2 weeks)",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Nik owes: \u2014 New designer for Klaviyo templates, meet with Rahul on paid media strategy",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Zurp Check-In Recap (4:30 PM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Nik visiting Refuge Saturday night \u2014 in person",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Fireflies Status",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Macra TB Recap (3:00 PM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Website launched today \u2014 live but minor corrections pending (images, product info, FDA disclaimers)",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Ads blocked on email \u2014 won't run until Klaviyo email templates done (1-2 weeks)",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Nik owes: \u2014 New designer for Klaviyo templates, meet with Rahul on paid media strategy",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Zurp Check-In Recap (4:30 PM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Nik visiting Refuge Saturday night \u2014 in person",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Fireflies Status",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Macra TB Recap (3:00 PM)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Website launched today \u2014 live but minor corrections pending (images, product info, FDA disclaimers)",
+    "category": "deploy",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Ads blocked on email \u2014 won't run until Klaviyo email templates done (1-2 weeks)",
+    "category": "outbound",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Nik owes: \u2014 New designer for Klaviyo templates, meet with Rahul on paid media strategy",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Zurp Check-In Recap (4:30 PM)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Nik visiting Refuge Saturday night \u2014 in person",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Fireflies Status",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Macra TB Recap (3:00 PM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Website launched today \u2014 live but minor corrections pending (images, product info, FDA disclaimers)",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Ads blocked on email \u2014 won't run until Klaviyo email templates done (1-2 weeks)",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Nik owes: \u2014 New designer for Klaviyo templates, meet with Rahul on paid media strategy",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Zurp Check-In Recap (4:30 PM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Nik visiting Refuge Saturday night \u2014 in person",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Fireflies Status",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-15T12:00:00-04:00",
     "action": "Tomorrow's Schedule (Wed Apr 15)",
     "category": "other",
@@ -1028,174 +1196,6 @@
   {
     "ts": "2026-04-14T12:00:00-04:00",
     "action": "Tomorrow's Schedule (pulled 9:00 PM Mon)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "\ud83c\udfa7 After Ours Sync Recap (2:00 PM ET)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "IG feed/reels: \u2014 No cheesy captions. Credible, brand-aligned voice only. Use professional imagery",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "IG stories: \u2014 Can repost TikTok-style content without captions.",
-    "category": "content",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "TikTok: \u2014 Flood it. Catchy/gimmicky captions are fine \u2014 engagement > credibility on that p",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Trial reels on IG: \u2014 Allowed as a testing ground (doesn't hit grid or existing audience).",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Saturday (Apr 18): \u2014 Nik + Troy playing NYC, set time 10 PM\u201312 AM. Professional media being arranged ",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "\ud83c\udfa7 After Ours Sync Recap (2:00 PM ET)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "IG feed/reels: \u2014 No cheesy captions. Credible, brand-aligned voice only. Use professional imagery",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "IG stories: \u2014 Can repost TikTok-style content without captions.",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "TikTok: \u2014 Flood it. Catchy/gimmicky captions are fine \u2014 engagement > credibility on that p",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Trial reels on IG: \u2014 Allowed as a testing ground (doesn't hit grid or existing audience).",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Saturday (Apr 18): \u2014 Nik + Troy playing NYC, set time 10 PM\u201312 AM. Professional media being arranged ",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "\ud83c\udfa7 After Ours Sync Recap (2:00 PM ET)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "IG feed/reels: \u2014 No cheesy captions. Credible, brand-aligned voice only. Use professional imagery",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "IG stories: \u2014 Can repost TikTok-style content without captions.",
-    "category": "content",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "TikTok: \u2014 Flood it. Catchy/gimmicky captions are fine \u2014 engagement > credibility on that p",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Trial reels on IG: \u2014 Allowed as a testing ground (doesn't hit grid or existing audience).",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Saturday (Apr 18): \u2014 Nik + Troy playing NYC, set time 10 PM\u201312 AM. Professional media being arranged ",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "\ud83c\udfa7 After Ours Sync Recap (2:00 PM ET)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "IG feed/reels: \u2014 No cheesy captions. Credible, brand-aligned voice only. Use professional imagery",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "IG stories: \u2014 Can repost TikTok-style content without captions.",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "TikTok: \u2014 Flood it. Catchy/gimmicky captions are fine \u2014 engagement > credibility on that p",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Trial reels on IG: \u2014 Allowed as a testing ground (doesn't hit grid or existing audience).",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Saturday (Apr 18): \u2014 Nik + Troy playing NYC, set time 10 PM\u201312 AM. Professional media being arranged ",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Session Context (4:00 PM flush)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Session Context (4:00 PM flush)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Session Context (4:00 PM flush)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Session Context (4:00 PM flush)",
     "category": "other",
     "bot": "writer"
   }
