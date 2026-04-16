@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Tomorrow's Schedule",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Tomorrow's Schedule",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Tomorrow's Schedule",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Tomorrow's Schedule",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-15T12:00:00-04:00",
     "action": "Tomorrow's Schedule (Wed Apr 15)",
     "category": "other",
@@ -1173,30 +1197,6 @@
     "ts": "2026-04-14T12:00:00-04:00",
     "action": "Macra: \u2014 Product names finalized: Carb Mute (CB-628) + Mood Bloom (HP-719). Launch in 2 d",
     "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Refuge email: \u2014 Sent to Remy about Zurp charger placement. MISTAKE: sent before final approval w",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Namecheap API: \u2014 Connected, tested, working.",
-    "category": "infra",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Google Docs formatting: \u2014 Standard locked in (H1\u2192H2\u2192bold inline\u2192prose). Always use --markdown --replace.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "RV weekly summary: \u2014 Compiled. Blume + Be Amazing top inbound deals.",
-    "category": "other",
     "bot": "macra"
   }
 ]
