@@ -240,6 +240,78 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Slack Scan \u2014 3:15 PM",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "nik-workweek \u2014 (1 msg): Natalie Mayr (@nataliemayr) tagged @germana and @hannasender \u2014 Postscri",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Verdict: \u2014 Nothing urgent. No direct questions to Nik, no pending decisions, no time-sensit",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Slack Scan \u2014 3:15 PM",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "nik-workweek \u2014 (1 msg): Natalie Mayr (@nataliemayr) tagged @germana and @hannasender \u2014 Postscri",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Verdict: \u2014 Nothing urgent. No direct questions to Nik, no pending decisions, no time-sensit",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Slack Scan \u2014 3:15 PM",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "nik-workweek \u2014 (1 msg): Natalie Mayr (@nataliemayr) tagged @germana and @hannasender \u2014 Postscri",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Verdict: \u2014 Nothing urgent. No direct questions to Nik, no pending decisions, no time-sensit",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Slack Scan \u2014 3:15 PM",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "nik-workweek \u2014 (1 msg): Natalie Mayr (@nataliemayr) tagged @germana and @hannasender \u2014 Postscri",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Verdict: \u2014 Nothing urgent. No direct questions to Nik, no pending decisions, no time-sensit",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-15T12:00:00-04:00",
     "action": "Tomorrow's Schedule (Wed Apr 15)",
     "category": "other",
@@ -1124,78 +1196,6 @@
   {
     "ts": "2026-04-14T12:00:00-04:00",
     "action": "Session Context (4:00 PM flush)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Google Docs Formatting Standard \u2014 Locked In (7:18 PM)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Authentiq Project (NEW \u2014 4/14)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "/learn Flush (7:21 PM ET)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Google Docs Formatting Standard \u2014 Locked In (7:18 PM)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Authentiq Project (NEW \u2014 4/14)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "/learn Flush (7:21 PM ET)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Google Docs Formatting Standard \u2014 Locked In (7:18 PM)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Authentiq Project (NEW \u2014 4/14)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "/learn Flush (7:21 PM ET)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Google Docs Formatting Standard \u2014 Locked In (7:18 PM)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Authentiq Project (NEW \u2014 4/14)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "/learn Flush (7:21 PM ET)",
     "category": "other",
     "bot": "writer"
   }
