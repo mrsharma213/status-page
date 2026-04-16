@@ -456,6 +456,246 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Email Flags",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Macra trademarks filed \u2014 Rameez sent ITU applications for Carb Mute + Mood Bloom to Greenberg Traurig (Jo",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "StreetTalk Interview \u2014 Thu Apr 23, 4:30-5 PM ET at Washington Square Park. Matt Hickman (Flickman Media",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Onward sponsorship \u2014 Josh Payne (useonward.com) asking for Workweek sponsorship deck/pricing. Austin ",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Geoffrey Huntting \u2014 Met with Jim (Tondo) for 3PL. Positive. Rameez handling.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "POPWTR \u2014 Surfaced in PEF deal flow (Kyle Widrick).",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Sterling Griffin scheduling \u2014 Rameez moved to Thursday after 3:30 PM ET.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Fireflies",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Infrastructure",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Daily Debrief (9:30 PM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Email Flags",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Macra trademarks filed \u2014 Rameez sent ITU applications for Carb Mute + Mood Bloom to Greenberg Traurig (Jo",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "StreetTalk Interview \u2014 Thu Apr 23, 4:30-5 PM ET at Washington Square Park. Matt Hickman (Flickman Media",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Onward sponsorship \u2014 Josh Payne (useonward.com) asking for Workweek sponsorship deck/pricing. Austin ",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Geoffrey Huntting \u2014 Met with Jim (Tondo) for 3PL. Positive. Rameez handling.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "POPWTR \u2014 Surfaced in PEF deal flow (Kyle Widrick).",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Sterling Griffin scheduling \u2014 Rameez moved to Thursday after 3:30 PM ET.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Fireflies",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Infrastructure",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Daily Debrief (9:30 PM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Email Flags",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Macra trademarks filed \u2014 Rameez sent ITU applications for Carb Mute + Mood Bloom to Greenberg Traurig (Jo",
+    "category": "outbound",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "StreetTalk Interview \u2014 Thu Apr 23, 4:30-5 PM ET at Washington Square Park. Matt Hickman (Flickman Media",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Onward sponsorship \u2014 Josh Payne (useonward.com) asking for Workweek sponsorship deck/pricing. Austin ",
+    "category": "deploy",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Geoffrey Huntting \u2014 Met with Jim (Tondo) for 3PL. Positive. Rameez handling.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "POPWTR \u2014 Surfaced in PEF deal flow (Kyle Widrick).",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Sterling Griffin scheduling \u2014 Rameez moved to Thursday after 3:30 PM ET.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Fireflies",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Infrastructure",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Daily Debrief (9:30 PM)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Email Flags",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Macra trademarks filed \u2014 Rameez sent ITU applications for Carb Mute + Mood Bloom to Greenberg Traurig (Jo",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "StreetTalk Interview \u2014 Thu Apr 23, 4:30-5 PM ET at Washington Square Park. Matt Hickman (Flickman Media",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Onward sponsorship \u2014 Josh Payne (useonward.com) asking for Workweek sponsorship deck/pricing. Austin ",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Geoffrey Huntting \u2014 Met with Jim (Tondo) for 3PL. Positive. Rameez handling.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "POPWTR \u2014 Surfaced in PEF deal flow (Kyle Widrick).",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Sterling Griffin scheduling \u2014 Rameez moved to Thursday after 3:30 PM ET.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Fireflies",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Infrastructure",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-15T12:00:00-04:00",
+    "action": "Daily Debrief (9:30 PM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-14T12:00:00-04:00",
     "action": "Tomorrow's Schedule (pulled 9:00 PM Mon)",
     "category": "other",
@@ -958,245 +1198,5 @@
     "action": "RV weekly summary: \u2014 Compiled. Blume + Be Amazing top inbound deals.",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Daily Debrief (compiled midnight, not delivered \u2014 quiet hours)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "After Ours: \u2014 Major creative pivot \u2014 sound direction locked, 3 tracks dropped, content strateg",
-    "category": "content",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Authentiq: \u2014 NEW project \u2014 NFC authentication for high-value goods. Google Doc created and se",
-    "category": "content",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Macra: \u2014 Product names finalized: Carb Mute (CB-628) + Mood Bloom (HP-719). Launch in 2 d",
-    "category": "deploy",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Refuge email: \u2014 Sent to Remy about Zurp charger placement. MISTAKE: sent before final approval w",
-    "category": "outbound",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Namecheap API: \u2014 Connected, tested, working.",
-    "category": "infra",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Google Docs formatting: \u2014 Standard locked in (H1\u2192H2\u2192bold inline\u2192prose). Always use --markdown --replace.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "RV weekly summary: \u2014 Compiled. Blume + Be Amazing top inbound deals.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Daily Debrief (compiled midnight, not delivered \u2014 quiet hours)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "After Ours: \u2014 Major creative pivot \u2014 sound direction locked, 3 tracks dropped, content strateg",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Authentiq: \u2014 NEW project \u2014 NFC authentication for high-value goods. Google Doc created and se",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Macra: \u2014 Product names finalized: Carb Mute (CB-628) + Mood Bloom (HP-719). Launch in 2 d",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Refuge email: \u2014 Sent to Remy about Zurp charger placement. MISTAKE: sent before final approval w",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Namecheap API: \u2014 Connected, tested, working.",
-    "category": "infra",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Google Docs formatting: \u2014 Standard locked in (H1\u2192H2\u2192bold inline\u2192prose). Always use --markdown --replace.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "RV weekly summary: \u2014 Compiled. Blume + Be Amazing top inbound deals.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Adversarial Copy System \u2014 APPROVED (12:46 AM)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Adversarial Copy System \u2014 APPROVED (12:46 AM)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Adversarial Copy System \u2014 APPROVED (12:46 AM)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Adversarial Copy System \u2014 APPROVED (12:46 AM)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "GBrain v0.10.0 Installed (2:55 AM)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "GBrain v0.10.0 Installed (2:55 AM)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "GBrain v0.10.0 Installed (2:55 AM)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "GBrain v0.10.0 Installed (2:55 AM)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "All Day \u2014 Drive to LA",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "2:00 PM \u2013 2:30 PM \u2014 Zagged All Hands (Weekly)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "4:00 PM \u2013 4:30 PM \u2014 Daily: Lunar x SB",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "6:30 PM \u2013 10:15 PM \u2014 Drive to LA",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "All Day \u2014 Drive to LA",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "2:00 PM \u2013 2:30 PM \u2014 Zagged All Hands (Weekly)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "4:00 PM \u2013 4:30 PM \u2014 Daily: Lunar x SB",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "6:30 PM \u2013 10:15 PM \u2014 Drive to LA",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "All Day \u2014 Drive to LA",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "2:00 PM \u2013 2:30 PM \u2014 Zagged All Hands (Weekly)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "4:00 PM \u2013 4:30 PM \u2014 Daily: Lunar x SB",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "6:30 PM \u2013 10:15 PM \u2014 Drive to LA",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "All Day \u2014 Drive to LA",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "2:00 PM \u2013 2:30 PM \u2014 Zagged All Hands (Weekly)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "4:00 PM \u2013 4:30 PM \u2014 Daily: Lunar x SB",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-13T12:00:00-04:00",
-    "action": "6:30 PM \u2013 10:15 PM \u2014 Drive to LA",
-    "category": "other",
-    "bot": "writer"
   }
 ]
