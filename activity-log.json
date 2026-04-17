@@ -576,6 +576,78 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Zero messages \u2014 across all channels in window.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Afternoon Session (3:15 PM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Creative Engine Build \u2014 Completed (2:39 AM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Zero messages \u2014 across all channels in window.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Afternoon Session (3:15 PM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Creative Engine Build \u2014 Completed (2:39 AM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Zero messages \u2014 across all channels in window.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Afternoon Session (3:15 PM)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Creative Engine Build \u2014 Completed (2:39 AM)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Zero messages \u2014 across all channels in window.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Afternoon Session (3:15 PM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Creative Engine Build \u2014 Completed (2:39 AM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-16T12:00:00-04:00",
     "action": "Tomorrow's Schedule",
     "category": "other",
@@ -1126,77 +1198,5 @@
     "action": "MACRA LAUNCHED \u2014 Website live. Mood Bloom + Carb Mute/Curb (name TBD). Ads blocked until Klaviyo ",
     "category": "deploy",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "LSG tax distribution \u2014 Josh Rombach needs Nik's wire instructions. Minul confirmed no change. Nik still",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Ethan Potts (PostPilot) \u2014 Asking for Tushy intro after seeing Nik's email. Warm ask, PostPilot is known ve",
-    "category": "outbound",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Macra testing thread \u2014 39 msgs, Rameez active. Launch day ops.",
-    "category": "deploy",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Paramount \u2014 $500 ad credit, code LKTTV74_SXT3, expires 6/30. Sign up at adsmanager.paramount",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Product Name Discrepancy \u2014 FLAG",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "MACRA LAUNCHED \u2014 Website live. Mood Bloom + Carb Mute/Curb (name TBD). Ads blocked until Klaviyo ",
-    "category": "deploy",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "LSG tax distribution \u2014 Josh Rombach needs Nik's wire instructions. Minul confirmed no change. Nik still",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Ethan Potts (PostPilot) \u2014 Asking for Tushy intro after seeing Nik's email. Warm ask, PostPilot is known ve",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Macra testing thread \u2014 39 msgs, Rameez active. Launch day ops.",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Paramount \u2014 $500 ad credit, code LKTTV74_SXT3, expires 6/30. Sign up at adsmanager.paramount",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Product Name Discrepancy \u2014 FLAG",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "MACRA LAUNCHED \u2014 Website live. Mood Bloom + Carb Mute/Curb (name TBD). Ads blocked until Klaviyo ",
-    "category": "deploy",
-    "bot": "writer"
   }
 ]
