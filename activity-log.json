@@ -432,6 +432,78 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Health Lunch Check \u2014 1:00 PM",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Slack Scan \u2014 1:15 PM",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "1 message found \u2014 in #nik-workweek: Paramount VE prep call reminder for 4/20 at 3pm ET. Directed a",
+    "category": "reminder",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Health Lunch Check \u2014 1:00 PM",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Slack Scan \u2014 1:15 PM",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "1 message found \u2014 in #nik-workweek: Paramount VE prep call reminder for 4/20 at 3pm ET. Directed a",
+    "category": "reminder",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Health Lunch Check \u2014 1:00 PM",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Slack Scan \u2014 1:15 PM",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "1 message found \u2014 in #nik-workweek: Paramount VE prep call reminder for 4/20 at 3pm ET. Directed a",
+    "category": "reminder",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Health Lunch Check \u2014 1:00 PM",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Slack Scan \u2014 1:15 PM",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "1 message found \u2014 in #nik-workweek: Paramount VE prep call reminder for 4/20 at 3pm ET. Directed a",
+    "category": "reminder",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-16T12:00:00-04:00",
     "action": "Tomorrow's Schedule",
     "category": "other",
@@ -1126,77 +1198,5 @@
     "action": "In San Francisco \u2014 (Apr 15\u201318)",
     "category": "other",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Tomorrow's Schedule (Wed Apr 15)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Stay at The West Hollywood EDITION \u2014 (Apr 13\u201318)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Dillon's Work Anniversary",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "In San Francisco \u2014 (Apr 15\u201318)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Tomorrow's Schedule (Wed Apr 15)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Stay at The West Hollywood EDITION \u2014 (Apr 13\u201318)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Dillon's Work Anniversary",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "In San Francisco \u2014 (Apr 15\u201318)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Tomorrow's Schedule (Wed Apr 15)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Stay at The West Hollywood EDITION \u2014 (Apr 13\u201318)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Dillon's Work Anniversary",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "In San Francisco \u2014 (Apr 15\u201318)",
-    "category": "other",
-    "bot": "writer"
   }
 ]
