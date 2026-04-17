@@ -24,6 +24,54 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Late Night Session (2:00 AM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Moved 14 cron jobs out of main chat \u2014 all converted from sessionTarget=main/systemEvent to isolated/agentTurn with del",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Late Night Session (2:00 AM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Moved 14 cron jobs out of main chat \u2014 all converted from sessionTarget=main/systemEvent to isolated/agentTurn with del",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Late Night Session (2:00 AM)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Moved 14 cron jobs out of main chat \u2014 all converted from sessionTarget=main/systemEvent to isolated/agentTurn with del",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Late Night Session (2:00 AM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Moved 14 cron jobs out of main chat \u2014 all converted from sessionTarget=main/systemEvent to isolated/agentTurn with del",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-16T12:00:00-04:00",
     "action": "Tomorrow's Schedule",
     "category": "other",
@@ -1150,53 +1198,5 @@
     "action": "StreetTalk Interview \u2014 Thu Apr 23, 4:30-5 PM ET at Washington Square Park. Matt Hickman (Flickman Media",
     "category": "other",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Onward sponsorship \u2014 Josh Payne (useonward.com) asking for Workweek sponsorship deck/pricing. Austin ",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Geoffrey Huntting \u2014 Met with Jim (Tondo) for 3PL. Positive. Rameez handling.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "POPWTR \u2014 Surfaced in PEF deal flow (Kyle Widrick).",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Sterling Griffin scheduling \u2014 Rameez moved to Thursday after 3:30 PM ET.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Fireflies",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Infrastructure",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Daily Debrief (9:30 PM)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Email Flags",
-    "category": "other",
-    "bot": "macra"
   }
 ]
