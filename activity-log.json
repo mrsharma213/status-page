@@ -480,6 +480,150 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "LSG tax distribution \u2014 Josh Rombach needs Nik's wire instructions. Minul confirmed no change. Nik still",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Ethan Potts (PostPilot) \u2014 Asking for Tushy intro after seeing Nik's email. Warm ask, PostPilot is known ve",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Macra testing thread \u2014 39 msgs, Rameez active. Launch day ops.",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Paramount \u2014 $500 ad credit, code LKTTV74_SXT3, expires 6/30. Sign up at adsmanager.paramount",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Product Name Discrepancy \u2014 FLAG",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "MACRA LAUNCHED \u2014 Website live. Mood Bloom + Carb Mute/Curb (name TBD). Ads blocked until Klaviyo ",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "LSG tax distribution \u2014 Josh Rombach needs Nik's wire instructions. Minul confirmed no change. Nik still",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Ethan Potts (PostPilot) \u2014 Asking for Tushy intro after seeing Nik's email. Warm ask, PostPilot is known ve",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Macra testing thread \u2014 39 msgs, Rameez active. Launch day ops.",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Paramount \u2014 $500 ad credit, code LKTTV74_SXT3, expires 6/30. Sign up at adsmanager.paramount",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Product Name Discrepancy \u2014 FLAG",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "MACRA LAUNCHED \u2014 Website live. Mood Bloom + Carb Mute/Curb (name TBD). Ads blocked until Klaviyo ",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "LSG tax distribution \u2014 Josh Rombach needs Nik's wire instructions. Minul confirmed no change. Nik still",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Ethan Potts (PostPilot) \u2014 Asking for Tushy intro after seeing Nik's email. Warm ask, PostPilot is known ve",
+    "category": "outbound",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Macra testing thread \u2014 39 msgs, Rameez active. Launch day ops.",
+    "category": "deploy",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Paramount \u2014 $500 ad credit, code LKTTV74_SXT3, expires 6/30. Sign up at adsmanager.paramount",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Product Name Discrepancy \u2014 FLAG",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "MACRA LAUNCHED \u2014 Website live. Mood Bloom + Carb Mute/Curb (name TBD). Ads blocked until Klaviyo ",
+    "category": "deploy",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "LSG tax distribution \u2014 Josh Rombach needs Nik's wire instructions. Minul confirmed no change. Nik still",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Ethan Potts (PostPilot) \u2014 Asking for Tushy intro after seeing Nik's email. Warm ask, PostPilot is known ve",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Macra testing thread \u2014 39 msgs, Rameez active. Launch day ops.",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Paramount \u2014 $500 ad credit, code LKTTV74_SXT3, expires 6/30. Sign up at adsmanager.paramount",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Product Name Discrepancy \u2014 FLAG",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "MACRA LAUNCHED \u2014 Website live. Mood Bloom + Carb Mute/Curb (name TBD). Ads blocked until Klaviyo ",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-15T12:00:00-04:00",
     "action": "Tomorrow's Schedule (Wed Apr 15)",
     "category": "other",
@@ -1054,149 +1198,5 @@
     "action": "Daily Debrief (9:30 PM)",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Email Flags",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Macra trademarks filed \u2014 Rameez sent ITU applications for Carb Mute + Mood Bloom to Greenberg Traurig (Jo",
-    "category": "outbound",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "StreetTalk Interview \u2014 Thu Apr 23, 4:30-5 PM ET at Washington Square Park. Matt Hickman (Flickman Media",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Onward sponsorship \u2014 Josh Payne (useonward.com) asking for Workweek sponsorship deck/pricing. Austin ",
-    "category": "deploy",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Geoffrey Huntting \u2014 Met with Jim (Tondo) for 3PL. Positive. Rameez handling.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "POPWTR \u2014 Surfaced in PEF deal flow (Kyle Widrick).",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Sterling Griffin scheduling \u2014 Rameez moved to Thursday after 3:30 PM ET.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Fireflies",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Infrastructure",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Daily Debrief (9:30 PM)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Email Flags",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Macra trademarks filed \u2014 Rameez sent ITU applications for Carb Mute + Mood Bloom to Greenberg Traurig (Jo",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "StreetTalk Interview \u2014 Thu Apr 23, 4:30-5 PM ET at Washington Square Park. Matt Hickman (Flickman Media",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Onward sponsorship \u2014 Josh Payne (useonward.com) asking for Workweek sponsorship deck/pricing. Austin ",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Geoffrey Huntting \u2014 Met with Jim (Tondo) for 3PL. Positive. Rameez handling.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "POPWTR \u2014 Surfaced in PEF deal flow (Kyle Widrick).",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Sterling Griffin scheduling \u2014 Rameez moved to Thursday after 3:30 PM ET.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Fireflies",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Infrastructure",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Daily Debrief (9:30 PM)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Tomorrow's Schedule (pulled 9:00 PM Mon)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Tomorrow's Schedule (pulled 9:00 PM Mon)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Tomorrow's Schedule (pulled 9:00 PM Mon)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-14T12:00:00-04:00",
-    "action": "Tomorrow's Schedule (pulled 9:00 PM Mon)",
-    "category": "other",
-    "bot": "writer"
   }
 ]
