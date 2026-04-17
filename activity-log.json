@@ -192,6 +192,78 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Email Scan \u2014 10:30 AM",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "jet@nik.co \u2014 No unread in last 2h",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 all promos/newsletters/routine",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Email Scan \u2014 10:30 AM",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "jet@nik.co \u2014 No unread in last 2h",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 all promos/newsletters/routine",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Email Scan \u2014 10:30 AM",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "jet@nik.co \u2014 No unread in last 2h",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 all promos/newsletters/routine",
+    "category": "content",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Email Scan \u2014 10:30 AM",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "jet@nik.co \u2014 No unread in last 2h",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 all promos/newsletters/routine",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-16T12:00:00-04:00",
     "action": "Tomorrow's Schedule",
     "category": "other",
@@ -1126,77 +1198,5 @@
     "action": "Macra Product Names \u2014 UPDATED TO FINAL (2:27 PM)",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Carb Curb \u2014 = CB-628 (carb blocker) \u2014 CHANGED from Carb Mute",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Mood Bloom \u2014 = HP-719 (mood booster) \u2014 unchanged",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Macra Product Names \u2014 UPDATED TO FINAL (2:27 PM)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Carb Curb \u2014 = CB-628 (carb blocker) \u2014 CHANGED from Carb Mute",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Mood Bloom \u2014 = HP-719 (mood booster) \u2014 unchanged",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Macra Product Names \u2014 UPDATED TO FINAL (2:27 PM)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Carb Curb \u2014 = CB-628 (carb blocker) \u2014 CHANGED from Carb Mute",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Mood Bloom \u2014 = HP-719 (mood booster) \u2014 unchanged",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Slack Scan \u2014 5:15 PM",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "ACCESS ISSUE: \u2014 Bot `jetreader` (U0AKAE6V3EW) is not a member of any nikco-workspace channel and",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Action needed: \u2014 Either add `channels:join` scope to the Slack app, or manually invite `@jetreade",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Verdict: \u2014 Unable to confirm channel status. No urgent items detected (by default \u2014 access ",
-    "category": "other",
-    "bot": "crm"
   }
 ]
