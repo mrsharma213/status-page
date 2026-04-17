@@ -648,6 +648,12 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-16T12:00:00-04:00",
+    "action": "Daily Debrief (9:30 PM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
     "ts": "2026-04-15T12:00:00-04:00",
     "action": "Tomorrow's Schedule (Wed Apr 15)",
     "category": "other",
@@ -1190,12 +1196,6 @@
   {
     "ts": "2026-04-15T12:00:00-04:00",
     "action": "Geoffrey Huntting \u2014 Met with Jim (Tondo) for 3PL. Positive. Rameez handling.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "POPWTR \u2014 Surfaced in PEF deal flow (Kyle Widrick).",
     "category": "other",
     "bot": "macra"
   }
