@@ -72,6 +72,78 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Email Scan \u2014 8:30 AM",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "jet@nik.co \u2014 2 unread \u2014 Medium digest, Anthropic receipt. Nothing urgent.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 newsletters, promotions, Fireflies digest, TikTok dev update, spam W",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Email Scan \u2014 8:30 AM",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "jet@nik.co \u2014 2 unread \u2014 Medium digest, Anthropic receipt. Nothing urgent.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 newsletters, promotions, Fireflies digest, TikTok dev update, spam W",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Email Scan \u2014 8:30 AM",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "jet@nik.co \u2014 2 unread \u2014 Medium digest, Anthropic receipt. Nothing urgent.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 newsletters, promotions, Fireflies digest, TikTok dev update, spam W",
+    "category": "content",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Email Scan \u2014 8:30 AM",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "jet@nik.co \u2014 2 unread \u2014 Medium digest, Anthropic receipt. Nothing urgent.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 newsletters, promotions, Fireflies digest, TikTok dev update, spam W",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-16T12:00:00-04:00",
     "action": "Tomorrow's Schedule",
     "category": "other",
@@ -1126,77 +1198,5 @@
     "action": "Slack Scan \u2014 5:15 PM",
     "category": "other",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "ACCESS ISSUE: \u2014 Bot `jetreader` (U0AKAE6V3EW) is not a member of any nikco-workspace channel and",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Action needed: \u2014 Either add `channels:join` scope to the Slack app, or manually invite `@jetreade",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Verdict: \u2014 Unable to confirm channel status. No urgent items detected (by default \u2014 access ",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Slack Scan \u2014 7:15 PM",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Status: \u2014 STILL UNRESOLVED. Needs Nik or workspace admin to either add `channels:join` sco",
-    "category": "fix",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Slack Scan \u2014 7:15 PM",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Status: \u2014 STILL UNRESOLVED. Needs Nik or workspace admin to either add `channels:join` sco",
-    "category": "fix",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Slack Scan \u2014 7:15 PM",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Status: \u2014 STILL UNRESOLVED. Needs Nik or workspace admin to either add `channels:join` sco",
-    "category": "fix",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Slack Scan \u2014 7:15 PM",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Status: \u2014 STILL UNRESOLVED. Needs Nik or workspace admin to either add `channels:join` sco",
-    "category": "fix",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Email Flags",
-    "category": "other",
-    "bot": "crm"
   }
 ]
