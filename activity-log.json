@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Tomorrow's Schedule (pulled 2026-04-16 9:00 PM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Tomorrow's Schedule (pulled 2026-04-16 9:00 PM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Tomorrow's Schedule (pulled 2026-04-16 9:00 PM)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Tomorrow's Schedule (pulled 2026-04-16 9:00 PM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-16T12:00:00-04:00",
     "action": "Tomorrow's Schedule",
     "category": "other",
@@ -1172,30 +1196,6 @@
   {
     "ts": "2026-04-15T12:00:00-04:00",
     "action": "Email Flags",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Macra trademarks filed \u2014 Rameez sent ITU applications for Carb Mute + Mood Bloom to Greenberg Traurig (Jo",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "StreetTalk Interview \u2014 Thu Apr 23, 4:30-5 PM ET at Washington Square Park. Matt Hickman (Flickman Media",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Onward sponsorship \u2014 Josh Payne (useonward.com) asking for Workweek sponsorship deck/pricing. Austin ",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Geoffrey Huntting \u2014 Met with Jim (Tondo) for 3PL. Positive. Rameez handling.",
     "category": "other",
     "bot": "macra"
   }
