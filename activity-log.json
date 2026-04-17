@@ -336,6 +336,102 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Email Scan \u2014 12:30 PM",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (#2100-4189-0999)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 all promos/marketing (Italic, SKIMS, B\u00c9IS, Madhappy, Canva, Elevar, ",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Verdict \u2014 Nothing urgent. No client escalations, no nik.co team, no time-sensitive deals.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Email Scan \u2014 12:30 PM",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (#2100-4189-0999)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 all promos/marketing (Italic, SKIMS, B\u00c9IS, Madhappy, Canva, Elevar, ",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Verdict \u2014 Nothing urgent. No client escalations, no nik.co team, no time-sensitive deals.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Email Scan \u2014 12:30 PM",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (#2100-4189-0999)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 all promos/marketing (Italic, SKIMS, B\u00c9IS, Madhappy, Canva, Elevar, ",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Verdict \u2014 Nothing urgent. No client escalations, no nik.co team, no time-sensitive deals.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Email Scan \u2014 12:30 PM",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (#2100-4189-0999)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 all promos/marketing (Italic, SKIMS, B\u00c9IS, Madhappy, Canva, Elevar, ",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Verdict \u2014 Nothing urgent. No client escalations, no nik.co team, no time-sensitive deals.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-16T12:00:00-04:00",
     "action": "Tomorrow's Schedule",
     "category": "other",
@@ -1102,101 +1198,5 @@
     "action": "In San Francisco \u2014 (Apr 15\u201318)",
     "category": "other",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Slack Scan \u2014 11:15 AM",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "#nik-workweek \u2014 Rameez posted Ecom Equation VOTW Google Doc link for this week's newsletter",
-    "category": "content",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Verdict: \u2014 Nothing urgent. Routine newsletter production only.",
-    "category": "content",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Slack Scan \u2014 11:15 AM",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "#nik-workweek \u2014 Rameez posted Ecom Equation VOTW Google Doc link for this week's newsletter",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Verdict: \u2014 Nothing urgent. Routine newsletter production only.",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Slack Scan \u2014 11:15 AM",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "#nik-workweek \u2014 Rameez posted Ecom Equation VOTW Google Doc link for this week's newsletter",
-    "category": "content",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Verdict: \u2014 Nothing urgent. Routine newsletter production only.",
-    "category": "content",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Slack Scan \u2014 11:15 AM",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "#nik-workweek \u2014 Rameez posted Ecom Equation VOTW Google Doc link for this week's newsletter",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Verdict: \u2014 Nothing urgent. Routine newsletter production only.",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Slack Scan \u2014 1:15 PM",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Zero messages \u2014 across all channels",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Verdict: \u2014 All quiet. Nothing urgent.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-15T12:00:00-04:00",
-    "action": "Slack Scan \u2014 1:15 PM",
-    "category": "other",
-    "bot": "macra"
   }
 ]
