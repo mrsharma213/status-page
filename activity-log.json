@@ -72,6 +72,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "17:00 \u2014 Health dinner check (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "17:00 \u2014 Health dinner check (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "17:00 \u2014 Health dinner check (cron)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "17:00 \u2014 Health dinner check (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-17T12:00:00-04:00",
     "action": "Tomorrow's Schedule (pulled 2026-04-16 9:00 PM)",
     "category": "other",
@@ -1172,30 +1196,6 @@
   {
     "ts": "2026-04-17T12:00:00-04:00",
     "action": "Email Flags",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Jim Jannuzzio intro \u2014 (8:06 PM ET) \u2014 Introduced Cordell to Nik+Troy. App idea raising seed round. Pote",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Rameez active \u2014 on James Bennet intro (10 msgs)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Events Today",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "20:30 - Email scan (cron)",
     "category": "other",
     "bot": "writer"
   }
