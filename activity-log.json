@@ -24,6 +24,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "09:15 \u2014 gbrain live sync (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "09:15 \u2014 gbrain live sync (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "09:15 \u2014 gbrain live sync (cron)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "09:15 \u2014 gbrain live sync (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-17T12:00:00-04:00",
     "action": "Tomorrow's Schedule (pulled 2026-04-16 9:00 PM)",
     "category": "other",
@@ -1173,30 +1197,6 @@
     "ts": "2026-04-17T12:00:00-04:00",
     "action": "Pre-call brief dedup \u2014 fixed triple-notification bug with `/tmp/precall-sent.txt` + hardened NO_REPLY i",
     "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Macra claim correction \u2014 recommended \"9,000+ studies\" (defensible) vs \"20,000+\" (not defensible). Real Pu",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Monitor Opus 4.7 behavior \u2014 any weirdness across the 7 bots. Rollback plan ready.",
-    "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "After Ours \u2014 Apr 18 \u2014 Somewhere Nowhere NYC, opening for Moojo.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Nik in SF through 4/18 \u2014 YC launch party tonight, returns tomorrow.",
-    "category": "deploy",
     "bot": "crm"
   }
 ]
