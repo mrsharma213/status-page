@@ -48,6 +48,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "13:00 \u2014 Health lunch check (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "13:00 \u2014 Health lunch check (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "13:00 \u2014 Health lunch check (cron)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "13:00 \u2014 Health lunch check (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-17T12:00:00-04:00",
     "action": "Tomorrow's Schedule (pulled 2026-04-16 9:00 PM)",
     "category": "other",
@@ -1174,29 +1198,5 @@
     "action": "20:30 - Email scan (cron)",
     "category": "other",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "\ud83d\udccb End-of-Day Debrief (9:30 PM cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Opus 4.7 rollout \u2014 staged via sandbox bot first, then global. Backup preserved at `~/.openclaw/open",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Main chat hygiene \u2014 14 cron jobs moved out of Jet main. Now only: morning briefing, calendar prep, A",
-    "category": "research",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Pre-call brief dedup \u2014 fixed triple-notification bug with `/tmp/precall-sent.txt` + hardened NO_REPLY i",
-    "category": "outbound",
-    "bot": "crm"
   }
 ]
