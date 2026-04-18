@@ -1128,75 +1128,75 @@
     "bot": "writer"
   },
   {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Tomorrow's Schedule",
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "\ud83d\udccb End-of-Day Debrief (9:30 PM cron)",
     "category": "other",
     "bot": "crm"
   },
   {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Tomorrow's Schedule",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Tomorrow's Schedule",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Tomorrow's Schedule",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Zero messages \u2014 across all channels in 2h window",
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Opus 4.7 rollout \u2014 staged via sandbox bot first, then global. Backup preserved at `~/.openclaw/open",
     "category": "other",
     "bot": "crm"
   },
   {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Zero messages \u2014 across all channels in 2h window",
-    "category": "other",
-    "bot": "macra"
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Main chat hygiene \u2014 14 cron jobs moved out of Jet main. Now only: morning briefing, calendar prep, A",
+    "category": "research",
+    "bot": "crm"
   },
   {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Zero messages \u2014 across all channels in 2h window",
-    "category": "other",
-    "bot": "printingpress"
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Pre-call brief dedup \u2014 fixed triple-notification bug with `/tmp/precall-sent.txt` + hardened NO_REPLY i",
+    "category": "outbound",
+    "bot": "crm"
   },
   {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Zero messages \u2014 across all channels in 2h window",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Zero messages \u2014 across all channels in the 2h window.",
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Macra claim correction \u2014 recommended \"9,000+ studies\" (defensible) vs \"20,000+\" (not defensible). Real Pu",
     "category": "other",
     "bot": "crm"
   },
   {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "Email + Slack + Calendar Check \u2014 1:16 PM",
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Monitor Opus 4.7 behavior \u2014 any weirdness across the 7 bots. Rollback plan ready.",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "After Ours \u2014 Apr 18 \u2014 Somewhere Nowhere NYC, opening for Moojo.",
     "category": "other",
     "bot": "crm"
   },
   {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "jet@nik.co: \u2014 Anthropic receipt only. Routine.",
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Nik in SF through 4/18 \u2014 YC launch party tonight, returns tomorrow.",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "flows.nik.co scanner \u2014 active every 2h, will catch brand emails as Nik signs up.",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Creative Director bot \u2014 ready for Macra ad production when Nik engages.",
     "category": "other",
     "bot": "crm"
   },
   {
-    "ts": "2026-04-16T12:00:00-04:00",
-    "action": "nik@nik.co: \u2014 Love Wellness marketing, Flex.one invoice (Sharma Brands), Real Estate Gala RSVP",
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Slack jetreader bot \u2014 intermittent `not_in_channel` errors persist on some channels (ongoing since 4/1",
     "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-17T12:00:00-04:00",
+    "action": "Health tracker cold \u2014 no meals logged in 2+ weeks. Nudge when food comes up naturally.",
+    "category": "memory",
     "bot": "crm"
   }
 ]
