@@ -1,5 +1,29 @@
 [
   {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "03:00 \u2014 GBrain Dream Cycle",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "03:00 \u2014 GBrain Dream Cycle",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "03:00 \u2014 GBrain Dream Cycle",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "03:00 \u2014 GBrain Dream Cycle",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-17T12:00:00-04:00",
     "action": "Tomorrow's Schedule (pulled 2026-04-16 9:00 PM)",
     "category": "other",
@@ -1173,30 +1197,6 @@
     "ts": "2026-04-17T12:00:00-04:00",
     "action": "Nik in SF through 4/18 \u2014 YC launch party tonight, returns tomorrow.",
     "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "flows.nik.co scanner \u2014 active every 2h, will catch brand emails as Nik signs up.",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Creative Director bot \u2014 ready for Macra ad production when Nik engages.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Slack jetreader bot \u2014 intermittent `not_in_channel` errors persist on some channels (ongoing since 4/1",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Health tracker cold \u2014 no meals logged in 2+ weeks. Nudge when food comes up naturally.",
-    "category": "memory",
     "bot": "crm"
   }
 ]
