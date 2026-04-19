@@ -48,6 +48,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-19T10:04:00-04:00",
+    "action": "Nik Landing Page Brain \u2014 shipped (4/19)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T10:04:00-04:00",
+    "action": "Nik Landing Page Brain \u2014 shipped (4/19)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T10:04:00-04:00",
+    "action": "Nik Landing Page Brain \u2014 shipped (4/19)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T10:04:00-04:00",
+    "action": "Nik Landing Page Brain \u2014 shipped (4/19)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-19T08:20:00-04:00",
     "action": "gbrain-live-sync cron FAILED",
     "category": "other",
@@ -1174,29 +1198,5 @@
     "action": "James Bennett (vanagroup.org) x Nik thread \u2014 Client with heavenlyheatsaunas.com needs Shopify rebuild. Nik quoted $80-120k / ",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Email Scan \u2014 4:30 PM",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "James Bennett (vanagroup.org) x Nik thread \u2014 Client with heavenlyheatsaunas.com needs Shopify rebuild. Nik quoted $80-120k / ",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Email Scan \u2014 4:30 PM",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "James Bennett (vanagroup.org) x Nik thread \u2014 Client with heavenlyheatsaunas.com needs Shopify rebuild. Nik quoted $80-120k / ",
-    "category": "other",
-    "bot": "writer"
   }
 ]
