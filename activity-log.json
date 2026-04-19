@@ -96,6 +96,342 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "06:53 \u2014 Inbound idea from Nik (couldn't sleep)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "20:27 \u2014 Heartbeat context update",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "21:30 \u2014 Daily Debrief (end of day)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Early AM idea capture: \u2014 Nik sent the premium down pillow brand concept at 6:53 AM. Full workup documente",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Caraway Q1 update \u2014 hit inbox (noted, no action required \u2014 portfolio company reporting).",
+    "category": "memory",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "GBrain dream cycle \u2014 clean: 187 pages, 100% embedding coverage, 0 dead links, health 85.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Nutrition tracker still cold \u2014 (15+ days). Standing flag unchanged.",
+    "category": "reminder",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Cron noise: \u2014 all quiet. Post-4/17 main-chat cleanup is holding \u2014 only meaningful signals reac",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Limited Supply newsletter \u2014 Sunday publish day. Workweek team will be in motion. Check Drive for \"Sunday ema",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Pillow idea \u2014 handoff to Ideator bot first opportunity.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "After Ours / Moojo gig \u2014 capture any notable outcomes if Nik shares recap.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Macra \u2014 PubMed claim correction still pending site update (flagged 4/17, no confirmation",
+    "category": "reminder",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Creative Director project \u2014 overnight Sharma Brands creative crawl status unknown; check @SharmaCD_Bot in AM",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Pattern: \u2014 Nik's best raw ideas come at odd hours (6:53 AM, couldn't sleep). The Ideator pi",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "06:53 \u2014 Inbound idea from Nik (couldn't sleep)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "20:27 \u2014 Heartbeat context update",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "21:30 \u2014 Daily Debrief (end of day)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Early AM idea capture: \u2014 Nik sent the premium down pillow brand concept at 6:53 AM. Full workup documente",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Caraway Q1 update \u2014 hit inbox (noted, no action required \u2014 portfolio company reporting).",
+    "category": "memory",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "GBrain dream cycle \u2014 clean: 187 pages, 100% embedding coverage, 0 dead links, health 85.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Nutrition tracker still cold \u2014 (15+ days). Standing flag unchanged.",
+    "category": "reminder",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Cron noise: \u2014 all quiet. Post-4/17 main-chat cleanup is holding \u2014 only meaningful signals reac",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Limited Supply newsletter \u2014 Sunday publish day. Workweek team will be in motion. Check Drive for \"Sunday ema",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Pillow idea \u2014 handoff to Ideator bot first opportunity.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "After Ours / Moojo gig \u2014 capture any notable outcomes if Nik shares recap.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Macra \u2014 PubMed claim correction still pending site update (flagged 4/17, no confirmation",
+    "category": "reminder",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Creative Director project \u2014 overnight Sharma Brands creative crawl status unknown; check @SharmaCD_Bot in AM",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Pattern: \u2014 Nik's best raw ideas come at odd hours (6:53 AM, couldn't sleep). The Ideator pi",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "06:53 \u2014 Inbound idea from Nik (couldn't sleep)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "20:27 \u2014 Heartbeat context update",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "21:30 \u2014 Daily Debrief (end of day)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Early AM idea capture: \u2014 Nik sent the premium down pillow brand concept at 6:53 AM. Full workup documente",
+    "category": "outbound",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Caraway Q1 update \u2014 hit inbox (noted, no action required \u2014 portfolio company reporting).",
+    "category": "memory",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "GBrain dream cycle \u2014 clean: 187 pages, 100% embedding coverage, 0 dead links, health 85.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Nutrition tracker still cold \u2014 (15+ days). Standing flag unchanged.",
+    "category": "reminder",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Cron noise: \u2014 all quiet. Post-4/17 main-chat cleanup is holding \u2014 only meaningful signals reac",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Limited Supply newsletter \u2014 Sunday publish day. Workweek team will be in motion. Check Drive for \"Sunday ema",
+    "category": "check",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Pillow idea \u2014 handoff to Ideator bot first opportunity.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "After Ours / Moojo gig \u2014 capture any notable outcomes if Nik shares recap.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Macra \u2014 PubMed claim correction still pending site update (flagged 4/17, no confirmation",
+    "category": "reminder",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Creative Director project \u2014 overnight Sharma Brands creative crawl status unknown; check @SharmaCD_Bot in AM",
+    "category": "check",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Pattern: \u2014 Nik's best raw ideas come at odd hours (6:53 AM, couldn't sleep). The Ideator pi",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "06:53 \u2014 Inbound idea from Nik (couldn't sleep)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "20:27 \u2014 Heartbeat context update",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "21:30 \u2014 Daily Debrief (end of day)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Early AM idea capture: \u2014 Nik sent the premium down pillow brand concept at 6:53 AM. Full workup documente",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Caraway Q1 update \u2014 hit inbox (noted, no action required \u2014 portfolio company reporting).",
+    "category": "memory",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "GBrain dream cycle \u2014 clean: 187 pages, 100% embedding coverage, 0 dead links, health 85.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Nutrition tracker still cold \u2014 (15+ days). Standing flag unchanged.",
+    "category": "reminder",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Cron noise: \u2014 all quiet. Post-4/17 main-chat cleanup is holding \u2014 only meaningful signals reac",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Limited Supply newsletter \u2014 Sunday publish day. Workweek team will be in motion. Check Drive for \"Sunday ema",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Pillow idea \u2014 handoff to Ideator bot first opportunity.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "After Ours / Moojo gig \u2014 capture any notable outcomes if Nik shares recap.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Macra \u2014 PubMed claim correction still pending site update (flagged 4/17, no confirmation",
+    "category": "reminder",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Creative Director project \u2014 overnight Sharma Brands creative crawl status unknown; check @SharmaCD_Bot in AM",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-18T12:00:00-04:00",
+    "action": "Pattern: \u2014 Nik's best raw ideas come at odd hours (6:53 AM, couldn't sleep). The Ideator pi",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-17T12:00:00-04:00",
     "action": "Tomorrow's Schedule (pulled 2026-04-16 9:00 PM)",
     "category": "other",
@@ -862,341 +1198,5 @@
     "action": "#nik-workweek \u2014 (5:09 PM-ish): Workweek team note that Sunday's Limited Supply Sailthru template",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Afternoon Session (3:15 PM \u2014 OpenClaw 2026.4.15 + Opus 4.7 Rollout)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Stage 1: \u2014 Changed only `sandbox` agent from Sonnet \u2192 opus-4-7, restarted gateway. Worked c",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Stage 2: \u2014 Rolled out everywhere. Updated global default + all opus-4-6 agents (macra, flex",
-    "category": "fix",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Health Dinner Check \u2014 5:01 PM",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Slack Digest \u2014 5:15 PM ET",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "#nik-workweek \u2014 (5:09 PM-ish): Workweek team note that Sunday's Limited Supply Sailthru template",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Afternoon Session (3:15 PM \u2014 OpenClaw 2026.4.15 + Opus 4.7 Rollout)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Stage 1: \u2014 Changed only `sandbox` agent from Sonnet \u2192 opus-4-7, restarted gateway. Worked c",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Stage 2: \u2014 Rolled out everywhere. Updated global default + all opus-4-6 agents (macra, flex",
-    "category": "fix",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Health Dinner Check \u2014 5:01 PM",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Slack Digest \u2014 5:15 PM ET",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "#nik-workweek \u2014 (5:09 PM-ish): Workweek team note that Sunday's Limited Supply Sailthru template",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Fireflies Check \u2014 6:00 PM ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "No new transcripts in last 4-6 hour window (12-2 PM today). \u2014 No meetings recorded today.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Fireflies Check \u2014 6:00 PM ET",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "No new transcripts in last 4-6 hour window (12-2 PM today). \u2014 No meetings recorded today.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Fireflies Check \u2014 6:00 PM ET",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "No new transcripts in last 4-6 hour window (12-2 PM today). \u2014 No meetings recorded today.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Fireflies Check \u2014 6:00 PM ET",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "No new transcripts in last 4-6 hour window (12-2 PM today). \u2014 No meetings recorded today.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "18:30 - Email scan (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "jet@nik.co \u2014 2 msgs \u2014 Anthropic receipt, Mars Men promo. Nothing urgent.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 10 msgs \u2014 all promos/marketing/cold pitches (OpenMouth pitch, BR\u0112Z, Hyper newsle",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "18:30 - Email scan (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "jet@nik.co \u2014 2 msgs \u2014 Anthropic receipt, Mars Men promo. Nothing urgent.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 10 msgs \u2014 all promos/marketing/cold pitches (OpenMouth pitch, BR\u0112Z, Hyper newsle",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "18:30 - Email scan (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "jet@nik.co \u2014 2 msgs \u2014 Anthropic receipt, Mars Men promo. Nothing urgent.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 10 msgs \u2014 all promos/marketing/cold pitches (OpenMouth pitch, BR\u0112Z, Hyper newsle",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "18:30 - Email scan (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "jet@nik.co \u2014 2 msgs \u2014 Anthropic receipt, Mars Men promo. Nothing urgent.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 10 msgs \u2014 all promos/marketing/cold pitches (OpenMouth pitch, BR\u0112Z, Hyper newsle",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Verdict: \u2014 Nothing urgent. No direct questions to Nik, no pending decisions, no time-sensit",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Slack Scan \u2014 3:15 PM",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Verdict: \u2014 Nothing urgent. No direct questions to Nik, no pending decisions, no time-sensit",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Slack Scan \u2014 3:15 PM",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Verdict: \u2014 Nothing urgent. No direct questions to Nik, no pending decisions, no time-sensit",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Slack Scan \u2014 3:15 PM",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Verdict: \u2014 Nothing urgent. No direct questions to Nik, no pending decisions, no time-sensit",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Slack Scan \u2014 3:15 PM",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Email Flags",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Jim Jannuzzio intro \u2014 (8:06 PM ET) \u2014 Introduced Cordell to Nik+Troy. App idea raising seed round. Pote",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Rameez active \u2014 on James Bennet intro (10 msgs)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Events Today",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "20:30 - Email scan (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Email Flags",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Jim Jannuzzio intro \u2014 (8:06 PM ET) \u2014 Introduced Cordell to Nik+Troy. App idea raising seed round. Pote",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Rameez active \u2014 on James Bennet intro (10 msgs)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Events Today",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "20:30 - Email scan (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Email Flags",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Jim Jannuzzio intro \u2014 (8:06 PM ET) \u2014 Introduced Cordell to Nik+Troy. App idea raising seed round. Pote",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Rameez active \u2014 on James Bennet intro (10 msgs)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Events Today",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "20:30 - Email scan (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Email Flags",
-    "category": "other",
-    "bot": "writer"
   }
 ]
