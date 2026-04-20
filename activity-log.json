@@ -492,6 +492,54 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Email scan \u2014 18:30 ET",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Jim Jannuzzio (Tondo Fulfillment) \u2014 \"Rolling Ventures TB\" 18:06, flagged IMPORTANT/PERSONAL. Likely term sheet or de",
+    "category": "reminder",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Email scan \u2014 18:30 ET",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Jim Jannuzzio (Tondo Fulfillment) \u2014 \"Rolling Ventures TB\" 18:06, flagged IMPORTANT/PERSONAL. Likely term sheet or de",
+    "category": "reminder",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Email scan \u2014 18:30 ET",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Jim Jannuzzio (Tondo Fulfillment) \u2014 \"Rolling Ventures TB\" 18:06, flagged IMPORTANT/PERSONAL. Likely term sheet or de",
+    "category": "reminder",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Email scan \u2014 18:30 ET",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Jim Jannuzzio (Tondo Fulfillment) \u2014 \"Rolling Ventures TB\" 18:06, flagged IMPORTANT/PERSONAL. Likely term sheet or de",
+    "category": "reminder",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-19T21:00:00-04:00",
     "action": "Tomorrow's Schedule (Mon 4/20)",
     "category": "other",
@@ -1148,54 +1196,6 @@
   {
     "ts": "2026-04-19T21:00:00-04:00",
     "action": "Growth Engine direction locked: \u2014 build the full Quality Layer, not selective pieces. Vertical DTC positioning con",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "LP corpus is now canonical. \u2014 Every future LP touch (Macra, Flexpower, RV, HH Proof, Zurp, client work) loads ",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Health tracker: \u2014 decision pending \u2014 ask Nik if he wants to restart logging or retire the cron. 16",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Brain repo remote: \u2014 decision pending \u2014 private GitHub or keep local-only + remove `git pull` from sy",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "GBrain cron rewrite \u2014 must land before next 03:00 dream cycle, or zombies come back.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "gbrain incremental-sync deadlock bug \u2014 file upstream.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Growth Engine v0.3 scope \u2014 agent execution layer (LP Builder + Email Builder wired to the Quality Layer gat",
-    "category": "outbound",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "LP Brain follow-ups (if Nik wants): \u2014 Google Doc for Dylan/creative, embed into @SharmaCD_Bot + @JosiahWriter_Bot cont",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Nutrition tracker: \u2014 resolve or retire.",
     "category": "other",
     "bot": "printingpress"
   }
