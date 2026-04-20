@@ -108,6 +108,54 @@
     "bot": "health"
   },
   {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Health Lunch Check \u2014 1:02 PM (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "\ud83c\udf99\ufe0f Fireflies Transcripts (checked 1:00 PM ET)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Health Lunch Check \u2014 1:02 PM (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "\ud83c\udf99\ufe0f Fireflies Transcripts (checked 1:00 PM ET)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Health Lunch Check \u2014 1:02 PM (cron)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "\ud83c\udf99\ufe0f Fireflies Transcripts (checked 1:00 PM ET)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Health Lunch Check \u2014 1:02 PM (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "\ud83c\udf99\ufe0f Fireflies Transcripts (checked 1:00 PM ET)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-19T21:00:00-04:00",
     "action": "Tomorrow's Schedule (Mon 4/20)",
     "category": "other",
@@ -1148,54 +1196,6 @@
   {
     "ts": "2026-04-19T21:00:00-04:00",
     "action": "Shipping blitz \u2014 Sat 4/18 through Sun 4/19 (consolidated log)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Nik.co subdomain flow \u2014 (GoDaddy DNS): `vercel --prod` \u2192 `vercel domains add <sub>.nik.co <project>` \u2192 G",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Macra.com subdomain flow \u2014 (Namecheap DNS): critical gotcha \u2014 Namecheap `setHosts` is *destructive*, replac",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Token storage: \u2014 Vercel token in `.env` as `VERCEL_TOKEN`. GoDaddy prod key/secret + Namecheap AP",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Common pitfall: \u2014 `vercel domains inspect` errors on domains not registered *at* Vercel (we use ex",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "DNS cache issue: \u2014 Nik sometimes reports domains as dead when they're actually live \u2014 always verify",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Flexpower bot \u2014 (@JetFlexpower_Bot) \u2014 Nik asked them to build flexpower-site.nik.co. I handed of",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Macra bot \u2014 (@macrasupps_bot) \u2014 handled GLP-1 LP rebuild + category analyses shipping; I han",
-    "category": "deploy",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Protocol: \u2014 inter-session messages with `sourceSession=agent:<bot>:...` are trusted agent-to",
     "category": "other",
     "bot": "printingpress"
   }
