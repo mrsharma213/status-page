@@ -1,5 +1,389 @@
 [
   {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Tomorrow's Schedule (Mon 4/20)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "All-day: \u2014 Pay Electricity Bill (Alisha)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "08:15\u201309:30 \u2014 Record Workweek",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "09:00\u201309:30 \u2014 Wake up",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "09:30\u201310:00 \u2014 Travel Time",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "10:00\u201311:00 \u2014 Fort (gym)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "11:00\u201311:30 \u2014 Travel Time",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "11:30\u201312:00 \u2014 Check-In",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "12:00\u201312:30 \u2014 Nik x Joe",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "14:00\u201314:30 \u2014 Zagged All Hands (Weekly)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "15:00\u201315:30 \u2014 Paramount x Nik Sharma | 4/29 VE Prep Call",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "15:00\u201315:30 \u2014 Hold for Paramount VE Prep call (overlap/hold)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "15:30\u201316:30 \u2014 Hold for MentorPass",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "16:30\u201317:30 \u2014 MentorPass: Sterling & Nik",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "17:30\u201321:45 \u2014 Lock in sesh",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "19:00\u201320:15 \u2014 Limited Supply Podcast Recording (overlaps Lock in sesh)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Tomorrow's Schedule (Mon 4/20)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "All-day: \u2014 Pay Electricity Bill (Alisha)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "08:15\u201309:30 \u2014 Record Workweek",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "09:00\u201309:30 \u2014 Wake up",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "09:30\u201310:00 \u2014 Travel Time",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "10:00\u201311:00 \u2014 Fort (gym)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "11:00\u201311:30 \u2014 Travel Time",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "11:30\u201312:00 \u2014 Check-In",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "12:00\u201312:30 \u2014 Nik x Joe",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "14:00\u201314:30 \u2014 Zagged All Hands (Weekly)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "15:00\u201315:30 \u2014 Paramount x Nik Sharma | 4/29 VE Prep Call",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "15:00\u201315:30 \u2014 Hold for Paramount VE Prep call (overlap/hold)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "15:30\u201316:30 \u2014 Hold for MentorPass",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "16:30\u201317:30 \u2014 MentorPass: Sterling & Nik",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "17:30\u201321:45 \u2014 Lock in sesh",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "19:00\u201320:15 \u2014 Limited Supply Podcast Recording (overlaps Lock in sesh)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Tomorrow's Schedule (Mon 4/20)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "All-day: \u2014 Pay Electricity Bill (Alisha)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "08:15\u201309:30 \u2014 Record Workweek",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "09:00\u201309:30 \u2014 Wake up",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "09:30\u201310:00 \u2014 Travel Time",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "10:00\u201311:00 \u2014 Fort (gym)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "11:00\u201311:30 \u2014 Travel Time",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "11:30\u201312:00 \u2014 Check-In",
+    "category": "check",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "12:00\u201312:30 \u2014 Nik x Joe",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "14:00\u201314:30 \u2014 Zagged All Hands (Weekly)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "15:00\u201315:30 \u2014 Paramount x Nik Sharma | 4/29 VE Prep Call",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "15:00\u201315:30 \u2014 Hold for Paramount VE Prep call (overlap/hold)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "15:30\u201316:30 \u2014 Hold for MentorPass",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "16:30\u201317:30 \u2014 MentorPass: Sterling & Nik",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "17:30\u201321:45 \u2014 Lock in sesh",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "19:00\u201320:15 \u2014 Limited Supply Podcast Recording (overlaps Lock in sesh)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Tomorrow's Schedule (Mon 4/20)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "All-day: \u2014 Pay Electricity Bill (Alisha)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "08:15\u201309:30 \u2014 Record Workweek",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "09:00\u201309:30 \u2014 Wake up",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "09:30\u201310:00 \u2014 Travel Time",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "10:00\u201311:00 \u2014 Fort (gym)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "11:00\u201311:30 \u2014 Travel Time",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "11:30\u201312:00 \u2014 Check-In",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "12:00\u201312:30 \u2014 Nik x Joe",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "14:00\u201314:30 \u2014 Zagged All Hands (Weekly)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "15:00\u201315:30 \u2014 Paramount x Nik Sharma | 4/29 VE Prep Call",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "15:00\u201315:30 \u2014 Hold for Paramount VE Prep call (overlap/hold)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "15:30\u201316:30 \u2014 Hold for MentorPass",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "16:30\u201317:30 \u2014 MentorPass: Sterling & Nik",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "17:30\u201321:45 \u2014 Lock in sesh",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "19:00\u201320:15 \u2014 Limited Supply Podcast Recording (overlaps Lock in sesh)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-19T10:04:00-04:00",
     "action": "gbrain-live-sync cron RECOVERED (after deeper dig)",
     "category": "other",
@@ -812,390 +1196,6 @@
   {
     "ts": "2026-04-17T12:00:00-04:00",
     "action": "Email Scan \u2014 10:30 AM",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "jet@nik.co \u2014 No unread in last 2h",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread \u2014 all promos/newsletters/routine",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Email Scan \u2014 10:30 AM",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "jet@nik.co \u2014 No unread in last 2h",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread \u2014 all promos/newsletters/routine",
-    "category": "content",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Email Scan \u2014 10:30 AM",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "jet@nik.co \u2014 No unread in last 2h",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread \u2014 all promos/newsletters/routine",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Slack Digest \u2014 11:15 AM",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "ACCESS ISSUE PERSISTS: \u2014 Bot `jetreader` still `not_in_channel` for all 9 visible nikco-workspace channel",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "This is the same bug from April 15. \u2014 Bot needs either `channels:join` scope or manual invite to channels.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Slack Digest \u2014 11:15 AM",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "ACCESS ISSUE PERSISTS: \u2014 Bot `jetreader` still `not_in_channel` for all 9 visible nikco-workspace channel",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "This is the same bug from April 15. \u2014 Bot needs either `channels:join` scope or manual invite to channels.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Slack Digest \u2014 11:15 AM",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "ACCESS ISSUE PERSISTS: \u2014 Bot `jetreader` still `not_in_channel` for all 9 visible nikco-workspace channel",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "This is the same bug from April 15. \u2014 Bot needs either `channels:join` scope or manual invite to channels.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Slack Digest \u2014 11:15 AM",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "ACCESS ISSUE PERSISTS: \u2014 Bot `jetreader` still `not_in_channel` for all 9 visible nikco-workspace channel",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "This is the same bug from April 15. \u2014 Bot needs either `channels:join` scope or manual invite to channels.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Email Scan \u2014 12:30 PM",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (#2100-4189-0999)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread \u2014 all promos/marketing (Italic, SKIMS, B\u00c9IS, Madhappy, Canva, Elevar, ",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Verdict \u2014 Nothing urgent. No client escalations, no nik.co team, no time-sensitive deals.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Email Scan \u2014 12:30 PM",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (#2100-4189-0999)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread \u2014 all promos/marketing (Italic, SKIMS, B\u00c9IS, Madhappy, Canva, Elevar, ",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Verdict \u2014 Nothing urgent. No client escalations, no nik.co team, no time-sensitive deals.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Email Scan \u2014 12:30 PM",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (#2100-4189-0999)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread \u2014 all promos/marketing (Italic, SKIMS, B\u00c9IS, Madhappy, Canva, Elevar, ",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Verdict \u2014 Nothing urgent. No client escalations, no nik.co team, no time-sensitive deals.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Email Scan \u2014 12:30 PM",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (#2100-4189-0999)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread \u2014 all promos/marketing (Italic, SKIMS, B\u00c9IS, Madhappy, Canva, Elevar, ",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Verdict \u2014 Nothing urgent. No client escalations, no nik.co team, no time-sensitive deals.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Health Lunch Check \u2014 1:00 PM",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Slack Scan \u2014 1:15 PM",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "1 message found \u2014 in #nik-workweek: Paramount VE prep call reminder for 4/20 at 3pm ET. Directed a",
-    "category": "reminder",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Health Lunch Check \u2014 1:00 PM",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Slack Scan \u2014 1:15 PM",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "1 message found \u2014 in #nik-workweek: Paramount VE prep call reminder for 4/20 at 3pm ET. Directed a",
-    "category": "reminder",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Health Lunch Check \u2014 1:00 PM",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Slack Scan \u2014 1:15 PM",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "1 message found \u2014 in #nik-workweek: Paramount VE prep call reminder for 4/20 at 3pm ET. Directed a",
-    "category": "reminder",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Health Lunch Check \u2014 1:00 PM",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Slack Scan \u2014 1:15 PM",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "1 message found \u2014 in #nik-workweek: Paramount VE prep call reminder for 4/20 at 3pm ET. Directed a",
-    "category": "reminder",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Email Scan \u2014 2:30 PM ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread \u2014 all promo/transactional (Amazon order, Feastables, Guitar Center, Ma",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Action \u2014 None required",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Email Scan \u2014 2:30 PM ET",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread \u2014 all promo/transactional (Amazon order, Feastables, Guitar Center, Ma",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Action \u2014 None required",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Email Scan \u2014 2:30 PM ET",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread \u2014 all promo/transactional (Amazon order, Feastables, Guitar Center, Ma",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Action \u2014 None required",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Email Scan \u2014 2:30 PM ET",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread \u2014 all promo/transactional (Amazon order, Feastables, Guitar Center, Ma",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Action \u2014 None required",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Zero messages \u2014 across all channels in window.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Afternoon Session (3:15 PM)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Creative Engine Build \u2014 Completed (2:39 AM)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-17T12:00:00-04:00",
-    "action": "Zero messages \u2014 across all channels in window.",
     "category": "other",
     "bot": "macra"
   }
