@@ -882,321 +882,321 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Shipping blitz \u2014 Sat 4/18 through Sun 4/19 (consolidated log)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Nik.co subdomain flow \u2014 (GoDaddy DNS): `vercel --prod` \u2192 `vercel domains add <sub>.nik.co <project>` \u2192 G",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Macra.com subdomain flow \u2014 (Namecheap DNS): critical gotcha \u2014 Namecheap `setHosts` is *destructive*, replac",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Token storage: \u2014 Vercel token in `.env` as `VERCEL_TOKEN`. GoDaddy prod key/secret + Namecheap AP",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Common pitfall: \u2014 `vercel domains inspect` errors on domains not registered *at* Vercel (we use ex",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "DNS cache issue: \u2014 Nik sometimes reports domains as dead when they're actually live \u2014 always verify",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Flexpower bot \u2014 (@JetFlexpower_Bot) \u2014 Nik asked them to build flexpower-site.nik.co. I handed of",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Macra bot \u2014 (@macrasupps_bot) \u2014 handled GLP-1 LP rebuild + category analyses shipping; I han",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Protocol: \u2014 inter-session messages with `sourceSession=agent:<bot>:...` are trusted agent-to",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Silent replies discipline: \u2014 when inter-session traffic doesn't require main-user action, reply `NO_REPLY` (e",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "ANNOUNCE_SKIP: \u2014 on agent-to-agent announce steps where the announce template is already covered ",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Compliance pre-review workflow: \u2014 before any Rx-adjacent page ships, grep for: \"cure\", \"treat\", \"prevent\", \"counte",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Release protocol gap surfaced: \u2014 After Ours Future Classic T+1 stats pull blocked \u2014 no Spotify API creds + no tra",
+    "category": "infra",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Shipping blitz \u2014 Sat 4/18 through Sun 4/19 (consolidated log)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Nik.co subdomain flow \u2014 (GoDaddy DNS): `vercel --prod` \u2192 `vercel domains add <sub>.nik.co <project>` \u2192 G",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Macra.com subdomain flow \u2014 (Namecheap DNS): critical gotcha \u2014 Namecheap `setHosts` is *destructive*, replac",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Token storage: \u2014 Vercel token in `.env` as `VERCEL_TOKEN`. GoDaddy prod key/secret + Namecheap AP",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Common pitfall: \u2014 `vercel domains inspect` errors on domains not registered *at* Vercel (we use ex",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "DNS cache issue: \u2014 Nik sometimes reports domains as dead when they're actually live \u2014 always verify",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Flexpower bot \u2014 (@JetFlexpower_Bot) \u2014 Nik asked them to build flexpower-site.nik.co. I handed of",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Macra bot \u2014 (@macrasupps_bot) \u2014 handled GLP-1 LP rebuild + category analyses shipping; I han",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Protocol: \u2014 inter-session messages with `sourceSession=agent:<bot>:...` are trusted agent-to",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Silent replies discipline: \u2014 when inter-session traffic doesn't require main-user action, reply `NO_REPLY` (e",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "ANNOUNCE_SKIP: \u2014 on agent-to-agent announce steps where the announce template is already covered ",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Compliance pre-review workflow: \u2014 before any Rx-adjacent page ships, grep for: \"cure\", \"treat\", \"prevent\", \"counte",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Release protocol gap surfaced: \u2014 After Ours Future Classic T+1 stats pull blocked \u2014 no Spotify API creds + no tra",
+    "category": "infra",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Shipping blitz \u2014 Sat 4/18 through Sun 4/19 (consolidated log)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Nik.co subdomain flow \u2014 (GoDaddy DNS): `vercel --prod` \u2192 `vercel domains add <sub>.nik.co <project>` \u2192 G",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Macra.com subdomain flow \u2014 (Namecheap DNS): critical gotcha \u2014 Namecheap `setHosts` is *destructive*, replac",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Token storage: \u2014 Vercel token in `.env` as `VERCEL_TOKEN`. GoDaddy prod key/secret + Namecheap AP",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Common pitfall: \u2014 `vercel domains inspect` errors on domains not registered *at* Vercel (we use ex",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "DNS cache issue: \u2014 Nik sometimes reports domains as dead when they're actually live \u2014 always verify",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Flexpower bot \u2014 (@JetFlexpower_Bot) \u2014 Nik asked them to build flexpower-site.nik.co. I handed of",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Macra bot \u2014 (@macrasupps_bot) \u2014 handled GLP-1 LP rebuild + category analyses shipping; I han",
+    "category": "deploy",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Protocol: \u2014 inter-session messages with `sourceSession=agent:<bot>:...` are trusted agent-to",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Silent replies discipline: \u2014 when inter-session traffic doesn't require main-user action, reply `NO_REPLY` (e",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "ANNOUNCE_SKIP: \u2014 on agent-to-agent announce steps where the announce template is already covered ",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Compliance pre-review workflow: \u2014 before any Rx-adjacent page ships, grep for: \"cure\", \"treat\", \"prevent\", \"counte",
+    "category": "deploy",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Release protocol gap surfaced: \u2014 After Ours Future Classic T+1 stats pull blocked \u2014 no Spotify API creds + no tra",
+    "category": "infra",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Shipping blitz \u2014 Sat 4/18 through Sun 4/19 (consolidated log)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Nik.co subdomain flow \u2014 (GoDaddy DNS): `vercel --prod` \u2192 `vercel domains add <sub>.nik.co <project>` \u2192 G",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Macra.com subdomain flow \u2014 (Namecheap DNS): critical gotcha \u2014 Namecheap `setHosts` is *destructive*, replac",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Token storage: \u2014 Vercel token in `.env` as `VERCEL_TOKEN`. GoDaddy prod key/secret + Namecheap AP",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Common pitfall: \u2014 `vercel domains inspect` errors on domains not registered *at* Vercel (we use ex",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "DNS cache issue: \u2014 Nik sometimes reports domains as dead when they're actually live \u2014 always verify",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Flexpower bot \u2014 (@JetFlexpower_Bot) \u2014 Nik asked them to build flexpower-site.nik.co. I handed of",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Macra bot \u2014 (@macrasupps_bot) \u2014 handled GLP-1 LP rebuild + category analyses shipping; I han",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Protocol: \u2014 inter-session messages with `sourceSession=agent:<bot>:...` are trusted agent-to",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Silent replies discipline: \u2014 when inter-session traffic doesn't require main-user action, reply `NO_REPLY` (e",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "ANNOUNCE_SKIP: \u2014 on agent-to-agent announce steps where the announce template is already covered ",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Compliance pre-review workflow: \u2014 before any Rx-adjacent page ships, grep for: \"cure\", \"treat\", \"prevent\", \"counte",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-19T21:00:00-04:00",
+    "action": "Release protocol gap surfaced: \u2014 After Ours Future Classic T+1 stats pull blocked \u2014 no Spotify API creds + no tra",
+    "category": "infra",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-19T10:04:00-04:00",
     "action": "gbrain-live-sync cron RECOVERED (after deeper dig)",
     "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "gbrain-live-sync cron RECOVERED (after deeper dig)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "gbrain-live-sync cron RECOVERED (after deeper dig)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "gbrain-live-sync cron RECOVERED (after deeper dig)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Growth Engine v0.2 \u2014 Quality Layer shipped (4/19)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Growth Engine v0.2 \u2014 Quality Layer shipped (4/19)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Growth Engine v0.2 \u2014 Quality Layer shipped (4/19)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Growth Engine v0.2 \u2014 Quality Layer shipped (4/19)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Nik Landing Page Brain \u2014 shipped (4/19)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Nik Landing Page Brain \u2014 shipped (4/19)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Nik Landing Page Brain \u2014 shipped (4/19)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Nik Landing Page Brain \u2014 shipped (4/19)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Health Dinner Check \u2014 5:00 PM",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "No meals logged for 2026-04-19. \u2014 Last entry in tracker is 2026-04-03 (chicken Caesar bowl, ~860 cal).",
-    "category": "memory",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Flag for next main-session touch: \u2014 ask Nik if he wants to restart meal logging or retire the tracker. 16-day gap = ",
-    "category": "reminder",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Health Dinner Check \u2014 5:00 PM",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "No meals logged for 2026-04-19. \u2014 Last entry in tracker is 2026-04-03 (chicken Caesar bowl, ~860 cal).",
-    "category": "memory",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Flag for next main-session touch: \u2014 ask Nik if he wants to restart meal logging or retire the tracker. 16-day gap = ",
-    "category": "reminder",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Health Dinner Check \u2014 5:00 PM",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "No meals logged for 2026-04-19. \u2014 Last entry in tracker is 2026-04-03 (chicken Caesar bowl, ~860 cal).",
-    "category": "memory",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Flag for next main-session touch: \u2014 ask Nik if he wants to restart meal logging or retire the tracker. 16-day gap = ",
-    "category": "reminder",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Health Dinner Check \u2014 5:00 PM",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "No meals logged for 2026-04-19. \u2014 Last entry in tracker is 2026-04-03 (chicken Caesar bowl, ~860 cal).",
-    "category": "memory",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Flag for next main-session touch: \u2014 ask Nik if he wants to restart meal logging or retire the tracker. 16-day gap = ",
-    "category": "reminder",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Health Lunch Check \u2014 1:00 PM",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Health Lunch Check \u2014 1:00 PM",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Health Lunch Check \u2014 1:00 PM",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T10:04:00-04:00",
-    "action": "Health Lunch Check \u2014 1:00 PM",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-19T08:20:00-04:00",
-    "action": "gbrain-live-sync cron FAILED",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-19T08:20:00-04:00",
-    "action": "gbrain-live-sync cron FAILED",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-19T08:20:00-04:00",
-    "action": "gbrain-live-sync cron FAILED",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T08:20:00-04:00",
-    "action": "gbrain-live-sync cron FAILED",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "03:00 \u2014 GBrain Dream Cycle",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "03:00 \u2014 GBrain Dream Cycle",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "03:00 \u2014 GBrain Dream Cycle",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "03:00 \u2014 GBrain Dream Cycle",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "09:15 \u2014 gbrain live sync (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "09:15 \u2014 gbrain live sync (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "09:15 \u2014 gbrain live sync (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "09:15 \u2014 gbrain live sync (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "13:00 \u2014 Health lunch check (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "13:00 \u2014 Health lunch check (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "13:00 \u2014 Health lunch check (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "13:00 \u2014 Health lunch check (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "17:00 \u2014 Health dinner check (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "17:00 \u2014 Health dinner check (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "17:00 \u2014 Health dinner check (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "17:00 \u2014 Health dinner check (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "06:53 \u2014 Inbound idea from Nik (couldn't sleep)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "20:27 \u2014 Heartbeat context update",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "21:30 \u2014 Daily Debrief (end of day)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "Early AM idea capture: \u2014 Nik sent the premium down pillow brand concept at 6:53 AM. Full workup documente",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-18T12:00:00-04:00",
-    "action": "Caraway Q1 update \u2014 hit inbox (noted, no action required \u2014 portfolio company reporting).",
-    "category": "memory",
     "bot": "crm"
   }
 ]
