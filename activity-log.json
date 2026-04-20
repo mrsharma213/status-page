@@ -276,6 +276,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Health Dinner Check \u2014 5:03 PM (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Health Dinner Check \u2014 5:03 PM (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Health Dinner Check \u2014 5:03 PM (cron)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Health Dinner Check \u2014 5:03 PM (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-19T21:00:00-04:00",
     "action": "Tomorrow's Schedule (Mon 4/20)",
     "category": "other",
@@ -1172,30 +1196,6 @@
   {
     "ts": "2026-04-19T21:00:00-04:00",
     "action": "Macra.com subdomain flow \u2014 (Namecheap DNS): critical gotcha \u2014 Namecheap `setHosts` is *destructive*, replac",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Token storage: \u2014 Vercel token in `.env` as `VERCEL_TOKEN`. GoDaddy prod key/secret + Namecheap AP",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Common pitfall: \u2014 `vercel domains inspect` errors on domains not registered *at* Vercel (we use ex",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "DNS cache issue: \u2014 Nik sometimes reports domains as dead when they're actually live \u2014 always verify",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Flexpower bot \u2014 (@JetFlexpower_Bot) \u2014 Nik asked them to build flexpower-site.nik.co. I handed of",
     "category": "other",
     "bot": "crm"
   }
