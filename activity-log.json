@@ -156,6 +156,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Email Scan \u2014 2:30 PM ET",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Email Scan \u2014 2:30 PM ET",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Email Scan \u2014 2:30 PM ET",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "Email Scan \u2014 2:30 PM ET",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-19T21:00:00-04:00",
     "action": "Tomorrow's Schedule (Mon 4/20)",
     "category": "other",
@@ -1174,29 +1198,5 @@
     "action": "Silent replies discipline: \u2014 when inter-session traffic doesn't require main-user action, reply `NO_REPLY` (e",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "ANNOUNCE_SKIP: \u2014 on agent-to-agent announce steps where the announce template is already covered ",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Compliance pre-review workflow: \u2014 before any Rx-adjacent page ships, grep for: \"cure\", \"treat\", \"prevent\", \"counte",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Release protocol gap surfaced: \u2014 After Ours Future Classic T+1 stats pull blocked \u2014 no Spotify API creds + no tra",
-    "category": "infra",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Shipping blitz \u2014 Sat 4/18 through Sun 4/19 (consolidated log)",
-    "category": "other",
-    "bot": "printingpress"
   }
 ]
