@@ -240,6 +240,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "13:04 - Health Lunch Check (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "13:04 - Health Lunch Check (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "13:04 - Health Lunch Check (cron)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "13:04 - Health Lunch Check (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-20T12:00:00-04:00",
     "action": "Health Morning Check \u2014 8:00 AM",
     "category": "other",
@@ -1172,30 +1196,6 @@
   {
     "ts": "2026-04-19T21:00:00-04:00",
     "action": "10:00\u201311:00 \u2014 Fort (gym)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "11:00\u201311:30 \u2014 Travel Time",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "11:30\u201312:00 \u2014 Check-In",
-    "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "12:00\u201312:30 \u2014 Nik x Joe",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "14:00\u201314:30 \u2014 Zagged All Hands (Weekly)",
     "category": "other",
     "bot": "crm"
   }
