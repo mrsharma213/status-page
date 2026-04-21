@@ -1104,6 +1104,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "18:30 \u2014 Email scan (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "18:30 \u2014 Email scan (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "18:30 \u2014 Email scan (cron)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "18:30 \u2014 Email scan (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-20T12:00:00-04:00",
     "action": "Health Morning Check \u2014 8:00 AM",
     "category": "other",
@@ -1172,30 +1196,6 @@
   {
     "ts": "2026-04-20T12:00:00-04:00",
     "action": "Dashboard Refresh \u2014 12:02 PM",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Email scan 12:30 ET (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Email scan 12:30 ET (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Email scan 12:30 ET (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Email scan 12:30 ET (cron)",
     "category": "other",
     "bot": "writer"
   }
