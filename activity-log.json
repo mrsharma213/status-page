@@ -72,6 +72,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-21T12:00:00-04:00",
+    "action": "Fireflies Check - 09:00 ET",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T12:00:00-04:00",
+    "action": "Fireflies Check - 09:00 ET",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T12:00:00-04:00",
+    "action": "Fireflies Check - 09:00 ET",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T12:00:00-04:00",
+    "action": "Fireflies Check - 09:00 ET",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-20T12:00:00-04:00",
     "action": "Health Morning Check \u2014 8:00 AM",
     "category": "other",
@@ -1172,30 +1196,6 @@
   {
     "ts": "2026-04-19T21:00:00-04:00",
     "action": "All-day: \u2014 Pay Electricity Bill (Alisha)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "08:15\u201309:30 \u2014 Record Workweek",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "09:00\u201309:30 \u2014 Wake up",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "09:30\u201310:00 \u2014 Travel Time",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "10:00\u201311:00 \u2014 Fort (gym)",
     "category": "other",
     "bot": "printingpress"
   }
