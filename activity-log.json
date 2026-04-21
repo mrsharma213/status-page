@@ -672,6 +672,150 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Slack Digest \u2014 17:15 ET (cron scan, last 2h)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "#office-ops \u2014 Simon asked for office address \u2192 Dan answered (66 W Broadway, Fl 2). Dan confirm",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "#office-ops \u2014 Minul `@channel` asking who's made payments to folks so he can update the dash. ",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "#limitedsupply_hq \u2014 Rameez told someone \"good flag, let me circle back with the file.\"",
+    "category": "reminder",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "#mpdm-nik--bradb--jon-1 \u2014 Nik himself replied re: Lunar site quote/designer partner.",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "DM:Google Drive \u2014 Automated share notification.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Slack Digest \u2014 17:15 ET (cron scan, last 2h)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "#office-ops \u2014 Simon asked for office address \u2192 Dan answered (66 W Broadway, Fl 2). Dan confirm",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "#office-ops \u2014 Minul `@channel` asking who's made payments to folks so he can update the dash. ",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "#limitedsupply_hq \u2014 Rameez told someone \"good flag, let me circle back with the file.\"",
+    "category": "reminder",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "#mpdm-nik--bradb--jon-1 \u2014 Nik himself replied re: Lunar site quote/designer partner.",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "DM:Google Drive \u2014 Automated share notification.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Slack Digest \u2014 17:15 ET (cron scan, last 2h)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "#office-ops \u2014 Simon asked for office address \u2192 Dan answered (66 W Broadway, Fl 2). Dan confirm",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "#office-ops \u2014 Minul `@channel` asking who's made payments to folks so he can update the dash. ",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "#limitedsupply_hq \u2014 Rameez told someone \"good flag, let me circle back with the file.\"",
+    "category": "reminder",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "#mpdm-nik--bradb--jon-1 \u2014 Nik himself replied re: Lunar site quote/designer partner.",
+    "category": "outbound",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "DM:Google Drive \u2014 Automated share notification.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Slack Digest \u2014 17:15 ET (cron scan, last 2h)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "#office-ops \u2014 Simon asked for office address \u2192 Dan answered (66 W Broadway, Fl 2). Dan confirm",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "#office-ops \u2014 Minul `@channel` asking who's made payments to folks so he can update the dash. ",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "#limitedsupply_hq \u2014 Rameez told someone \"good flag, let me circle back with the file.\"",
+    "category": "reminder",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "#mpdm-nik--bradb--jon-1 \u2014 Nik himself replied re: Lunar site quote/designer partner.",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "DM:Google Drive \u2014 Automated share notification.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-20T12:00:00-04:00",
     "action": "Health Morning Check \u2014 8:00 AM",
     "category": "other",
@@ -1054,149 +1198,5 @@
     "action": "Action items \u2014 Nik:",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Action items \u2014 Joseph:",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Status bot alert: \u2014 sent \u2014 EOD brand-assets deliverable is time-sensitive (promised today). Everythi",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Fireflies Check \u2014 18:00 ET (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "1 new transcript \u2014 in last 6h.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "12:08 PM PT / 3:08 PM ET \u2014 Nik \u00d7 Joseph (23 min) \u2014 Macra subscription/retention strategy call.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Context: \u2014 Joseph runs a subscription-experience agency (CRO, cancel flow, retention emails",
-    "category": "outbound",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Key decisions:",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Action items \u2014 Nik:",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Action items \u2014 Joseph:",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Status bot alert: \u2014 sent \u2014 EOD brand-assets deliverable is time-sensitive (promised today). Everythi",
-    "category": "outbound",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Fireflies Check \u2014 18:00 ET (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "1 new transcript \u2014 in last 6h.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "12:08 PM PT / 3:08 PM ET \u2014 Nik \u00d7 Joseph (23 min) \u2014 Macra subscription/retention strategy call.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Context: \u2014 Joseph runs a subscription-experience agency (CRO, cancel flow, retention emails",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Key decisions:",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Action items \u2014 Nik:",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Action items \u2014 Joseph:",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Status bot alert: \u2014 sent \u2014 EOD brand-assets deliverable is time-sensitive (promised today). Everythi",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Email scan \u2014 18:30 ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Jim Jannuzzio (Tondo Fulfillment) \u2014 \"Rolling Ventures TB\" 18:06, flagged IMPORTANT/PERSONAL. Likely term sheet or de",
-    "category": "reminder",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Email scan \u2014 18:30 ET",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Jim Jannuzzio (Tondo Fulfillment) \u2014 \"Rolling Ventures TB\" 18:06, flagged IMPORTANT/PERSONAL. Likely term sheet or de",
-    "category": "reminder",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Email scan \u2014 18:30 ET",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Jim Jannuzzio (Tondo Fulfillment) \u2014 \"Rolling Ventures TB\" 18:06, flagged IMPORTANT/PERSONAL. Likely term sheet or de",
-    "category": "reminder",
-    "bot": "printingpress"
   }
 ]
