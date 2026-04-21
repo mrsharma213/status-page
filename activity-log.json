@@ -1,5 +1,53 @@
 [
   {
+    "ts": "2026-04-21T12:00:00-04:00",
+    "action": "Health Morning Check \u2014 8:00 AM (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T12:00:00-04:00",
+    "action": "Health crons now paused until Nik picks an option. \u2014 No more daily nudges.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T12:00:00-04:00",
+    "action": "Health Morning Check \u2014 8:00 AM (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T12:00:00-04:00",
+    "action": "Health crons now paused until Nik picks an option. \u2014 No more daily nudges.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T12:00:00-04:00",
+    "action": "Health Morning Check \u2014 8:00 AM (cron)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T12:00:00-04:00",
+    "action": "Health crons now paused until Nik picks an option. \u2014 No more daily nudges.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T12:00:00-04:00",
+    "action": "Health Morning Check \u2014 8:00 AM (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T12:00:00-04:00",
+    "action": "Health crons now paused until Nik picks an option. \u2014 No more daily nudges.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-20T12:00:00-04:00",
     "action": "Health Morning Check \u2014 8:00 AM",
     "category": "other",
@@ -1150,53 +1198,5 @@
     "action": "14:00\u201314:30 \u2014 Zagged All Hands (Weekly)",
     "category": "other",
     "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "15:00\u201315:30 \u2014 Paramount x Nik Sharma | 4/29 VE Prep Call",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "15:00\u201315:30 \u2014 Hold for Paramount VE Prep call (overlap/hold)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "15:30\u201316:30 \u2014 Hold for MentorPass",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "16:30\u201317:30 \u2014 MentorPass: Sterling & Nik",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "17:30\u201321:45 \u2014 Lock in sesh",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "19:00\u201320:15 \u2014 Limited Supply Podcast Recording (overlaps Lock in sesh)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Tomorrow's Schedule (Mon 4/20)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "All-day: \u2014 Pay Electricity Bill (Alisha)",
-    "category": "other",
-    "bot": "writer"
   }
 ]
