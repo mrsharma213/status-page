@@ -540,6 +540,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "20:30 Email scan",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "20:30 Email scan",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "20:30 Email scan",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-20T12:00:00-04:00",
+    "action": "20:30 Email scan",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-19T21:00:00-04:00",
     "action": "Tomorrow's Schedule (Mon 4/20)",
     "category": "other",
@@ -1173,30 +1197,6 @@
     "ts": "2026-04-19T21:00:00-04:00",
     "action": "Growth Engine v0.2 shipped. \u2014 Nik saw Garry Tan's gstack v1.3 post, asked what we can learn. Extracted 9 quali",
     "category": "deploy",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Nik Landing Page Brain shipped. \u2014 5 parallel research sub-agents (~15 min) + 1 synthesis agent (~15 min). Output: ",
-    "category": "deploy",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Lunch + dinner health checks: \u2014 Nutrition tracker still cold. Last entry 2026-04-03 \u2014 now 16 days stale. On reta",
-    "category": "check",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Tomorrow's schedule compiled \u2014 (21:00): heavy Monday \u2014 Workweek recording 08:15, Fort 10:00, Nik x Joe 12:00, Z",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Growth Engine direction locked: \u2014 build the full Quality Layer, not selective pieces. Vertical DTC positioning con",
-    "category": "other",
     "bot": "printingpress"
   }
 ]
