@@ -288,6 +288,318 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "After Ours Sync \u2014 Tue Apr 21, 2026 (2:07 PM ET, 40 min)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "28-day release cadence locked. \u2014 Next single target: **May 22, 2026**.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Budget tiering: \u2014 $5K\u2013$20K per track based on performance signals \u2014 spend scales with traction.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Content engine: \u2014 Brandon leads creative. 15\u201320 ideas per release, split IG + TikTok, with \"trial ",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Studio goes live this week \u2014 production capacity unblocks faster content turns.",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Shared events dashboard \u2014 to coordinate show bookings with content/release timing.",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Bootleg/remix strategy \u2014 greenlit as an authentic promo lane (Brandon + Troy).",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Paul \u2014 Select next single by **Friday (Apr 24)** so content planning can start. Weigh i",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Brandon \u2014 Once single is locked, 10\u201320 content ideas ready by next week. Needs 20-sec MP3 ",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Minul \u2014 Fix Bandsintown login (add US location IDs, send screenshots to Tristin). Grant ",
+    "category": "fix",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Tristin \u2014 Help Minul on Bandsintown. Prep walkthrough on ManyChat/CoBrand for the team. Tr",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Nik \u2014 Share 2026 release calendar with Paul + Tristin. Send early MP3 snippet to Brand",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Troy \u2014 Send MP3 snippet. Collab with Brandon on bootleg/remix ideas.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "After Ours Sync \u2014 Tue Apr 21, 2026 (2:07 PM ET, 40 min)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "28-day release cadence locked. \u2014 Next single target: **May 22, 2026**.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Budget tiering: \u2014 $5K\u2013$20K per track based on performance signals \u2014 spend scales with traction.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Content engine: \u2014 Brandon leads creative. 15\u201320 ideas per release, split IG + TikTok, with \"trial ",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Studio goes live this week \u2014 production capacity unblocks faster content turns.",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Shared events dashboard \u2014 to coordinate show bookings with content/release timing.",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Bootleg/remix strategy \u2014 greenlit as an authentic promo lane (Brandon + Troy).",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Paul \u2014 Select next single by **Friday (Apr 24)** so content planning can start. Weigh i",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Brandon \u2014 Once single is locked, 10\u201320 content ideas ready by next week. Needs 20-sec MP3 ",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Minul \u2014 Fix Bandsintown login (add US location IDs, send screenshots to Tristin). Grant ",
+    "category": "fix",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Tristin \u2014 Help Minul on Bandsintown. Prep walkthrough on ManyChat/CoBrand for the team. Tr",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Nik \u2014 Share 2026 release calendar with Paul + Tristin. Send early MP3 snippet to Brand",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Troy \u2014 Send MP3 snippet. Collab with Brandon on bootleg/remix ideas.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "After Ours Sync \u2014 Tue Apr 21, 2026 (2:07 PM ET, 40 min)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "28-day release cadence locked. \u2014 Next single target: **May 22, 2026**.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Budget tiering: \u2014 $5K\u2013$20K per track based on performance signals \u2014 spend scales with traction.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Content engine: \u2014 Brandon leads creative. 15\u201320 ideas per release, split IG + TikTok, with \"trial ",
+    "category": "content",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Studio goes live this week \u2014 production capacity unblocks faster content turns.",
+    "category": "content",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Shared events dashboard \u2014 to coordinate show bookings with content/release timing.",
+    "category": "content",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Bootleg/remix strategy \u2014 greenlit as an authentic promo lane (Brandon + Troy).",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Paul \u2014 Select next single by **Friday (Apr 24)** so content planning can start. Weigh i",
+    "category": "content",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Brandon \u2014 Once single is locked, 10\u201320 content ideas ready by next week. Needs 20-sec MP3 ",
+    "category": "content",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Minul \u2014 Fix Bandsintown login (add US location IDs, send screenshots to Tristin). Grant ",
+    "category": "fix",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Tristin \u2014 Help Minul on Bandsintown. Prep walkthrough on ManyChat/CoBrand for the team. Tr",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Nik \u2014 Share 2026 release calendar with Paul + Tristin. Send early MP3 snippet to Brand",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Troy \u2014 Send MP3 snippet. Collab with Brandon on bootleg/remix ideas.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "After Ours Sync \u2014 Tue Apr 21, 2026 (2:07 PM ET, 40 min)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "28-day release cadence locked. \u2014 Next single target: **May 22, 2026**.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Budget tiering: \u2014 $5K\u2013$20K per track based on performance signals \u2014 spend scales with traction.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Content engine: \u2014 Brandon leads creative. 15\u201320 ideas per release, split IG + TikTok, with \"trial ",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Studio goes live this week \u2014 production capacity unblocks faster content turns.",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Shared events dashboard \u2014 to coordinate show bookings with content/release timing.",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Bootleg/remix strategy \u2014 greenlit as an authentic promo lane (Brandon + Troy).",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Paul \u2014 Select next single by **Friday (Apr 24)** so content planning can start. Weigh i",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Brandon \u2014 Once single is locked, 10\u201320 content ideas ready by next week. Needs 20-sec MP3 ",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Minul \u2014 Fix Bandsintown login (add US location IDs, send screenshots to Tristin). Grant ",
+    "category": "fix",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Tristin \u2014 Help Minul on Bandsintown. Prep walkthrough on ManyChat/CoBrand for the team. Tr",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Nik \u2014 Share 2026 release calendar with Paul + Tristin. Send early MP3 snippet to Brand",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "Troy \u2014 Send MP3 snippet. Collab with Brandon on bootleg/remix ideas.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-20T12:00:00-04:00",
     "action": "Health Morning Check \u2014 8:00 AM",
     "category": "other",
@@ -885,318 +1197,6 @@
     "ts": "2026-04-20T12:00:00-04:00",
     "action": "3:00\u20133:30 PM \u2014 YoSharma Check-In",
     "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "6:00\u20136:30 PM \u2014 Chris x Nik",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Tomorrow's Schedule (Tue Apr 21, 2026)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "12:00\u20131:00 PM \u2014 Limited Supply Podcast Recording",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "1:00\u20131:30 PM \u2014 Check-In",
-    "category": "check",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "1:30\u20132:00 PM \u2014 Zurp Check-In",
-    "category": "check",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "2:00\u20133:00 PM \u2014 \ud83c\udfa7 After Ours Sync",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "3:00\u20133:30 PM \u2014 YoSharma Check-In",
-    "category": "check",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "6:00\u20136:30 PM \u2014 Chris x Nik",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Tomorrow's Schedule (Tue Apr 21, 2026)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "12:00\u20131:00 PM \u2014 Limited Supply Podcast Recording",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "1:00\u20131:30 PM \u2014 Check-In",
-    "category": "check",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "1:30\u20132:00 PM \u2014 Zurp Check-In",
-    "category": "check",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "2:00\u20133:00 PM \u2014 \ud83c\udfa7 After Ours Sync",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "3:00\u20133:30 PM \u2014 YoSharma Check-In",
-    "category": "check",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "6:00\u20136:30 PM \u2014 Chris x Nik",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Tomorrow's Schedule (Tue Apr 21, 2026)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "12:00\u20131:00 PM \u2014 Limited Supply Podcast Recording",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "1:00\u20131:30 PM \u2014 Check-In",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "1:30\u20132:00 PM \u2014 Zurp Check-In",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "2:00\u20133:00 PM \u2014 \ud83c\udfa7 After Ours Sync",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "3:00\u20133:30 PM \u2014 YoSharma Check-In",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "6:00\u20136:30 PM \u2014 Chris x Nik",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "\ud83d\udccb END-OF-DAY DEBRIEF \u2014 21:30 ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Health tracker: 17 days stale \u2014 (last log 4/3). On reta, appetite-suppression risk real. Morning alert sent with",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Macra brand assets \u2192 Joseph \u2014 EOD deliverable. Confirm before tomorrow whether Nik sent.",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Jim Jannuzzio (Tondo Fulfillment) \u2192 Rolling Ventures TB \u2014 email, 18:06, flagged IMPORTANT/PERSONAL. Likely term sheet/deal doc. Not cron-u",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Paramount 4/29 VE Prep \u2014 Nik left doc comment 16:30 re: needs 10K budget. Self-note, no action from me.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Scott Swanson / BCMOne 1180 Media settlement \u2014 $16,782.78 offer. External counsel handling, Nik CC'd only.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Tomorrow (Tue 4/21): \u2014 6 meetings, 12 PM\u20133 PM solid stack + 6 PM Chris call. Start: Limited Supply Podc",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "\ud83d\udccb END-OF-DAY DEBRIEF \u2014 21:30 ET",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Health tracker: 17 days stale \u2014 (last log 4/3). On reta, appetite-suppression risk real. Morning alert sent with",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Macra brand assets \u2192 Joseph \u2014 EOD deliverable. Confirm before tomorrow whether Nik sent.",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Jim Jannuzzio (Tondo Fulfillment) \u2192 Rolling Ventures TB \u2014 email, 18:06, flagged IMPORTANT/PERSONAL. Likely term sheet/deal doc. Not cron-u",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Paramount 4/29 VE Prep \u2014 Nik left doc comment 16:30 re: needs 10K budget. Self-note, no action from me.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Scott Swanson / BCMOne 1180 Media settlement \u2014 $16,782.78 offer. External counsel handling, Nik CC'd only.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Tomorrow (Tue 4/21): \u2014 6 meetings, 12 PM\u20133 PM solid stack + 6 PM Chris call. Start: Limited Supply Podc",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "\ud83d\udccb END-OF-DAY DEBRIEF \u2014 21:30 ET",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Health tracker: 17 days stale \u2014 (last log 4/3). On reta, appetite-suppression risk real. Morning alert sent with",
-    "category": "outbound",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Macra brand assets \u2192 Joseph \u2014 EOD deliverable. Confirm before tomorrow whether Nik sent.",
-    "category": "outbound",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Jim Jannuzzio (Tondo Fulfillment) \u2192 Rolling Ventures TB \u2014 email, 18:06, flagged IMPORTANT/PERSONAL. Likely term sheet/deal doc. Not cron-u",
-    "category": "outbound",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Paramount 4/29 VE Prep \u2014 Nik left doc comment 16:30 re: needs 10K budget. Self-note, no action from me.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Scott Swanson / BCMOne 1180 Media settlement \u2014 $16,782.78 offer. External counsel handling, Nik CC'd only.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Tomorrow (Tue 4/21): \u2014 6 meetings, 12 PM\u20133 PM solid stack + 6 PM Chris call. Start: Limited Supply Podc",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "\ud83d\udccb END-OF-DAY DEBRIEF \u2014 21:30 ET",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Health tracker: 17 days stale \u2014 (last log 4/3). On reta, appetite-suppression risk real. Morning alert sent with",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Macra brand assets \u2192 Joseph \u2014 EOD deliverable. Confirm before tomorrow whether Nik sent.",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Jim Jannuzzio (Tondo Fulfillment) \u2192 Rolling Ventures TB \u2014 email, 18:06, flagged IMPORTANT/PERSONAL. Likely term sheet/deal doc. Not cron-u",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Paramount 4/29 VE Prep \u2014 Nik left doc comment 16:30 re: needs 10K budget. Self-note, no action from me.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Scott Swanson / BCMOne 1180 Media settlement \u2014 $16,782.78 offer. External counsel handling, Nik CC'd only.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Tomorrow (Tue 4/21): \u2014 6 meetings, 12 PM\u20133 PM solid stack + 6 PM Chris call. Start: Limited Supply Podc",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "Tomorrow's Schedule (Mon 4/20)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-19T21:00:00-04:00",
-    "action": "All-day: \u2014 Pay Electricity Bill (Alisha)",
-    "category": "other",
     "bot": "crm"
   }
 ]
