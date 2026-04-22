@@ -48,6 +48,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-22T1:03:00-04:00",
+    "action": "17:02 \u2014 Health dinner check (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-22T1:03:00-04:00",
+    "action": "17:02 \u2014 Health dinner check (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-22T1:03:00-04:00",
+    "action": "17:02 \u2014 Health dinner check (cron)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-22T1:03:00-04:00",
+    "action": "17:02 \u2014 Health dinner check (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-22T12:30:00-04:00",
     "action": "\ud83c\udf99\ufe0f Fireflies \u2014 Event @ Times Center (11:30 AM ET)",
     "category": "other",
@@ -1173,30 +1197,6 @@
     "ts": "2026-04-21T10:30:00-04:00",
     "action": "Rameez \u2014 Compile + share venue contacts/logos to map known relationships. Share shipment ",
     "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Troy \u2014 Follow Miles @ Virgo on venue + licensing. Escalate Ashish non-response on merch",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Dil \u2014 Send photos of 8-unit machine for planning. Keep CRM + machinery tracking curren",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Jim \u2014 Communicate refund timing to customer, confirm with Nikki when batteries return.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Minul \u2014 (standing) payments dashboard updates (per Slack thread today).",
-    "category": "other",
     "bot": "macra"
   }
 ]
