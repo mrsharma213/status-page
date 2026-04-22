@@ -1128,74 +1128,74 @@
     "bot": "writer"
   },
   {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Health Morning Check \u2014 8:00 AM",
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "20:30 - Email scan (cron)",
     "category": "other",
     "bot": "crm"
   },
   {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Health Morning Check \u2014 8:00 AM",
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "jet@nik.co \u2014 5 unread \u2014 4x Anthropic receipts, 1x Nik Sharma (workweek.com) subscription conf",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 mostly promotions (Nerdy Nuts, Alibaba, Cadence, Function Health, Ja",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "20:30 - Email scan (cron)",
     "category": "other",
     "bot": "macra"
   },
   {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Health Morning Check \u2014 8:00 AM",
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "jet@nik.co \u2014 5 unread \u2014 4x Anthropic receipts, 1x Nik Sharma (workweek.com) subscription conf",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 mostly promotions (Nerdy Nuts, Alibaba, Cadence, Function Health, Ja",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "20:30 - Email scan (cron)",
     "category": "other",
     "bot": "printingpress"
   },
   {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Health Morning Check \u2014 8:00 AM",
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "jet@nik.co \u2014 5 unread \u2014 4x Anthropic receipts, 1x Nik Sharma (workweek.com) subscription conf",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 mostly promotions (Nerdy Nuts, Alibaba, Cadence, Function Health, Ja",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "20:30 - Email scan (cron)",
     "category": "other",
     "bot": "writer"
   },
   {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Email scan 08:30 ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Email scan 08:30 ET",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Email scan 08:30 ET",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Email scan 08:30 ET",
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "jet@nik.co \u2014 5 unread \u2014 4x Anthropic receipts, 1x Nik Sharma (workweek.com) subscription conf",
     "category": "other",
     "bot": "writer"
   },
   {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Dashboard Refresh \u2014 12:02 PM",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Dashboard Refresh \u2014 12:02 PM",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Dashboard Refresh \u2014 12:02 PM",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-20T12:00:00-04:00",
-    "action": "Dashboard Refresh \u2014 12:02 PM",
+    "ts": "2026-04-21T10:30:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 mostly promotions (Nerdy Nuts, Alibaba, Cadence, Function Health, Ja",
     "category": "other",
     "bot": "writer"
   }
