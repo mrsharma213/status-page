@@ -96,6 +96,54 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "18:30 \u2014 Email scan (cron) \u2014 \ud83d\udea8 URGENT FLAGGED",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "Action taken: \u2014 Sent alert to Jet Status bot. Nik needs to verify with Zurp partners (Troy, Dil,",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "18:30 \u2014 Email scan (cron) \u2014 \ud83d\udea8 URGENT FLAGGED",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "Action taken: \u2014 Sent alert to Jet Status bot. Nik needs to verify with Zurp partners (Troy, Dil,",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "18:30 \u2014 Email scan (cron) \u2014 \ud83d\udea8 URGENT FLAGGED",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "Action taken: \u2014 Sent alert to Jet Status bot. Nik needs to verify with Zurp partners (Troy, Dil,",
+    "category": "outbound",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "18:30 \u2014 Email scan (cron) \u2014 \ud83d\udea8 URGENT FLAGGED",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "Action taken: \u2014 Sent alert to Jet Status bot. Nik needs to verify with Zurp partners (Troy, Dil,",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-22T12:30:00-04:00",
     "action": "\ud83c\udf99\ufe0f Fireflies \u2014 Event @ Times Center (11:30 AM ET)",
     "category": "other",
@@ -1150,53 +1198,5 @@
     "action": "Rameez \u2014 Compile + share venue contacts/logos to map known relationships. Share shipment ",
     "category": "deploy",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Troy \u2014 Follow Miles @ Virgo on venue + licensing. Escalate Ashish non-response on merch",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Dil \u2014 Send photos of 8-unit machine for planning. Keep CRM + machinery tracking curren",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Jim \u2014 Communicate refund timing to customer, confirm with Nikki when batteries return.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Minul \u2014 (standing) payments dashboard updates (per Slack thread today).",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Zurp Check-In \u2014 Tue Apr 21, 2026 (1:30 PM ET)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Refund policy set: \u2014 Charge customer $50 for charger use, refund battery fees once batteries are retu",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Tiered partner pricing: \u2014 Year 1 = 70/30 split, stepping to 50/50 by Year 3.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Go-to-market shift: \u2014 Moving off mass email \u2192 targeted outreach through known contacts. Team to map pe",
-    "category": "outbound",
-    "bot": "macra"
   }
 ]
