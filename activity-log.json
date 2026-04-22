@@ -1,5 +1,149 @@
 [
   {
+    "ts": "2026-04-22T1:03:00-04:00",
+    "action": "Health lunch check (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-22T1:03:00-04:00",
+    "action": "Health lunch check (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-22T1:03:00-04:00",
+    "action": "Health lunch check (cron)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-22T1:03:00-04:00",
+    "action": "Health lunch check (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "\ud83c\udf99\ufe0f Fireflies \u2014 Event @ Times Center (11:30 AM ET)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "Sept 10th preferred \u2014 over Oct 28th (timing before Black Friday + discount eligibility)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "Rameez: \u2014 Drive internal decision Sept 10 vs Oct 28 \u2192 loop back to Morgan ASAP (competing ",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "Rameez: \u2014 Secure budget approval + date confirmation from EcomFounders leadership",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "Rameez: \u2014 Share prior event alcohol/liquor service insights w/ Morgan",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "\ud83c\udf99\ufe0f Fireflies \u2014 Event @ Times Center (11:30 AM ET)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "Sept 10th preferred \u2014 over Oct 28th (timing before Black Friday + discount eligibility)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "Rameez: \u2014 Drive internal decision Sept 10 vs Oct 28 \u2192 loop back to Morgan ASAP (competing ",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "Rameez: \u2014 Secure budget approval + date confirmation from EcomFounders leadership",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "Rameez: \u2014 Share prior event alcohol/liquor service insights w/ Morgan",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "\ud83c\udf99\ufe0f Fireflies \u2014 Event @ Times Center (11:30 AM ET)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "Sept 10th preferred \u2014 over Oct 28th (timing before Black Friday + discount eligibility)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "Rameez: \u2014 Drive internal decision Sept 10 vs Oct 28 \u2192 loop back to Morgan ASAP (competing ",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "Rameez: \u2014 Secure budget approval + date confirmation from EcomFounders leadership",
+    "category": "deploy",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "Rameez: \u2014 Share prior event alcohol/liquor service insights w/ Morgan",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "\ud83c\udf99\ufe0f Fireflies \u2014 Event @ Times Center (11:30 AM ET)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "Sept 10th preferred \u2014 over Oct 28th (timing before Black Friday + discount eligibility)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "Rameez: \u2014 Drive internal decision Sept 10 vs Oct 28 \u2192 loop back to Morgan ASAP (competing ",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "Rameez: \u2014 Secure budget approval + date confirmation from EcomFounders leadership",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-22T12:30:00-04:00",
+    "action": "Rameez: \u2014 Share prior event alcohol/liquor service insights w/ Morgan",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-22T12:00:00-04:00",
     "action": "08:30 \u2014 Email scan (cron)",
     "category": "other",
@@ -1054,149 +1198,5 @@
     "action": "Go-to-market shift: \u2014 Moving off mass email \u2192 targeted outreach through known contacts. Team to map pe",
     "category": "outbound",
     "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Shipment timeline: \u2014 New units land ~Apr 28, customs adds 7\u201310 days, so useable inventory ~May 10.",
-    "category": "deploy",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Referral program: \u2014 Framework being decided to formally onboard Santi and incentivize venue intros.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Nik \u2014 Follow Nathan/Nowhere Thurs. Paperwork w/ Troy on Virgo licensing. Maintain/upda",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Rameez \u2014 Compile + share venue contacts/logos to map known relationships. Share shipment ",
-    "category": "deploy",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Troy \u2014 Follow Miles @ Virgo on venue + licensing. Escalate Ashish non-response on merch",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Dil \u2014 Send photos of 8-unit machine for planning. Keep CRM + machinery tracking curren",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Jim \u2014 Communicate refund timing to customer, confirm with Nikki when batteries return.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Minul \u2014 (standing) payments dashboard updates (per Slack thread today).",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Zurp Check-In \u2014 Tue Apr 21, 2026 (1:30 PM ET)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Refund policy set: \u2014 Charge customer $50 for charger use, refund battery fees once batteries are retu",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Tiered partner pricing: \u2014 Year 1 = 70/30 split, stepping to 50/50 by Year 3.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Go-to-market shift: \u2014 Moving off mass email \u2192 targeted outreach through known contacts. Team to map pe",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Shipment timeline: \u2014 New units land ~Apr 28, customs adds 7\u201310 days, so useable inventory ~May 10.",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Referral program: \u2014 Framework being decided to formally onboard Santi and incentivize venue intros.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Nik \u2014 Follow Nathan/Nowhere Thurs. Paperwork w/ Troy on Virgo licensing. Maintain/upda",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Rameez \u2014 Compile + share venue contacts/logos to map known relationships. Share shipment ",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Troy \u2014 Follow Miles @ Virgo on venue + licensing. Escalate Ashish non-response on merch",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Dil \u2014 Send photos of 8-unit machine for planning. Keep CRM + machinery tracking curren",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Jim \u2014 Communicate refund timing to customer, confirm with Nikki when batteries return.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Minul \u2014 (standing) payments dashboard updates (per Slack thread today).",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "18:30 \u2014 Email scan (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "18:30 \u2014 Email scan (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "18:30 \u2014 Email scan (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "18:30 \u2014 Email scan (cron)",
-    "category": "other",
-    "bot": "writer"
   }
 ]
