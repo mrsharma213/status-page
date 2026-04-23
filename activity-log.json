@@ -168,6 +168,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "21:00 \u2014 Tomorrow's Schedule (Thu Apr 23, 2026)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "21:00 \u2014 Tomorrow's Schedule (Thu Apr 23, 2026)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "21:00 \u2014 Tomorrow's Schedule (Thu Apr 23, 2026)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "21:00 \u2014 Tomorrow's Schedule (Thu Apr 23, 2026)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-22T12:30:00-04:00",
     "action": "\ud83c\udf99\ufe0f Fireflies \u2014 Event @ Times Center (11:30 AM ET)",
     "category": "other",
@@ -1174,29 +1198,5 @@
     "action": "DM:Google Drive \u2014 Automated share notification.",
     "category": "other",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Zurp Check-In \u2014 Tue Apr 21, 2026 (1:30 PM ET)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Refund policy set: \u2014 Charge customer $50 for charger use, refund battery fees once batteries are retu",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Tiered partner pricing: \u2014 Year 1 = 70/30 split, stepping to 50/50 by Year 3.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Go-to-market shift: \u2014 Moving off mass email \u2192 targeted outreach through known contacts. Team to map pe",
-    "category": "outbound",
-    "bot": "crm"
   }
 ]
