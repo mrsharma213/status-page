@@ -1,5 +1,53 @@
 [
   {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Health dinner check (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "TODO (main session): \u2014 Propose a lightweight intake flow \u2014 photo or text \u2192 auto-logged to `memory/meals",
+    "category": "memory",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Health dinner check (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "TODO (main session): \u2014 Propose a lightweight intake flow \u2014 photo or text \u2192 auto-logged to `memory/meals",
+    "category": "memory",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Health dinner check (cron)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "TODO (main session): \u2014 Propose a lightweight intake flow \u2014 photo or text \u2192 auto-logged to `memory/meals",
+    "category": "memory",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Health dinner check (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "TODO (main session): \u2014 Propose a lightweight intake flow \u2014 photo or text \u2192 auto-logged to `memory/meals",
+    "category": "memory",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-23T12:30:00-04:00",
     "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (ignore)",
     "category": "other",
@@ -1150,53 +1198,5 @@
     "action": "Nik \u2014 Share 2026 release calendar with Paul + Tristin. Send early MP3 snippet to Brand",
     "category": "other",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Troy \u2014 Send MP3 snippet. Collab with Brandon on bootleg/remix ideas.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "After Ours Sync \u2014 Tue Apr 21, 2026 (2:07 PM ET, 40 min)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "28-day release cadence locked. \u2014 Next single target: **May 22, 2026**.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Budget tiering: \u2014 $5K\u2013$20K per track based on performance signals \u2014 spend scales with traction.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Content engine: \u2014 Brandon leads creative. 15\u201320 ideas per release, split IG + TikTok, with \"trial ",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Studio goes live this week \u2014 production capacity unblocks faster content turns.",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Shared events dashboard \u2014 to coordinate show bookings with content/release timing.",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Bootleg/remix strategy \u2014 greenlit as an authentic promo lane (Brandon + Troy).",
-    "category": "other",
-    "bot": "macra"
   }
 ]
