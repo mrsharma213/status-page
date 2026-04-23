@@ -216,6 +216,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "18:30 Email scan (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "18:30 Email scan (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "18:30 Email scan (cron)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "18:30 Email scan (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-23T12:30:00-04:00",
     "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (ignore)",
     "category": "other",
@@ -1174,29 +1198,5 @@
     "action": "Heartbeat interval way too short \u2014 polls firing every 3 min instead of ~30 min between 12:04-12:30 PM",
     "category": "check",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "pre-call-briefs cron erroring \u2014 \"Unsupported channel: telegram:jetstatus:direct:1984126761\". JetStatus routing n",
-    "category": "research",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Anthropic API access turned off \u2014 2 failed payments ($272.19 + $31.33). Needs card update (flagged in morning brie",
-    "category": "reminder",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Email Scan - 12:30 PM ET",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Infrastructure Issues (noted 12:30 PM)",
-    "category": "other",
-    "bot": "printingpress"
   }
 ]
