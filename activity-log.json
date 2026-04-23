@@ -72,6 +72,150 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "\ud83c\udf99\ufe0f Fireflies Check \u2014 6:00 PM ET (Cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Nik: \u2014 Build ad creative engine + finalize funnel strategy (paid stays paused). Coordin",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Rameez: \u2014 Prioritize welcome + post-purchase email flows. Finalize sample quote + payment.",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Myles: \u2014 Deliver all product flows next week. Place test orders for unboxing eval.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Troy: \u2014 Prioritize Macra app readiness.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Jeet: \u2014 Set up Shopify Digital Downloads with interim PDF.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "\ud83c\udf99\ufe0f Fireflies Check \u2014 6:00 PM ET (Cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Nik: \u2014 Build ad creative engine + finalize funnel strategy (paid stays paused). Coordin",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Rameez: \u2014 Prioritize welcome + post-purchase email flows. Finalize sample quote + payment.",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Myles: \u2014 Deliver all product flows next week. Place test orders for unboxing eval.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Troy: \u2014 Prioritize Macra app readiness.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Jeet: \u2014 Set up Shopify Digital Downloads with interim PDF.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "\ud83c\udf99\ufe0f Fireflies Check \u2014 6:00 PM ET (Cron)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Nik: \u2014 Build ad creative engine + finalize funnel strategy (paid stays paused). Coordin",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Rameez: \u2014 Prioritize welcome + post-purchase email flows. Finalize sample quote + payment.",
+    "category": "outbound",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Myles: \u2014 Deliver all product flows next week. Place test orders for unboxing eval.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Troy: \u2014 Prioritize Macra app readiness.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Jeet: \u2014 Set up Shopify Digital Downloads with interim PDF.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "\ud83c\udf99\ufe0f Fireflies Check \u2014 6:00 PM ET (Cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Nik: \u2014 Build ad creative engine + finalize funnel strategy (paid stays paused). Coordin",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Rameez: \u2014 Prioritize welcome + post-purchase email flows. Finalize sample quote + payment.",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Myles: \u2014 Deliver all product flows next week. Place test orders for unboxing eval.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Troy: \u2014 Prioritize Macra app readiness.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "Jeet: \u2014 Set up Shopify Digital Downloads with interim PDF.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-23T12:30:00-04:00",
     "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (ignore)",
     "category": "other",
@@ -1054,149 +1198,5 @@
     "action": "Infrastructure Issues (noted 12:30 PM)",
     "category": "other",
     "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Heartbeat interval way too short \u2014 polls firing every 3 min instead of ~30 min between 12:04-12:30 PM",
-    "category": "check",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "pre-call-briefs cron erroring \u2014 \"Unsupported channel: telegram:jetstatus:direct:1984126761\". JetStatus routing n",
-    "category": "research",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Anthropic API access turned off \u2014 2 failed payments ($272.19 + $31.33). Needs card update (flagged in morning brie",
-    "category": "reminder",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Email Scan - 12:30 PM ET",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Infrastructure Issues (noted 12:30 PM)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Heartbeat interval way too short \u2014 polls firing every 3 min instead of ~30 min between 12:04-12:30 PM",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "pre-call-briefs cron erroring \u2014 \"Unsupported channel: telegram:jetstatus:direct:1984126761\". JetStatus routing n",
-    "category": "research",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Anthropic API access turned off \u2014 2 failed payments ($272.19 + $31.33). Needs card update (flagged in morning brie",
-    "category": "reminder",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "13:04 - Health Lunch Check (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "13:04 - Health Lunch Check (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "13:04 - Health Lunch Check (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "13:04 - Health Lunch Check (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Email scan \u2014 14:30 ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Email scan \u2014 14:30 ET",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Email scan \u2014 14:30 ET",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Email scan \u2014 14:30 ET",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "After Ours Sync \u2014 Tue Apr 21, 2026 (2:07 PM ET, 40 min)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "28-day release cadence locked. \u2014 Next single target: **May 22, 2026**.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Budget tiering: \u2014 $5K\u2013$20K per track based on performance signals \u2014 spend scales with traction.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Content engine: \u2014 Brandon leads creative. 15\u201320 ideas per release, split IG + TikTok, with \"trial ",
-    "category": "content",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Studio goes live this week \u2014 production capacity unblocks faster content turns.",
-    "category": "content",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Shared events dashboard \u2014 to coordinate show bookings with content/release timing.",
-    "category": "content",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Bootleg/remix strategy \u2014 greenlit as an authentic promo lane (Brandon + Troy).",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Paul \u2014 Select next single by **Friday (Apr 24)** so content planning can start. Weigh i",
-    "category": "content",
-    "bot": "crm"
   }
 ]
