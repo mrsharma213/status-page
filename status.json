@@ -1,11 +1,11 @@
 {
-  "overall": "down",
-  "updatedAt": "April 23, 2026 at 02:12 PM ET",
-  "updatedAtUTC": "2026-04-23T18:12:23Z",
+  "overall": "operational",
+  "updatedAt": "April 23, 2026 at 02:42 PM ET",
+  "updatedAtUTC": "2026-04-23T18:42:22Z",
   "infrastructure": [
-    {"name": "Gateway", "emoji": "🖥️", "status": "down"},
-    {"name": "Anthropic API", "emoji": "🧠", "status": "down"},
-    {"name": "Exec Engine", "emoji": "⚙️", "status": "down"}
+    {"name": "Gateway", "emoji": "🖥️", "status": "operational"},
+    {"name": "Anthropic API", "emoji": "🧠", "status": "operational"},
+    {"name": "Exec Engine", "emoji": "⚙️", "status": "operational"}
   ],
   "bots": [
     {"name": "Jet (Main)", "emoji": "⚡", "status": "operational"},
