@@ -1,5 +1,53 @@
 [
   {
+    "ts": "2026-04-23T12:30:00-04:00",
+    "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (ignore)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T12:30:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 all routine:",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T12:30:00-04:00",
+    "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (ignore)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T12:30:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 all routine:",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T12:30:00-04:00",
+    "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (ignore)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T12:30:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 all routine:",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T12:30:00-04:00",
+    "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (ignore)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-23T12:30:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread \u2014 all routine:",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-22T1:03:00-04:00",
     "action": "Health lunch check (cron)",
     "category": "other",
@@ -1150,53 +1198,5 @@
     "action": "No entries for today (2026-04-21) \u2014 . Last logged day: 2026-04-03.",
     "category": "memory",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Health Dinner Check \u2014 17:02 ET (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "No entries for today (2026-04-21) \u2014 . Last logged day: 2026-04-03.",
-    "category": "memory",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Health Dinner Check \u2014 17:02 ET (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "No entries for today (2026-04-21) \u2014 . Last logged day: 2026-04-03.",
-    "category": "memory",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Slack Digest \u2014 17:15 ET (cron scan, last 2h)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "#office-ops \u2014 Simon asked for office address \u2192 Dan answered (66 W Broadway, Fl 2). Dan confirm",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "#office-ops \u2014 Minul `@channel` asking who's made payments to folks so he can update the dash. ",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "#limitedsupply_hq \u2014 Rameez told someone \"good flag, let me circle back with the file.\"",
-    "category": "reminder",
-    "bot": "crm"
   }
 ]
