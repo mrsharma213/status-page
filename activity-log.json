@@ -192,6 +192,126 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "21:30 \u2014 END-OF-DAY DEBRIEF",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "NYT Times Center event (Fireflies, 11:30 AM): \u2014 Q4 EcomFounders summit locking in. **Sept 10 preferred** over Oct 28 (pre-BF tim",
+    "category": "research",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "VitaWild deal thread \u2014 Adam Wagner shared data room (forwarded 12:30 PM scan). Non-urgent but now in Ni",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "Legal/ops: \u2014 Dylan Nevescox (Greenberg Traurig) sent Teams link for \"Sharma Payroll\" to Minul",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "Jaime Egan/Instant: \u2014 confirmed 4:30 PM meeting today.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "21:30 \u2014 END-OF-DAY DEBRIEF",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "NYT Times Center event (Fireflies, 11:30 AM): \u2014 Q4 EcomFounders summit locking in. **Sept 10 preferred** over Oct 28 (pre-BF tim",
+    "category": "research",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "VitaWild deal thread \u2014 Adam Wagner shared data room (forwarded 12:30 PM scan). Non-urgent but now in Ni",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "Legal/ops: \u2014 Dylan Nevescox (Greenberg Traurig) sent Teams link for \"Sharma Payroll\" to Minul",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "Jaime Egan/Instant: \u2014 confirmed 4:30 PM meeting today.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "21:30 \u2014 END-OF-DAY DEBRIEF",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "NYT Times Center event (Fireflies, 11:30 AM): \u2014 Q4 EcomFounders summit locking in. **Sept 10 preferred** over Oct 28 (pre-BF tim",
+    "category": "research",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "VitaWild deal thread \u2014 Adam Wagner shared data room (forwarded 12:30 PM scan). Non-urgent but now in Ni",
+    "category": "outbound",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "Legal/ops: \u2014 Dylan Nevescox (Greenberg Traurig) sent Teams link for \"Sharma Payroll\" to Minul",
+    "category": "outbound",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "Jaime Egan/Instant: \u2014 confirmed 4:30 PM meeting today.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "21:30 \u2014 END-OF-DAY DEBRIEF",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "NYT Times Center event (Fireflies, 11:30 AM): \u2014 Q4 EcomFounders summit locking in. **Sept 10 preferred** over Oct 28 (pre-BF tim",
+    "category": "research",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "VitaWild deal thread \u2014 Adam Wagner shared data room (forwarded 12:30 PM scan). Non-urgent but now in Ni",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "Legal/ops: \u2014 Dylan Nevescox (Greenberg Traurig) sent Teams link for \"Sharma Payroll\" to Minul",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-22T17:15:00-04:00",
+    "action": "Jaime Egan/Instant: \u2014 confirmed 4:30 PM meeting today.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-22T12:30:00-04:00",
     "action": "\ud83c\udf99\ufe0f Fireflies \u2014 Event @ Times Center (11:30 AM ET)",
     "category": "other",
@@ -1078,125 +1198,5 @@
     "action": "#limitedsupply_hq \u2014 Rameez told someone \"good flag, let me circle back with the file.\"",
     "category": "reminder",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "#mpdm-nik--bradb--jon-1 \u2014 Nik himself replied re: Lunar site quote/designer partner.",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "DM:Google Drive \u2014 Automated share notification.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Slack Digest \u2014 17:15 ET (cron scan, last 2h)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "#office-ops \u2014 Simon asked for office address \u2192 Dan answered (66 W Broadway, Fl 2). Dan confirm",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "#office-ops \u2014 Minul `@channel` asking who's made payments to folks so he can update the dash. ",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "#limitedsupply_hq \u2014 Rameez told someone \"good flag, let me circle back with the file.\"",
-    "category": "reminder",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "#mpdm-nik--bradb--jon-1 \u2014 Nik himself replied re: Lunar site quote/designer partner.",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "DM:Google Drive \u2014 Automated share notification.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Slack Digest \u2014 17:15 ET (cron scan, last 2h)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "#office-ops \u2014 Simon asked for office address \u2192 Dan answered (66 W Broadway, Fl 2). Dan confirm",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "#office-ops \u2014 Minul `@channel` asking who's made payments to folks so he can update the dash. ",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "#limitedsupply_hq \u2014 Rameez told someone \"good flag, let me circle back with the file.\"",
-    "category": "reminder",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "#mpdm-nik--bradb--jon-1 \u2014 Nik himself replied re: Lunar site quote/designer partner.",
-    "category": "outbound",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "DM:Google Drive \u2014 Automated share notification.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Slack Digest \u2014 17:15 ET (cron scan, last 2h)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "#office-ops \u2014 Simon asked for office address \u2192 Dan answered (66 W Broadway, Fl 2). Dan confirm",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "#office-ops \u2014 Minul `@channel` asking who's made payments to folks so he can update the dash. ",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "#limitedsupply_hq \u2014 Rameez told someone \"good flag, let me circle back with the file.\"",
-    "category": "reminder",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "#mpdm-nik--bradb--jon-1 \u2014 Nik himself replied re: Lunar site quote/designer partner.",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "DM:Google Drive \u2014 Automated share notification.",
-    "category": "other",
-    "bot": "writer"
   }
 ]
