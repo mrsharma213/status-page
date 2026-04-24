@@ -1,5 +1,101 @@
 [
   {
+    "ts": "2026-04-23T9:00:00-04:00",
+    "action": "Tomorrow's Schedule (cron: calendar-prep)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T9:00:00-04:00",
+    "action": "Maruchan KO @ 2pm \u2014 kickoff with a major CPG brand. Worth skimming prior notes/emails.",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T9:00:00-04:00",
+    "action": "Rolling Ventures TB @ 1:30pm \u2014 deal pipeline review.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T9:00:00-04:00",
+    "action": "Cordell/Troy @ 5pm \u2014 Zurp-related (Troy is a Zurp partner).",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T9:00:00-04:00",
+    "action": "Tomorrow's Schedule (cron: calendar-prep)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T9:00:00-04:00",
+    "action": "Maruchan KO @ 2pm \u2014 kickoff with a major CPG brand. Worth skimming prior notes/emails.",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T9:00:00-04:00",
+    "action": "Rolling Ventures TB @ 1:30pm \u2014 deal pipeline review.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T9:00:00-04:00",
+    "action": "Cordell/Troy @ 5pm \u2014 Zurp-related (Troy is a Zurp partner).",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T9:00:00-04:00",
+    "action": "Tomorrow's Schedule (cron: calendar-prep)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T9:00:00-04:00",
+    "action": "Maruchan KO @ 2pm \u2014 kickoff with a major CPG brand. Worth skimming prior notes/emails.",
+    "category": "outbound",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T9:00:00-04:00",
+    "action": "Rolling Ventures TB @ 1:30pm \u2014 deal pipeline review.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T9:00:00-04:00",
+    "action": "Cordell/Troy @ 5pm \u2014 Zurp-related (Troy is a Zurp partner).",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T9:00:00-04:00",
+    "action": "Tomorrow's Schedule (cron: calendar-prep)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-23T9:00:00-04:00",
+    "action": "Maruchan KO @ 2pm \u2014 kickoff with a major CPG brand. Worth skimming prior notes/emails.",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-23T9:00:00-04:00",
+    "action": "Rolling Ventures TB @ 1:30pm \u2014 deal pipeline review.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-23T9:00:00-04:00",
+    "action": "Cordell/Troy @ 5pm \u2014 Zurp-related (Troy is a Zurp partner).",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-23T5:03:00-04:00",
     "action": "Health dinner check (cron)",
     "category": "other",
@@ -600,6 +696,30 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-23T08:30:00-04:00",
+    "action": "Email scan (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T08:30:00-04:00",
+    "action": "Email scan (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T08:30:00-04:00",
+    "action": "Email scan (cron)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T08:30:00-04:00",
+    "action": "Email scan (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-22T1:03:00-04:00",
     "action": "Health lunch check (cron)",
     "category": "other",
@@ -1076,126 +1196,6 @@
   {
     "ts": "2026-04-22T12:00:00-04:00",
     "action": "08:30 \u2014 Email scan (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-22T12:00:00-04:00",
-    "action": "09:00 \u2014 Fireflies check (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-22T12:00:00-04:00",
-    "action": "09:00 \u2014 Fireflies check (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-22T12:00:00-04:00",
-    "action": "09:00 \u2014 Fireflies check (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-22T12:00:00-04:00",
-    "action": "09:00 \u2014 Fireflies check (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-22T10:30:00-04:00",
-    "action": "Email Scan",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-22T10:30:00-04:00",
-    "action": "Email Scan",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-22T10:30:00-04:00",
-    "action": "Email Scan",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-22T10:30:00-04:00",
-    "action": "Email Scan",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T12:00:00-04:00",
-    "action": "Health Morning Check \u2014 8:00 AM (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T12:00:00-04:00",
-    "action": "Health crons now paused until Nik picks an option. \u2014 No more daily nudges.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T12:00:00-04:00",
-    "action": "Health Morning Check \u2014 8:00 AM (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T12:00:00-04:00",
-    "action": "Health crons now paused until Nik picks an option. \u2014 No more daily nudges.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T12:00:00-04:00",
-    "action": "Health Morning Check \u2014 8:00 AM (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T12:00:00-04:00",
-    "action": "Health crons now paused until Nik picks an option. \u2014 No more daily nudges.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T12:00:00-04:00",
-    "action": "Health Morning Check \u2014 8:00 AM (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T12:00:00-04:00",
-    "action": "Health crons now paused until Nik picks an option. \u2014 No more daily nudges.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T12:00:00-04:00",
-    "action": "08:30 - Email scan (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T12:00:00-04:00",
-    "action": "08:30 - Email scan (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T12:00:00-04:00",
-    "action": "08:30 - Email scan (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T12:00:00-04:00",
-    "action": "08:30 - Email scan (cron)",
     "category": "other",
     "bot": "writer"
   }
