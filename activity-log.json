@@ -1,5 +1,41 @@
 [
   {
+    "ts": "2026-04-24T14:50:00-04:00",
+    "action": "Narration discipline lesson (logged to MEMORY.md)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T14:50:00-04:00",
+    "action": "/learn flush \u2014 14:51 ET",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T14:50:00-04:00",
+    "action": "Narration discipline lesson (logged to MEMORY.md)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T14:50:00-04:00",
+    "action": "/learn flush \u2014 14:51 ET",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T14:50:00-04:00",
+    "action": "Narration discipline lesson (logged to MEMORY.md)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-24T14:50:00-04:00",
+    "action": "/learn flush \u2014 14:51 ET",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-24T12:30:00-04:00",
     "action": "jet@nik.co: \u2014 1 unread, Anthropic receipt. No action.",
     "category": "other",
@@ -1162,41 +1198,5 @@
     "action": "14:30 \u2014 Email scan (cron)",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-22T1:03:00-04:00",
-    "action": "14:30 \u2014 Email scan (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-22T1:03:00-04:00",
-    "action": "14:30 \u2014 Email scan (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-22T1:03:00-04:00",
-    "action": "17:02 \u2014 Health dinner check (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-22T1:03:00-04:00",
-    "action": "17:02 \u2014 Health dinner check (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-22T1:03:00-04:00",
-    "action": "17:02 \u2014 Health dinner check (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-22T1:03:00-04:00",
-    "action": "17:02 \u2014 Health dinner check (cron)",
-    "category": "other",
-    "bot": "writer"
   }
 ]
