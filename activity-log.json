@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-24T09:00:00-04:00",
+    "action": "Fireflies check (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T09:00:00-04:00",
+    "action": "Fireflies check (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T09:00:00-04:00",
+    "action": "Fireflies check (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-23T9:00:00-04:00",
     "action": "Tomorrow's Schedule (cron: calendar-prep)",
     "category": "other",
@@ -1180,23 +1198,5 @@
     "action": "21:00 \u2014 Tomorrow's Schedule (Thu Apr 23, 2026)",
     "category": "other",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-22T17:15:00-04:00",
-    "action": "21:00 \u2014 Tomorrow's Schedule (Thu Apr 23, 2026)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-22T17:15:00-04:00",
-    "action": "21:00 \u2014 Tomorrow's Schedule (Thu Apr 23, 2026)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-22T17:15:00-04:00",
-    "action": "21:00 \u2014 Tomorrow's Schedule (Thu Apr 23, 2026)",
-    "category": "other",
-    "bot": "writer"
   }
 ]
