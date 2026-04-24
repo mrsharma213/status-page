@@ -1,7 +1,7 @@
 {
   "overall": "operational",
-  "updatedAt": "April 23, 2026 at 11:12 PM ET",
-  "updatedAtUTC": "2026-04-24T03:12:22Z",
+  "updatedAt": "April 23, 2026 at 11:42 PM ET",
+  "updatedAtUTC": "2026-04-24T03:42:20Z",
   "infrastructure": [
     {"name": "Gateway", "emoji": "🖥️", "status": "operational"},
     {"name": "Anthropic API", "emoji": "🧠", "status": "operational"},
@@ -12,7 +12,7 @@
     {"name": "CRM", "emoji": "📇", "status": "operational"},
     {"name": "Macra Supps", "emoji": "💊", "status": "operational"},
     {"name": "Macra App", "emoji": "📱", "status": "operational"},
-    {"name": "Printing Press", "emoji": "🖨️", "status": "operational"},
+    {"name": "Printing Press", "emoji": "🖨️", "status": "unknown"},
     {"name": "Josiah (Writer)", "emoji": "✍️", "status": "operational"},
     {"name": "Chip (Gemma)", "emoji": "🤓", "status": "operational"},
     {"name": "Grok Research", "emoji": "🔍", "status": "operational"},
