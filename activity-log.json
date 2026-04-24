@@ -288,6 +288,150 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "17:36 \u2014 Status page update cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "17:45 \u2014 gbrain live sync cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "\ud83c\udf99\ufe0f Fireflies Check \u2014 6:00 PM ET (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Myles: \u2014 Send peptide list to pharmacy, start group communication, coordinate legal/stake",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Jimmy: \u2014 Explore using existing 3PL shipping account to reduce pharmacy logistics costs.",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Pharmacy: \u2014 Start training/manufacturer procurement process after receiving list; confirm re",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "18:06 \u2014 Dashboard refresh cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "18:07 \u2014 Learning capture cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "17:36 \u2014 Status page update cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "17:45 \u2014 gbrain live sync cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "\ud83c\udf99\ufe0f Fireflies Check \u2014 6:00 PM ET (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Myles: \u2014 Send peptide list to pharmacy, start group communication, coordinate legal/stake",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Jimmy: \u2014 Explore using existing 3PL shipping account to reduce pharmacy logistics costs.",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Pharmacy: \u2014 Start training/manufacturer procurement process after receiving list; confirm re",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "18:06 \u2014 Dashboard refresh cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "18:07 \u2014 Learning capture cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "17:36 \u2014 Status page update cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "17:45 \u2014 gbrain live sync cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "\ud83c\udf99\ufe0f Fireflies Check \u2014 6:00 PM ET (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Myles: \u2014 Send peptide list to pharmacy, start group communication, coordinate legal/stake",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Jimmy: \u2014 Explore using existing 3PL shipping account to reduce pharmacy logistics costs.",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Pharmacy: \u2014 Start training/manufacturer procurement process after receiving list; confirm re",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "18:06 \u2014 Dashboard refresh cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "18:07 \u2014 Learning capture cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-24T09:00:00-04:00",
     "action": "Fireflies check (cron)",
     "category": "other",
@@ -1054,149 +1198,5 @@
     "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (ignore)",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread \u2014 all routine:",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (ignore)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread \u2014 all routine:",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (ignore)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread \u2014 all routine:",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "\ud83c\udf99\ufe0f Fireflies Transcript \u2014 Flexpower Chat (12:00 PM ET, 2026-04-23)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "Owen Van Natta: \u2014 Input on terms/economics; facilitate tech/analytics/capital access; coordinate N",
-    "category": "infra",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "Dylan Wondra: \u2014 Continue engagement with Giannis's family in Athens for final approvals; support",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "\ud83c\udf99\ufe0f Fireflies Transcript \u2014 Flexpower Chat (12:00 PM ET, 2026-04-23)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "Owen Van Natta: \u2014 Input on terms/economics; facilitate tech/analytics/capital access; coordinate N",
-    "category": "infra",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "Dylan Wondra: \u2014 Continue engagement with Giannis's family in Athens for final approvals; support",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "\ud83c\udf99\ufe0f Fireflies Transcript \u2014 Flexpower Chat (12:00 PM ET, 2026-04-23)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "Owen Van Natta: \u2014 Input on terms/economics; facilitate tech/analytics/capital access; coordinate N",
-    "category": "infra",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "Dylan Wondra: \u2014 Continue engagement with Giannis's family in Athens for final approvals; support",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "\ud83c\udf99\ufe0f Fireflies Transcript \u2014 Flexpower Chat (12:00 PM ET, 2026-04-23)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "Owen Van Natta: \u2014 Input on terms/economics; facilitate tech/analytics/capital access; coordinate N",
-    "category": "infra",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "Dylan Wondra: \u2014 Continue engagement with Giannis's family in Athens for final approvals; support",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "Slack digest \u2014 1:15 PM ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "Status: \u2014 Rameez is driving, ball not in Nik's court. Not urgent.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "Slack digest \u2014 1:15 PM ET",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "Status: \u2014 Rameez is driving, ball not in Nik's court. Not urgent.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "Slack digest \u2014 1:15 PM ET",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "Status: \u2014 Rameez is driving, ball not in Nik's court. Not urgent.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "Slack digest \u2014 1:15 PM ET",
-    "category": "other",
-    "bot": "writer"
   }
 ]
