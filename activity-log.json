@@ -264,6 +264,78 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "20:30 \u2014 Email scan (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "jet@nik.co \u2014 3 unread \u2014 Workweek newsletter (Nik Sharma @ Workweek), OLLY marketing, Anthropi",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "nik@nik.co \u2014 2 unread \u2014 Apple/iTunes receipt, Venmo/FanDuel receipt. Nothing urgent.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "20:30 \u2014 Email scan (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "jet@nik.co \u2014 3 unread \u2014 Workweek newsletter (Nik Sharma @ Workweek), OLLY marketing, Anthropi",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "nik@nik.co \u2014 2 unread \u2014 Apple/iTunes receipt, Venmo/FanDuel receipt. Nothing urgent.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "20:30 \u2014 Email scan (cron)",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "jet@nik.co \u2014 3 unread \u2014 Workweek newsletter (Nik Sharma @ Workweek), OLLY marketing, Anthropi",
+    "category": "content",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "nik@nik.co \u2014 2 unread \u2014 Apple/iTunes receipt, Venmo/FanDuel receipt. Nothing urgent.",
+    "category": "other",
+    "bot": "printingpress"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "20:30 \u2014 Email scan (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "jet@nik.co \u2014 3 unread \u2014 Workweek newsletter (Nik Sharma @ Workweek), OLLY marketing, Anthropi",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-23T5:03:00-04:00",
+    "action": "nik@nik.co \u2014 2 unread \u2014 Apple/iTunes receipt, Venmo/FanDuel receipt. Nothing urgent.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-23T12:30:00-04:00",
     "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (ignore)",
     "category": "other",
@@ -1126,77 +1198,5 @@
     "action": "08:30 - Email scan (cron)",
     "category": "other",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T12:00:00-04:00",
-    "action": "Fireflies Check - 09:00 ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T12:00:00-04:00",
-    "action": "Fireflies Check - 09:00 ET",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T12:00:00-04:00",
-    "action": "Fireflies Check - 09:00 ET",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T12:00:00-04:00",
-    "action": "Fireflies Check - 09:00 ET",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Email Scan - 12:30 PM ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Infrastructure Issues (noted 12:30 PM)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "Heartbeat interval way too short \u2014 polls firing every 3 min instead of ~30 min between 12:04-12:30 PM",
-    "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-21T10:30:00-04:00",
-    "action": "pre-call-briefs cron erroring \u2014 \"Unsupported channel: telegram:jetstatus:direct:1984126761\". JetStatus routing n",
-    "category": "research",
-    "bot": "crm"
   }
 ]
