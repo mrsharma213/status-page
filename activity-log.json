@@ -1,5 +1,59 @@
 [
   {
+    "ts": "2026-04-24T12:30:00-04:00",
+    "action": "jet@nik.co: \u2014 1 unread, Anthropic receipt. No action.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:30:00-04:00",
+    "action": "nik@nik.co: \u2014 10 unread. Mostly promo/newsletter noise.",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:30:00-04:00",
+    "action": "Verdict: \u2014 Nothing urgent. NO_REPLY.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:30:00-04:00",
+    "action": "jet@nik.co: \u2014 1 unread, Anthropic receipt. No action.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:30:00-04:00",
+    "action": "nik@nik.co: \u2014 10 unread. Mostly promo/newsletter noise.",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:30:00-04:00",
+    "action": "Verdict: \u2014 Nothing urgent. NO_REPLY.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:30:00-04:00",
+    "action": "jet@nik.co: \u2014 1 unread, Anthropic receipt. No action.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-24T12:30:00-04:00",
+    "action": "nik@nik.co: \u2014 10 unread. Mostly promo/newsletter noise.",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-24T12:30:00-04:00",
+    "action": "Verdict: \u2014 Nothing urgent. NO_REPLY.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-24T09:00:00-04:00",
     "action": "Fireflies check (cron)",
     "category": "other",
@@ -1144,59 +1198,5 @@
     "action": "18:30 \u2014 Email scan (cron) \u2014 \ud83d\udea8 URGENT FLAGGED",
     "category": "other",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-22T17:15:00-04:00",
-    "action": "Action taken: \u2014 Sent alert to Jet Status bot. Nik needs to verify with Zurp partners (Troy, Dil,",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-22T17:15:00-04:00",
-    "action": "18:30 \u2014 Email scan (cron) \u2014 \ud83d\udea8 URGENT FLAGGED",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-22T17:15:00-04:00",
-    "action": "Action taken: \u2014 Sent alert to Jet Status bot. Nik needs to verify with Zurp partners (Troy, Dil,",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-22T17:15:00-04:00",
-    "action": "18:30 \u2014 Email scan (cron) \u2014 \ud83d\udea8 URGENT FLAGGED",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-22T17:15:00-04:00",
-    "action": "Action taken: \u2014 Sent alert to Jet Status bot. Nik needs to verify with Zurp partners (Troy, Dil,",
-    "category": "outbound",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-22T17:15:00-04:00",
-    "action": "18:30 \u2014 Email scan (cron) \u2014 \ud83d\udea8 URGENT FLAGGED",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-22T17:15:00-04:00",
-    "action": "Action taken: \u2014 Sent alert to Jet Status bot. Nik needs to verify with Zurp partners (Troy, Dil,",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-22T17:15:00-04:00",
-    "action": "20:30 Email Scan (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-22T17:15:00-04:00",
-    "action": "20:30 Email Scan (cron)",
-    "category": "other",
-    "bot": "macra"
   }
 ]
