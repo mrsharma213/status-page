@@ -144,6 +144,114 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Session: crm-full-build (depth 1)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Current state of `projects/crm-site`",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Env audit (`~/.openclaw/.env`)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Blockers hit (all three are task's explicit \"stop and ask\" list)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Also worth flagging",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Returned control to main without touching repo or creating Supabase.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Session: crm-full-build (depth 1)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Current state of `projects/crm-site`",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Env audit (`~/.openclaw/.env`)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Blockers hit (all three are task's explicit \"stop and ask\" list)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Also worth flagging",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Returned control to main without touching repo or creating Supabase.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Session: crm-full-build (depth 1)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Current state of `projects/crm-site`",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Env audit (`~/.openclaw/.env`)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Blockers hit (all three are task's explicit \"stop and ask\" list)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Also worth flagging",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "Returned control to main without touching repo or creating Supabase.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-24T09:00:00-04:00",
     "action": "Fireflies check (cron)",
     "category": "other",
@@ -1088,114 +1196,6 @@
   {
     "ts": "2026-04-23T12:30:00-04:00",
     "action": "16:30 Email scan (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (noise)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "16:30 Email scan (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (noise)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "16:30 Email scan (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "jet@nik.co \u2014 1 unread \u2014 Anthropic receipt (noise)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T12:30:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T08:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-23T08:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T08:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-23T08:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-22T1:03:00-04:00",
-    "action": "Health lunch check (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-22T1:03:00-04:00",
-    "action": "Health lunch check (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-22T1:03:00-04:00",
-    "action": "Health lunch check (cron)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-22T1:03:00-04:00",
-    "action": "Health lunch check (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-22T1:03:00-04:00",
-    "action": "14:30 \u2014 Email scan (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-22T1:03:00-04:00",
-    "action": "14:30 \u2014 Email scan (cron)",
     "category": "other",
     "bot": "macra"
   }
