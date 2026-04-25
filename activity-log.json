@@ -882,6 +882,12 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "21:30 \u2014 Daily Debrief (EOD)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-24T09:00:00-04:00",
     "action": "Fireflies check (cron)",
     "category": "other",
@@ -1190,12 +1196,6 @@
   {
     "ts": "2026-04-23T9:00:00-04:00",
     "action": "Maruchan KO @ 2pm \u2014 kickoff with major CPG. Biggest meeting of the day. Needs prep.",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Rolling Ventures TB @ 1:30pm \u2014 pipeline review.",
     "category": "other",
     "bot": "printingpress"
   }
