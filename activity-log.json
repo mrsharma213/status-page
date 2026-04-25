@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "00:08 \u2014 Status page update cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "00:08 \u2014 Status page update cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "00:08 \u2014 Status page update cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-24T14:50:00-04:00",
     "action": "Narration discipline lesson (logged to MEMORY.md)",
     "category": "other",
@@ -1179,24 +1197,6 @@
     "ts": "2026-04-23T9:00:00-04:00",
     "action": "Health/nutrition: \u2014 No meals logged. Tracker stale 20 days. Pattern confirmed \u2014 habit has dropped of",
     "category": "memory",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Maruchan KO @ 2pm \u2014 kickoff with major CPG. Biggest meeting of the day. Needs prep.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Rolling Ventures TB @ 1:30pm \u2014 pipeline review.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Pharmacy TB @ 4:30pm \u2014 context TBD.",
-    "category": "other",
     "bot": "writer"
   }
 ]
