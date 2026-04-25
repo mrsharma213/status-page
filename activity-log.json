@@ -36,6 +36,24 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "01:08 \u2014 Status page update cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "01:08 \u2014 Status page update cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "01:08 \u2014 Status page update cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-24T14:50:00-04:00",
     "action": "Narration discipline lesson (logged to MEMORY.md)",
     "category": "other",
@@ -1178,24 +1196,6 @@
   {
     "ts": "2026-04-23T9:00:00-04:00",
     "action": "21:30 \u2014 Daily Debrief (EOD)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Flexpower chat (12:00): \u2014 Giannis Antetokounmpo CPG partnership forming. Equity-over-fees model, 6-week br",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Macra TB (3:00): \u2014 Launch readiness review. **Paid media ON HOLD until email flows locked (due May ",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "MentorPass / Sterling (2:00): \u2014 Peachy revamp (pause ad spend on old site \u2014 0.5% conv is bleeding budget), shift",
     "category": "other",
     "bot": "writer"
   }
