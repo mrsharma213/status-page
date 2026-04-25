@@ -756,6 +756,24 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "21:38 \u2014 Status page update cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "21:38 \u2014 Status page update cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-24T12:00:00-04:00",
+    "action": "21:38 \u2014 Status page update cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-24T09:00:00-04:00",
     "action": "Fireflies check (cron)",
     "category": "other",
@@ -1180,23 +1198,5 @@
     "action": "Health dinner check (cron)",
     "category": "other",
     "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-23T5:03:00-04:00",
-    "action": "TODO (main session): \u2014 Propose a lightweight intake flow \u2014 photo or text \u2192 auto-logged to `memory/meals",
-    "category": "memory",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-23T5:03:00-04:00",
-    "action": "Health dinner check (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T5:03:00-04:00",
-    "action": "TODO (main session): \u2014 Propose a lightweight intake flow \u2014 photo or text \u2192 auto-logged to `memory/meals",
-    "category": "memory",
-    "bot": "writer"
   }
 ]
