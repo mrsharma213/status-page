@@ -18,6 +18,24 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "00:38 \u2014 Status page update cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "00:38 \u2014 Status page update cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "00:38 \u2014 Status page update cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-24T14:50:00-04:00",
     "action": "Narration discipline lesson (logged to MEMORY.md)",
     "category": "other",
@@ -1179,24 +1197,6 @@
     "ts": "2026-04-23T9:00:00-04:00",
     "action": "MentorPass / Sterling (2:00): \u2014 Peachy revamp (pause ad spend on old site \u2014 0.5% conv is bleeding budget), shift",
     "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Slack: \u2014 Rameez driving a Lunar budget discussion w/ Jon Bennert + Minul (MPIM). Lunar co",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Email (9 scans): \u2014 All quiet. One Docusign view notification \u2014 **Alec viewed ALEC x ZURP.pdf, signa",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Health/nutrition: \u2014 No meals logged. Tracker stale 20 days. Pattern confirmed \u2014 habit has dropped of",
-    "category": "memory",
     "bot": "writer"
   }
 ]
