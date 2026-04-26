@@ -324,6 +324,24 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "roast.nik.co \u2014 Goodonya bug + crawler/storage fixes (4/26 after midnight)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "roast.nik.co \u2014 Goodonya bug + crawler/storage fixes (4/26 after midnight)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "roast.nik.co \u2014 Goodonya bug + crawler/storage fixes (4/26 after midnight)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-24T14:50:00-04:00",
     "action": "Narration discipline lesson (logged to MEMORY.md)",
     "category": "other",
@@ -1180,23 +1198,5 @@
     "action": "Slack Scan \u2014 9:15 AM",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-24T09:00:00-04:00",
-    "action": "Slack Scan \u2014 9:15 AM",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Tomorrow's Schedule (cron: calendar-prep)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Maruchan KO @ 2pm \u2014 kickoff with a major CPG brand. Worth skimming prior notes/emails.",
-    "category": "outbound",
-    "bot": "crm"
   }
 ]
