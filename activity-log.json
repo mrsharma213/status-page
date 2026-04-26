@@ -108,6 +108,42 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "roast.nik.co \u2014 Value/paywall correction (4/25 evening)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "roast.nik.co \u2014 Pay-first flow + stronger landing page (4/25 8:30 PM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "roast.nik.co \u2014 Value/paywall correction (4/25 evening)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "roast.nik.co \u2014 Pay-first flow + stronger landing page (4/25 8:30 PM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "roast.nik.co \u2014 Value/paywall correction (4/25 evening)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-25T12:00:00-04:00",
+    "action": "roast.nik.co \u2014 Pay-first flow + stronger landing page (4/25 8:30 PM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-24T14:50:00-04:00",
     "action": "Narration discipline lesson (logged to MEMORY.md)",
     "category": "other",
@@ -1162,41 +1198,5 @@
     "action": "Health/nutrition: \u2014 No meals logged. Tracker stale 20 days. Pattern confirmed \u2014 habit has dropped of",
     "category": "memory",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Maruchan KO @ 2pm \u2014 kickoff with major CPG. Biggest meeting of the day. Needs prep.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Rolling Ventures TB @ 1:30pm \u2014 pipeline review.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Pharmacy TB @ 4:30pm \u2014 context TBD.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Cordell/Troy @ 5pm \u2014 Zurp.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "21:30 \u2014 Daily Debrief (EOD)",
-    "category": "other",
-    "bot": "printingpress"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Flexpower chat (12:00): \u2014 Giannis Antetokounmpo CPG partnership forming. Equity-over-fees model, 6-week br",
-    "category": "deploy",
-    "bot": "printingpress"
   }
 ]
