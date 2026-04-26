@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-26T19:22:00-04:00",
+    "action": "roast.nik.co low/medium-risk v2 shipped during newsletter window",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-26T19:22:00-04:00",
+    "action": "roast.nik.co low/medium-risk v2 shipped during newsletter window",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-26T19:22:00-04:00",
+    "action": "roast.nik.co low/medium-risk v2 shipped during newsletter window",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-26T18:43:00-04:00",
     "action": "tribe.nik.co mobile QA miss fixed",
     "category": "other",
@@ -1179,24 +1197,6 @@
     "ts": "2026-04-24T12:00:00-04:00",
     "action": "18:30 \u2014 Email scan (cron)",
     "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-24T12:00:00-04:00",
-    "action": "jet@nik.co \u2014 4 unread, last 2h \u2014 Hostage Tape return promo, Apoth\u00e9kary testimonial promo, Ant",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-24T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread surfaced, last 2h:",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-24T12:00:00-04:00",
-    "action": "Verdict: \u2014 No urgent client escalation, time-sensitive deal alert, or nik.co team email req",
-    "category": "outbound",
     "bot": "crm"
   }
 ]
