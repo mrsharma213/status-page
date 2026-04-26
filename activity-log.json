@@ -1,5 +1,41 @@
 [
   {
+    "ts": "2026-04-26T00:08:00-04:00",
+    "action": "Status page cron near-miss",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-26T00:08:00-04:00",
+    "action": "TODO: \u2014 edit the cron job to replace `git add -A` with explicit `git add status.json act",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-26T00:08:00-04:00",
+    "action": "Status page cron near-miss",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-26T00:08:00-04:00",
+    "action": "TODO: \u2014 edit the cron job to replace `git add -A` with explicit `git add status.json act",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-26T00:08:00-04:00",
+    "action": "Status page cron near-miss",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-26T00:08:00-04:00",
+    "action": "TODO: \u2014 edit the cron job to replace `git add -A` with explicit `git add status.json act",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-25T12:00:00-04:00",
     "action": "00:08 \u2014 Status page update cron",
     "category": "other",
@@ -1162,41 +1198,5 @@
     "action": "Maruchan KO @ 2pm \u2014 kickoff with a major CPG brand. Worth skimming prior notes/emails.",
     "category": "outbound",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Rolling Ventures TB @ 1:30pm \u2014 deal pipeline review.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Cordell/Troy @ 5pm \u2014 Zurp-related (Troy is a Zurp partner).",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Tomorrow's Schedule (cron: calendar-prep)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Maruchan KO @ 2pm \u2014 kickoff with a major CPG brand. Worth skimming prior notes/emails.",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Rolling Ventures TB @ 1:30pm \u2014 deal pipeline review.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-23T9:00:00-04:00",
-    "action": "Cordell/Troy @ 5pm \u2014 Zurp-related (Troy is a Zurp partner).",
-    "category": "other",
-    "bot": "macra"
   }
 ]
