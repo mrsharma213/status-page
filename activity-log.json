@@ -162,6 +162,24 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "19:15 - Slack digest (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "19:15 - Slack digest (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "19:15 - Slack digest (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-27T12:30:00-04:00",
     "action": "Email Scan",
     "category": "other",
@@ -1179,24 +1197,6 @@
     "ts": "2026-04-26T00:08:00-04:00",
     "action": "Spam bug fix at 17:14: \u2014 QA test slug `halfdays-com-7b6naj` was triggering watchdog alerts every 5 min. F",
     "category": "fix",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "roast: \u2014 cream paper, red `nS` mark tile, \"Your site is leaking money. Get the fix plan f",
-    "category": "fix",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "vms: \u2014 cream paper, violet `nS` mark, \"Supplement Brands. 2026.\" with violet `2026.` ac",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "HARD RULE going forward: \u2014 every nik.co site must ship day-one with brand-consistent OG image + full meta t",
-    "category": "outbound",
     "bot": "macra"
   }
 ]
