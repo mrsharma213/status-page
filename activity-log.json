@@ -72,6 +72,78 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Slack digest \u2014 17:15 ET (last 2h scan)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "15:32 \u2014 Nik \u2192 kstokes (Katelyn Stokes, Maruchan): \"yes please\" \u2014 replying to her questio",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "15:45 \u2014 kstokes posted a detailed pitch from Paul St (crystal@paulstreet.co) on an **Inf",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "16:04 \u2014 kstokes: \"@Nik sent the IC agreement signed for counter signature\" \u2014 has 1 threa",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Slack digest \u2014 17:15 ET (last 2h scan)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "15:32 \u2014 Nik \u2192 kstokes (Katelyn Stokes, Maruchan): \"yes please\" \u2014 replying to her questio",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "15:45 \u2014 kstokes posted a detailed pitch from Paul St (crystal@paulstreet.co) on an **Inf",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "16:04 \u2014 kstokes: \"@Nik sent the IC agreement signed for counter signature\" \u2014 has 1 threa",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Slack digest \u2014 17:15 ET (last 2h scan)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "15:32 \u2014 Nik \u2192 kstokes (Katelyn Stokes, Maruchan): \"yes please\" \u2014 replying to her questio",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "15:45 \u2014 kstokes posted a detailed pitch from Paul St (crystal@paulstreet.co) on an **Inf",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "16:04 \u2014 kstokes: \"@Nik sent the IC agreement signed for counter signature\" \u2014 has 1 threa",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-27T12:30:00-04:00",
     "action": "Email Scan",
     "category": "other",
@@ -1126,77 +1198,5 @@
     "action": "Verdict: \u2014 Opus 4.7 is best for landing page roasts. On-voice (\"verified, not vibes,\" \"saun",
     "category": "check",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "LESSON: \u2014 when Vercel env values look quoted in `vercel env pull` output, that's a display",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "roast.nik.co/analytics \u2014 (passcode 7586): Next.js, gated via cookie middleware + server component double-",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "vms.nik.co/analytics.html \u2014 (passcode 7586): Vanilla static HTML + sessionStorage gate, since vms is a stati",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "roast: \u2014 `/api/variant` for impressions, `/api/funnel` for form_started + checkout_opened",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "vms: \u2014 `/api/telemetry` (12 event types: session_start, scroll_depth at 10/25/50/75/90,",
-    "category": "infra",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "GOTCHA: \u2014 Vercel functions sometimes don't auto-parse `req.body` \u2014 telemetry endpoint had ",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "Spam bug fix at 17:14: \u2014 QA test slug `halfdays-com-7b6naj` was triggering watchdog alerts every 5 min. F",
-    "category": "fix",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "roast: \u2014 cream paper, red `nS` mark tile, \"Your site is leaking money. Get the fix plan f",
-    "category": "fix",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "vms: \u2014 cream paper, violet `nS` mark, \"Supplement Brands. 2026.\" with violet `2026.` ac",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "HARD RULE going forward: \u2014 every nik.co site must ship day-one with brand-consistent OG image + full meta t",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "DOUBLE-DOWN RULE: \u2014 Default to silent tool calls. Only speak when delivering a complete result, aski",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "00:08 \u2014 Status page update cron",
-    "category": "other",
-    "bot": "crm"
   }
 ]
