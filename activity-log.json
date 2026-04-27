@@ -1,5 +1,59 @@
 [
   {
+    "ts": "2026-04-27T12:30:00-04:00",
+    "action": "Email Scan",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T12:30:00-04:00",
+    "action": "Rameez \u2192 Jim Phillips (graymatter) \u2014 intro/MentorPass setup, Minul cc'd for invoice. Outbound, no action for Nik.",
+    "category": "infra",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T12:30:00-04:00",
+    "action": "Corpora 83(b) \u2014 physical docs shred Apr 30 (Order D3CS6YMK187F). Flagged to Jet Status.",
+    "category": "reminder",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T12:30:00-04:00",
+    "action": "Email Scan",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T12:30:00-04:00",
+    "action": "Rameez \u2192 Jim Phillips (graymatter) \u2014 intro/MentorPass setup, Minul cc'd for invoice. Outbound, no action for Nik.",
+    "category": "infra",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T12:30:00-04:00",
+    "action": "Corpora 83(b) \u2014 physical docs shred Apr 30 (Order D3CS6YMK187F). Flagged to Jet Status.",
+    "category": "reminder",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T12:30:00-04:00",
+    "action": "Email Scan",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T12:30:00-04:00",
+    "action": "Rameez \u2192 Jim Phillips (graymatter) \u2014 intro/MentorPass setup, Minul cc'd for invoice. Outbound, no action for Nik.",
+    "category": "infra",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T12:30:00-04:00",
+    "action": "Corpora 83(b) \u2014 physical docs shred Apr 30 (Order D3CS6YMK187F). Flagged to Jet Status.",
+    "category": "reminder",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-27T12:00:00-04:00",
     "action": "08:30 \u2014 Email scan (cron)",
     "category": "other",
@@ -1142,60 +1196,6 @@
   {
     "ts": "2026-04-25T12:00:00-04:00",
     "action": "roast.nik.co \u2014 Stripe key rotation completed + examples updated (4/25 evening)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Current product posture after 4/25 work",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "21:30 \u2014 End-of-day debrief",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Stripe key rotation completed + examples updated (4/25 evening)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Current product posture after 4/25 work",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "21:30 \u2014 End-of-day debrief",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Stripe key rotation completed + examples updated (4/25 evening)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Current product posture after 4/25 work",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "21:30 \u2014 End-of-day debrief",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Full homepage/LP upgrade (4/25 late evening)",
     "category": "other",
     "bot": "crm"
   }
