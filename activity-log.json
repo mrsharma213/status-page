@@ -72,6 +72,24 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Email scan (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Email scan (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Email scan (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-26T21:50:00-04:00",
     "action": "Regenerated 3 homepage sample roasts",
     "category": "other",
@@ -1180,23 +1198,5 @@
     "action": "nik@nik.co: \u2014 10 unread. Mostly promo/newsletter noise.",
     "category": "content",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-24T12:30:00-04:00",
-    "action": "Verdict: \u2014 Nothing urgent. NO_REPLY.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-24T12:30:00-04:00",
-    "action": "jet@nik.co: \u2014 1 unread, Anthropic receipt. No action.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-24T12:30:00-04:00",
-    "action": "nik@nik.co: \u2014 10 unread. Mostly promo/newsletter noise.",
-    "category": "content",
-    "bot": "macra"
   }
 ]
