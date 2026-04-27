@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-26T21:50:00-04:00",
+    "action": "Regenerated 3 homepage sample roasts",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-26T21:50:00-04:00",
+    "action": "Regenerated 3 homepage sample roasts",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-26T21:50:00-04:00",
+    "action": "Regenerated 3 homepage sample roasts",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-26T21:30:00-04:00",
     "action": "End-of-Day Debrief (Sun, Apr 26, 2026)",
     "category": "other",
@@ -1180,23 +1198,5 @@
     "action": "13:04 \u2014 Health lunch check (cron)",
     "category": "other",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-24T12:30:00-04:00",
-    "action": "No meals logged for 2026-04-24. \u2014 Last entry in tracker is 2026-04-03.",
-    "category": "memory",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-24T12:00:00-04:00",
-    "action": "Session: crm-full-build (depth 1)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-24T12:00:00-04:00",
-    "action": "Current state of `projects/crm-site`",
-    "category": "other",
-    "bot": "crm"
   }
 ]
