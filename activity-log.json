@@ -72,6 +72,66 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "Medication & Supplements",
+    "category": "other",
+    "bot": "health"
+  },
+  {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "Tirzepatide: \u2014 \u2705 Taken (25 units = 2.5mg, weekly dose)",
+    "category": "other",
+    "bot": "health"
+  },
+  {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "Morning Mix: \u2014 \u2705 GoodOnYa + GrayMatter + 5g creatine",
+    "category": "other",
+    "bot": "health"
+  },
+  {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "Workout",
+    "category": "other",
+    "bot": "health"
+  },
+  {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "Time: \u2014 Morning (before 11:48am)",
+    "category": "other",
+    "bot": "health"
+  },
+  {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "Status: \u2014 \u2705 Completed",
+    "category": "other",
+    "bot": "health"
+  },
+  {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "Nutrition",
+    "category": "other",
+    "bot": "health"
+  },
+  {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "Meal Total: \u2014 285 cal, 20g protein, 40g carbs, 1g fat",
+    "category": "other",
+    "bot": "health"
+  },
+  {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "Calories: \u2014 285 / 2,200 target (1,915 short)",
+    "category": "other",
+    "bot": "health"
+  },
+  {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "Protein: \u2014 20g / 150g target (130g short)",
+    "category": "other",
+    "bot": "health"
+  },
+  {
     "ts": "2026-04-27T10:30:00-04:00",
     "action": "Email scan (cron)",
     "category": "other",
@@ -1138,65 +1198,5 @@
     "action": "roast.nik.co \u2014 Full homepage/LP upgrade (4/25 late evening)",
     "category": "other",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Free sample audits added (4/25 late)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Full homepage/LP upgrade (4/25 late evening)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Free sample audits added (4/25 late)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Full homepage/LP upgrade (4/25 late evening)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Free sample audits added (4/25 late)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Scoring calibration fixed (4/25 late)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 SKIMS sample added (4/25 late)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Scoring calibration fixed (4/25 late)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 SKIMS sample added (4/25 late)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Scoring calibration fixed (4/25 late)",
-    "category": "other",
-    "bot": "writer"
   }
 ]
