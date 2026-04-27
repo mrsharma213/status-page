@@ -144,6 +144,24 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "18:30 \u2014 Email scan (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "18:30 \u2014 Email scan (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "18:30 \u2014 Email scan (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-27T12:30:00-04:00",
     "action": "Email Scan",
     "category": "other",
@@ -1180,23 +1198,5 @@
     "action": "HARD RULE going forward: \u2014 every nik.co site must ship day-one with brand-consistent OG image + full meta t",
     "category": "outbound",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "DOUBLE-DOWN RULE: \u2014 Default to silent tool calls. Only speak when delivering a complete result, aski",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "04:59-17:30 ET \u2014 roast.nik.co + vms.nik.co newsletter launch day",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "Verdict: \u2014 Opus 4.7 is best for landing page roasts. On-voice (\"verified, not vibes,\" \"saun",
-    "category": "check",
-    "bot": "writer"
   }
 ]
