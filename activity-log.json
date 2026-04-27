@@ -90,6 +90,132 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Slack Digest \u2014 11:15 AM (last 2h scan)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "MPIM: \u2014 mpdm-minul--nik--rameez--jon--bradb-1 (`C0AE2DYQTHV`)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "From: \u2014 Minul De Silva (`U09K5401QHJ`) \u2014 internal nik.co team",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Time: \u2014 10:23 AM ET (1777302213)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Message: \u2014 \"Good morning [Nik] [Rameez] hope you both had a great weekend! We received [Lun",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Action needed: \u2014 Nik to review PandaDoc and respond with thoughts to Minul, Rameez, Jon, BradB",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Why urgent: \u2014 Internal team ask + LSG (Nik's employer) contract scope review. Decision-waiting",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Slack Digest \u2014 11:15 AM (last 2h scan)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "MPIM: \u2014 mpdm-minul--nik--rameez--jon--bradb-1 (`C0AE2DYQTHV`)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "From: \u2014 Minul De Silva (`U09K5401QHJ`) \u2014 internal nik.co team",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Time: \u2014 10:23 AM ET (1777302213)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Message: \u2014 \"Good morning [Nik] [Rameez] hope you both had a great weekend! We received [Lun",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Action needed: \u2014 Nik to review PandaDoc and respond with thoughts to Minul, Rameez, Jon, BradB",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Why urgent: \u2014 Internal team ask + LSG (Nik's employer) contract scope review. Decision-waiting",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Slack Digest \u2014 11:15 AM (last 2h scan)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "MPIM: \u2014 mpdm-minul--nik--rameez--jon--bradb-1 (`C0AE2DYQTHV`)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "From: \u2014 Minul De Silva (`U09K5401QHJ`) \u2014 internal nik.co team",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Time: \u2014 10:23 AM ET (1777302213)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Message: \u2014 \"Good morning [Nik] [Rameez] hope you both had a great weekend! We received [Lun",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Action needed: \u2014 Nik to review PandaDoc and respond with thoughts to Minul, Rameez, Jon, BradB",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T10:30:00-04:00",
+    "action": "Why urgent: \u2014 Internal team ask + LSG (Nik's employer) contract scope review. Decision-waiting",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-26T21:50:00-04:00",
     "action": "Regenerated 3 homepage sample roasts",
     "category": "other",
@@ -1072,131 +1198,5 @@
     "action": "roast.nik.co \u2014 Scoring calibration fixed (4/25 late)",
     "category": "other",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 SKIMS sample added (4/25 late)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Report density pass after screenshots (4/25 late)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Report density pass after screenshots (4/25 late)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Report density pass after screenshots (4/25 late)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Goodonya bug + crawler/storage fixes (4/26 after midnight)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Goodonya bug + crawler/storage fixes (4/26 after midnight)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Goodonya bug + crawler/storage fixes (4/26 after midnight)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Mobile generation stuck at ~82% fix (4/26)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Mobile generation stuck at ~82% fix (4/26)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Mobile generation stuck at ~82% fix (4/26)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Full production QA + PDF polish (4/26 early AM)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Full production QA + PDF polish (4/26 early AM)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 Full production QA + PDF polish (4/26 early AM)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-24T14:50:00-04:00",
-    "action": "Narration discipline lesson (logged to MEMORY.md)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-24T14:50:00-04:00",
-    "action": "/learn flush \u2014 14:51 ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-24T14:50:00-04:00",
-    "action": "Narration discipline lesson (logged to MEMORY.md)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-24T14:50:00-04:00",
-    "action": "/learn flush \u2014 14:51 ET",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-24T14:50:00-04:00",
-    "action": "Narration discipline lesson (logged to MEMORY.md)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-24T14:50:00-04:00",
-    "action": "/learn flush \u2014 14:51 ET",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-24T12:30:00-04:00",
-    "action": "jet@nik.co: \u2014 1 unread, Anthropic receipt. No action.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-24T12:30:00-04:00",
-    "action": "nik@nik.co: \u2014 10 unread. Mostly promo/newsletter noise.",
-    "category": "content",
-    "bot": "crm"
   }
 ]
