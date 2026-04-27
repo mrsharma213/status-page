@@ -1,5 +1,77 @@
 [
   {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Email scan",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "jet@nik.co \u2014 1 unread (Anthropic receipt). Nothing actionable.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread. Mostly promos/newsletters/receipts.",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Notable (no action needed): \u2014 Maruchan x Nik Sharma deal **fully executed**.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Email scan",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "jet@nik.co \u2014 1 unread (Anthropic receipt). Nothing actionable.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread. Mostly promos/newsletters/receipts.",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Notable (no action needed): \u2014 Maruchan x Nik Sharma deal **fully executed**.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Email scan",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "jet@nik.co \u2014 1 unread (Anthropic receipt). Nothing actionable.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread. Mostly promos/newsletters/receipts.",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Notable (no action needed): \u2014 Maruchan x Nik Sharma deal **fully executed**.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-27T12:30:00-04:00",
     "action": "Email Scan",
     "category": "other",
@@ -1124,78 +1196,6 @@
   {
     "ts": "2026-04-25T12:00:00-04:00",
     "action": "00:08 \u2014 Status page update cron",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "00:08 \u2014 Status page update cron",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "00:08 \u2014 Status page update cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "00:38 \u2014 Status page update cron",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "00:38 \u2014 Status page update cron",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "00:38 \u2014 Status page update cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "01:08 \u2014 Status page update cron",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "01:08 \u2014 Status page update cron",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "01:08 \u2014 Status page update cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "01:38 \u2014 Status page update cron",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "01:38 \u2014 Status page update cron",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "01:38 \u2014 Status page update cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-25T12:00:00-04:00",
-    "action": "roast.nik.co \u2014 PDF + share links + LP Brain wiring (4/25 PM)",
     "category": "other",
     "bot": "crm"
   }
