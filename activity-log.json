@@ -18,6 +18,60 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "CRM Daily Digest (9:00 AM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "Dan (Marpipe) \u2014 S5, 69 days silent (last 2026-02-17). Best friend, \"talks daily\" per notes. Like",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "Jane Fisher (Harper Wilde) \u2014 S5, 46 days silent (last 2026-03-12). **Active client.** Was in weekly syncs + H",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "CRM Daily Digest (9:00 AM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "Dan (Marpipe) \u2014 S5, 69 days silent (last 2026-02-17). Best friend, \"talks daily\" per notes. Like",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "Jane Fisher (Harper Wilde) \u2014 S5, 46 days silent (last 2026-03-12). **Active client.** Was in weekly syncs + H",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "CRM Daily Digest (9:00 AM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "Dan (Marpipe) \u2014 S5, 69 days silent (last 2026-02-17). Best friend, \"talks daily\" per notes. Like",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T12:00:00-04:00",
+    "action": "Jane Fisher (Harper Wilde) \u2014 S5, 46 days silent (last 2026-03-12). **Active client.** Was in weekly syncs + H",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-26T21:50:00-04:00",
     "action": "Regenerated 3 homepage sample roasts",
     "category": "other",
@@ -1143,60 +1197,6 @@
     "ts": "2026-04-24T12:30:00-04:00",
     "action": "nik@nik.co: \u2014 10 unread. Mostly promo/newsletter noise.",
     "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-24T12:30:00-04:00",
-    "action": "Verdict: \u2014 Nothing urgent. NO_REPLY.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-24T12:30:00-04:00",
-    "action": "jet@nik.co: \u2014 1 unread, Anthropic receipt. No action.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-24T12:30:00-04:00",
-    "action": "nik@nik.co: \u2014 10 unread. Mostly promo/newsletter noise.",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-24T12:30:00-04:00",
-    "action": "Verdict: \u2014 Nothing urgent. NO_REPLY.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-24T12:30:00-04:00",
-    "action": "13:00 \u2014 Fireflies check (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-24T12:30:00-04:00",
-    "action": "13:04 \u2014 Health lunch check (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-24T12:30:00-04:00",
-    "action": "No meals logged for 2026-04-24. \u2014 Last entry in tracker is 2026-04-03.",
-    "category": "memory",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-24T12:30:00-04:00",
-    "action": "13:00 \u2014 Fireflies check (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-24T12:30:00-04:00",
-    "action": "13:04 \u2014 Health lunch check (cron)",
-    "category": "other",
     "bot": "macra"
   }
 ]
