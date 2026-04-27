@@ -1,5 +1,59 @@
 [
   {
+    "ts": "2026-04-26T19:50:00-04:00",
+    "action": "Roast apology emails sent",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-26T19:50:00-04:00",
+    "action": "Roast apology emails sent",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-26T19:50:00-04:00",
+    "action": "Roast apology emails sent",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-26T19:48:00-04:00",
+    "action": "Roast refunds for stuck-alert customers",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-26T19:48:00-04:00",
+    "action": "Roast refunds for stuck-alert customers",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-26T19:48:00-04:00",
+    "action": "Roast refunds for stuck-alert customers",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-26T19:45:00-04:00",
+    "action": "Pre-compaction flush: Tribe + Roast live ops",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-26T19:45:00-04:00",
+    "action": "Pre-compaction flush: Tribe + Roast live ops",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-26T19:45:00-04:00",
+    "action": "Pre-compaction flush: Tribe + Roast live ops",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-26T19:22:00-04:00",
     "action": "roast.nik.co low/medium-risk v2 shipped during newsletter window",
     "category": "other",
@@ -1144,59 +1198,5 @@
     "action": "17:36 \u2014 Status page update cron",
     "category": "other",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-24T12:00:00-04:00",
-    "action": "17:45 \u2014 gbrain live sync cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-24T12:00:00-04:00",
-    "action": "\ud83c\udf99\ufe0f Fireflies Check \u2014 6:00 PM ET (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-24T12:00:00-04:00",
-    "action": "Myles: \u2014 Send peptide list to pharmacy, start group communication, coordinate legal/stake",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-24T12:00:00-04:00",
-    "action": "Jimmy: \u2014 Explore using existing 3PL shipping account to reduce pharmacy logistics costs.",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-24T12:00:00-04:00",
-    "action": "Pharmacy: \u2014 Start training/manufacturer procurement process after receiving list; confirm re",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-24T12:00:00-04:00",
-    "action": "18:06 \u2014 Dashboard refresh cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-24T12:00:00-04:00",
-    "action": "18:07 \u2014 Learning capture cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-24T12:00:00-04:00",
-    "action": "18:08 \u2014 Status page update cron",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-24T12:00:00-04:00",
-    "action": "18:30 \u2014 Email scan (cron)",
-    "category": "other",
-    "bot": "crm"
   }
 ]
