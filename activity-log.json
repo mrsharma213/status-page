@@ -1,5 +1,35 @@
 [
   {
+    "ts": "2026-04-28T12:00:00-04:00",
+    "action": "Macros: \u2014 1,271 cal | 88g protein | 108g carbs | 51g fat",
+    "category": "other",
+    "bot": "health"
+  },
+  {
+    "ts": "2026-04-28T12:00:00-04:00",
+    "action": "Daily Totals",
+    "category": "other",
+    "bot": "health"
+  },
+  {
+    "ts": "2026-04-28T12:00:00-04:00",
+    "action": "Calories: \u2014 1,271 / 2,200+ \u26a0\ufe0f",
+    "category": "other",
+    "bot": "health"
+  },
+  {
+    "ts": "2026-04-28T12:00:00-04:00",
+    "action": "Protein: \u2014 88g / 150g \u26a0\ufe0f",
+    "category": "other",
+    "bot": "health"
+  },
+  {
+    "ts": "2026-04-28T12:00:00-04:00",
+    "action": "Meals: \u2014 1/3 \u26a0\ufe0f",
+    "category": "other",
+    "bot": "health"
+  },
+  {
     "ts": "2026-04-28T10:30:00-04:00",
     "action": "Slack Digest \u2014 11:15 AM (cron)",
     "category": "other",
@@ -122,6 +152,42 @@
   {
     "ts": "2026-04-28T10:30:00-04:00",
     "action": "15:05 \u2014 After Ours Post-Sync Debrief (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-28T10:30:00-04:00",
+    "action": "Macra Site Audit \u2014 GPT-5.5",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-28T10:30:00-04:00",
+    "action": "Macra Audit v2 \u2014 Nik feedback incorporated",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-28T10:30:00-04:00",
+    "action": "Macra Site Audit \u2014 GPT-5.5",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-28T10:30:00-04:00",
+    "action": "Macra Audit v2 \u2014 Nik feedback incorporated",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-28T10:30:00-04:00",
+    "action": "Macra Site Audit \u2014 GPT-5.5",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-28T10:30:00-04:00",
+    "action": "Macra Audit v2 \u2014 Nik feedback incorporated",
     "category": "other",
     "bot": "writer"
   },
@@ -1132,71 +1198,5 @@
     "action": "MPIM: \u2014 mpdm-minul--nik--rameez--jon--bradb-1 (`C0AE2DYQTHV`)",
     "category": "other",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T10:30:00-04:00",
-    "action": "From: \u2014 Minul De Silva (`U09K5401QHJ`) \u2014 internal nik.co team",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T10:30:00-04:00",
-    "action": "Time: \u2014 10:23 AM ET (1777302213)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T10:30:00-04:00",
-    "action": "Message: \u2014 \"Good morning [Nik] [Rameez] hope you both had a great weekend! We received [Lun",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T10:30:00-04:00",
-    "action": "Action needed: \u2014 Nik to review PandaDoc and respond with thoughts to Minul, Rameez, Jon, BradB",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T10:30:00-04:00",
-    "action": "Why urgent: \u2014 Internal team ask + LSG (Nik's employer) contract scope review. Decision-waiting",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T10:30:00-04:00",
-    "action": "Slack Digest \u2014 11:15 AM (last 2h scan)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T10:30:00-04:00",
-    "action": "MPIM: \u2014 mpdm-minul--nik--rameez--jon--bradb-1 (`C0AE2DYQTHV`)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T10:30:00-04:00",
-    "action": "From: \u2014 Minul De Silva (`U09K5401QHJ`) \u2014 internal nik.co team",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T10:30:00-04:00",
-    "action": "Time: \u2014 10:23 AM ET (1777302213)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T10:30:00-04:00",
-    "action": "Message: \u2014 \"Good morning [Nik] [Rameez] hope you both had a great weekend! We received [Lun",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T10:30:00-04:00",
-    "action": "Action needed: \u2014 Nik to review PandaDoc and respond with thoughts to Minul, Rameez, Jon, BradB",
-    "category": "other",
-    "bot": "macra"
   }
 ]
