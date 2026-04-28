@@ -180,6 +180,42 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Meeting context \u2014 Mon Apr 27, 2026",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Equity-split + CEO-per-brand framework is the next deliverable Nik owes Left Lane.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Meeting context \u2014 Mon Apr 27, 2026",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Equity-split + CEO-per-brand framework is the next deliverable Nik owes Left Lane.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Meeting context \u2014 Mon Apr 27, 2026",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Equity-split + CEO-per-brand framework is the next deliverable Nik owes Left Lane.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-27T12:30:00-04:00",
     "action": "Email Scan",
     "category": "other",
@@ -1161,42 +1197,6 @@
     "ts": "2026-04-26T00:08:00-04:00",
     "action": "LESSON: \u2014 when Vercel env values look quoted in `vercel env pull` output, that's a display",
     "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "roast.nik.co/analytics \u2014 (passcode 7586): Next.js, gated via cookie middleware + server component double-",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "vms.nik.co/analytics.html \u2014 (passcode 7586): Vanilla static HTML + sessionStorage gate, since vms is a stati",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "roast: \u2014 `/api/variant` for impressions, `/api/funnel` for form_started + checkout_opened",
-    "category": "check",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "vms: \u2014 `/api/telemetry` (12 event types: session_start, scroll_depth at 10/25/50/75/90,",
-    "category": "infra",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "GOTCHA: \u2014 Vercel functions sometimes don't auto-parse `req.body` \u2014 telemetry endpoint had ",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "Spam bug fix at 17:14: \u2014 QA test slug `halfdays-com-7b6naj` was triggering watchdog alerts every 5 min. F",
-    "category": "fix",
     "bot": "macra"
   }
 ]
