@@ -1,5 +1,59 @@
 [
   {
+    "ts": "2026-04-28T18:30:00-04:00",
+    "action": "Goldman Sachs / Nikita Frantz \u2014 recurring cold pitch on tax alpha for Sharma Brands exit liquidity + Masala port",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-28T18:30:00-04:00",
+    "action": "Webflow contact form \u2014 new submission on nik.co \"DTC Guy\" form (6-msg thread, already in Sign Ups label",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-28T18:30:00-04:00",
+    "action": "Colin Campbell on \"Sharma x Instant May 2026 Draft 1\" Google Doc \u2014 Limited Supply sponsored post draft. Nik flagged the case-study list as \"feels f",
+    "category": "reminder",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-28T18:30:00-04:00",
+    "action": "Goldman Sachs / Nikita Frantz \u2014 recurring cold pitch on tax alpha for Sharma Brands exit liquidity + Masala port",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-28T18:30:00-04:00",
+    "action": "Webflow contact form \u2014 new submission on nik.co \"DTC Guy\" form (6-msg thread, already in Sign Ups label",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-28T18:30:00-04:00",
+    "action": "Colin Campbell on \"Sharma x Instant May 2026 Draft 1\" Google Doc \u2014 Limited Supply sponsored post draft. Nik flagged the case-study list as \"feels f",
+    "category": "reminder",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-28T18:30:00-04:00",
+    "action": "Goldman Sachs / Nikita Frantz \u2014 recurring cold pitch on tax alpha for Sharma Brands exit liquidity + Masala port",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-28T18:30:00-04:00",
+    "action": "Webflow contact form \u2014 new submission on nik.co \"DTC Guy\" form (6-msg thread, already in Sign Ups label",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-28T18:30:00-04:00",
+    "action": "Colin Campbell on \"Sharma x Instant May 2026 Draft 1\" Google Doc \u2014 Limited Supply sponsored post draft. Nik flagged the case-study list as \"feels f",
+    "category": "reminder",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-28T12:00:00-04:00",
     "action": "Macros: \u2014 1,271 cal | 88g protein | 108g carbs | 51g fat",
     "category": "other",
@@ -1144,59 +1198,5 @@
     "action": "Jane Fisher (Harper Wilde) \u2014 S5, 46 days silent (last 2026-03-12). **Active client.** Was in weekly syncs + H",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T12:00:00-04:00",
-    "action": "CRM Daily Digest (9:00 AM)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T12:00:00-04:00",
-    "action": "Dan (Marpipe) \u2014 S5, 69 days silent (last 2026-02-17). Best friend, \"talks daily\" per notes. Like",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T12:00:00-04:00",
-    "action": "Jane Fisher (Harper Wilde) \u2014 S5, 46 days silent (last 2026-03-12). **Active client.** Was in weekly syncs + H",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T12:00:00-04:00",
-    "action": "Medication & Supplements",
-    "category": "other",
-    "bot": "health"
-  },
-  {
-    "ts": "2026-04-27T12:00:00-04:00",
-    "action": "Tirzepatide: \u2014 \u2705 Taken (25 units = 2.5mg, weekly dose)",
-    "category": "other",
-    "bot": "health"
-  },
-  {
-    "ts": "2026-04-27T12:00:00-04:00",
-    "action": "Morning Mix: \u2014 \u2705 GoodOnYa + GrayMatter + 5g creatine",
-    "category": "other",
-    "bot": "health"
-  },
-  {
-    "ts": "2026-04-27T12:00:00-04:00",
-    "action": "Workout",
-    "category": "other",
-    "bot": "health"
-  },
-  {
-    "ts": "2026-04-27T12:00:00-04:00",
-    "action": "Time: \u2014 Morning (before 11:48am)",
-    "category": "other",
-    "bot": "health"
-  },
-  {
-    "ts": "2026-04-27T12:00:00-04:00",
-    "action": "Status: \u2014 \u2705 Completed",
-    "category": "other",
-    "bot": "health"
   }
 ]
