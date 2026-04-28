@@ -234,6 +234,420 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "21:00 \u2014 Roast.nik.co full operational sweep",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Files: \u2014 new `src/lib/visuals.ts`, modified `src/lib/storage.ts`, `src/app/api/roast/[slu",
+    "category": "infra",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Screenshots: \u2014 mobile (390\u00d7844) + desktop (1280\u00d7800) JPEGs via existing puppeteer instance. Fre",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Annotations: \u2014 extended Claude schema with `annotations[]` (target/viewport/xPct/yPct/wPct/hPct",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "AI mockup: \u2014 OpenAI gpt-image-1 medium quality 1536\u00d71024 generated from heroRewrite. ~$0.04/r",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Render: \u2014 desktop screenshot with red dashed boxes + numbered legend + before/after grid, ",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Cost: \u2014 ~$0.05 added per paid roast. Margin still ~$3.30 on $5 sale.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Preview URL: \u2014 https://roast-nik-88yj5r48w-nik-2658s-projects.vercel.app/r/caskata-com-iwp3wm (",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "NOT yet deployed to roast.nik.co prod. \u2014 Awaiting Nik's QA on preview, then push.",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Rule going forward: \u2014 when adding any env var to a Vercel project, scope it to all three environments ",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "19:55 \u2014 Zurp Models redeploy (sub-agent task from zurp GM bot)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "20:55 \u2014 Cron cleanup",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Tomorrow's Schedule (Tuesday, April 28, 2026)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "10:00\u201310:30 AM \u2014 Wake up",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "11:30 AM\u201312:00 PM \u2014 Zurp Check-In",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "12:00\u20131:00 PM \u2014 Limited Supply Podcast Recording",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "1:00\u20131:30 PM \u2014 YoSharma Check-In *(conflict)*",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "1:00\u20131:30 PM \u2014 Check-In *(conflict)*",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "2:00\u20133:00 PM \u2014 \ud83c\udfa7 After Ours Sync",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "3:00\u20133:30 PM \u2014 PDQ x Nik",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "4:00\u20134:30 PM \u2014 Instant x Nik Sharma",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "4:30\u20135:00 PM \u2014 Matt x Nik",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "6:00\u20138:30 PM \u2014 Data-First Commerce: The Agentic Playbook",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "21:00 \u2014 Roast.nik.co full operational sweep",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Files: \u2014 new `src/lib/visuals.ts`, modified `src/lib/storage.ts`, `src/app/api/roast/[slu",
+    "category": "infra",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Screenshots: \u2014 mobile (390\u00d7844) + desktop (1280\u00d7800) JPEGs via existing puppeteer instance. Fre",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Annotations: \u2014 extended Claude schema with `annotations[]` (target/viewport/xPct/yPct/wPct/hPct",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "AI mockup: \u2014 OpenAI gpt-image-1 medium quality 1536\u00d71024 generated from heroRewrite. ~$0.04/r",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Render: \u2014 desktop screenshot with red dashed boxes + numbered legend + before/after grid, ",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Cost: \u2014 ~$0.05 added per paid roast. Margin still ~$3.30 on $5 sale.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Preview URL: \u2014 https://roast-nik-88yj5r48w-nik-2658s-projects.vercel.app/r/caskata-com-iwp3wm (",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "NOT yet deployed to roast.nik.co prod. \u2014 Awaiting Nik's QA on preview, then push.",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Rule going forward: \u2014 when adding any env var to a Vercel project, scope it to all three environments ",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "19:55 \u2014 Zurp Models redeploy (sub-agent task from zurp GM bot)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "20:55 \u2014 Cron cleanup",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Tomorrow's Schedule (Tuesday, April 28, 2026)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "10:00\u201310:30 AM \u2014 Wake up",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "11:30 AM\u201312:00 PM \u2014 Zurp Check-In",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "12:00\u20131:00 PM \u2014 Limited Supply Podcast Recording",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "1:00\u20131:30 PM \u2014 YoSharma Check-In *(conflict)*",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "1:00\u20131:30 PM \u2014 Check-In *(conflict)*",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "2:00\u20133:00 PM \u2014 \ud83c\udfa7 After Ours Sync",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "3:00\u20133:30 PM \u2014 PDQ x Nik",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "4:00\u20134:30 PM \u2014 Instant x Nik Sharma",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "4:30\u20135:00 PM \u2014 Matt x Nik",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "6:00\u20138:30 PM \u2014 Data-First Commerce: The Agentic Playbook",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "21:00 \u2014 Roast.nik.co full operational sweep",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Files: \u2014 new `src/lib/visuals.ts`, modified `src/lib/storage.ts`, `src/app/api/roast/[slu",
+    "category": "infra",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Screenshots: \u2014 mobile (390\u00d7844) + desktop (1280\u00d7800) JPEGs via existing puppeteer instance. Fre",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Annotations: \u2014 extended Claude schema with `annotations[]` (target/viewport/xPct/yPct/wPct/hPct",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "AI mockup: \u2014 OpenAI gpt-image-1 medium quality 1536\u00d71024 generated from heroRewrite. ~$0.04/r",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Render: \u2014 desktop screenshot with red dashed boxes + numbered legend + before/after grid, ",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Cost: \u2014 ~$0.05 added per paid roast. Margin still ~$3.30 on $5 sale.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Preview URL: \u2014 https://roast-nik-88yj5r48w-nik-2658s-projects.vercel.app/r/caskata-com-iwp3wm (",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "NOT yet deployed to roast.nik.co prod. \u2014 Awaiting Nik's QA on preview, then push.",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Rule going forward: \u2014 when adding any env var to a Vercel project, scope it to all three environments ",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "19:55 \u2014 Zurp Models redeploy (sub-agent task from zurp GM bot)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "20:55 \u2014 Cron cleanup",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Tomorrow's Schedule (Tuesday, April 28, 2026)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "10:00\u201310:30 AM \u2014 Wake up",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "11:30 AM\u201312:00 PM \u2014 Zurp Check-In",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "12:00\u20131:00 PM \u2014 Limited Supply Podcast Recording",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "1:00\u20131:30 PM \u2014 YoSharma Check-In *(conflict)*",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "1:00\u20131:30 PM \u2014 Check-In *(conflict)*",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "2:00\u20133:00 PM \u2014 \ud83c\udfa7 After Ours Sync",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "3:00\u20133:30 PM \u2014 PDQ x Nik",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "4:00\u20134:30 PM \u2014 Instant x Nik Sharma",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "4:30\u20135:00 PM \u2014 Matt x Nik",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "6:00\u20138:30 PM \u2014 Data-First Commerce: The Agentic Playbook",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-27T12:30:00-04:00",
     "action": "Email Scan",
     "category": "other",
@@ -784,419 +1198,5 @@
     "action": "Stuck-roast alert spam \u2014 QA slug `halfdays-com-7b6naj` re-fired alerts every 5 min. Cleaned slug + added ",
     "category": "reminder",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Narration discipline regressed. \u2014 Multiple violations of the silent-tool-calls rule today. Doubled-down rule reaff",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Mobile QA forgotten. \u2014 Shipped tribe.nik.co without testing 390px. New rule: every public-facing UI mus",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "End-of-Day Debrief (Sun, Apr 26, 2026)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Newsletter launch day for roast.nik.co + vms.nik.co. \u2014 Both shipped with brand-consistent OG images, full meta tags, analytics dashboar",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Roast live performance (as of 19:33 ET snapshot): \u2014 ~423 impressions, 13 form starts, 5 checkout opens, 17 Stripe sessions, 10 paid ",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Model upgrade locked: \u2014 Opus 4.7 wins for landing page roasts. ~$0.35-0.55/roast, ~$3.50 net margin per ",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "tribe.nik.co Phase 0 deployed \u2014 at tribe.nik.co (passcode 7586). Wireframe shell only. Direction pivoted twice t",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Vercel env quote bug \u2014 (30+ min wasted): `ANTHROPIC_API_KEY` and `ANTHROPIC_MODEL` had literal quote ch",
-    "category": "infra",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Status-page cron near-miss \u2014 (00:08 ET): `git add -A` on stale `/tmp` clone almost wiped 21 deployed assets. ",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Analytics dashboard cache bypass \u2014 (security hole, fixed): Vercel was serving prerendered analytics page from cache",
-    "category": "fix",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Mobile QA miss on tribe.nik.co \u2014 shipped without testing 390px viewport. Caught by Nik. Fixed with responsive CSS",
-    "category": "fix",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Stuck-roast alert spam \u2014 QA slug `halfdays-com-7b6naj` re-fired alerts every 5 min. Cleaned slug + added ",
-    "category": "reminder",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Narration discipline regressed. \u2014 Multiple violations of the silent-tool-calls rule today. Doubled-down rule reaff",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Mobile QA forgotten. \u2014 Shipped tribe.nik.co without testing 390px. New rule: every public-facing UI mus",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T21:00:00-04:00",
-    "action": "Tomorrow's Schedule (Mon, Apr 27, 2026)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T21:00:00-04:00",
-    "action": "Tomorrow's Schedule (Mon, Apr 27, 2026)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T21:00:00-04:00",
-    "action": "Tomorrow's Schedule (Mon, Apr 27, 2026)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T19:50:00-04:00",
-    "action": "Roast apology emails sent",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T19:50:00-04:00",
-    "action": "Roast apology emails sent",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T19:50:00-04:00",
-    "action": "Roast apology emails sent",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T19:48:00-04:00",
-    "action": "Roast refunds for stuck-alert customers",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T19:48:00-04:00",
-    "action": "Roast refunds for stuck-alert customers",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T19:48:00-04:00",
-    "action": "Roast refunds for stuck-alert customers",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T19:45:00-04:00",
-    "action": "Pre-compaction flush: Tribe + Roast live ops",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T19:45:00-04:00",
-    "action": "Pre-compaction flush: Tribe + Roast live ops",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T19:45:00-04:00",
-    "action": "Pre-compaction flush: Tribe + Roast live ops",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T19:22:00-04:00",
-    "action": "roast.nik.co low/medium-risk v2 shipped during newsletter window",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T19:22:00-04:00",
-    "action": "roast.nik.co low/medium-risk v2 shipped during newsletter window",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T19:22:00-04:00",
-    "action": "roast.nik.co low/medium-risk v2 shipped during newsletter window",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T18:43:00-04:00",
-    "action": "tribe.nik.co mobile QA miss fixed",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T18:43:00-04:00",
-    "action": "tribe.nik.co mobile QA miss fixed",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T18:43:00-04:00",
-    "action": "tribe.nik.co mobile QA miss fixed",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T18:32:00-04:00",
-    "action": "tribe.nik.co UX clarification",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T18:32:00-04:00",
-    "action": "tribe.nik.co UX clarification",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T18:32:00-04:00",
-    "action": "tribe.nik.co UX clarification",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T18:27:00-04:00",
-    "action": "tribe.nik.co passcode changed",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T18:27:00-04:00",
-    "action": "tribe.nik.co passcode changed",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T18:27:00-04:00",
-    "action": "tribe.nik.co passcode changed",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T18:25:00-04:00",
-    "action": "tribe.nik.co Phase 0 deployed",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T18:25:00-04:00",
-    "action": "tribe.nik.co Phase 0 deployed",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T18:25:00-04:00",
-    "action": "tribe.nik.co Phase 0 deployed",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T18:15:00-04:00",
-    "action": "tribe.nik.co internal-first correction",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T18:15:00-04:00",
-    "action": "tribe.nik.co internal-first correction",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T18:15:00-04:00",
-    "action": "tribe.nik.co internal-first correction",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T18:06:00-04:00",
-    "action": "tribe.nik.co concept",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T18:06:00-04:00",
-    "action": "tribe.nik.co concept",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T18:06:00-04:00",
-    "action": "tribe.nik.co concept",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "Status page cron near-miss",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "TODO: \u2014 edit the cron job to replace `git add -A` with explicit `git add status.json act",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "Status page cron near-miss",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "TODO: \u2014 edit the cron job to replace `git add -A` with explicit `git add status.json act",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "Status page cron near-miss",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "TODO: \u2014 edit the cron job to replace `git add -A` with explicit `git add status.json act",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "16:31 - gbrain sync warning (non-blocking)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "16:31 - gbrain sync warning (non-blocking)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "16:31 - gbrain sync warning (non-blocking)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "04:59-17:30 ET \u2014 roast.nik.co + vms.nik.co newsletter launch day",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "Verdict: \u2014 Opus 4.7 is best for landing page roasts. On-voice (\"verified, not vibes,\" \"saun",
-    "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "LESSON: \u2014 when Vercel env values look quoted in `vercel env pull` output, that's a display",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "roast.nik.co/analytics \u2014 (passcode 7586): Next.js, gated via cookie middleware + server component double-",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "vms.nik.co/analytics.html \u2014 (passcode 7586): Vanilla static HTML + sessionStorage gate, since vms is a stati",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "roast: \u2014 `/api/variant` for impressions, `/api/funnel` for form_started + checkout_opened",
-    "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "vms: \u2014 `/api/telemetry` (12 event types: session_start, scroll_depth at 10/25/50/75/90,",
-    "category": "infra",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "GOTCHA: \u2014 Vercel functions sometimes don't auto-parse `req.body` \u2014 telemetry endpoint had ",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "Spam bug fix at 17:14: \u2014 QA test slug `halfdays-com-7b6naj` was triggering watchdog alerts every 5 min. F",
-    "category": "fix",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "roast: \u2014 cream paper, red `nS` mark tile, \"Your site is leaking money. Get the fix plan f",
-    "category": "fix",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "vms: \u2014 cream paper, violet `nS` mark, \"Supplement Brands. 2026.\" with violet `2026.` ac",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "HARD RULE going forward: \u2014 every nik.co site must ship day-one with brand-consistent OG image + full meta t",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T00:08:00-04:00",
-    "action": "DOUBLE-DOWN RULE: \u2014 Default to silent tool calls. Only speak when delivering a complete result, aski",
-    "category": "other",
-    "bot": "crm"
   }
 ]
