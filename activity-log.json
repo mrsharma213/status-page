@@ -648,6 +648,78 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "\ud83c\udf19 Daily Debrief \u2014 End of Day (21:30 ET)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Core team recognition failure: \u2014 When Minul's contact info surfaces, default to action based on context \u2014 don't a",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Vercel CLI `env add` silently swallows piped stdin \u2014 use the REST API for scripted env-var adds.",
+    "category": "infra",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "CRM data quality: \u2014 Dan's \"talks daily\" vs. 1 logged interaction = iMessage/SMS not ingested. CRM de",
+    "category": "memory",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "\ud83c\udf19 Daily Debrief \u2014 End of Day (21:30 ET)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Core team recognition failure: \u2014 When Minul's contact info surfaces, default to action based on context \u2014 don't a",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Vercel CLI `env add` silently swallows piped stdin \u2014 use the REST API for scripted env-var adds.",
+    "category": "infra",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "CRM data quality: \u2014 Dan's \"talks daily\" vs. 1 logged interaction = iMessage/SMS not ingested. CRM de",
+    "category": "memory",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "\ud83c\udf19 Daily Debrief \u2014 End of Day (21:30 ET)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Core team recognition failure: \u2014 When Minul's contact info surfaces, default to action based on context \u2014 don't a",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "Vercel CLI `env add` silently swallows piped stdin \u2014 use the REST API for scripted env-var adds.",
+    "category": "infra",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-27T16:30:00-04:00",
+    "action": "CRM data quality: \u2014 Dan's \"talks daily\" vs. 1 logged interaction = iMessage/SMS not ingested. CRM de",
+    "category": "memory",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-27T12:30:00-04:00",
     "action": "Email Scan",
     "category": "other",
@@ -1126,77 +1198,5 @@
     "action": "Stuck-roast alert spam \u2014 QA slug `halfdays-com-7b6naj` re-fired alerts every 5 min. Cleaned slug + added ",
     "category": "reminder",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Narration discipline regressed. \u2014 Multiple violations of the silent-tool-calls rule today. Doubled-down rule reaff",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Mobile QA forgotten. \u2014 Shipped tribe.nik.co without testing 390px. New rule: every public-facing UI mus",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "End-of-Day Debrief (Sun, Apr 26, 2026)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Newsletter launch day for roast.nik.co + vms.nik.co. \u2014 Both shipped with brand-consistent OG images, full meta tags, analytics dashboar",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Roast live performance (as of 19:33 ET snapshot): \u2014 ~423 impressions, 13 form starts, 5 checkout opens, 17 Stripe sessions, 10 paid ",
-    "category": "check",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Model upgrade locked: \u2014 Opus 4.7 wins for landing page roasts. ~$0.35-0.55/roast, ~$3.50 net margin per ",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "tribe.nik.co Phase 0 deployed \u2014 at tribe.nik.co (passcode 7586). Wireframe shell only. Direction pivoted twice t",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Vercel env quote bug \u2014 (30+ min wasted): `ANTHROPIC_API_KEY` and `ANTHROPIC_MODEL` had literal quote ch",
-    "category": "infra",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Status-page cron near-miss \u2014 (00:08 ET): `git add -A` on stale `/tmp` clone almost wiped 21 deployed assets. ",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Analytics dashboard cache bypass \u2014 (security hole, fixed): Vercel was serving prerendered analytics page from cache",
-    "category": "fix",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Mobile QA miss on tribe.nik.co \u2014 shipped without testing 390px viewport. Caught by Nik. Fixed with responsive CSS",
-    "category": "fix",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Stuck-roast alert spam \u2014 QA slug `halfdays-com-7b6naj` re-fired alerts every 5 min. Cleaned slug + added ",
-    "category": "reminder",
-    "bot": "macra"
   }
 ]
