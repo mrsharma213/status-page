@@ -234,6 +234,18 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-28T10:30:00-04:00",
+    "action": "Email scan (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-28T10:30:00-04:00",
+    "action": "Email scan (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
     "ts": "2026-04-27T16:30:00-04:00",
     "action": "Email scan",
     "category": "other",
@@ -1184,18 +1196,6 @@
   {
     "ts": "2026-04-27T12:00:00-04:00",
     "action": "Status: \u2014 \u2705 Completed",
-    "category": "other",
-    "bot": "health"
-  },
-  {
-    "ts": "2026-04-27T12:00:00-04:00",
-    "action": "Nutrition",
-    "category": "other",
-    "bot": "health"
-  },
-  {
-    "ts": "2026-04-27T12:00:00-04:00",
-    "action": "Meal Total: \u2014 285 cal, 20g protein, 40g carbs, 1g fat",
     "category": "other",
     "bot": "health"
   }
