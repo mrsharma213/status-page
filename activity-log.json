@@ -36,6 +36,24 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-28T10:30:00-04:00",
+    "action": "Email scan \u2014 12:30 PM",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-28T10:30:00-04:00",
+    "action": "Email scan \u2014 12:30 PM",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-28T10:30:00-04:00",
+    "action": "Email scan \u2014 12:30 PM",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-27T16:30:00-04:00",
     "action": "Email scan",
     "category": "other",
@@ -1178,24 +1196,6 @@
   {
     "ts": "2026-04-26T21:30:00-04:00",
     "action": "End-of-Day Debrief (Sun, Apr 26, 2026)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Newsletter launch day for roast.nik.co + vms.nik.co. \u2014 Both shipped with brand-consistent OG images, full meta tags, analytics dashboar",
-    "category": "content",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Roast live performance (as of 19:33 ET snapshot): \u2014 ~423 impressions, 13 form starts, 5 checkout opens, 17 Stripe sessions, 10 paid ",
-    "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-26T21:30:00-04:00",
-    "action": "Model upgrade locked: \u2014 Opus 4.7 wins for landing page roasts. ~$0.35-0.55/roast, ~$3.50 net margin per ",
     "category": "other",
     "bot": "crm"
   }
