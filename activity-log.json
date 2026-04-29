@@ -558,6 +558,78 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "spend.nik.co \u2014 LIVE as of 2026-04-29 00:18 EDT",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Endpoint: \u2014 `POST /api/ingest` with `Authorization: Bearer SPEND_INGEST_TOKEN`",
+    "category": "infra",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Backfill: \u2014 `node scripts/backfill.mjs` walks `/Users/jetdamon/.openclaw/agents/*/sessions/*",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Live cron: \u2014 `~/Library/LaunchAgents/co.nik.spend.ingest.plist` runs `scripts/cron-ingest.sh`",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "spend.nik.co \u2014 LIVE as of 2026-04-29 00:18 EDT",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Endpoint: \u2014 `POST /api/ingest` with `Authorization: Bearer SPEND_INGEST_TOKEN`",
+    "category": "infra",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Backfill: \u2014 `node scripts/backfill.mjs` walks `/Users/jetdamon/.openclaw/agents/*/sessions/*",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Live cron: \u2014 `~/Library/LaunchAgents/co.nik.spend.ingest.plist` runs `scripts/cron-ingest.sh`",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "spend.nik.co \u2014 LIVE as of 2026-04-29 00:18 EDT",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Endpoint: \u2014 `POST /api/ingest` with `Authorization: Bearer SPEND_INGEST_TOKEN`",
+    "category": "infra",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Backfill: \u2014 `node scripts/backfill.mjs` walks `/Users/jetdamon/.openclaw/agents/*/sessions/*",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Live cron: \u2014 `~/Library/LaunchAgents/co.nik.spend.ingest.plist` runs `scripts/cron-ingest.sh`",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-28T20:30:00-04:00",
     "action": "Tomorrow's Schedule (Wed Apr 29, 2026)",
     "category": "other",
@@ -1125,78 +1197,6 @@
     "ts": "2026-04-27T16:30:00-04:00",
     "action": "Screenshots: \u2014 mobile (390\u00d7844) + desktop (1280\u00d7800) JPEGs via existing puppeteer instance. Fre",
     "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Annotations: \u2014 extended Claude schema with `annotations[]` (target/viewport/xPct/yPct/wPct/hPct",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "AI mockup: \u2014 OpenAI gpt-image-1 medium quality 1536\u00d71024 generated from heroRewrite. ~$0.04/r",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Render: \u2014 desktop screenshot with red dashed boxes + numbered legend + before/after grid, ",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Cost: \u2014 ~$0.05 added per paid roast. Margin still ~$3.30 on $5 sale.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Preview URL: \u2014 https://roast-nik-88yj5r48w-nik-2658s-projects.vercel.app/r/caskata-com-iwp3wm (",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "NOT yet deployed to roast.nik.co prod. \u2014 Awaiting Nik's QA on preview, then push.",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Rule going forward: \u2014 when adding any env var to a Vercel project, scope it to all three environments ",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "19:55 \u2014 Zurp Models redeploy (sub-agent task from zurp GM bot)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "20:55 \u2014 Cron cleanup",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Tomorrow's Schedule (Tuesday, April 28, 2026)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "10:00\u201310:30 AM \u2014 Wake up",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "11:30 AM\u201312:00 PM \u2014 Zurp Check-In",
-    "category": "check",
     "bot": "crm"
   }
 ]
