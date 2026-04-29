@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-28T20:30:00-04:00",
+    "action": "Tomorrow's Schedule (Wed Apr 29, 2026)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-28T20:30:00-04:00",
+    "action": "Tomorrow's Schedule (Wed Apr 29, 2026)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-28T20:30:00-04:00",
+    "action": "Tomorrow's Schedule (Wed Apr 29, 2026)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-28T18:30:00-04:00",
     "action": "Goldman Sachs / Nikita Frantz \u2014 recurring cold pitch on tax alpha for Sharma Brands exit liquidity + Masala port",
     "category": "other",
@@ -1180,23 +1198,5 @@
     "action": "Jane Fisher (Harper Wilde) \u2014 S5, 46 days silent (last 2026-03-12). **Active client.** Was in weekly syncs + H",
     "category": "other",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T12:00:00-04:00",
-    "action": "CRM Daily Digest (9:00 AM)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T12:00:00-04:00",
-    "action": "Dan (Marpipe) \u2014 S5, 69 days silent (last 2026-02-17). Best friend, \"talks daily\" per notes. Like",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T12:00:00-04:00",
-    "action": "Jane Fisher (Harper Wilde) \u2014 S5, 46 days silent (last 2026-03-12). **Active client.** Was in weekly syncs + H",
-    "category": "other",
-    "bot": "macra"
   }
 ]
