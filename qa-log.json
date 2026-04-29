@@ -1,5 +1,40 @@
 [
   {
+    "ts": "2026-04-28T22:45:59-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "Carb-Smart pilot recipes in Google Doc",
+    "details": "Drafted 3 pilot recipes, replaced Google Doc content, verified export includes all 3, restricted phrase absent, no medical treatment claims."
+  },
+  {
+    "ts": "2026-04-28T22:36:58-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "Google Doc \u2014 Carb-Smart Recipe Guide Architecture",
+    "details": "Created Google Doc from local markdown, verified text export, confirmed nik@nik.co has writer access, checked restricted phrase absent."
+  },
+  {
+    "ts": "2026-04-28T22:33:59-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "Carb-Smart PDF architecture revised QA",
+    "details": "Fixed restricted phrase in architecture and research docs; re-verified naming and no medical treatment claims."
+  },
+  {
+    "ts": "2026-04-28T22:33:39-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "Carb-Smart PDF architecture",
+    "details": "Read QA + DESIGN; created architecture doc; verified naming, recipe count, no carb blocker consumer language, no medical treatment claims."
+  },
+  {
+    "ts": "2026-04-28T22:19:49-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "Carb-Smart healthy cooking guidelines reply",
+    "details": "Re-read QA rules; updated working research with approved recipes and healthy cooking principles; no unsupported claims included."
+  },
+  {
     "ts": "2026-04-28T22:12:26-04:00",
     "bot": "macra",
     "status": "pass",

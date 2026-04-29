@@ -216,6 +216,42 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Firehose-intel LIVE (22:30 ET)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Firehose-intel: pivoted scope to RV fund only (22:35 ET)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Firehose-intel LIVE (22:30 ET)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Firehose-intel: pivoted scope to RV fund only (22:35 ET)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Firehose-intel LIVE (22:30 ET)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Firehose-intel: pivoted scope to RV fund only (22:35 ET)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-28T20:30:00-04:00",
     "action": "Tomorrow's Schedule (Wed Apr 29, 2026)",
     "category": "other",
@@ -1162,41 +1198,5 @@
     "action": "3:00\u20133:30 PM \u2014 PDQ x Nik",
     "category": "other",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "4:00\u20134:30 PM \u2014 Instant x Nik Sharma",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "4:30\u20135:00 PM \u2014 Matt x Nik",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "6:00\u20138:30 PM \u2014 Data-First Commerce: The Agentic Playbook",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "\ud83c\udf19 Daily Debrief \u2014 End of Day (21:30 ET)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Core team recognition failure: \u2014 When Minul's contact info surfaces, default to action based on context \u2014 don't a",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Vercel CLI `env add` silently swallows piped stdin \u2014 use the REST API for scripted env-var adds.",
-    "category": "infra",
-    "bot": "crm"
   }
 ]
