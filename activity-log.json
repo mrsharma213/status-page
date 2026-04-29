@@ -198,6 +198,24 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Firehose-intel project staged (21:50 ET)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Firehose-intel project staged (21:50 ET)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-28T21:30:00-04:00",
+    "action": "Firehose-intel project staged (21:50 ET)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-28T20:30:00-04:00",
     "action": "Tomorrow's Schedule (Wed Apr 29, 2026)",
     "category": "other",
@@ -1180,23 +1198,5 @@
     "action": "Vercel CLI `env add` silently swallows piped stdin \u2014 use the REST API for scripted env-var adds.",
     "category": "infra",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "CRM data quality: \u2014 Dan's \"talks daily\" vs. 1 logged interaction = iMessage/SMS not ingested. CRM de",
-    "category": "memory",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "\ud83c\udf19 Daily Debrief \u2014 End of Day (21:30 ET)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Core team recognition failure: \u2014 When Minul's contact info surfaces, default to action based on context \u2014 don't a",
-    "category": "other",
-    "bot": "macra"
   }
 ]
