@@ -1,5 +1,41 @@
 [
   {
+    "ts": "2026-04-29T14:00:00-04:00",
+    "action": "Dashboard refresh cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T14:00:00-04:00",
+    "action": "Dashboard refresh cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T14:00:00-04:00",
+    "action": "Dashboard refresh cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T12:30:00-04:00",
+    "action": "spend.nik.co QA fix \u2014 provider API reconciliation",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T12:30:00-04:00",
+    "action": "spend.nik.co QA fix \u2014 provider API reconciliation",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T12:30:00-04:00",
+    "action": "spend.nik.co QA fix \u2014 provider API reconciliation",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-29T10:30:00-04:00",
     "action": "Slack digest \u2014 11:15 AM ET (cron)",
     "category": "other",
@@ -1162,41 +1198,5 @@
     "action": "Meeting context \u2014 Mon Apr 27, 2026",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Equity-split + CEO-per-brand framework is the next deliverable Nik owes Left Lane.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Meeting context \u2014 Mon Apr 27, 2026",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Equity-split + CEO-per-brand framework is the next deliverable Nik owes Left Lane.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "20:30 \u2014 Email scan (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "20:30 \u2014 Email scan (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "20:30 \u2014 Email scan (cron)",
-    "category": "other",
-    "bot": "writer"
   }
 ]
