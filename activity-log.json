@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-29T15:15:00-04:00",
+    "action": "Slack digest cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T15:15:00-04:00",
+    "action": "Slack digest cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T15:15:00-04:00",
+    "action": "Slack digest cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-29T14:17:00-04:00",
     "action": "Minul asked to update Cole to GPT-5.5",
     "category": "other",
@@ -1178,24 +1196,6 @@
   {
     "ts": "2026-04-27T16:30:00-04:00",
     "action": "18:30 \u2014 Email scan (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "19:15 - Slack digest (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "19:15 - Slack digest (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "19:15 - Slack digest (cron)",
     "category": "other",
     "bot": "writer"
   }
