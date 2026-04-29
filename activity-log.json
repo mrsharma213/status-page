@@ -1,5 +1,167 @@
 [
   {
+    "ts": "2026-04-29T18:07:00-04:00",
+    "action": "Learning capture cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T18:07:00-04:00",
+    "action": "Learning capture cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T18:07:00-04:00",
+    "action": "Learning capture cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Fireflies check (last 4-6h)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Rameez: \u2014 Email Grace today with Silver sponsorship details, audience makeup, sponsorship ",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Rameez: \u2014 Send Grace the recording of Highbeam/David's prior Ecom Founders talk.",
+    "category": "research",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Rameez: \u2014 If Highbeam is game, coordinate ASAP brainstorming call with David, Grace, Nik, ",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Rameez: \u2014 Figure out best Workweek/Limited Supply contact and intro Grace today.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Grace: \u2014 Float the sponsorship internally and come back with approval/interest; consider ",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Joel / David side: \u2014 Joel needs to get back to Nik with times for Nik to meet David.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Nik: \u2014 No hard immediate commitment beyond being open to chat with Grace/David about po",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Fireflies check (last 4-6h)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Rameez: \u2014 Email Grace today with Silver sponsorship details, audience makeup, sponsorship ",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Rameez: \u2014 Send Grace the recording of Highbeam/David's prior Ecom Founders talk.",
+    "category": "research",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Rameez: \u2014 If Highbeam is game, coordinate ASAP brainstorming call with David, Grace, Nik, ",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Rameez: \u2014 Figure out best Workweek/Limited Supply contact and intro Grace today.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Grace: \u2014 Float the sponsorship internally and come back with approval/interest; consider ",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Joel / David side: \u2014 Joel needs to get back to Nik with times for Nik to meet David.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Nik: \u2014 No hard immediate commitment beyond being open to chat with Grace/David about po",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Fireflies check (last 4-6h)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Rameez: \u2014 Email Grace today with Silver sponsorship details, audience makeup, sponsorship ",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Rameez: \u2014 Send Grace the recording of Highbeam/David's prior Ecom Founders talk.",
+    "category": "research",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Rameez: \u2014 If Highbeam is game, coordinate ASAP brainstorming call with David, Grace, Nik, ",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Rameez: \u2014 Figure out best Workweek/Limited Supply contact and intro Grace today.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Grace: \u2014 Float the sponsorship internally and come back with approval/interest; consider ",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Joel / David side: \u2014 Joel needs to get back to Nik with times for Nik to meet David.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T18:00:00-04:00",
+    "action": "Nik: \u2014 No hard immediate commitment beyond being open to chat with Grace/David about po",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-29T15:19:00-04:00",
     "action": "Status page update cron",
     "category": "other",
@@ -1035,168 +1197,6 @@
     "ts": "2026-04-28T10:30:00-04:00",
     "action": "Email scan (cron)",
     "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "17:15 \u2014 Slack digest cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Email scan",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "jet@nik.co \u2014 1 unread (Anthropic receipt). Nothing actionable.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread. Mostly promos/newsletters/receipts.",
-    "category": "content",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Notable (no action needed): \u2014 Maruchan x Nik Sharma deal **fully executed**.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Email scan",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "jet@nik.co \u2014 1 unread (Anthropic receipt). Nothing actionable.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread. Mostly promos/newsletters/receipts.",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Notable (no action needed): \u2014 Maruchan x Nik Sharma deal **fully executed**.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Email scan",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "jet@nik.co \u2014 1 unread (Anthropic receipt). Nothing actionable.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread. Mostly promos/newsletters/receipts.",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Notable (no action needed): \u2014 Maruchan x Nik Sharma deal **fully executed**.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Slack digest \u2014 17:15 ET (last 2h scan)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "15:32 \u2014 Nik \u2192 kstokes (Katelyn Stokes, Maruchan): \"yes please\" \u2014 replying to her questio",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "15:45 \u2014 kstokes posted a detailed pitch from Paul St (crystal@paulstreet.co) on an **Inf",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "16:04 \u2014 kstokes: \"@Nik sent the IC agreement signed for counter signature\" \u2014 has 1 threa",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Slack digest \u2014 17:15 ET (last 2h scan)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "15:32 \u2014 Nik \u2192 kstokes (Katelyn Stokes, Maruchan): \"yes please\" \u2014 replying to her questio",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "15:45 \u2014 kstokes posted a detailed pitch from Paul St (crystal@paulstreet.co) on an **Inf",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "16:04 \u2014 kstokes: \"@Nik sent the IC agreement signed for counter signature\" \u2014 has 1 threa",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Slack digest \u2014 17:15 ET (last 2h scan)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "15:32 \u2014 Nik \u2192 kstokes (Katelyn Stokes, Maruchan): \"yes please\" \u2014 replying to her questio",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "15:45 \u2014 kstokes posted a detailed pitch from Paul St (crystal@paulstreet.co) on an **Inf",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "16:04 \u2014 kstokes: \"@Nik sent the IC agreement signed for counter signature\" \u2014 has 1 threa",
-    "category": "outbound",
     "bot": "writer"
   }
 ]
