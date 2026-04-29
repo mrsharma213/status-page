@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-29T10:30:00-04:00",
+    "action": "Slack digest \u2014 11:15 AM ET (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T10:30:00-04:00",
+    "action": "Slack digest \u2014 11:15 AM ET (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T10:30:00-04:00",
+    "action": "Slack digest \u2014 11:15 AM ET (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-28T21:30:00-04:00",
     "action": "Daily Debrief (cron)",
     "category": "other",
@@ -1180,23 +1198,5 @@
     "action": "20:30 \u2014 Email scan (cron)",
     "category": "other",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "21:00 \u2014 Roast.nik.co full operational sweep",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Files: \u2014 new `src/lib/visuals.ts`, modified `src/lib/storage.ts`, `src/app/api/roast/[slu",
-    "category": "infra",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Screenshots: \u2014 mobile (390\u00d7844) + desktop (1280\u00d7800) JPEGs via existing puppeteer instance. Fre",
-    "category": "other",
-    "bot": "crm"
   }
 ]
