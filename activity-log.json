@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-29T15:19:00-04:00",
+    "action": "Status page update cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T15:19:00-04:00",
+    "action": "Status page update cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T15:19:00-04:00",
+    "action": "Status page update cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-29T15:15:00-04:00",
     "action": "Slack digest cron",
     "category": "other",
@@ -1179,24 +1197,6 @@
     "ts": "2026-04-27T16:30:00-04:00",
     "action": "16:04 \u2014 kstokes: \"@Nik sent the IC agreement signed for counter signature\" \u2014 has 1 threa",
     "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "18:30 \u2014 Email scan (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "18:30 \u2014 Email scan (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "18:30 \u2014 Email scan (cron)",
-    "category": "other",
     "bot": "writer"
   }
 ]
