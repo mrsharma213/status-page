@@ -270,6 +270,36 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-29T10:30:00-04:00",
+    "action": "Email scan",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T10:30:00-04:00",
+    "action": "Email scan",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T10:30:00-04:00",
+    "action": "Email scan",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T08:30:00-04:00",
+    "action": "Email scan (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T08:30:00-04:00",
+    "action": "Email scan (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
     "ts": "2026-04-28T21:30:00-04:00",
     "action": "Daily Debrief (cron)",
     "category": "other",
@@ -1168,35 +1198,5 @@
     "action": "16:30 \u2014 Email scan (cron)",
     "category": "other",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "16:30 \u2014 Email scan (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "16:30 \u2014 Email scan (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "17:15 \u2014 Slack digest cron",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "17:15 \u2014 Slack digest cron",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "writer"
   }
 ]
