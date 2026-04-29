@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-29T14:17:00-04:00",
+    "action": "Minul asked to update Cole to GPT-5.5",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T14:17:00-04:00",
+    "action": "Minul asked to update Cole to GPT-5.5",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T14:17:00-04:00",
+    "action": "Minul asked to update Cole to GPT-5.5",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-29T14:00:00-04:00",
     "action": "Dashboard refresh cron",
     "category": "other",
@@ -1180,23 +1198,5 @@
     "action": "19:15 - Slack digest (cron)",
     "category": "other",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Meeting context \u2014 Mon Apr 27, 2026",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Equity-split + CEO-per-brand framework is the next deliverable Nik owes Left Lane.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-27T16:30:00-04:00",
-    "action": "Meeting context \u2014 Mon Apr 27, 2026",
-    "category": "other",
-    "bot": "macra"
   }
 ]
