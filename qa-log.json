@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-04-28T23:49:03-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "Figma import package for Carb-Smart PDF",
+    "details": "Created zip with PDF, 78 page PNGs, source HTML/CSS/data/render files, and Figma import guide."
+  },
+  {
+    "ts": "2026-04-28T23:46:53-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "Designed Carb-Smart PDF proof",
+    "details": "Verified PDF exists, 78 pages, 2.6MB, text extraction clean for restricted language, no em dashes, no clinical treatment phrasing. Two extracted titles use normalized wording: and/or instead of symbols."
+  },
+  {
+    "ts": "2026-04-28T23:21:55-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "Carb-Smart Google Doc unified",
+    "details": "Removed file references and remaining-draft language; verified all 30 recipes in one doc, no em/en dashes, no semicolons, restricted phrase absent, nik@nik.co writer access confirmed."
+  },
+  {
     "ts": "2026-04-28T23:11:22-04:00",
     "bot": "macra",
     "status": "pass",
