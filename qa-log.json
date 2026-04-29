@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-04-28T23:11:22-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "Full Carb-Smart Recipe Guide Google Doc",
+    "details": "Updated Google Doc with all 30 recipes; verified all recipe titles present, no em/en dashes, no semicolons, restricted phrase absent, no clinical treatment phrasing, nik@nik.co writer access confirmed."
+  },
+  {
+    "ts": "2026-04-28T22:54:21-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "Anti-AI style preference and Google Doc cleanup",
+    "details": "Saved Nik anti-AI rules to STYLE-PREFS.md, removed em dashes/semicolons from local recipe guide docs and Google Doc, verified export."
+  },
+  {
     "ts": "2026-04-28T22:45:59-04:00",
     "bot": "macra",
     "status": "pass",
