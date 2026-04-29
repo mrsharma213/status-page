@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-04-29T19:42:00-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "30-Day Reset & Reflect Guide full copy audit",
+    "details": "Audited against STYLE-PREFS.md and QA-RULES.md; fixed product repetition, disclaimer placement, stress wording, soft claim wording, and Week 4 review structure; re-uploaded Google Doc."
+  },
+  {
+    "ts": "2026-04-29T19:37:48-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "30-Day Reset & Reflect Guide Copy Draft v1 corrected",
+    "details": "Corrected missing Day 29 and Day 30 structure; Google Doc replaced; verified all 30 day sections, weekly reviews, disclaimer, Drive share active."
+  },
+  {
+    "ts": "2026-04-29T19:37:16-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "30-Day Reset & Reflect Guide Copy Draft v1",
+    "details": "Full copy draft created as Google Doc, shared with nik@nik.co; verified 30 daily sections, weekly reviews, disclaimer, and no unsupported factual claims."
+  },
+  {
     "ts": "2026-04-29T19:16:50-04:00",
     "bot": "macra",
     "status": "pass",
