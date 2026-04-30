@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-30T12:30:00-04:00",
+    "action": "Jet Mission Control MVP built",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T12:30:00-04:00",
+    "action": "Jet Mission Control MVP built",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T12:30:00-04:00",
+    "action": "Jet Mission Control MVP built",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-30T11:20:00-04:00",
     "action": "Staci social writing style context seeded",
     "category": "other",
@@ -1179,24 +1197,6 @@
     "ts": "2026-04-28T21:30:00-04:00",
     "action": "launchd job: \u2014 `com.openclaw.firehose-intel` (file: `~/Library/LaunchAgents/com.openclaw.fireho",
     "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Process: \u2014 `/usr/bin/python3 .../firehose-intel/scripts/consumer.py` \u2014 KeepAlive=true, RunA",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "2 SSE streams \u2014 open to `https://api.firehose.com/v1/stream` (one per tap)",
-    "category": "infra",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Logs: \u2014 `projects/firehose-intel/logs/consumer.{log,stdout,stderr}`",
-    "category": "other",
     "bot": "macra"
   }
 ]
