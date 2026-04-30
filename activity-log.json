@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-30T07:50:00-04:00",
+    "action": "08:01 \u2014 gbrain live sync recovery",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T07:50:00-04:00",
+    "action": "08:01 \u2014 gbrain live sync recovery",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T07:50:00-04:00",
+    "action": "08:01 \u2014 gbrain live sync recovery",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-30T00:50:00-04:00",
     "action": "2026-04-30 \u2014 After Ours dashboard Brand Assets shipped",
     "category": "other",
@@ -1178,24 +1196,6 @@
   {
     "ts": "2026-04-28T21:30:00-04:00",
     "action": "Process: \u2014 `/usr/bin/python3 .../firehose-intel/scripts/consumer.py` \u2014 KeepAlive=true, RunA",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "2 SSE streams \u2014 open to `https://api.firehose.com/v1/stream` (one per tap)",
-    "category": "infra",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Logs: \u2014 `projects/firehose-intel/logs/consumer.{log,stdout,stderr}`",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "11 rules \u2192 RV portfolio \u2014 (one per fund investment): Refuge, MrBeast, Mocama, Swishables, Midline, Sprinte",
     "category": "other",
     "bot": "writer"
   }
