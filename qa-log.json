@@ -1,5 +1,40 @@
 [
   {
+    "ts": "2026-04-30T17:50:27-04:00",
+    "bot": "macra",
+    "status": "flagged",
+    "action": "A4 Google Sheet PO draft",
+    "details": "Created formatted A4 Google Sheet; shared with nik@nik.co writer; buyer/ship-to/payment/logo/freight remain open and supplier legal name source-provided"
+  },
+  {
+    "ts": "2026-04-30T17:38:15-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "Kung Pao hero proof photo direction removal",
+    "details": "Removed photo direction caption, regenerated PDF and updated page proof, verified visually that the image remains visible."
+  },
+  {
+    "ts": "2026-04-30T17:35:56-04:00",
+    "bot": "macra",
+    "status": "flagged",
+    "action": "Updated draft PO \u2014 supplier details",
+    "details": "Added supplier signature details from OCR; web search did not verify Zhangjiagang Melcorp Trading Co.,Ltd, so PO flags supplier name as source-provided/web-unverified"
+  },
+  {
+    "ts": "2026-04-30T17:35:13-04:00",
+    "bot": "macra",
+    "status": "flagged",
+    "action": "Draft PO \u2014 tumbler/tin",
+    "details": "Created draft PO from screenshots; flagged unverified supplier legal entity, buyer/ship-to details, logo/branding decision, and final shipping cost"
+  },
+  {
+    "ts": "2026-04-30T17:24:01-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "Kung Pao recipe guide visual proof",
+    "details": "Read QA-RULES, used provided Drive image, updated only Kung Pao Chicken recipe pages, rendered PDF, exported page 28 and 29 proof screenshots, and audited UX before sending."
+  },
+  {
     "ts": "2026-04-30T13:42:40-04:00",
     "bot": "macra",
     "status": "pass",

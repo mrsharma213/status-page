@@ -1,5 +1,41 @@
 [
   {
+    "ts": "2026-04-30T17:45:00-04:00",
+    "action": "Macra content arm v3 direction locked",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T17:45:00-04:00",
+    "action": "Macra content arm v3 direction locked",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T17:45:00-04:00",
+    "action": "Macra content arm v3 direction locked",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T17:37:00-04:00",
+    "action": "CRM implementation direction from Rameez",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T17:37:00-04:00",
+    "action": "CRM implementation direction from Rameez",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T17:37:00-04:00",
+    "action": "CRM implementation direction from Rameez",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-30T15:34:00-04:00",
     "action": "Paramount webinar follow-up email draft",
     "category": "other",
@@ -1162,41 +1198,5 @@
     "action": "1:00\u20133:30 Paramount block \u2014 with virtual session 1:45\u20133:00 nested inside. Confirm which is the \"real\" call.",
     "category": "other",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "3:30 Katie W (Ideal Living) \u2014 back-to-back, no buffer \u2014 stage materials in advance.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "5\u20136 PM + 7\u201310 PM AO Studio Time \u2014 long evening session.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Firehose-intel project staged (21:50 ET)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Firehose-intel project staged (21:50 ET)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Firehose-intel project staged (21:50 ET)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Firehose-intel LIVE (22:30 ET)",
-    "category": "other",
-    "bot": "crm"
   }
 ]
