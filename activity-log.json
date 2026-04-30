@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-30T00:50:00-04:00",
+    "action": "2026-04-30 \u2014 After Ours dashboard Brand Assets shipped",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T00:50:00-04:00",
+    "action": "2026-04-30 \u2014 After Ours dashboard Brand Assets shipped",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T00:50:00-04:00",
+    "action": "2026-04-30 \u2014 After Ours dashboard Brand Assets shipped",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-29T21:30:00-04:00",
     "action": "spend.nik.co provider reconciliation shipped to production. \u2014 Root cause was clear: dashboard only tracked OpenClaw `model.completed` events, ",
     "category": "deploy",
@@ -1179,24 +1197,6 @@
     "ts": "2026-04-28T21:30:00-04:00",
     "action": "11 rules \u2192 RV portfolio \u2014 (one per fund investment): Refuge, MrBeast, Mocama, Swishables, Midline, Sprinte",
     "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "14 rules \u2192 Limited Supply intel: \u2014 platforms, funding, cpg-launches, retail, ads, voices, agencies, retention, crea",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Owner: \u2014 Ahrefs Pte. Ltd.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Management key: \u2014 `fhm_*` in `~/.openclaw/.env` as `FIREHOSE_API_KEY` (used by setup-rules.py for ",
-    "category": "infra",
     "bot": "writer"
   }
 ]
