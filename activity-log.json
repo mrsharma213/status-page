@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-30T13:34:00-04:00",
+    "action": "CRM Rameez status cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T13:34:00-04:00",
+    "action": "CRM Rameez status cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T13:34:00-04:00",
+    "action": "CRM Rameez status cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-30T12:30:00-04:00",
     "action": "Jet Mission Control MVP built",
     "category": "other",
@@ -1180,23 +1198,5 @@
     "action": "Rule lookup: \u2014 events do NOT echo tag \u2014 must build query_id\u2192tag map from /v1/rules at startup",
     "category": "other",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Required header: \u2014 `User-Agent: openclaw-firehose-intel/1.0` (Cloudflare blocks default urllib UA o",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Session reset prep \u2014 firehose-intel state snapshot (23:47 ET)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "launchd job: \u2014 `com.openclaw.firehose-intel` (file: `~/Library/LaunchAgents/com.openclaw.fireho",
-    "category": "deploy",
-    "bot": "macra"
   }
 ]
