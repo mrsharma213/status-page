@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-30T14:40:00-04:00",
+    "action": "Fireflies direct live-join fix shipped",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T14:40:00-04:00",
+    "action": "Fireflies direct live-join fix shipped",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T14:40:00-04:00",
+    "action": "Fireflies direct live-join fix shipped",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-30T14:17:00-04:00",
     "action": "Fireflies live-join failure",
     "category": "other",
@@ -1178,24 +1196,6 @@
   {
     "ts": "2026-04-28T21:30:00-04:00",
     "action": "Tap tokens: \u2014 `fh_*` (used for rules CRUD + SSE stream auth) \u2014 stored in `state/taps.json` (ch",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "API base: \u2014 `https://api.firehose.com/v1`",
-    "category": "infra",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Endpoints: \u2014 `/taps` (mgmt key), `/rules` (tap token), `/stream` (tap token, SSE)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Rule schema: \u2014 `{\"value\":\"<lucene>\",\"tag\":\"<route-label>\"}`",
     "category": "other",
     "bot": "crm"
   }
