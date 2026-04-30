@@ -1,5 +1,221 @@
 [
   {
+    "ts": "2026-04-30T18:06:00-04:00",
+    "action": "Learning capture reminder",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:06:00-04:00",
+    "action": "Learning capture reminder",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:06:00-04:00",
+    "action": "Learning capture reminder",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Minul: \u2014 Send venue pricing/capacity/date updates and push to final venue decision by tom",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Troy: \u2014 Call Nick before mastering; push Andreas/Nick final call; coordinate 9pm finaliz",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Review/approve Rahul\u2019s album art changes; help coordinate final upload; help web",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rahul: \u2014 Make album-art updates and send revised files for approval.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rameez: \u2014 Draft/send joint offer to Dash, Flex, and Highbeam saying AI Gold was bought out",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Review/approve the Dash/Flex/Highbeam offer email; help Rameez draft exclusivity",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Troy/Jim/Dan/Dylan: \u2014 Troy follows UBS/exclusivity and content clipping; Jim supports exclusivity word",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rameez: \u2014 Finish PDP carousel edits/mobile text adjustments; confirm email sequence timeli",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Continue creatives/ad work with Rahul; help Rameez on website/blog/recipe SEO; h",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Jim: \u2014 Confirm box/insert capacity with warehouse/David; verify insert quantities and w",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Myles: \u2014 Advise air freight vs sea freight for tins/tumblers based on early order quantit",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Minul: \u2014 Send venue pricing/capacity/date updates and push to final venue decision by tom",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Troy: \u2014 Call Nick before mastering; push Andreas/Nick final call; coordinate 9pm finaliz",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Review/approve Rahul\u2019s album art changes; help coordinate final upload; help web",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rahul: \u2014 Make album-art updates and send revised files for approval.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rameez: \u2014 Draft/send joint offer to Dash, Flex, and Highbeam saying AI Gold was bought out",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Review/approve the Dash/Flex/Highbeam offer email; help Rameez draft exclusivity",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Troy/Jim/Dan/Dylan: \u2014 Troy follows UBS/exclusivity and content clipping; Jim supports exclusivity word",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rameez: \u2014 Finish PDP carousel edits/mobile text adjustments; confirm email sequence timeli",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Continue creatives/ad work with Rahul; help Rameez on website/blog/recipe SEO; h",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Jim: \u2014 Confirm box/insert capacity with warehouse/David; verify insert quantities and w",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Myles: \u2014 Advise air freight vs sea freight for tins/tumblers based on early order quantit",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Minul: \u2014 Send venue pricing/capacity/date updates and push to final venue decision by tom",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Troy: \u2014 Call Nick before mastering; push Andreas/Nick final call; coordinate 9pm finaliz",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Review/approve Rahul\u2019s album art changes; help coordinate final upload; help web",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rahul: \u2014 Make album-art updates and send revised files for approval.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rameez: \u2014 Draft/send joint offer to Dash, Flex, and Highbeam saying AI Gold was bought out",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Review/approve the Dash/Flex/Highbeam offer email; help Rameez draft exclusivity",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Troy/Jim/Dan/Dylan: \u2014 Troy follows UBS/exclusivity and content clipping; Jim supports exclusivity word",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rameez: \u2014 Finish PDP carousel edits/mobile text adjustments; confirm email sequence timeli",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Continue creatives/ad work with Rahul; help Rameez on website/blog/recipe SEO; h",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Jim: \u2014 Confirm box/insert capacity with warehouse/David; verify insert quantities and w",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Myles: \u2014 Advise air freight vs sea freight for tins/tumblers based on early order quantit",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-30T17:45:00-04:00",
     "action": "Macra content arm v3 direction locked",
     "category": "other",
@@ -982,221 +1198,5 @@
     "action": "Email scan",
     "category": "other",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T10:30:00-04:00",
-    "action": "Email scan",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T10:30:00-04:00",
-    "action": "Email scan",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T08:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T08:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T08:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Daily Debrief (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Macra audit v2 shipped \u2014 (GPT-5.5, 36KB, scored 74/100). Two iterations: v1 with founder module \u2192 v2 with",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Compliance flag found on live Macra Science page: \u2014 \"non-inferior to fluoxetine\" + \"similar to pharmaceutical antidepressants\" \u2014 FDA",
-    "category": "reminder",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Locked institutional brand voice for Macra: \u2014 \"Plant-first support. Before bigger defaults.\" No founder narrative.",
-    "category": "research",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Zurp Check-In \u2014 (recapped from Fireflies). MSG Afters locked, ordering 8 batteries @ $1.9k/unit,",
-    "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "AO Sync expected but didn't happen \u2014 (or wasn't transcribed). Cron fired into void. Action: confirm AO Sync cadence w",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "9am wake \u2192 10am Fort gym \u2014 early start.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "12:30 Highbeam x Ecom Founders \u2014 small lunch slot.",
-    "category": "research",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "1:00\u20133:30 Paramount block \u2014 with virtual session 1:45\u20133:00 nested inside. Confirm which is the \"real\" call.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "3:30 Katie W (Ideal Living) \u2014 back-to-back, no buffer \u2014 stage materials in advance.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "5\u20136 PM + 7\u201310 PM AO Studio Time \u2014 long evening session.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Daily Debrief (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Macra audit v2 shipped \u2014 (GPT-5.5, 36KB, scored 74/100). Two iterations: v1 with founder module \u2192 v2 with",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Compliance flag found on live Macra Science page: \u2014 \"non-inferior to fluoxetine\" + \"similar to pharmaceutical antidepressants\" \u2014 FDA",
-    "category": "reminder",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Locked institutional brand voice for Macra: \u2014 \"Plant-first support. Before bigger defaults.\" No founder narrative.",
-    "category": "research",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Zurp Check-In \u2014 (recapped from Fireflies). MSG Afters locked, ordering 8 batteries @ $1.9k/unit,",
-    "category": "check",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "AO Sync expected but didn't happen \u2014 (or wasn't transcribed). Cron fired into void. Action: confirm AO Sync cadence w",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "9am wake \u2192 10am Fort gym \u2014 early start.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "12:30 Highbeam x Ecom Founders \u2014 small lunch slot.",
-    "category": "research",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "1:00\u20133:30 Paramount block \u2014 with virtual session 1:45\u20133:00 nested inside. Confirm which is the \"real\" call.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "3:30 Katie W (Ideal Living) \u2014 back-to-back, no buffer \u2014 stage materials in advance.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "5\u20136 PM + 7\u201310 PM AO Studio Time \u2014 long evening session.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Daily Debrief (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Macra audit v2 shipped \u2014 (GPT-5.5, 36KB, scored 74/100). Two iterations: v1 with founder module \u2192 v2 with",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Compliance flag found on live Macra Science page: \u2014 \"non-inferior to fluoxetine\" + \"similar to pharmaceutical antidepressants\" \u2014 FDA",
-    "category": "reminder",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Locked institutional brand voice for Macra: \u2014 \"Plant-first support. Before bigger defaults.\" No founder narrative.",
-    "category": "research",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Zurp Check-In \u2014 (recapped from Fireflies). MSG Afters locked, ordering 8 batteries @ $1.9k/unit,",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "AO Sync expected but didn't happen \u2014 (or wasn't transcribed). Cron fired into void. Action: confirm AO Sync cadence w",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "9am wake \u2192 10am Fort gym \u2014 early start.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "12:30 Highbeam x Ecom Founders \u2014 small lunch slot.",
-    "category": "research",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "1:00\u20133:30 Paramount block \u2014 with virtual session 1:45\u20133:00 nested inside. Confirm which is the \"real\" call.",
-    "category": "other",
-    "bot": "writer"
   }
 ]
