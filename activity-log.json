@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-30T14:17:00-04:00",
+    "action": "Fireflies live-join failure",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T14:17:00-04:00",
+    "action": "Fireflies live-join failure",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T14:17:00-04:00",
+    "action": "Fireflies live-join failure",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-30T13:34:00-04:00",
     "action": "CRM Rameez status cron",
     "category": "other",
@@ -1178,24 +1196,6 @@
   {
     "ts": "2026-04-28T21:30:00-04:00",
     "action": "Rule schema: \u2014 `{\"value\":\"<lucene>\",\"tag\":\"<route-label>\"}`",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Hard cap: \u2014 25 rules per ACCOUNT (across all taps combined). NOT 25 per tap.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Event shape: \u2014 `event: update\\ndata: {query_ids:[uuid], document:{title,url,publish_time,langua",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Rule lookup: \u2014 events do NOT echo tag \u2014 must build query_id\u2192tag map from /v1/rules at startup",
     "category": "other",
     "bot": "crm"
   }
