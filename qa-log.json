@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-04-29T23:14:39-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "Reset & Reflect GPT-5.5 with generated images QA fixed",
+    "details": "Fixed unreadable even divider pages and misclassified weekly review pages; rendered/contact-sheet QA across all 49 pages; uploaded new Drive file shared with nik@nik.co; did not replace prior proofs."
+  },
+  {
+    "ts": "2026-04-29T23:05:05-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "Reset & Reflect GPT-5.5 with generated images",
+    "details": "Created separate new PDF with 8 generated gpt-image-2 images inserted; did not replace prior proofs; 49 pages, all 30 days present, source no em dashes/semicolons, shared with nik@nik.co."
+  },
+  {
+    "ts": "2026-04-29T22:54:24-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "Reset & Reflect GPT-5.5 Image Briefs",
+    "details": "Created Google Doc with briefs for all 8 GPT-5.5 PDF image slots plus optional Mood Bloom web/email image; style scan passed; shared with nik@nik.co."
+  },
+  {
     "ts": "2026-04-29T22:48:28-04:00",
     "bot": "macra",
     "status": "pass",
