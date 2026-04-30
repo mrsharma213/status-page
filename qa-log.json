@@ -1,5 +1,19 @@
 [
   {
+    "ts": "2026-04-30T10:23:37-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "Full Carb Smart recipe list product/bottle answer",
+    "details": "Checked QA-RULES, source recipe guide architecture/data, and local image assets. Clarified distinction between confirmed visible bottle images and Carb Curb product-note recipes."
+  },
+  {
+    "ts": "2026-04-30T10:21:02-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "Carb Smart recipe guide bottle-in-background answer",
+    "details": "Checked QA-RULES, searched recipe guide files, inspected recipe guide image assets. Proper nouns limited to Macra and recipe titles from source filenames."
+  },
+  {
     "ts": "2026-04-29T23:14:39-04:00",
     "bot": "macra",
     "status": "pass",
