@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-29T20:30:00-04:00",
+    "action": "Tomorrow's Schedule \u2014 Thursday, April 30, 2026",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T20:30:00-04:00",
+    "action": "Tomorrow's Schedule \u2014 Thursday, April 30, 2026",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T20:30:00-04:00",
+    "action": "Tomorrow's Schedule \u2014 Thursday, April 30, 2026",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-29T19:00:00-04:00",
     "action": "flows.nik.co email flow scanner",
     "category": "other",
@@ -286,6 +304,12 @@
     "action": "spend.nik.co QA fix \u2014 provider API reconciliation",
     "category": "other",
     "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T12:00:00-04:00",
+    "action": "Medication / Peptide Notes",
+    "category": "other",
+    "bot": "health"
   },
   {
     "ts": "2026-04-29T10:30:00-04:00",
@@ -1174,29 +1198,5 @@
     "action": "Email Scan \u2014 14:30 ET",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "Email Scan \u2014 14:30 ET",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "15:05 \u2014 After Ours Post-Sync Debrief (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "15:05 \u2014 After Ours Post-Sync Debrief (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "15:05 \u2014 After Ours Post-Sync Debrief (cron)",
-    "category": "other",
-    "bot": "writer"
   }
 ]
