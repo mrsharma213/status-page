@@ -1,5 +1,41 @@
 [
   {
+    "ts": "2026-04-30T10:50:00-04:00",
+    "action": "Roast customer follow-up \u2014 Mikey's Pies",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T10:50:00-04:00",
+    "action": "Roast customer follow-up sweep \u2014 missing final-link emails",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T10:50:00-04:00",
+    "action": "Roast customer follow-up \u2014 Mikey's Pies",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T10:50:00-04:00",
+    "action": "Roast customer follow-up sweep \u2014 missing final-link emails",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T10:50:00-04:00",
+    "action": "Roast customer follow-up \u2014 Mikey's Pies",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T10:50:00-04:00",
+    "action": "Roast customer follow-up sweep \u2014 missing final-link emails",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-30T09:15:00-04:00",
     "action": "Slack urgent digest",
     "category": "other",
@@ -1160,42 +1196,6 @@
   {
     "ts": "2026-04-28T21:30:00-04:00",
     "action": "Owner: \u2014 Ahrefs Pte. Ltd.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Management key: \u2014 `fhm_*` in `~/.openclaw/.env` as `FIREHOSE_API_KEY` (used by setup-rules.py for ",
-    "category": "infra",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Tap tokens: \u2014 `fh_*` (used for rules CRUD + SSE stream auth) \u2014 stored in `state/taps.json` (ch",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "API base: \u2014 `https://api.firehose.com/v1`",
-    "category": "infra",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Endpoints: \u2014 `/taps` (mgmt key), `/rules` (tap token), `/stream` (tap token, SSE)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Rule schema: \u2014 `{\"value\":\"<lucene>\",\"tag\":\"<route-label>\"}`",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Hard cap: \u2014 25 rules per ACCOUNT (across all taps combined). NOT 25 per tap.",
     "category": "other",
     "bot": "macra"
   }
