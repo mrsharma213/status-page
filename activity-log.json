@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-30T18:54:00-04:00",
+    "action": "19:08 \u2014 Macra Editorial Director bot provisioned",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:54:00-04:00",
+    "action": "19:08 \u2014 Macra Editorial Director bot provisioned",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:54:00-04:00",
+    "action": "19:08 \u2014 Macra Editorial Director bot provisioned",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-30T18:48:00-04:00",
     "action": "Macra content arm v5 SEO/AEO/length requirements added",
     "category": "other",
@@ -518,6 +536,24 @@
   {
     "ts": "2026-04-30T10:50:00-04:00",
     "action": "Roast customer follow-up sweep \u2014 missing final-link emails",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T10:05:00-04:00",
+    "action": "Dashboard refresh cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T10:05:00-04:00",
+    "action": "Dashboard refresh cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T10:05:00-04:00",
+    "action": "Dashboard refresh cron",
     "category": "other",
     "bot": "writer"
   },
@@ -1162,41 +1198,5 @@
     "action": "Joel / David side: \u2014 Joel needs to get back to Nik with times for Nik to meet David.",
     "category": "other",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Nik: \u2014 No hard immediate commitment beyond being open to chat with Grace/David about po",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T15:19:00-04:00",
-    "action": "Status page update cron",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T15:19:00-04:00",
-    "action": "Status page update cron",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T15:19:00-04:00",
-    "action": "Status page update cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T15:15:00-04:00",
-    "action": "Slack digest cron",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T15:15:00-04:00",
-    "action": "Slack digest cron",
-    "category": "other",
-    "bot": "macra"
   }
 ]
