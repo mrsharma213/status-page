@@ -648,6 +648,24 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-30T00:20:00-04:00",
+    "action": "Status page update cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T00:20:00-04:00",
+    "action": "Status page update cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T00:20:00-04:00",
+    "action": "Status page update cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-29T21:30:00-04:00",
     "action": "spend.nik.co provider reconciliation shipped to production. \u2014 Root cause was clear: dashboard only tracked OpenClaw `model.completed` events, ",
     "category": "deploy",
@@ -1178,24 +1196,6 @@
   {
     "ts": "2026-04-29T18:00:00-04:00",
     "action": "Rameez: \u2014 If Highbeam is game, coordinate ASAP brainstorming call with David, Grace, Nik, ",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Rameez: \u2014 Figure out best Workweek/Limited Supply contact and intro Grace today.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Grace: \u2014 Float the sponsorship internally and come back with approval/interest; consider ",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Joel / David side: \u2014 Joel needs to get back to Nik with times for Nik to meet David.",
     "category": "other",
     "bot": "writer"
   }
