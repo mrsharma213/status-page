@@ -1,5 +1,26 @@
 [
   {
+    "ts": "2026-04-29T22:09:27-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "30-Day Reset & Reflect Guide PDF proof",
+    "details": "Built 49-page PDF proof from audited copy, applied Macra brandbook colors/type/photo placeholders, verified all 30 days and disclaimer, uploaded/share with nik@nik.co."
+  },
+  {
+    "ts": "2026-04-29T22:00:27-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "30-Day Reset & Reflect Guide Production Spec corrected",
+    "details": "Removed banned style term, re-uploaded Google Doc, verified 12 image briefs and product label accuracy rule."
+  },
+  {
+    "ts": "2026-04-29T22:00:12-04:00",
+    "bot": "macra",
+    "status": "pass",
+    "action": "30-Day Reset & Reflect Guide Production Spec",
+    "details": "Created design/image production spec with 12 image briefs, product accuracy rules, page architecture, Google Doc shared with nik@nik.co; style scan passed."
+  },
+  {
     "ts": "2026-04-29T21:49:46-04:00",
     "bot": "macra",
     "status": "pass",
