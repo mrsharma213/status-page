@@ -1,5 +1,329 @@
 [
   {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "spend.nik.co provider reconciliation shipped to production. \u2014 Root cause was clear: dashboard only tracked OpenClaw `model.completed` events, ",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Dashboard refresh loop stayed current. \u2014 Command Center, YoSharma, and Internal dashboards refreshed/pushed multiple time",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "flows.nik.co ingestion added Moon Juice. \u2014 Captured a Moon Juice supplement/wellness promo, added `moon-juice` brand + emai",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Status page crons ran cleanly all day. \u2014 Multiple status-page updates pushed; system stayed operational.",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Highbeam x Ecom Founders: \u2014 Fireflies recap showed Highbeam leaning toward **$25K Silver sponsorship** for t",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Tatari / Ecom Founders: \u2014 Hooman confirmed logo + payment terms on the **$225K sponsorship**. Nik already ",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Maruchan: \u2014 Slack user-token digest caught Katelyn asking whether Maruchan/OpenClaw should s",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Zurp: \u2014 Docusign `ALEC x ZURP.pdf` voided because agreement needs update/resend. Status ",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Email: \u2014 Routine scans all day. No client escalations requiring Nik immediately. Notable ",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Slack: \u2014 User-token scans over explicit channel IDs worked and found the Maruchan decisio",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Calendar: \u2014 Tomorrow is meeting-heavy from 12:00\u20134:00 PM, then chiro 4:00\u20136:00 PM. First sch",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "12:00 PM Check-In \u2014 \u2192 team context.",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "12:30 PM PostPilot \u2014 \u2192 likely direct brand/vendor thread.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "1:00 PM Santi at office / YoSharma adjacent block \u2014 \u2192 overlaps with Yo/Tondo orbit.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "1:30 PM YoSharma Check-In \u2014 .",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "2:00 PM Ecom Founders Sponsor Check-In \u2014 watch Tatari/Highbeam momentum and contract/list obligations.",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "3:00 PM Macra TB \u2014 subscription model + Day-1 copy/compliance fixes remain relevant.",
+    "category": "fix",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "4:00\u20136:00 PM Chiro \u2014 .",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "spend.nik.co provider reconciliation shipped to production. \u2014 Root cause was clear: dashboard only tracked OpenClaw `model.completed` events, ",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Dashboard refresh loop stayed current. \u2014 Command Center, YoSharma, and Internal dashboards refreshed/pushed multiple time",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "flows.nik.co ingestion added Moon Juice. \u2014 Captured a Moon Juice supplement/wellness promo, added `moon-juice` brand + emai",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Status page crons ran cleanly all day. \u2014 Multiple status-page updates pushed; system stayed operational.",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Highbeam x Ecom Founders: \u2014 Fireflies recap showed Highbeam leaning toward **$25K Silver sponsorship** for t",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Tatari / Ecom Founders: \u2014 Hooman confirmed logo + payment terms on the **$225K sponsorship**. Nik already ",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Maruchan: \u2014 Slack user-token digest caught Katelyn asking whether Maruchan/OpenClaw should s",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Zurp: \u2014 Docusign `ALEC x ZURP.pdf` voided because agreement needs update/resend. Status ",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Email: \u2014 Routine scans all day. No client escalations requiring Nik immediately. Notable ",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Slack: \u2014 User-token scans over explicit channel IDs worked and found the Maruchan decisio",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Calendar: \u2014 Tomorrow is meeting-heavy from 12:00\u20134:00 PM, then chiro 4:00\u20136:00 PM. First sch",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "12:00 PM Check-In \u2014 \u2192 team context.",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "12:30 PM PostPilot \u2014 \u2192 likely direct brand/vendor thread.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "1:00 PM Santi at office / YoSharma adjacent block \u2014 \u2192 overlaps with Yo/Tondo orbit.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "1:30 PM YoSharma Check-In \u2014 .",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "2:00 PM Ecom Founders Sponsor Check-In \u2014 watch Tatari/Highbeam momentum and contract/list obligations.",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "3:00 PM Macra TB \u2014 subscription model + Day-1 copy/compliance fixes remain relevant.",
+    "category": "fix",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "4:00\u20136:00 PM Chiro \u2014 .",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "spend.nik.co provider reconciliation shipped to production. \u2014 Root cause was clear: dashboard only tracked OpenClaw `model.completed` events, ",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Dashboard refresh loop stayed current. \u2014 Command Center, YoSharma, and Internal dashboards refreshed/pushed multiple time",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "flows.nik.co ingestion added Moon Juice. \u2014 Captured a Moon Juice supplement/wellness promo, added `moon-juice` brand + emai",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Status page crons ran cleanly all day. \u2014 Multiple status-page updates pushed; system stayed operational.",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Highbeam x Ecom Founders: \u2014 Fireflies recap showed Highbeam leaning toward **$25K Silver sponsorship** for t",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Tatari / Ecom Founders: \u2014 Hooman confirmed logo + payment terms on the **$225K sponsorship**. Nik already ",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Maruchan: \u2014 Slack user-token digest caught Katelyn asking whether Maruchan/OpenClaw should s",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Zurp: \u2014 Docusign `ALEC x ZURP.pdf` voided because agreement needs update/resend. Status ",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Email: \u2014 Routine scans all day. No client escalations requiring Nik immediately. Notable ",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Slack: \u2014 User-token scans over explicit channel IDs worked and found the Maruchan decisio",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "Calendar: \u2014 Tomorrow is meeting-heavy from 12:00\u20134:00 PM, then chiro 4:00\u20136:00 PM. First sch",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "12:00 PM Check-In \u2014 \u2192 team context.",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "12:30 PM PostPilot \u2014 \u2192 likely direct brand/vendor thread.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "1:00 PM Santi at office / YoSharma adjacent block \u2014 \u2192 overlaps with Yo/Tondo orbit.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "1:30 PM YoSharma Check-In \u2014 .",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "2:00 PM Ecom Founders Sponsor Check-In \u2014 watch Tatari/Highbeam momentum and contract/list obligations.",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "3:00 PM Macra TB \u2014 subscription model + Day-1 copy/compliance fixes remain relevant.",
+    "category": "fix",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-29T21:30:00-04:00",
+    "action": "4:00\u20136:00 PM Chiro \u2014 .",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-29T20:30:00-04:00",
     "action": "Tomorrow's Schedule \u2014 Thursday, April 30, 2026",
     "category": "other",
@@ -874,329 +1198,5 @@
     "action": "Management key: \u2014 `fhm_*` in `~/.openclaw/.env` as `FIREHOSE_API_KEY` (used by setup-rules.py for ",
     "category": "infra",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Tap tokens: \u2014 `fh_*` (used for rules CRUD + SSE stream auth) \u2014 stored in `state/taps.json` (ch",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "API base: \u2014 `https://api.firehose.com/v1`",
-    "category": "infra",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Endpoints: \u2014 `/taps` (mgmt key), `/rules` (tap token), `/stream` (tap token, SSE)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Rule schema: \u2014 `{\"value\":\"<lucene>\",\"tag\":\"<route-label>\"}`",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Hard cap: \u2014 25 rules per ACCOUNT (across all taps combined). NOT 25 per tap.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Event shape: \u2014 `event: update\\ndata: {query_ids:[uuid], document:{title,url,publish_time,langua",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Rule lookup: \u2014 events do NOT echo tag \u2014 must build query_id\u2192tag map from /v1/rules at startup",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Required header: \u2014 `User-Agent: openclaw-firehose-intel/1.0` (Cloudflare blocks default urllib UA o",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "spend.nik.co \u2014 LIVE as of 2026-04-29 00:18 EDT",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Endpoint: \u2014 `POST /api/ingest` with `Authorization: Bearer SPEND_INGEST_TOKEN`",
-    "category": "infra",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Backfill: \u2014 `node scripts/backfill.mjs` walks `/Users/jetdamon/.openclaw/agents/*/sessions/*",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Live cron: \u2014 `~/Library/LaunchAgents/co.nik.spend.ingest.plist` runs `scripts/cron-ingest.sh`",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "spend.nik.co \u2014 LIVE as of 2026-04-29 00:18 EDT",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Endpoint: \u2014 `POST /api/ingest` with `Authorization: Bearer SPEND_INGEST_TOKEN`",
-    "category": "infra",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Backfill: \u2014 `node scripts/backfill.mjs` walks `/Users/jetdamon/.openclaw/agents/*/sessions/*",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Live cron: \u2014 `~/Library/LaunchAgents/co.nik.spend.ingest.plist` runs `scripts/cron-ingest.sh`",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "spend.nik.co \u2014 LIVE as of 2026-04-29 00:18 EDT",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Endpoint: \u2014 `POST /api/ingest` with `Authorization: Bearer SPEND_INGEST_TOKEN`",
-    "category": "infra",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Backfill: \u2014 `node scripts/backfill.mjs` walks `/Users/jetdamon/.openclaw/agents/*/sessions/*",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Live cron: \u2014 `~/Library/LaunchAgents/co.nik.spend.ingest.plist` runs `scripts/cron-ingest.sh`",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T20:30:00-04:00",
-    "action": "Tomorrow's Schedule (Wed Apr 29, 2026)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T20:30:00-04:00",
-    "action": "Tomorrow's Schedule (Wed Apr 29, 2026)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T20:30:00-04:00",
-    "action": "Tomorrow's Schedule (Wed Apr 29, 2026)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T18:30:00-04:00",
-    "action": "Goldman Sachs / Nikita Frantz \u2014 recurring cold pitch on tax alpha for Sharma Brands exit liquidity + Masala port",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T18:30:00-04:00",
-    "action": "Webflow contact form \u2014 new submission on nik.co \"DTC Guy\" form (6-msg thread, already in Sign Ups label",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T18:30:00-04:00",
-    "action": "Colin Campbell on \"Sharma x Instant May 2026 Draft 1\" Google Doc \u2014 Limited Supply sponsored post draft. Nik flagged the case-study list as \"feels f",
-    "category": "reminder",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T18:30:00-04:00",
-    "action": "Goldman Sachs / Nikita Frantz \u2014 recurring cold pitch on tax alpha for Sharma Brands exit liquidity + Masala port",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T18:30:00-04:00",
-    "action": "Webflow contact form \u2014 new submission on nik.co \"DTC Guy\" form (6-msg thread, already in Sign Ups label",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T18:30:00-04:00",
-    "action": "Colin Campbell on \"Sharma x Instant May 2026 Draft 1\" Google Doc \u2014 Limited Supply sponsored post draft. Nik flagged the case-study list as \"feels f",
-    "category": "reminder",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T18:30:00-04:00",
-    "action": "Goldman Sachs / Nikita Frantz \u2014 recurring cold pitch on tax alpha for Sharma Brands exit liquidity + Masala port",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T18:30:00-04:00",
-    "action": "Webflow contact form \u2014 new submission on nik.co \"DTC Guy\" form (6-msg thread, already in Sign Ups label",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T18:30:00-04:00",
-    "action": "Colin Campbell on \"Sharma x Instant May 2026 Draft 1\" Google Doc \u2014 Limited Supply sponsored post draft. Nik flagged the case-study list as \"feels f",
-    "category": "reminder",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T12:00:00-04:00",
-    "action": "Macros: \u2014 1,271 cal | 88g protein | 108g carbs | 51g fat",
-    "category": "other",
-    "bot": "health"
-  },
-  {
-    "ts": "2026-04-28T12:00:00-04:00",
-    "action": "Daily Totals",
-    "category": "other",
-    "bot": "health"
-  },
-  {
-    "ts": "2026-04-28T12:00:00-04:00",
-    "action": "Calories: \u2014 1,271 / 2,200+ \u26a0\ufe0f",
-    "category": "other",
-    "bot": "health"
-  },
-  {
-    "ts": "2026-04-28T12:00:00-04:00",
-    "action": "Protein: \u2014 88g / 150g \u26a0\ufe0f",
-    "category": "other",
-    "bot": "health"
-  },
-  {
-    "ts": "2026-04-28T12:00:00-04:00",
-    "action": "Meals: \u2014 1/3 \u26a0\ufe0f",
-    "category": "other",
-    "bot": "health"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "Slack Digest \u2014 11:15 AM (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "Action needed (recurring): \u2014 invite jetreader bot to channels OR grant join scope so digests stop being blind",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "Slack Digest \u2014 11:15 AM (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "Action needed (recurring): \u2014 invite jetreader bot to channels OR grant join scope so digests stop being blind",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "Slack Digest \u2014 11:15 AM (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "Action needed (recurring): \u2014 invite jetreader bot to channels OR grant join scope so digests stop being blind",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "Email scan \u2014 12:30 PM",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "Email scan \u2014 12:30 PM",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "Email scan \u2014 12:30 PM",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "13:00 \u2014 Fireflies: Zurp Check-In (recorded earlier today)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "13:15 \u2014 Slack digest (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "13:00 \u2014 Fireflies: Zurp Check-In (recorded earlier today)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "13:15 \u2014 Slack digest (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "13:00 \u2014 Fireflies: Zurp Check-In (recorded earlier today)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "13:15 \u2014 Slack digest (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "Email Scan \u2014 14:30 ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-28T10:30:00-04:00",
-    "action": "Email Scan \u2014 14:30 ET",
-    "category": "other",
-    "bot": "macra"
   }
 ]
