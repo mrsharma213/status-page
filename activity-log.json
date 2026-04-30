@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-30T11:20:00-04:00",
+    "action": "Staci social writing style context seeded",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T11:20:00-04:00",
+    "action": "Staci social writing style context seeded",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T11:20:00-04:00",
+    "action": "Staci social writing style context seeded",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-30T10:50:00-04:00",
     "action": "Roast customer follow-up \u2014 Mikey's Pies",
     "category": "other",
@@ -1178,24 +1196,6 @@
   {
     "ts": "2026-04-28T21:30:00-04:00",
     "action": "Logs: \u2014 `projects/firehose-intel/logs/consumer.{log,stdout,stderr}`",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "11 rules \u2192 RV portfolio \u2014 (one per fund investment): Refuge, MrBeast, Mocama, Swishables, Midline, Sprinte",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "14 rules \u2192 Limited Supply intel: \u2014 platforms, funding, cpg-launches, retail, ads, voices, agencies, retention, crea",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-28T21:30:00-04:00",
-    "action": "Owner: \u2014 Ahrefs Pte. Ltd.",
     "category": "other",
     "bot": "macra"
   }
