@@ -648,6 +648,24 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-30T18:02:00-04:00",
+    "action": "Learning capture cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:02:00-04:00",
+    "action": "Learning capture cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:02:00-04:00",
+    "action": "Learning capture cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-30T18:00:00-04:00",
     "action": "Minul: \u2014 Send venue pricing/capacity/date updates and push to final venue decision by tom",
     "category": "deploy",
@@ -1158,6 +1176,18 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-04-30T09:00:00-04:00",
+    "action": "Fireflies check (last 4-6h)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T09:00:00-04:00",
+    "action": "Fireflies check (last 4-6h)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
     "ts": "2026-04-30T08:30:00-04:00",
     "action": "Email scan (cron)",
     "category": "other",
@@ -1168,35 +1198,5 @@
     "action": "Email scan (cron)",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T08:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T07:50:00-04:00",
-    "action": "08:01 \u2014 gbrain live sync recovery",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T07:50:00-04:00",
-    "action": "08:01 \u2014 gbrain live sync recovery",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T07:50:00-04:00",
-    "action": "08:01 \u2014 gbrain live sync recovery",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T00:50:00-04:00",
-    "action": "2026-04-30 \u2014 After Ours dashboard Brand Assets shipped",
-    "category": "other",
-    "bot": "crm"
   }
 ]

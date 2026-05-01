@@ -1,5 +1,54 @@
 [
   {
+    "ts": "2026-04-30T22:14:15-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "The Macra Standard articles 13 to 30 Google Docs",
+    "details": "Created 18 article package Google Docs in shared folder, verified folder permissions for nik@nik.co, checked Markdown source files for em dashes, semicolons, legacy product names, plant-based positioning, and key banned claims before upload."
+  },
+  {
+    "ts": "2026-04-30T22:10:32-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "The Macra Standard articles 22-24",
+    "details": "Drafted three Shopify-ready article packages. Local checks passed for em dashes, semicolons, legacy product names, banned claim terms, broader block-word usage, and current product names. Proper nouns limited to source-backed organizations and Macra product names."
+  },
+  {
+    "ts": "2026-04-30T22:10:23-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "The Macra Standard articles 28-30",
+    "details": "Created Shopify-ready article packages in content-pipeline/articles-second-batch; local checks passed for em dashes, semicolons, legacy product names, block language, restricted proof language, plant-based positioning, Ozempic references, and weight-loss/body-composition claims."
+  },
+  {
+    "ts": "2026-04-30T22:10:06-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "Articles 16-18 second batch",
+    "details": "Created Shopify-ready packages and passed local scans for em dashes, semicolons, legacy names, banned claims, block language, and plant-based positioning."
+  },
+  {
+    "ts": "2026-04-30T22:09:52-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "Macra articles 25-27 draft packages",
+    "details": "Created Shopify-ready article packages in content-pipeline/articles-second-batch and passed checks for em dashes, semicolons, legacy names, banned claims, and public risky block language."
+  },
+  {
+    "ts": "2026-04-30T22:09:42-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "The Macra Standard articles 13-15",
+    "details": "Drafted Shopify-ready packages for rhodiola, chromium picolinate, and proprietary blends. Local checks passed for em dashes, semicolons, legacy names, exact banned claims, and source URL status. Broader medical terms appear only in required FDA disclaimers."
+  },
+  {
+    "ts": "2026-04-30T22:09:42-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "The Macra Standard articles 19-21",
+    "details": "Drafted Shopify-ready packages and checked for em dashes, semicolons, legacy names, and banned claims. No issues found."
+  },
+  {
     "ts": "2026-04-30T21:52:22-04:00",
     "bot": "macra-editorial",
     "status": "pass",
