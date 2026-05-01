@@ -1,5 +1,59 @@
 [
   {
+    "ts": "2026-05-01T12:30:00-04:00",
+    "action": "jet@nik.co \u2014 No unread emails in last 2h",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T12:30:00-04:00",
+    "action": "nik@nik.co \u2014 8 unread emails",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T12:30:00-04:00",
+    "action": "URGENT \u2014 Maha Awaisi (FrontrowMD) - \"Macra x FrontrowMD | Implementations\" + calendar inv",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T12:30:00-04:00",
+    "action": "jet@nik.co \u2014 No unread emails in last 2h",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T12:30:00-04:00",
+    "action": "nik@nik.co \u2014 8 unread emails",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T12:30:00-04:00",
+    "action": "URGENT \u2014 Maha Awaisi (FrontrowMD) - \"Macra x FrontrowMD | Implementations\" + calendar inv",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T12:30:00-04:00",
+    "action": "jet@nik.co \u2014 No unread emails in last 2h",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-01T12:30:00-04:00",
+    "action": "nik@nik.co \u2014 8 unread emails",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-01T12:30:00-04:00",
+    "action": "URGENT \u2014 Maha Awaisi (FrontrowMD) - \"Macra x FrontrowMD | Implementations\" + calendar inv",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-01T11:15:00-04:00",
     "action": "Slack digest cron",
     "category": "other",
@@ -1144,59 +1198,5 @@
     "action": "Troy/Jim/Dan/Dylan: \u2014 Troy follows UBS/exclusivity and content clipping; Jim supports exclusivity word",
     "category": "content",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Rameez: \u2014 Finish PDP carousel edits/mobile text adjustments; confirm email sequence timeli",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Nik: \u2014 Continue creatives/ad work with Rahul; help Rameez on website/blog/recipe SEO; h",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Jim: \u2014 Confirm box/insert capacity with warehouse/David; verify insert quantities and w",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Myles: \u2014 Advise air freight vs sea freight for tins/tumblers based on early order quantit",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T17:45:00-04:00",
-    "action": "Macra content arm v3 direction locked",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T17:45:00-04:00",
-    "action": "Macra content arm v3 direction locked",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T17:45:00-04:00",
-    "action": "Macra content arm v3 direction locked",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T17:37:00-04:00",
-    "action": "CRM implementation direction from Rameez",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T17:37:00-04:00",
-    "action": "CRM implementation direction from Rameez",
-    "category": "other",
-    "bot": "macra"
   }
 ]
