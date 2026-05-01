@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-05-01T10:30:00-04:00",
+    "action": "Email Scan",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T10:30:00-04:00",
+    "action": "Email Scan",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T10:30:00-04:00",
+    "action": "Email Scan",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-01T00:24:00-04:00",
     "action": "Status page update cron",
     "category": "other",
@@ -1178,24 +1196,6 @@
   {
     "ts": "2026-04-30T15:34:00-04:00",
     "action": "Paramount webinar follow-up email draft",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T15:34:00-04:00",
-    "action": "Paramount webinar follow-up email draft",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T15:32:00-04:00",
-    "action": "Fireflies manual recovery for SUPR Natural",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T15:32:00-04:00",
-    "action": "Fireflies manual recovery for SUPR Natural",
     "category": "other",
     "bot": "macra"
   }
