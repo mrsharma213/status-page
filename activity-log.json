@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-05-01T2:30:00-04:00",
+    "action": "FLAGGED: \u2014 Ian Myers (Oceans Talent) re: \"Nik's marketing stuff\" - marked IMPORTANT, 15-msg",
+    "category": "reminder",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T2:30:00-04:00",
+    "action": "FLAGGED: \u2014 Ian Myers (Oceans Talent) re: \"Nik's marketing stuff\" - marked IMPORTANT, 15-msg",
+    "category": "reminder",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T2:30:00-04:00",
+    "action": "FLAGGED: \u2014 Ian Myers (Oceans Talent) re: \"Nik's marketing stuff\" - marked IMPORTANT, 15-msg",
+    "category": "reminder",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-01T12:30:00-04:00",
     "action": "jet@nik.co \u2014 No unread emails in last 2h",
     "category": "outbound",
@@ -1179,24 +1197,6 @@
     "ts": "2026-04-30T18:00:00-04:00",
     "action": "Minul: \u2014 Send venue pricing/capacity/date updates and push to final venue decision by tom",
     "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Troy: \u2014 Call Nick before mastering; push Andreas/Nick final call; coordinate 9pm finaliz",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Nik: \u2014 Review/approve Rahul\u2019s album art changes; help coordinate final upload; help web",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Rahul: \u2014 Make album-art updates and send revised files for approval.",
-    "category": "other",
     "bot": "writer"
   }
 ]
