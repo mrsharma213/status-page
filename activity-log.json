@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-30T20:54:00-04:00",
+    "action": "Tomorrow's Schedule \u2014 Friday, May 1, 2026",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T20:54:00-04:00",
+    "action": "Tomorrow's Schedule \u2014 Friday, May 1, 2026",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T20:54:00-04:00",
+    "action": "Tomorrow's Schedule \u2014 Friday, May 1, 2026",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-30T20:15:00-04:00",
     "action": "CRM contact ingestion cron",
     "category": "other",
@@ -626,6 +644,12 @@
   {
     "ts": "2026-04-30T09:00:00-04:00",
     "action": "CRM daily digest",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T09:00:00-04:00",
+    "action": "Fireflies check (last 4-6h)",
     "category": "other",
     "bot": "writer"
   },
@@ -1173,30 +1197,6 @@
     "ts": "2026-04-29T18:00:00-04:00",
     "action": "Rameez: \u2014 Email Grace today with Silver sponsorship details, audience makeup, sponsorship ",
     "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Rameez: \u2014 Send Grace the recording of Highbeam/David's prior Ecom Founders talk.",
-    "category": "research",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Rameez: \u2014 If Highbeam is game, coordinate ASAP brainstorming call with David, Grace, Nik, ",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Rameez: \u2014 Figure out best Workweek/Limited Supply contact and intro Grace today.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Grace: \u2014 Float the sponsorship internally and come back with approval/interest; consider ",
-    "category": "deploy",
     "bot": "macra"
   }
 ]
