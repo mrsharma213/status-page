@@ -18,6 +18,24 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-05-01T2:30:00-04:00",
+    "action": "15:15 - Slack Digest (Cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T2:30:00-04:00",
+    "action": "15:15 - Slack Digest (Cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T2:30:00-04:00",
+    "action": "15:15 - Slack Digest (Cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-01T12:30:00-04:00",
     "action": "jet@nik.co \u2014 No unread emails in last 2h",
     "category": "outbound",
@@ -1180,23 +1198,5 @@
     "action": "Nik: \u2014 Continue creatives/ad work with Rahul; help Rameez on website/blog/recipe SEO; h",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Jim: \u2014 Confirm box/insert capacity with warehouse/David; verify insert quantities and w",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Myles: \u2014 Advise air freight vs sea freight for tins/tumblers based on early order quantit",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Minul: \u2014 Send venue pricing/capacity/date updates and push to final venue decision by tom",
-    "category": "deploy",
-    "bot": "writer"
   }
 ]
