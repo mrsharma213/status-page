@@ -1,5 +1,12 @@
 [
   {
+    "ts": "2026-05-01T17:20:21-04:00",
+    "bot": "macra",
+    "status": "flagged",
+    "action": "Macra Carb-Smart Recipe Guide supplied image update",
+    "details": "Rendered 78-page PDF, 29/30 recipe images loaded with no broken images, Drive file shared with nik@nik.co as writer. Flagged missing Turkey Egg Roll Bowl image from no-jar folder."
+  },
+  {
     "ts": "2026-04-30T23:41:28-04:00",
     "bot": "macra-editorial",
     "status": "pass",

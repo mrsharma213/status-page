@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-05-01T4:30:00-04:00",
+    "action": "17:15 - Slack Digest Scan",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T4:30:00-04:00",
+    "action": "17:15 - Slack Digest Scan",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T4:30:00-04:00",
+    "action": "17:15 - Slack Digest Scan",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-01T2:30:00-04:00",
     "action": "FLAGGED: \u2014 Ian Myers (Oceans Talent) re: \"Nik's marketing stuff\" - marked IMPORTANT, 15-msg",
     "category": "reminder",
@@ -1179,24 +1197,6 @@
     "ts": "2026-04-30T18:00:00-04:00",
     "action": "Nik: \u2014 Review/approve the Dash/Flex/Highbeam offer email; help Rameez draft exclusivity",
     "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Troy/Jim/Dan/Dylan: \u2014 Troy follows UBS/exclusivity and content clipping; Jim supports exclusivity word",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Rameez: \u2014 Finish PDP carousel edits/mobile text adjustments; confirm email sequence timeli",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Nik: \u2014 Continue creatives/ad work with Rahul; help Rameez on website/blog/recipe SEO; h",
-    "category": "other",
     "bot": "macra"
   }
 ]
