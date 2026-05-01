@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-05-01T6:30:00-04:00",
+    "action": "Email Scan (Cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T6:30:00-04:00",
+    "action": "Email Scan (Cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T6:30:00-04:00",
+    "action": "Email Scan (Cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-01T6:00:00-04:00",
     "action": "Fireflies Check (Cron)",
     "category": "other",
@@ -1180,23 +1198,5 @@
     "action": "Myles: \u2014 Advise air freight vs sea freight for tins/tumblers based on early order quantit",
     "category": "other",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Minul: \u2014 Send venue pricing/capacity/date updates and push to final venue decision by tom",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Troy: \u2014 Call Nick before mastering; push Andreas/Nick final call; coordinate 9pm finaliz",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Nik: \u2014 Review/approve Rahul\u2019s album art changes; help coordinate final upload; help web",
-    "category": "other",
-    "bot": "macra"
   }
 ]
