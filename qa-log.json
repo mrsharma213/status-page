@@ -1,5 +1,54 @@
 [
   {
+    "ts": "2026-04-30T21:52:22-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "The Macra Standard first 12 Google Docs",
+    "details": "Created 12 article package Google Docs in shared folder, verified folder permissions for nik@nik.co, checked generated Markdown source files for em dashes, semicolons, legacy product names, and key banned claims. Fixed saffron article compliance phrasing before upload."
+  },
+  {
+    "ts": "2026-04-30T21:50:14-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "Macra launch articles 10-12",
+    "details": "Drafted 3 Shopify-ready article packages. Checked for em dashes, semicolons, legacy product names, plant-based language, clinically proven, weight-loss phrases, Ozempic, and carb blocker phrasing. No checked issues found."
+  },
+  {
+    "ts": "2026-04-30T21:50:13-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "First batch launch articles 04-06",
+    "details": "Created Shopify-ready packages for sleepy-after-pasta, food-noise, and white-kidney-bean-extract. Punctuation and banned-term checks passed: 0 em dashes, 0 semicolons, no legacy product names."
+  },
+  {
+    "ts": "2026-04-30T21:49:29-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "First-batch articles 07-09",
+    "details": "Drafted three Shopify-ready article packages. Checked em dashes, semicolons, legacy product names, high-risk banned phrases, standalone block word, product names, source URLs, disclaimers, and product card fit."
+  },
+  {
+    "ts": "2026-04-30T21:49:11-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "Macra first batch articles 1-3",
+    "details": "Created three Shopify-ready article packages. Local scan found 0 em dashes and 0 semicolons in the three requested files. Compliance checklist included in each."
+  },
+  {
+    "ts": "2026-04-30T21:33:19-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "Google Doc creation and sharing for Macra launch content slate",
+    "details": "Created Google Doc 15uXSeqmo0ZRMpzb8L7Dzyhqa_8TtbPvwWfpWbbQoTW4, verified content preview, shared writer access to nik@nik.co."
+  },
+  {
+    "ts": "2026-04-30T21:31:37-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "Macra launch content slate and draft tracker",
+    "details": "Reviewed master plan Google Doc, created 45-article launch slate and CSV tracker draft, checked no em dashes or semicolons in generated files."
+  },
+  {
     "ts": "2026-04-30T17:50:27-04:00",
     "bot": "macra",
     "status": "flagged",

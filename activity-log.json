@@ -1,1202 +1,1202 @@
 [
   {
-    "ts": "2026-04-30T20:54:00-04:00",
-    "action": "Tomorrow's Schedule \u2014 Friday, May 1, 2026",
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Daily debrief",
     "category": "other",
     "bot": "crm"
   },
   {
-    "ts": "2026-04-30T20:54:00-04:00",
-    "action": "Tomorrow's Schedule \u2014 Friday, May 1, 2026",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T20:54:00-04:00",
-    "action": "Tomorrow's Schedule \u2014 Friday, May 1, 2026",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T20:15:00-04:00",
-    "action": "CRM contact ingestion cron",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T20:15:00-04:00",
-    "action": "CRM contact ingestion cron",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T20:15:00-04:00",
-    "action": "CRM contact ingestion cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T20:15:00-04:00",
-    "action": "2026-04-30 20:30 ET \u2014 Cron email scan",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T20:15:00-04:00",
-    "action": "2026-04-30 20:30 ET \u2014 Cron email scan",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T20:15:00-04:00",
-    "action": "2026-04-30 20:30 ET \u2014 Cron email scan",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:54:00-04:00",
-    "action": "19:08 \u2014 Macra Editorial Director bot provisioned",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:54:00-04:00",
-    "action": "19:08 \u2014 Macra Editorial Director bot provisioned",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:54:00-04:00",
-    "action": "19:08 \u2014 Macra Editorial Director bot provisioned",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:48:00-04:00",
-    "action": "Macra content arm v5 SEO/AEO/length requirements added",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:48:00-04:00",
-    "action": "Macra content arm v5 SEO/AEO/length requirements added",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:48:00-04:00",
-    "action": "Macra content arm v5 SEO/AEO/length requirements added",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:44:00-04:00",
-    "action": "Macra content arm v4 expanded",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:44:00-04:00",
-    "action": "Macra content arm v4 expanded",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:44:00-04:00",
-    "action": "Macra content arm v4 expanded",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:36:00-04:00",
-    "action": "Wild Poppy roast completed + emailed",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:36:00-04:00",
-    "action": "Wild Poppy roast completed + emailed",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:36:00-04:00",
-    "action": "Wild Poppy roast completed + emailed",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:06:00-04:00",
-    "action": "Learning capture reminder",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:06:00-04:00",
-    "action": "Learning capture reminder",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:06:00-04:00",
-    "action": "Learning capture reminder",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Minul: \u2014 Send venue pricing/capacity/date updates and push to final venue decision by tom",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Troy: \u2014 Call Nick before mastering; push Andreas/Nick final call; coordinate 9pm finaliz",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Nik: \u2014 Review/approve Rahul\u2019s album art changes; help coordinate final upload; help web",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Rahul: \u2014 Make album-art updates and send revised files for approval.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Rameez: \u2014 Draft/send joint offer to Dash, Flex, and Highbeam saying AI Gold was bought out",
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra Editorial Director launched: \u2014 Created `macra-editorial` agent, seeded full editorial/compliance/guideline syst",
     "category": "content",
     "bot": "crm"
   },
   {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Nik: \u2014 Review/approve the Dash/Flex/Highbeam offer email; help Rameez draft exclusivity",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Troy/Jim/Dan/Dylan: \u2014 Troy follows UBS/exclusivity and content clipping; Jim supports exclusivity word",
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra content arm expanded: \u2014 Content strategy moved from v3 thesis into v5 operating plan with six buckets, 6",
     "category": "content",
     "bot": "crm"
   },
   {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Rameez: \u2014 Finish PDP carousel edits/mobile text adjustments; confirm email sequence timeli",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Nik: \u2014 Continue creatives/ad work with Rahul; help Rameez on website/blog/recipe SEO; h",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Jim: \u2014 Confirm box/insert capacity with warehouse/David; verify insert quantities and w",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Myles: \u2014 Advise air freight vs sea freight for tins/tumblers based on early order quantit",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Minul: \u2014 Send venue pricing/capacity/date updates and push to final venue decision by tom",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Troy: \u2014 Call Nick before mastering; push Andreas/Nick final call; coordinate 9pm finaliz",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Nik: \u2014 Review/approve Rahul\u2019s album art changes; help coordinate final upload; help web",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Rahul: \u2014 Make album-art updates and send revised files for approval.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Rameez: \u2014 Draft/send joint offer to Dash, Flex, and Highbeam saying AI Gold was bought out",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Nik: \u2014 Review/approve the Dash/Flex/Highbeam offer email; help Rameez draft exclusivity",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Troy/Jim/Dan/Dylan: \u2014 Troy follows UBS/exclusivity and content clipping; Jim supports exclusivity word",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Rameez: \u2014 Finish PDP carousel edits/mobile text adjustments; confirm email sequence timeli",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Nik: \u2014 Continue creatives/ad work with Rahul; help Rameez on website/blog/recipe SEO; h",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Jim: \u2014 Confirm box/insert capacity with warehouse/David; verify insert quantities and w",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Myles: \u2014 Advise air freight vs sea freight for tins/tumblers based on early order quantit",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Minul: \u2014 Send venue pricing/capacity/date updates and push to final venue decision by tom",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Troy: \u2014 Call Nick before mastering; push Andreas/Nick final call; coordinate 9pm finaliz",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Nik: \u2014 Review/approve Rahul\u2019s album art changes; help coordinate final upload; help web",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Rahul: \u2014 Make album-art updates and send revised files for approval.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Rameez: \u2014 Draft/send joint offer to Dash, Flex, and Highbeam saying AI Gold was bought out",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Nik: \u2014 Review/approve the Dash/Flex/Highbeam offer email; help Rameez draft exclusivity",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Troy/Jim/Dan/Dylan: \u2014 Troy follows UBS/exclusivity and content clipping; Jim supports exclusivity word",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Rameez: \u2014 Finish PDP carousel edits/mobile text adjustments; confirm email sequence timeli",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Nik: \u2014 Continue creatives/ad work with Rahul; help Rameez on website/blog/recipe SEO; h",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Jim: \u2014 Confirm box/insert capacity with warehouse/David; verify insert quantities and w",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Myles: \u2014 Advise air freight vs sea freight for tins/tumblers based on early order quantit",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T17:45:00-04:00",
-    "action": "Macra content arm v3 direction locked",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T17:45:00-04:00",
-    "action": "Macra content arm v3 direction locked",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T17:45:00-04:00",
-    "action": "Macra content arm v3 direction locked",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T17:37:00-04:00",
-    "action": "CRM implementation direction from Rameez",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T17:37:00-04:00",
-    "action": "CRM implementation direction from Rameez",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T17:37:00-04:00",
-    "action": "CRM implementation direction from Rameez",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T15:34:00-04:00",
-    "action": "Paramount webinar follow-up email draft",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T15:34:00-04:00",
-    "action": "Paramount webinar follow-up email draft",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T15:34:00-04:00",
-    "action": "Paramount webinar follow-up email draft",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T15:32:00-04:00",
-    "action": "Fireflies manual recovery for SUPR Natural",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T15:32:00-04:00",
-    "action": "Fireflies manual recovery for SUPR Natural",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T15:32:00-04:00",
-    "action": "Fireflies manual recovery for SUPR Natural",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T15:06:00-04:00",
-    "action": "Fireflies latency fix, not just join fix",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T15:06:00-04:00",
-    "action": "Slack digest \u2014 2026-04-30 15:20 ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T15:06:00-04:00",
-    "action": "Fireflies latency fix, not just join fix",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T15:06:00-04:00",
-    "action": "Slack digest \u2014 2026-04-30 15:20 ET",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T15:06:00-04:00",
-    "action": "Fireflies latency fix, not just join fix",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T15:06:00-04:00",
-    "action": "Slack digest \u2014 2026-04-30 15:20 ET",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T15:06:00-04:00",
-    "action": "Postscript VOTW Draft \u2014 May 3",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T15:06:00-04:00",
-    "action": "Postscript VOTW Draft \u2014 May 3",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T15:06:00-04:00",
-    "action": "Postscript VOTW Draft \u2014 May 3",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T14:40:00-04:00",
-    "action": "Fireflies direct live-join fix shipped",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T14:40:00-04:00",
-    "action": "Fireflies direct live-join fix shipped",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T14:40:00-04:00",
-    "action": "Fireflies direct live-join fix shipped",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T14:17:00-04:00",
-    "action": "Fireflies live-join failure",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T14:17:00-04:00",
-    "action": "Fireflies live-join failure",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T14:17:00-04:00",
-    "action": "Fireflies live-join failure",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T13:34:00-04:00",
-    "action": "CRM Rameez status cron",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T13:34:00-04:00",
-    "action": "CRM Rameez status cron",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T13:34:00-04:00",
-    "action": "CRM Rameez status cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T12:30:00-04:00",
-    "action": "Jet Mission Control MVP built",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T12:30:00-04:00",
-    "action": "Jet Mission Control MVP built",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T12:30:00-04:00",
-    "action": "Jet Mission Control MVP built",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T11:20:00-04:00",
-    "action": "Staci social writing style context seeded",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T11:20:00-04:00",
-    "action": "Staci social writing style context seeded",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T11:20:00-04:00",
-    "action": "Staci social writing style context seeded",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T10:50:00-04:00",
-    "action": "Roast customer follow-up \u2014 Mikey's Pies",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T10:50:00-04:00",
-    "action": "Roast customer follow-up sweep \u2014 missing final-link emails",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T10:50:00-04:00",
-    "action": "Roast customer follow-up \u2014 Mikey's Pies",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T10:50:00-04:00",
-    "action": "Roast customer follow-up sweep \u2014 missing final-link emails",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T10:50:00-04:00",
-    "action": "Roast customer follow-up \u2014 Mikey's Pies",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T10:50:00-04:00",
-    "action": "Roast customer follow-up sweep \u2014 missing final-link emails",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T10:05:00-04:00",
-    "action": "Dashboard refresh cron",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T10:05:00-04:00",
-    "action": "Dashboard refresh cron",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T10:05:00-04:00",
-    "action": "Dashboard refresh cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T09:15:00-04:00",
-    "action": "Slack urgent digest",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T09:15:00-04:00",
-    "action": "Slack urgent digest",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T09:15:00-04:00",
-    "action": "Slack urgent digest",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T09:00:00-04:00",
-    "action": "CRM daily digest",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T09:00:00-04:00",
-    "action": "CRM daily digest",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T09:00:00-04:00",
-    "action": "CRM daily digest",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T09:00:00-04:00",
-    "action": "Fireflies check (last 4-6h)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T08:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T08:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T08:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T07:50:00-04:00",
-    "action": "08:01 \u2014 gbrain live sync recovery",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T07:50:00-04:00",
-    "action": "08:01 \u2014 gbrain live sync recovery",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T07:50:00-04:00",
-    "action": "08:01 \u2014 gbrain live sync recovery",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T00:50:00-04:00",
-    "action": "2026-04-30 \u2014 After Ours dashboard Brand Assets shipped",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T00:50:00-04:00",
-    "action": "2026-04-30 \u2014 After Ours dashboard Brand Assets shipped",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T00:50:00-04:00",
-    "action": "2026-04-30 \u2014 After Ours dashboard Brand Assets shipped",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T00:20:00-04:00",
-    "action": "Status page update cron",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T00:20:00-04:00",
-    "action": "Status page update cron",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T00:20:00-04:00",
-    "action": "Status page update cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "spend.nik.co provider reconciliation shipped to production. \u2014 Root cause was clear: dashboard only tracked OpenClaw `model.completed` events, ",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Dashboard refresh loop stayed current. \u2014 Command Center, YoSharma, and Internal dashboards refreshed/pushed multiple time",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "flows.nik.co ingestion added Moon Juice. \u2014 Captured a Moon Juice supplement/wellness promo, added `moon-juice` brand + emai",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Status page crons ran cleanly all day. \u2014 Multiple status-page updates pushed; system stayed operational.",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Highbeam x Ecom Founders: \u2014 Fireflies recap showed Highbeam leaning toward **$25K Silver sponsorship** for t",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Tatari / Ecom Founders: \u2014 Hooman confirmed logo + payment terms on the **$225K sponsorship**. Nik already ",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Maruchan: \u2014 Slack user-token digest caught Katelyn asking whether Maruchan/OpenClaw should s",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Zurp: \u2014 Docusign `ALEC x ZURP.pdf` voided because agreement needs update/resend. Status ",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Email: \u2014 Routine scans all day. No client escalations requiring Nik immediately. Notable ",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Slack: \u2014 User-token scans over explicit channel IDs worked and found the Maruchan decisio",
-    "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Calendar: \u2014 Tomorrow is meeting-heavy from 12:00\u20134:00 PM, then chiro 4:00\u20136:00 PM. First sch",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "12:00 PM Check-In \u2014 \u2192 team context.",
-    "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "12:30 PM PostPilot \u2014 \u2192 likely direct brand/vendor thread.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "1:00 PM Santi at office / YoSharma adjacent block \u2014 \u2192 overlaps with Yo/Tondo orbit.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "1:30 PM YoSharma Check-In \u2014 .",
-    "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "2:00 PM Ecom Founders Sponsor Check-In \u2014 watch Tatari/Highbeam momentum and contract/list obligations.",
-    "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "3:00 PM Macra TB \u2014 subscription model + Day-1 copy/compliance fixes remain relevant.",
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Fireflies live-join fixed: \u2014 Calendar invites were proven unreliable for active/imminent calls. Built `script",
     "category": "fix",
     "bot": "crm"
   },
   {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "4:00\u20136:00 PM Chiro \u2014 .",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "spend.nik.co provider reconciliation shipped to production. \u2014 Root cause was clear: dashboard only tracked OpenClaw `model.completed` events, ",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Dashboard refresh loop stayed current. \u2014 Command Center, YoSharma, and Internal dashboards refreshed/pushed multiple time",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "flows.nik.co ingestion added Moon Juice. \u2014 Captured a Moon Juice supplement/wellness promo, added `moon-juice` brand + emai",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Status page crons ran cleanly all day. \u2014 Multiple status-page updates pushed; system stayed operational.",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Highbeam x Ecom Founders: \u2014 Fireflies recap showed Highbeam leaning toward **$25K Silver sponsorship** for t",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Tatari / Ecom Founders: \u2014 Hooman confirmed logo + payment terms on the **$225K sponsorship**. Nik already ",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Maruchan: \u2014 Slack user-token digest caught Katelyn asking whether Maruchan/OpenClaw should s",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Zurp: \u2014 Docusign `ALEC x ZURP.pdf` voided because agreement needs update/resend. Status ",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Email: \u2014 Routine scans all day. No client escalations requiring Nik immediately. Notable ",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Slack: \u2014 User-token scans over explicit channel IDs worked and found the Maruchan decisio",
-    "category": "check",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Calendar: \u2014 Tomorrow is meeting-heavy from 12:00\u20134:00 PM, then chiro 4:00\u20136:00 PM. First sch",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "12:00 PM Check-In \u2014 \u2192 team context.",
-    "category": "check",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "12:30 PM PostPilot \u2014 \u2192 likely direct brand/vendor thread.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "1:00 PM Santi at office / YoSharma adjacent block \u2014 \u2192 overlaps with Yo/Tondo orbit.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "1:30 PM YoSharma Check-In \u2014 .",
-    "category": "check",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "2:00 PM Ecom Founders Sponsor Check-In \u2014 watch Tatari/Highbeam momentum and contract/list obligations.",
-    "category": "check",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "3:00 PM Macra TB \u2014 subscription model + Day-1 copy/compliance fixes remain relevant.",
-    "category": "fix",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "4:00\u20136:00 PM Chiro \u2014 .",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "spend.nik.co provider reconciliation shipped to production. \u2014 Root cause was clear: dashboard only tracked OpenClaw `model.completed` events, ",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Dashboard refresh loop stayed current. \u2014 Command Center, YoSharma, and Internal dashboards refreshed/pushed multiple time",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "flows.nik.co ingestion added Moon Juice. \u2014 Captured a Moon Juice supplement/wellness promo, added `moon-juice` brand + emai",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Status page crons ran cleanly all day. \u2014 Multiple status-page updates pushed; system stayed operational.",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Highbeam x Ecom Founders: \u2014 Fireflies recap showed Highbeam leaning toward **$25K Silver sponsorship** for t",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Tatari / Ecom Founders: \u2014 Hooman confirmed logo + payment terms on the **$225K sponsorship**. Nik already ",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Maruchan: \u2014 Slack user-token digest caught Katelyn asking whether Maruchan/OpenClaw should s",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Zurp: \u2014 Docusign `ALEC x ZURP.pdf` voided because agreement needs update/resend. Status ",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Email: \u2014 Routine scans all day. No client escalations requiring Nik immediately. Notable ",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Slack: \u2014 User-token scans over explicit channel IDs worked and found the Maruchan decisio",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Calendar: \u2014 Tomorrow is meeting-heavy from 12:00\u20134:00 PM, then chiro 4:00\u20136:00 PM. First sch",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "12:00 PM Check-In \u2014 \u2192 team context.",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "12:30 PM PostPilot \u2014 \u2192 likely direct brand/vendor thread.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "1:00 PM Santi at office / YoSharma adjacent block \u2014 \u2192 overlaps with Yo/Tondo orbit.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "1:30 PM YoSharma Check-In \u2014 .",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "2:00 PM Ecom Founders Sponsor Check-In \u2014 watch Tatari/Highbeam momentum and contract/list obligations.",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "3:00 PM Macra TB \u2014 subscription model + Day-1 copy/compliance fixes remain relevant.",
-    "category": "fix",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "4:00\u20136:00 PM Chiro \u2014 .",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Daily Debrief (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Daily Debrief (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T21:30:00-04:00",
-    "action": "Daily Debrief (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T20:30:00-04:00",
-    "action": "Tomorrow's Schedule \u2014 Thursday, April 30, 2026",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T20:30:00-04:00",
-    "action": "Tomorrow's Schedule \u2014 Thursday, April 30, 2026",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T20:30:00-04:00",
-    "action": "Tomorrow's Schedule \u2014 Thursday, April 30, 2026",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T19:00:00-04:00",
-    "action": "flows.nik.co email flow scanner",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T19:00:00-04:00",
-    "action": "Slack digest cron \u2014 7:15 PM ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T19:00:00-04:00",
-    "action": "flows.nik.co email flow scanner",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T19:00:00-04:00",
-    "action": "Slack digest cron \u2014 7:15 PM ET",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T19:00:00-04:00",
-    "action": "flows.nik.co email flow scanner",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T19:00:00-04:00",
-    "action": "Slack digest cron \u2014 7:15 PM ET",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T18:07:00-04:00",
-    "action": "Learning capture cron",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T18:07:00-04:00",
-    "action": "Learning capture cron",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-29T18:07:00-04:00",
-    "action": "Learning capture cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Fireflies check (last 4-6h)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Rameez: \u2014 Email Grace today with Silver sponsorship details, audience makeup, sponsorship ",
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Roast follow-up debt cleared: \u2014 Sent Mikey\u2019s Pies final link, swept recent paid roast buyers after the 4/27 batc",
     "category": "outbound",
     "bot": "crm"
   },
   {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Rameez: \u2014 Send Grace the recording of Highbeam/David's prior Ecom Founders talk.",
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Jet Mission Control MVP built: \u2014 Local Next/Prisma/SQLite app created at `projects/jet-mission-control` with dash",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "After Ours assets shipped: \u2014 Minul supplied Dropbox/Bandzoogle links; added `/assets` page to afterours.nik.c",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Staci social style seeded: \u2014 Created durable Nik social writing guide for Staci and confirmed she read it; Jo",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Docs drafted: \u2014 Created Postscript VOTW draft Google Doc and Paramount webinar follow-up draft, ",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra content model: \u2014 Two engines: proof/product marketing plus consumer/share editorial. Avoid \u201cplant",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra editorial execution: \u2014 Needs a dedicated operator bot owning idea \u2192 research \u2192 SEO/AEO \u2192 draft \u2192 compli",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Fireflies SOP: \u2014 Never treat a fresh `fred@fireflies.ai` calendar invite as immediate live join. ",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "CRM implementation: \u2014 Rameez directed the build to prioritize important/recent data first, prove live ",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Ecom Founders sponsor strategy: \u2014 Do not add a third event yet; maximize AI Summit + Q4 Summit. Use Q4 Gold pressu",
     "category": "research",
     "bot": "crm"
   },
   {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Rameez: \u2014 If Highbeam is game, coordinate ASAP brainstorming call with David, Grace, Nik, ",
-    "category": "other",
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "YoSharma Check-In: \u2014 \u201cNever Coming Back\u201d targeting May 22 release; May 20 practical master deadline, ",
+    "category": "check",
     "bot": "crm"
   },
   {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Rameez: \u2014 Figure out best Workweek/Limited Supply contact and intro Grace today.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Grace: \u2014 Float the sponsorship internally and come back with approval/interest; consider ",
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Ecom Founders sync: \u2014 AI Summit sponsorships expected to move from ~$170K toward ~$250K; Splash confir",
     "category": "deploy",
     "bot": "crm"
   },
   {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Joel / David side: \u2014 Joel needs to get back to Nik with times for Nik to meet David.",
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra TB: \u2014 Launch ops converging. Website/PDP/email assets close, 8 creators selected, TikT",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "CRM daily digest: \u2014 Jane Fisher / Harper Wilde remains 5\u2605 overdue and was surfaced to Jet Status. CR",
     "category": "other",
     "bot": "crm"
   },
   {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Nik: \u2014 No hard immediate commitment beyond being open to chat with Grace/David about po",
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Finance/deal alerts: \u2014 Mercury transfer confirmation ($221,271.25) surfaced; SUPR Natural SAFE/wiring/d",
+    "category": "reminder",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Slack: \u2014 #nik-maruchan had a direct tooling question for Nik about search volume around n",
+    "category": "research",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Tomorrow: \u2014 Friday May 1 is light: Flexpower/Dylan reminder at 7:30 AM, Check-In 1:00 PM, Ro",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "CRM: \u2014 Still ~35%, `crm-site` ahead of origin with local changes, read-only auth approv",
     "category": "other",
     "bot": "crm"
   },
   {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Fireflies check (last 4-6h)",
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Mission Control: \u2014 Needs domain, auth/passcode, deployment/storage decision, `INTERNAL_API_SECRET`,",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Fireflies: \u2014 Investigate why SUPR Natural was not caught by the imminent-calendar watcher des",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra ops: \u2014 Carton ordering/packout logic, SKU/insert rules, creator shipping, PDP/mobile ed",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Ecom Founders: \u2014 Dash/Flex/Highbeam Q4 Gold push, Splash/Q4 handling, UBS/exclusivity, Slash Docu",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "After Ours: \u2014 \u201cNever Coming Back\u201d final master/upload, venue decision, album art final tweaks,",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Daily debrief",
     "category": "other",
     "bot": "macra"
   },
   {
-    "ts": "2026-04-29T18:00:00-04:00",
-    "action": "Rameez: \u2014 Email Grace today with Silver sponsorship details, audience makeup, sponsorship ",
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra Editorial Director launched: \u2014 Created `macra-editorial` agent, seeded full editorial/compliance/guideline syst",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra content arm expanded: \u2014 Content strategy moved from v3 thesis into v5 operating plan with six buckets, 6",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Fireflies live-join fixed: \u2014 Calendar invites were proven unreliable for active/imminent calls. Built `script",
+    "category": "fix",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Roast follow-up debt cleared: \u2014 Sent Mikey\u2019s Pies final link, swept recent paid roast buyers after the 4/27 batc",
     "category": "outbound",
     "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Jet Mission Control MVP built: \u2014 Local Next/Prisma/SQLite app created at `projects/jet-mission-control` with dash",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "After Ours assets shipped: \u2014 Minul supplied Dropbox/Bandzoogle links; added `/assets` page to afterours.nik.c",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Staci social style seeded: \u2014 Created durable Nik social writing guide for Staci and confirmed she read it; Jo",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Docs drafted: \u2014 Created Postscript VOTW draft Google Doc and Paramount webinar follow-up draft, ",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra content model: \u2014 Two engines: proof/product marketing plus consumer/share editorial. Avoid \u201cplant",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra editorial execution: \u2014 Needs a dedicated operator bot owning idea \u2192 research \u2192 SEO/AEO \u2192 draft \u2192 compli",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Fireflies SOP: \u2014 Never treat a fresh `fred@fireflies.ai` calendar invite as immediate live join. ",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "CRM implementation: \u2014 Rameez directed the build to prioritize important/recent data first, prove live ",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Ecom Founders sponsor strategy: \u2014 Do not add a third event yet; maximize AI Summit + Q4 Summit. Use Q4 Gold pressu",
+    "category": "research",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "YoSharma Check-In: \u2014 \u201cNever Coming Back\u201d targeting May 22 release; May 20 practical master deadline, ",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Ecom Founders sync: \u2014 AI Summit sponsorships expected to move from ~$170K toward ~$250K; Splash confir",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra TB: \u2014 Launch ops converging. Website/PDP/email assets close, 8 creators selected, TikT",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "CRM daily digest: \u2014 Jane Fisher / Harper Wilde remains 5\u2605 overdue and was surfaced to Jet Status. CR",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Finance/deal alerts: \u2014 Mercury transfer confirmation ($221,271.25) surfaced; SUPR Natural SAFE/wiring/d",
+    "category": "reminder",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Slack: \u2014 #nik-maruchan had a direct tooling question for Nik about search volume around n",
+    "category": "research",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Tomorrow: \u2014 Friday May 1 is light: Flexpower/Dylan reminder at 7:30 AM, Check-In 1:00 PM, Ro",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "CRM: \u2014 Still ~35%, `crm-site` ahead of origin with local changes, read-only auth approv",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Mission Control: \u2014 Needs domain, auth/passcode, deployment/storage decision, `INTERNAL_API_SECRET`,",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Fireflies: \u2014 Investigate why SUPR Natural was not caught by the imminent-calendar watcher des",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra ops: \u2014 Carton ordering/packout logic, SKU/insert rules, creator shipping, PDP/mobile ed",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Ecom Founders: \u2014 Dash/Flex/Highbeam Q4 Gold push, Splash/Q4 handling, UBS/exclusivity, Slash Docu",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "After Ours: \u2014 \u201cNever Coming Back\u201d final master/upload, venue decision, album art final tweaks,",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Daily debrief",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra Editorial Director launched: \u2014 Created `macra-editorial` agent, seeded full editorial/compliance/guideline syst",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra content arm expanded: \u2014 Content strategy moved from v3 thesis into v5 operating plan with six buckets, 6",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Fireflies live-join fixed: \u2014 Calendar invites were proven unreliable for active/imminent calls. Built `script",
+    "category": "fix",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Roast follow-up debt cleared: \u2014 Sent Mikey\u2019s Pies final link, swept recent paid roast buyers after the 4/27 batc",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Jet Mission Control MVP built: \u2014 Local Next/Prisma/SQLite app created at `projects/jet-mission-control` with dash",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "After Ours assets shipped: \u2014 Minul supplied Dropbox/Bandzoogle links; added `/assets` page to afterours.nik.c",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Staci social style seeded: \u2014 Created durable Nik social writing guide for Staci and confirmed she read it; Jo",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Docs drafted: \u2014 Created Postscript VOTW draft Google Doc and Paramount webinar follow-up draft, ",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra content model: \u2014 Two engines: proof/product marketing plus consumer/share editorial. Avoid \u201cplant",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra editorial execution: \u2014 Needs a dedicated operator bot owning idea \u2192 research \u2192 SEO/AEO \u2192 draft \u2192 compli",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Fireflies SOP: \u2014 Never treat a fresh `fred@fireflies.ai` calendar invite as immediate live join. ",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "CRM implementation: \u2014 Rameez directed the build to prioritize important/recent data first, prove live ",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Ecom Founders sponsor strategy: \u2014 Do not add a third event yet; maximize AI Summit + Q4 Summit. Use Q4 Gold pressu",
+    "category": "research",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "YoSharma Check-In: \u2014 \u201cNever Coming Back\u201d targeting May 22 release; May 20 practical master deadline, ",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Ecom Founders sync: \u2014 AI Summit sponsorships expected to move from ~$170K toward ~$250K; Splash confir",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra TB: \u2014 Launch ops converging. Website/PDP/email assets close, 8 creators selected, TikT",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "CRM daily digest: \u2014 Jane Fisher / Harper Wilde remains 5\u2605 overdue and was surfaced to Jet Status. CR",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Finance/deal alerts: \u2014 Mercury transfer confirmation ($221,271.25) surfaced; SUPR Natural SAFE/wiring/d",
+    "category": "reminder",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Slack: \u2014 #nik-maruchan had a direct tooling question for Nik about search volume around n",
+    "category": "research",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Tomorrow: \u2014 Friday May 1 is light: Flexpower/Dylan reminder at 7:30 AM, Check-In 1:00 PM, Ro",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "CRM: \u2014 Still ~35%, `crm-site` ahead of origin with local changes, read-only auth approv",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Mission Control: \u2014 Needs domain, auth/passcode, deployment/storage decision, `INTERNAL_API_SECRET`,",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Fireflies: \u2014 Investigate why SUPR Natural was not caught by the imminent-calendar watcher des",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Macra ops: \u2014 Carton ordering/packout logic, SKU/insert rules, creator shipping, PDP/mobile ed",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "Ecom Founders: \u2014 Dash/Flex/Highbeam Q4 Gold push, Splash/Q4 handling, UBS/exclusivity, Slash Docu",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T21:30:00-04:00",
+    "action": "After Ours: \u2014 \u201cNever Coming Back\u201d final master/upload, venue decision, album art final tweaks,",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T20:54:00-04:00",
+    "action": "Tomorrow's Schedule \u2014 Friday, May 1, 2026",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T20:54:00-04:00",
+    "action": "Tomorrow's Schedule \u2014 Friday, May 1, 2026",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T20:54:00-04:00",
+    "action": "Tomorrow's Schedule \u2014 Friday, May 1, 2026",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T20:54:00-04:00",
+    "action": "21:26 \u2014 Macra Editorial Director Telegram binding completed",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T20:54:00-04:00",
+    "action": "21:26 \u2014 Macra Editorial Director Telegram binding completed",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T20:54:00-04:00",
+    "action": "21:26 \u2014 Macra Editorial Director Telegram binding completed",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T20:15:00-04:00",
+    "action": "CRM contact ingestion cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T20:15:00-04:00",
+    "action": "CRM contact ingestion cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T20:15:00-04:00",
+    "action": "CRM contact ingestion cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T20:15:00-04:00",
+    "action": "2026-04-30 20:30 ET \u2014 Cron email scan",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T20:15:00-04:00",
+    "action": "2026-04-30 20:30 ET \u2014 Cron email scan",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T20:15:00-04:00",
+    "action": "2026-04-30 20:30 ET \u2014 Cron email scan",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:54:00-04:00",
+    "action": "19:08 \u2014 Macra Editorial Director bot provisioned",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:54:00-04:00",
+    "action": "19:08 \u2014 Macra Editorial Director bot provisioned",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:54:00-04:00",
+    "action": "19:08 \u2014 Macra Editorial Director bot provisioned",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:48:00-04:00",
+    "action": "Macra content arm v5 SEO/AEO/length requirements added",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:48:00-04:00",
+    "action": "Macra content arm v5 SEO/AEO/length requirements added",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:48:00-04:00",
+    "action": "Macra content arm v5 SEO/AEO/length requirements added",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:44:00-04:00",
+    "action": "Macra content arm v4 expanded",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:44:00-04:00",
+    "action": "Macra content arm v4 expanded",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:44:00-04:00",
+    "action": "Macra content arm v4 expanded",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:36:00-04:00",
+    "action": "Wild Poppy roast completed + emailed",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:36:00-04:00",
+    "action": "Wild Poppy roast completed + emailed",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:36:00-04:00",
+    "action": "Wild Poppy roast completed + emailed",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:06:00-04:00",
+    "action": "Learning capture reminder",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:06:00-04:00",
+    "action": "Learning capture reminder",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:06:00-04:00",
+    "action": "Learning capture reminder",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Minul: \u2014 Send venue pricing/capacity/date updates and push to final venue decision by tom",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Troy: \u2014 Call Nick before mastering; push Andreas/Nick final call; coordinate 9pm finaliz",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Review/approve Rahul\u2019s album art changes; help coordinate final upload; help web",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rahul: \u2014 Make album-art updates and send revised files for approval.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rameez: \u2014 Draft/send joint offer to Dash, Flex, and Highbeam saying AI Gold was bought out",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Review/approve the Dash/Flex/Highbeam offer email; help Rameez draft exclusivity",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Troy/Jim/Dan/Dylan: \u2014 Troy follows UBS/exclusivity and content clipping; Jim supports exclusivity word",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rameez: \u2014 Finish PDP carousel edits/mobile text adjustments; confirm email sequence timeli",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Continue creatives/ad work with Rahul; help Rameez on website/blog/recipe SEO; h",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Jim: \u2014 Confirm box/insert capacity with warehouse/David; verify insert quantities and w",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Myles: \u2014 Advise air freight vs sea freight for tins/tumblers based on early order quantit",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Minul: \u2014 Send venue pricing/capacity/date updates and push to final venue decision by tom",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Troy: \u2014 Call Nick before mastering; push Andreas/Nick final call; coordinate 9pm finaliz",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Review/approve Rahul\u2019s album art changes; help coordinate final upload; help web",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rahul: \u2014 Make album-art updates and send revised files for approval.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rameez: \u2014 Draft/send joint offer to Dash, Flex, and Highbeam saying AI Gold was bought out",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Review/approve the Dash/Flex/Highbeam offer email; help Rameez draft exclusivity",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Troy/Jim/Dan/Dylan: \u2014 Troy follows UBS/exclusivity and content clipping; Jim supports exclusivity word",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rameez: \u2014 Finish PDP carousel edits/mobile text adjustments; confirm email sequence timeli",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Continue creatives/ad work with Rahul; help Rameez on website/blog/recipe SEO; h",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Jim: \u2014 Confirm box/insert capacity with warehouse/David; verify insert quantities and w",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Myles: \u2014 Advise air freight vs sea freight for tins/tumblers based on early order quantit",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Minul: \u2014 Send venue pricing/capacity/date updates and push to final venue decision by tom",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Troy: \u2014 Call Nick before mastering; push Andreas/Nick final call; coordinate 9pm finaliz",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Review/approve Rahul\u2019s album art changes; help coordinate final upload; help web",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rahul: \u2014 Make album-art updates and send revised files for approval.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rameez: \u2014 Draft/send joint offer to Dash, Flex, and Highbeam saying AI Gold was bought out",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Review/approve the Dash/Flex/Highbeam offer email; help Rameez draft exclusivity",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Troy/Jim/Dan/Dylan: \u2014 Troy follows UBS/exclusivity and content clipping; Jim supports exclusivity word",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Rameez: \u2014 Finish PDP carousel edits/mobile text adjustments; confirm email sequence timeli",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Nik: \u2014 Continue creatives/ad work with Rahul; help Rameez on website/blog/recipe SEO; h",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Jim: \u2014 Confirm box/insert capacity with warehouse/David; verify insert quantities and w",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T18:00:00-04:00",
+    "action": "Myles: \u2014 Advise air freight vs sea freight for tins/tumblers based on early order quantit",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T17:45:00-04:00",
+    "action": "Macra content arm v3 direction locked",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T17:45:00-04:00",
+    "action": "Macra content arm v3 direction locked",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T17:45:00-04:00",
+    "action": "Macra content arm v3 direction locked",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T17:37:00-04:00",
+    "action": "CRM implementation direction from Rameez",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T17:37:00-04:00",
+    "action": "CRM implementation direction from Rameez",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T17:37:00-04:00",
+    "action": "CRM implementation direction from Rameez",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T15:34:00-04:00",
+    "action": "Paramount webinar follow-up email draft",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T15:34:00-04:00",
+    "action": "Paramount webinar follow-up email draft",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T15:34:00-04:00",
+    "action": "Paramount webinar follow-up email draft",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T15:32:00-04:00",
+    "action": "Fireflies manual recovery for SUPR Natural",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T15:32:00-04:00",
+    "action": "Fireflies manual recovery for SUPR Natural",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T15:32:00-04:00",
+    "action": "Fireflies manual recovery for SUPR Natural",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T15:06:00-04:00",
+    "action": "Fireflies latency fix, not just join fix",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T15:06:00-04:00",
+    "action": "Slack digest \u2014 2026-04-30 15:20 ET",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T15:06:00-04:00",
+    "action": "Fireflies latency fix, not just join fix",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T15:06:00-04:00",
+    "action": "Slack digest \u2014 2026-04-30 15:20 ET",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T15:06:00-04:00",
+    "action": "Fireflies latency fix, not just join fix",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T15:06:00-04:00",
+    "action": "Slack digest \u2014 2026-04-30 15:20 ET",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T15:06:00-04:00",
+    "action": "Postscript VOTW Draft \u2014 May 3",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T15:06:00-04:00",
+    "action": "Postscript VOTW Draft \u2014 May 3",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T15:06:00-04:00",
+    "action": "Postscript VOTW Draft \u2014 May 3",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T14:40:00-04:00",
+    "action": "Fireflies direct live-join fix shipped",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T14:40:00-04:00",
+    "action": "Fireflies direct live-join fix shipped",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T14:40:00-04:00",
+    "action": "Fireflies direct live-join fix shipped",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T14:17:00-04:00",
+    "action": "Fireflies live-join failure",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T14:17:00-04:00",
+    "action": "Fireflies live-join failure",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T14:17:00-04:00",
+    "action": "Fireflies live-join failure",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T13:34:00-04:00",
+    "action": "CRM Rameez status cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T13:34:00-04:00",
+    "action": "CRM Rameez status cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T13:34:00-04:00",
+    "action": "CRM Rameez status cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T12:30:00-04:00",
+    "action": "Jet Mission Control MVP built",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T12:30:00-04:00",
+    "action": "Jet Mission Control MVP built",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T12:30:00-04:00",
+    "action": "Jet Mission Control MVP built",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T11:20:00-04:00",
+    "action": "Staci social writing style context seeded",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T11:20:00-04:00",
+    "action": "Staci social writing style context seeded",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T11:20:00-04:00",
+    "action": "Staci social writing style context seeded",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T10:50:00-04:00",
+    "action": "Roast customer follow-up \u2014 Mikey's Pies",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T10:50:00-04:00",
+    "action": "Roast customer follow-up sweep \u2014 missing final-link emails",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T10:50:00-04:00",
+    "action": "Roast customer follow-up \u2014 Mikey's Pies",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T10:50:00-04:00",
+    "action": "Roast customer follow-up sweep \u2014 missing final-link emails",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T10:50:00-04:00",
+    "action": "Roast customer follow-up \u2014 Mikey's Pies",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T10:50:00-04:00",
+    "action": "Roast customer follow-up sweep \u2014 missing final-link emails",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T10:05:00-04:00",
+    "action": "Dashboard refresh cron",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T10:05:00-04:00",
+    "action": "Dashboard refresh cron",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T10:05:00-04:00",
+    "action": "Dashboard refresh cron",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T09:15:00-04:00",
+    "action": "Slack urgent digest",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T09:15:00-04:00",
+    "action": "Slack urgent digest",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T09:15:00-04:00",
+    "action": "Slack urgent digest",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T09:00:00-04:00",
+    "action": "CRM daily digest",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T09:00:00-04:00",
+    "action": "CRM daily digest",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T09:00:00-04:00",
+    "action": "CRM daily digest",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T09:00:00-04:00",
+    "action": "Fireflies check (last 4-6h)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T08:30:00-04:00",
+    "action": "Email scan (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T08:30:00-04:00",
+    "action": "Email scan (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T08:30:00-04:00",
+    "action": "Email scan (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T07:50:00-04:00",
+    "action": "08:01 \u2014 gbrain live sync recovery",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T07:50:00-04:00",
+    "action": "08:01 \u2014 gbrain live sync recovery",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T07:50:00-04:00",
+    "action": "08:01 \u2014 gbrain live sync recovery",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-04-30T00:50:00-04:00",
+    "action": "2026-04-30 \u2014 After Ours dashboard Brand Assets shipped",
+    "category": "other",
+    "bot": "crm"
   }
 ]
