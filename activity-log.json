@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-05-01T7:15:00-04:00",
+    "action": "Slack Digest (Cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T7:15:00-04:00",
+    "action": "Slack Digest (Cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T7:15:00-04:00",
+    "action": "Slack Digest (Cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-01T6:30:00-04:00",
     "action": "Email Scan (Cron)",
     "category": "other",
@@ -1179,24 +1197,6 @@
     "ts": "2026-04-30T18:00:00-04:00",
     "action": "Rameez: \u2014 Finish PDP carousel edits/mobile text adjustments; confirm email sequence timeli",
     "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Nik: \u2014 Continue creatives/ad work with Rahul; help Rameez on website/blog/recipe SEO; h",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Jim: \u2014 Confirm box/insert capacity with warehouse/David; verify insert quantities and w",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Myles: \u2014 Advise air freight vs sea freight for tins/tumblers based on early order quantit",
-    "category": "other",
     "bot": "crm"
   }
 ]
