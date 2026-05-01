@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-04-30T21:54:00-04:00",
+    "action": "22:24 \u2014 Macra first 30 articles ready in Drive",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-04-30T21:54:00-04:00",
+    "action": "22:24 \u2014 Macra first 30 articles ready in Drive",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-04-30T21:54:00-04:00",
+    "action": "22:24 \u2014 Macra first 30 articles ready in Drive",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-04-30T21:30:00-04:00",
     "action": "Daily debrief",
     "category": "other",
@@ -1180,23 +1198,5 @@
     "action": "Fireflies check (last 4-6h)",
     "category": "other",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T09:00:00-04:00",
-    "action": "Fireflies check (last 4-6h)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T08:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T08:30:00-04:00",
-    "action": "Email scan (cron)",
-    "category": "other",
-    "bot": "macra"
   }
 ]
