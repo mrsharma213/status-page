@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-05-01T6:00:00-04:00",
+    "action": "Fireflies Check (Cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T6:00:00-04:00",
+    "action": "Fireflies Check (Cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T6:00:00-04:00",
+    "action": "Fireflies Check (Cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-01T4:30:00-04:00",
     "action": "17:15 - Slack Digest Scan",
     "category": "other",
@@ -1179,24 +1197,6 @@
     "ts": "2026-04-30T18:00:00-04:00",
     "action": "Nik: \u2014 Review/approve Rahul\u2019s album art changes; help coordinate final upload; help web",
     "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Rahul: \u2014 Make album-art updates and send revised files for approval.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Rameez: \u2014 Draft/send joint offer to Dash, Flex, and Highbeam saying AI Gold was bought out",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Nik: \u2014 Review/approve the Dash/Flex/Highbeam offer email; help Rameez draft exclusivity",
-    "category": "outbound",
     "bot": "macra"
   }
 ]
