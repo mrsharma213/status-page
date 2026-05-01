@@ -1,5 +1,54 @@
 [
   {
+    "ts": "2026-04-30T23:22:44-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "The Macra Standard articles 40-42 local draft packages",
+    "details": "Created Shopify-ready packages for 40 mood support supplement, 41 carb support supplement, and 42 high-output workday routine. Local checks passed for no em dashes, semicolons, legacy names, plant-based positioning, or checked banned claim strings. Only cure occurrences are inside required FDA disclaimers."
+  },
+  {
+    "ts": "2026-04-30T23:22:39-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "The Macra Standard articles 37-39 local Markdown packages",
+    "details": "Created three Shopify-ready packages in content-pipeline/articles-third-batch and checked target files for em dashes, semicolons, legacy names, and key banned claims. Only FDA disclaimer language matched treat/cure/prevent wording."
+  },
+  {
+    "ts": "2026-04-30T23:22:18-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "The Macra Standard articles 43-45 local drafts",
+    "details": "Created Shopify-ready packages in content-pipeline/articles-third-batch. Checks: 0 em dashes, 0 semicolons, 0 legacy names, 0 forbidden block language. Banned-claim scan only flagged required FDA disclaimer language in articles 43 and 45. Source links reachable with 200 or 301."
+  },
+  {
+    "ts": "2026-04-30T23:21:53-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "The Macra Standard articles 34-36 local draft checks",
+    "details": "Created Shopify-ready Markdown packages for airport food guide, dinner reservation survival guide, and afternoon sugar cravings. Local scans passed: 0 em dashes, 0 semicolons, 0 legacy names, 0 banned/high-risk claims, 0 broad block-word hits."
+  },
+  {
+    "ts": "2026-04-30T23:21:36-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "The Macra Standard articles 31-33 local draft checks",
+    "details": "Created 31-feeling-full-vs-good.md, 32-walking-after-dinner.md, and 33-best-pasta-nyc.md. Local scan found 0 em dashes, 0 semicolons, 0 legacy names, 0 plant-based positioning, and 0 listed banned claims."
+  },
+  {
+    "ts": "2026-04-30T23:04:22-04:00",
+    "bot": "macra-editorial",
+    "status": "flagged",
+    "action": "Macra content tracker live site deploy",
+    "details": "Built and deployed tracker site. Verified macra-content-nik-co.vercel.app/tracker returns 200. standard.macra.com deployment aliased in Vercel but local resolver had inconsistent DNS. macra-content.nik.co requires DNS CNAME to cname.vercel-dns.com before it can resolve."
+  },
+  {
+    "ts": "2026-04-30T22:57:58-04:00",
+    "bot": "macra-editorial",
+    "status": "pass",
+    "action": "The Macra Standard content tracker Google Sheet",
+    "details": "Created 45-row article tracker with first 30 Google Doc links and queued backlog articles, verified sheet preview, shared writer access to nik@nik.co."
+  },
+  {
     "ts": "2026-04-30T22:14:15-04:00",
     "bot": "macra-editorial",
     "status": "pass",
