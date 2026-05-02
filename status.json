@@ -1,7 +1,7 @@
 {
   "overall": "operational",
-  "updatedAt": "May 02, 2026 at 09:55 AM ET",
-  "updatedAtUTC": "2026-05-02T13:55:35Z",
+  "updatedAt": "May 02, 2026 at 10:25 AM ET",
+  "updatedAtUTC": "2026-05-02T14:25:34Z",
   "infrastructure": [
     {"name": "Gateway", "emoji": "🖥️", "status": "operational"},
     {"name": "Anthropic API", "emoji": "🧠", "status": "operational"},
@@ -11,7 +11,7 @@
     {"name": "Jet (Main)", "emoji": "⚡", "status": "operational"},
     {"name": "CRM", "emoji": "📇", "status": "operational"},
     {"name": "Macra Supps", "emoji": "💊", "status": "operational"},
-    {"name": "Macra App", "emoji": "📱", "status": "down"},
+    {"name": "Macra App", "emoji": "📱", "status": "operational"},
     {"name": "Printing Press", "emoji": "🖨️", "status": "unknown"},
     {"name": "Josiah (Writer)", "emoji": "✍️", "status": "operational"},
     {"name": "Chip (Gemma)", "emoji": "🤓", "status": "operational"},
