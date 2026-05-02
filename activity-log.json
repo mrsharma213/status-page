@@ -126,6 +126,168 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "End-of-Day Debrief",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Macra \u2014 Jim Jannuzzio (Tondo Fulfillment) sent 9-msg thread on Macra ops (08:29).",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Macra x FrontrowMD \u2014 Maha Awaisi sent implementations email + calendar invite for **Wed Jun 3, 3pm ED",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Left Lane \u2014 Kristina Igoe coordinating in-person meeting with Troy + Rohit (9-msg thread, ma",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Ecom Founders AI Summit \u2014 Rameez activity re Webster Hall event **June 25**. Tatari x Ecom Founders contra",
+    "category": "research",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Chase \u2014 Wire transfer delay alert \u2014 needs Nik's attention.",
+    "category": "reminder",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Deal flow / Investor \u2014 Applied Frameworks $1M SAFE pitch (Luke Hohmann, $10M cap, 25% disc); Blackwing ",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Ian Myers (Oceans Talent) \u2014 flagged thread re Nik's marketing.",
+    "category": "reminder",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "GrowthPair \u2014 (Jonathan Martinez, backed by Alex Lieberman) \u2014 equity partnership pitch, logged",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "End-of-Day Debrief",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Macra \u2014 Jim Jannuzzio (Tondo Fulfillment) sent 9-msg thread on Macra ops (08:29).",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Macra x FrontrowMD \u2014 Maha Awaisi sent implementations email + calendar invite for **Wed Jun 3, 3pm ED",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Left Lane \u2014 Kristina Igoe coordinating in-person meeting with Troy + Rohit (9-msg thread, ma",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Ecom Founders AI Summit \u2014 Rameez activity re Webster Hall event **June 25**. Tatari x Ecom Founders contra",
+    "category": "research",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Chase \u2014 Wire transfer delay alert \u2014 needs Nik's attention.",
+    "category": "reminder",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Deal flow / Investor \u2014 Applied Frameworks $1M SAFE pitch (Luke Hohmann, $10M cap, 25% disc); Blackwing ",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Ian Myers (Oceans Talent) \u2014 flagged thread re Nik's marketing.",
+    "category": "reminder",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "GrowthPair \u2014 (Jonathan Martinez, backed by Alex Lieberman) \u2014 equity partnership pitch, logged",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "End-of-Day Debrief",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Macra \u2014 Jim Jannuzzio (Tondo Fulfillment) sent 9-msg thread on Macra ops (08:29).",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Macra x FrontrowMD \u2014 Maha Awaisi sent implementations email + calendar invite for **Wed Jun 3, 3pm ED",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Left Lane \u2014 Kristina Igoe coordinating in-person meeting with Troy + Rohit (9-msg thread, ma",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Ecom Founders AI Summit \u2014 Rameez activity re Webster Hall event **June 25**. Tatari x Ecom Founders contra",
+    "category": "research",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Chase \u2014 Wire transfer delay alert \u2014 needs Nik's attention.",
+    "category": "reminder",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Deal flow / Investor \u2014 Applied Frameworks $1M SAFE pitch (Luke Hohmann, $10M cap, 25% disc); Blackwing ",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "Ian Myers (Oceans Talent) \u2014 flagged thread re Nik's marketing.",
+    "category": "reminder",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-01T21:30:00-04:00",
+    "action": "GrowthPair \u2014 (Jonathan Martinez, backed by Alex Lieberman) \u2014 equity partnership pitch, logged",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-01T12:30:00-04:00",
     "action": "jet@nik.co \u2014 No unread emails in last 2h",
     "category": "outbound",
@@ -1036,167 +1198,5 @@
     "action": "CRM contact ingestion cron",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T20:15:00-04:00",
-    "action": "CRM contact ingestion cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T20:15:00-04:00",
-    "action": "2026-04-30 20:30 ET \u2014 Cron email scan",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T20:15:00-04:00",
-    "action": "2026-04-30 20:30 ET \u2014 Cron email scan",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T20:15:00-04:00",
-    "action": "2026-04-30 20:30 ET \u2014 Cron email scan",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:54:00-04:00",
-    "action": "19:08 \u2014 Macra Editorial Director bot provisioned",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:54:00-04:00",
-    "action": "19:08 \u2014 Macra Editorial Director bot provisioned",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:54:00-04:00",
-    "action": "19:08 \u2014 Macra Editorial Director bot provisioned",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:48:00-04:00",
-    "action": "Macra content arm v5 SEO/AEO/length requirements added",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:48:00-04:00",
-    "action": "Macra content arm v5 SEO/AEO/length requirements added",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:48:00-04:00",
-    "action": "Macra content arm v5 SEO/AEO/length requirements added",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:44:00-04:00",
-    "action": "Macra content arm v4 expanded",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:44:00-04:00",
-    "action": "Macra content arm v4 expanded",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:44:00-04:00",
-    "action": "Macra content arm v4 expanded",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:36:00-04:00",
-    "action": "Wild Poppy roast completed + emailed",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:36:00-04:00",
-    "action": "Wild Poppy roast completed + emailed",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:36:00-04:00",
-    "action": "Wild Poppy roast completed + emailed",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:06:00-04:00",
-    "action": "Learning capture reminder",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:06:00-04:00",
-    "action": "Learning capture reminder",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:06:00-04:00",
-    "action": "Learning capture reminder",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:02:00-04:00",
-    "action": "Learning capture cron",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:02:00-04:00",
-    "action": "Learning capture cron",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T18:02:00-04:00",
-    "action": "Learning capture cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Minul: \u2014 Send venue pricing/capacity/date updates and push to final venue decision by tom",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Troy: \u2014 Call Nick before mastering; push Andreas/Nick final call; coordinate 9pm finaliz",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Nik: \u2014 Review/approve Rahul\u2019s album art changes; help coordinate final upload; help web",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Rahul: \u2014 Make album-art updates and send revised files for approval.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T18:00:00-04:00",
-    "action": "Rameez: \u2014 Draft/send joint offer to Dash, Flex, and Highbeam saying AI Gold was bought out",
-    "category": "content",
-    "bot": "crm"
   }
 ]
