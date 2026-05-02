@@ -1,5 +1,59 @@
 [
   {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "KidsSups Partner Correction",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Troy Osinoff \u2014 (troy@yo.vc) \u2014 Nik's core business partner, involved in Rolling Ventures, Macra,",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Troy Parker \u2014 (troyp@thecontinental.com) \u2014 Continental Restaurant contact, NOT involved in any",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "KidsSups Partner Correction",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Troy Osinoff \u2014 (troy@yo.vc) \u2014 Nik's core business partner, involved in Rolling Ventures, Macra,",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Troy Parker \u2014 (troyp@thecontinental.com) \u2014 Continental Restaurant contact, NOT involved in any",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "KidsSups Partner Correction",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Troy Osinoff \u2014 (troy@yo.vc) \u2014 Nik's core business partner, involved in Rolling Ventures, Macra,",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Troy Parker \u2014 (troyp@thecontinental.com) \u2014 Continental Restaurant contact, NOT involved in any",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-01T7:15:00-04:00",
     "action": "Slack Digest (Cron)",
     "category": "other",
@@ -1144,59 +1198,5 @@
     "action": "Ecom Founders: \u2014 Dash/Flex/Highbeam Q4 Gold push, Splash/Q4 handling, UBS/exclusivity, Slash Docu",
     "category": "deploy",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "After Ours: \u2014 \u201cNever Coming Back\u201d final master/upload, venue decision, album art final tweaks,",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T20:54:00-04:00",
-    "action": "Tomorrow's Schedule \u2014 Friday, May 1, 2026",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T20:54:00-04:00",
-    "action": "Tomorrow's Schedule \u2014 Friday, May 1, 2026",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T20:54:00-04:00",
-    "action": "Tomorrow's Schedule \u2014 Friday, May 1, 2026",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T20:54:00-04:00",
-    "action": "21:26 \u2014 Macra Editorial Director Telegram binding completed",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T20:54:00-04:00",
-    "action": "21:26 \u2014 Macra Editorial Director Telegram binding completed",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T20:54:00-04:00",
-    "action": "21:26 \u2014 Macra Editorial Director Telegram binding completed",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T20:15:00-04:00",
-    "action": "CRM contact ingestion cron",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T20:15:00-04:00",
-    "action": "CRM contact ingestion cron",
-    "category": "other",
-    "bot": "macra"
   }
 ]
