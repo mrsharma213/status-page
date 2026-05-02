@@ -90,6 +90,24 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "19:00 - Fireflies Sync Failure (Recurring)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "19:00 - Fireflies Sync Failure (Recurring)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "19:00 - Fireflies Sync Failure (Recurring)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-01T7:15:00-04:00",
     "action": "Slack Digest (Cron)",
     "category": "other",
@@ -1179,24 +1197,6 @@
     "ts": "2026-04-30T21:30:00-04:00",
     "action": "Macra TB: \u2014 Launch ops converging. Website/PDP/email assets close, 8 creators selected, TikT",
     "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "CRM daily digest: \u2014 Jane Fisher / Harper Wilde remains 5\u2605 overdue and was surfaced to Jet Status. CR",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Finance/deal alerts: \u2014 Mercury transfer confirmation ($221,271.25) surfaced; SUPR Natural SAFE/wiring/d",
-    "category": "reminder",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Slack: \u2014 #nik-maruchan had a direct tooling question for Nik about search volume around n",
-    "category": "research",
     "bot": "writer"
   }
 ]
