@@ -54,6 +54,24 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "System Issues",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "System Issues",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "System Issues",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-01T7:15:00-04:00",
     "action": "Slack Digest (Cron)",
     "category": "other",
@@ -1178,24 +1196,6 @@
   {
     "ts": "2026-04-30T21:30:00-04:00",
     "action": "Mission Control: \u2014 Needs domain, auth/passcode, deployment/storage decision, `INTERNAL_API_SECRET`,",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Fireflies: \u2014 Investigate why SUPR Natural was not caught by the imminent-calendar watcher des",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Macra ops: \u2014 Carton ordering/packout logic, SKU/insert rules, creator shipping, PDP/mobile ed",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Ecom Founders: \u2014 Dash/Flex/Highbeam Q4 Gold push, Splash/Q4 handling, UBS/exclusivity, Slash Docu",
     "category": "deploy",
     "bot": "writer"
   }
