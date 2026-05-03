@@ -108,6 +108,42 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Fireflies Sync Failure - 20:50 EDT",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "fireflies-local-sync.mjs \u2014 errored: API returned HTML instead of JSON",
+    "category": "infra",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Fireflies Sync Failure - 20:50 EDT",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "fireflies-local-sync.mjs \u2014 errored: API returned HTML instead of JSON",
+    "category": "infra",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Fireflies Sync Failure - 20:50 EDT",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "fireflies-local-sync.mjs \u2014 errored: API returned HTML instead of JSON",
+    "category": "infra",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-01T7:15:00-04:00",
     "action": "Slack Digest (Cron)",
     "category": "other",
@@ -1161,42 +1197,6 @@
     "ts": "2026-04-30T21:30:00-04:00",
     "action": "Macra editorial execution: \u2014 Needs a dedicated operator bot owning idea \u2192 research \u2192 SEO/AEO \u2192 draft \u2192 compli",
     "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Fireflies SOP: \u2014 Never treat a fresh `fred@fireflies.ai` calendar invite as immediate live join. ",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "CRM implementation: \u2014 Rameez directed the build to prioritize important/recent data first, prove live ",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Ecom Founders sponsor strategy: \u2014 Do not add a third event yet; maximize AI Summit + Q4 Summit. Use Q4 Gold pressu",
-    "category": "research",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "YoSharma Check-In: \u2014 \u201cNever Coming Back\u201d targeting May 22 release; May 20 practical master deadline, ",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Ecom Founders sync: \u2014 AI Summit sponsorships expected to move from ~$170K toward ~$250K; Splash confir",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Macra TB: \u2014 Launch ops converging. Website/PDP/email assets close, 8 creators selected, TikT",
-    "category": "outbound",
     "bot": "writer"
   }
 ]
