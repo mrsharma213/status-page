@@ -144,6 +144,312 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Headline",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Key Events",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "FINAL version approved by Nik \u2014 at ~14:25 ET. Marked as canonical \"what good looks like\" reference.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Decisions / Outcomes",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Newsletter approved \u2014 May 3 issue locked. Reference doc preserved as the canonical example for future ",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Troy disambiguation locked \u2014 KidsSups partner identity is settled. Future references must point to Troy Osino",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "No major operational decisions \u2014 beyond the above. Saturday cadence held.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Open Threads (carry into tomorrow)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Fireflies sync \u2014 investigate HTML-instead-of-JSON failure (auth or endpoint outage).",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Macra/Tondo (Jim Jannuzzio) \u2014 9-msg ops thread from Friday still pending Nik response.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Macra x FrontrowMD \u2014 confirm Wed Jun 3, 3pm EDT meeting on calendar.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Left Lane / Kristina Igoe \u2014 Troy + Rohit in-person coordination still open.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Chase wire transfer delay \u2014 escalate if not resolved.",
+    "category": "fix",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Stale high-value contacts \u2014 Jane Fisher (~7w), Rasheen (~8w) approaching 2-month silence.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Ian Myers (Oceans Talent) \u2014 marketing thread pending Nik response.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "System Notes",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Tomorrow (May 3, Sunday)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Headline",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Key Events",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "FINAL version approved by Nik \u2014 at ~14:25 ET. Marked as canonical \"what good looks like\" reference.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Decisions / Outcomes",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Newsletter approved \u2014 May 3 issue locked. Reference doc preserved as the canonical example for future ",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Troy disambiguation locked \u2014 KidsSups partner identity is settled. Future references must point to Troy Osino",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "No major operational decisions \u2014 beyond the above. Saturday cadence held.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Open Threads (carry into tomorrow)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Fireflies sync \u2014 investigate HTML-instead-of-JSON failure (auth or endpoint outage).",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Macra/Tondo (Jim Jannuzzio) \u2014 9-msg ops thread from Friday still pending Nik response.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Macra x FrontrowMD \u2014 confirm Wed Jun 3, 3pm EDT meeting on calendar.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Left Lane / Kristina Igoe \u2014 Troy + Rohit in-person coordination still open.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Chase wire transfer delay \u2014 escalate if not resolved.",
+    "category": "fix",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Stale high-value contacts \u2014 Jane Fisher (~7w), Rasheen (~8w) approaching 2-month silence.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Ian Myers (Oceans Talent) \u2014 marketing thread pending Nik response.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "System Notes",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Tomorrow (May 3, Sunday)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Headline",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Key Events",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "FINAL version approved by Nik \u2014 at ~14:25 ET. Marked as canonical \"what good looks like\" reference.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Decisions / Outcomes",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Newsletter approved \u2014 May 3 issue locked. Reference doc preserved as the canonical example for future ",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Troy disambiguation locked \u2014 KidsSups partner identity is settled. Future references must point to Troy Osino",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "No major operational decisions \u2014 beyond the above. Saturday cadence held.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Open Threads (carry into tomorrow)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Fireflies sync \u2014 investigate HTML-instead-of-JSON failure (auth or endpoint outage).",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Macra/Tondo (Jim Jannuzzio) \u2014 9-msg ops thread from Friday still pending Nik response.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Macra x FrontrowMD \u2014 confirm Wed Jun 3, 3pm EDT meeting on calendar.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Left Lane / Kristina Igoe \u2014 Troy + Rohit in-person coordination still open.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Chase wire transfer delay \u2014 escalate if not resolved.",
+    "category": "fix",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Stale high-value contacts \u2014 Jane Fisher (~7w), Rasheen (~8w) approaching 2-month silence.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Ian Myers (Oceans Talent) \u2014 marketing thread pending Nik response.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "System Notes",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-02T12:00:00-04:00",
+    "action": "Tomorrow (May 3, Sunday)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-01T7:15:00-04:00",
     "action": "Slack Digest (Cron)",
     "category": "other",
@@ -892,311 +1198,5 @@
     "action": "Ecom Founders sponsor strategy: \u2014 Do not add a third event yet; maximize AI Summit + Q4 Summit. Use Q4 Gold pressu",
     "category": "research",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "YoSharma Check-In: \u2014 \u201cNever Coming Back\u201d targeting May 22 release; May 20 practical master deadline, ",
-    "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Ecom Founders sync: \u2014 AI Summit sponsorships expected to move from ~$170K toward ~$250K; Splash confir",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Macra TB: \u2014 Launch ops converging. Website/PDP/email assets close, 8 creators selected, TikT",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "CRM daily digest: \u2014 Jane Fisher / Harper Wilde remains 5\u2605 overdue and was surfaced to Jet Status. CR",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Finance/deal alerts: \u2014 Mercury transfer confirmation ($221,271.25) surfaced; SUPR Natural SAFE/wiring/d",
-    "category": "reminder",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Slack: \u2014 #nik-maruchan had a direct tooling question for Nik about search volume around n",
-    "category": "research",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Tomorrow: \u2014 Friday May 1 is light: Flexpower/Dylan reminder at 7:30 AM, Check-In 1:00 PM, Ro",
-    "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "CRM: \u2014 Still ~35%, `crm-site` ahead of origin with local changes, read-only auth approv",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Mission Control: \u2014 Needs domain, auth/passcode, deployment/storage decision, `INTERNAL_API_SECRET`,",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Fireflies: \u2014 Investigate why SUPR Natural was not caught by the imminent-calendar watcher des",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Macra ops: \u2014 Carton ordering/packout logic, SKU/insert rules, creator shipping, PDP/mobile ed",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Ecom Founders: \u2014 Dash/Flex/Highbeam Q4 Gold push, Splash/Q4 handling, UBS/exclusivity, Slash Docu",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "After Ours: \u2014 \u201cNever Coming Back\u201d final master/upload, venue decision, album art final tweaks,",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Daily debrief",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Macra Editorial Director launched: \u2014 Created `macra-editorial` agent, seeded full editorial/compliance/guideline syst",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Macra content arm expanded: \u2014 Content strategy moved from v3 thesis into v5 operating plan with six buckets, 6",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Fireflies live-join fixed: \u2014 Calendar invites were proven unreliable for active/imminent calls. Built `script",
-    "category": "fix",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Roast follow-up debt cleared: \u2014 Sent Mikey\u2019s Pies final link, swept recent paid roast buyers after the 4/27 batc",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Jet Mission Control MVP built: \u2014 Local Next/Prisma/SQLite app created at `projects/jet-mission-control` with dash",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "After Ours assets shipped: \u2014 Minul supplied Dropbox/Bandzoogle links; added `/assets` page to afterours.nik.c",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Staci social style seeded: \u2014 Created durable Nik social writing guide for Staci and confirmed she read it; Jo",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Docs drafted: \u2014 Created Postscript VOTW draft Google Doc and Paramount webinar follow-up draft, ",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Macra content model: \u2014 Two engines: proof/product marketing plus consumer/share editorial. Avoid \u201cplant",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Macra editorial execution: \u2014 Needs a dedicated operator bot owning idea \u2192 research \u2192 SEO/AEO \u2192 draft \u2192 compli",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Fireflies SOP: \u2014 Never treat a fresh `fred@fireflies.ai` calendar invite as immediate live join. ",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "CRM implementation: \u2014 Rameez directed the build to prioritize important/recent data first, prove live ",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Ecom Founders sponsor strategy: \u2014 Do not add a third event yet; maximize AI Summit + Q4 Summit. Use Q4 Gold pressu",
-    "category": "research",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "YoSharma Check-In: \u2014 \u201cNever Coming Back\u201d targeting May 22 release; May 20 practical master deadline, ",
-    "category": "check",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Ecom Founders sync: \u2014 AI Summit sponsorships expected to move from ~$170K toward ~$250K; Splash confir",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Macra TB: \u2014 Launch ops converging. Website/PDP/email assets close, 8 creators selected, TikT",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "CRM daily digest: \u2014 Jane Fisher / Harper Wilde remains 5\u2605 overdue and was surfaced to Jet Status. CR",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Finance/deal alerts: \u2014 Mercury transfer confirmation ($221,271.25) surfaced; SUPR Natural SAFE/wiring/d",
-    "category": "reminder",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Slack: \u2014 #nik-maruchan had a direct tooling question for Nik about search volume around n",
-    "category": "research",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Tomorrow: \u2014 Friday May 1 is light: Flexpower/Dylan reminder at 7:30 AM, Check-In 1:00 PM, Ro",
-    "category": "check",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "CRM: \u2014 Still ~35%, `crm-site` ahead of origin with local changes, read-only auth approv",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Mission Control: \u2014 Needs domain, auth/passcode, deployment/storage decision, `INTERNAL_API_SECRET`,",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Fireflies: \u2014 Investigate why SUPR Natural was not caught by the imminent-calendar watcher des",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Macra ops: \u2014 Carton ordering/packout logic, SKU/insert rules, creator shipping, PDP/mobile ed",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Ecom Founders: \u2014 Dash/Flex/Highbeam Q4 Gold push, Splash/Q4 handling, UBS/exclusivity, Slash Docu",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "After Ours: \u2014 \u201cNever Coming Back\u201d final master/upload, venue decision, album art final tweaks,",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Daily debrief",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Macra Editorial Director launched: \u2014 Created `macra-editorial` agent, seeded full editorial/compliance/guideline syst",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Macra content arm expanded: \u2014 Content strategy moved from v3 thesis into v5 operating plan with six buckets, 6",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Fireflies live-join fixed: \u2014 Calendar invites were proven unreliable for active/imminent calls. Built `script",
-    "category": "fix",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Roast follow-up debt cleared: \u2014 Sent Mikey\u2019s Pies final link, swept recent paid roast buyers after the 4/27 batc",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Jet Mission Control MVP built: \u2014 Local Next/Prisma/SQLite app created at `projects/jet-mission-control` with dash",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "After Ours assets shipped: \u2014 Minul supplied Dropbox/Bandzoogle links; added `/assets` page to afterours.nik.c",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Staci social style seeded: \u2014 Created durable Nik social writing guide for Staci and confirmed she read it; Jo",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Docs drafted: \u2014 Created Postscript VOTW draft Google Doc and Paramount webinar follow-up draft, ",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Macra content model: \u2014 Two engines: proof/product marketing plus consumer/share editorial. Avoid \u201cplant",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T21:30:00-04:00",
-    "action": "Macra editorial execution: \u2014 Needs a dedicated operator bot owning idea \u2192 research \u2192 SEO/AEO \u2192 draft \u2192 compli",
-    "category": "content",
-    "bot": "writer"
   }
 ]
