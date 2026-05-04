@@ -108,6 +108,78 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "14:30 - Email Scan (Cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "jet@nik.co: \u2014 No unread emails (last 2h)",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "nik@nik.co: \u2014 8 unread emails",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "URGENT: \u2014 Legal invoice from Greenberg Traurig for Sharma Media Holdings, LLC (April 2026)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "14:30 - Email Scan (Cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "jet@nik.co: \u2014 No unread emails (last 2h)",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "nik@nik.co: \u2014 8 unread emails",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "URGENT: \u2014 Legal invoice from Greenberg Traurig for Sharma Media Holdings, LLC (April 2026)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "14:30 - Email Scan (Cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "jet@nik.co: \u2014 No unread emails (last 2h)",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "nik@nik.co: \u2014 8 unread emails",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "URGENT: \u2014 Legal invoice from Greenberg Traurig for Sharma Media Holdings, LLC (April 2026)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-04T12:00:00-04:00",
     "action": "Tomorrow's Schedule",
     "category": "other",
@@ -1126,77 +1198,5 @@
     "action": "nik@nik.co \u2014 8 unread emails",
     "category": "outbound",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-05-01T12:30:00-04:00",
-    "action": "URGENT \u2014 Maha Awaisi (FrontrowMD) - \"Macra x FrontrowMD | Implementations\" + calendar inv",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-01T12:30:00-04:00",
-    "action": "13:00 - Fireflies Check",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-01T12:30:00-04:00",
-    "action": "13:00 - Fireflies Check",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-01T12:30:00-04:00",
-    "action": "13:00 - Fireflies Check",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-01T11:15:00-04:00",
-    "action": "Slack digest cron",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-01T11:15:00-04:00",
-    "action": "Slack digest cron",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-01T11:15:00-04:00",
-    "action": "Slack digest cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-01T10:30:00-04:00",
-    "action": "Email Scan",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-01T10:30:00-04:00",
-    "action": "Email Scan",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-01T10:30:00-04:00",
-    "action": "Email Scan",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-01T00:24:00-04:00",
-    "action": "Status page update cron",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-01T00:24:00-04:00",
-    "action": "Status page update cron",
-    "category": "other",
-    "bot": "macra"
   }
 ]
