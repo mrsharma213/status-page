@@ -72,6 +72,42 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "Slack Digest - 2026-05-04 13:16 EDT",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "No messages found \u2014 in the 2-hour window (11:15 AM - 1:15 PM ET)",
+    "category": "research",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "Slack Digest - 2026-05-04 13:16 EDT",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "No messages found \u2014 in the 2-hour window (11:15 AM - 1:15 PM ET)",
+    "category": "research",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "Slack Digest - 2026-05-04 13:16 EDT",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-04T1:00:00-04:00",
+    "action": "No messages found \u2014 in the 2-hour window (11:15 AM - 1:15 PM ET)",
+    "category": "research",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-04T12:00:00-04:00",
     "action": "Tomorrow's Schedule",
     "category": "other",
@@ -1160,42 +1196,6 @@
   {
     "ts": "2026-05-01T00:24:00-04:00",
     "action": "Status page update cron",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-01T00:24:00-04:00",
-    "action": "Status page update cron",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-01T00:24:00-04:00",
-    "action": "08:30 - Email Scan",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-01T00:24:00-04:00",
-    "action": "jet@nik.co \u2014 1 unread (Medium digest, non-urgent)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-01T00:24:00-04:00",
-    "action": "nik@nik.co \u2014 10 unread, 2 flagged for attention:",
-    "category": "reminder",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-01T00:24:00-04:00",
-    "action": "08:30 - Email Scan",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-01T00:24:00-04:00",
-    "action": "jet@nik.co \u2014 1 unread (Medium digest, non-urgent)",
     "category": "other",
     "bot": "macra"
   }
