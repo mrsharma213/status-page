@@ -1,5 +1,59 @@
 [
   {
+    "ts": "2026-05-04T8:30:00-04:00",
+    "action": "jet@nik.co: \u2014 1 unread (Medium newsletter)",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T8:30:00-04:00",
+    "action": "nik@nik.co: \u2014 9 unread (newsletters, cold pitches, delivery notification)",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T8:30:00-04:00",
+    "action": "Action: \u2014 None urgent, no escalation needed",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T8:30:00-04:00",
+    "action": "jet@nik.co: \u2014 1 unread (Medium newsletter)",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T8:30:00-04:00",
+    "action": "nik@nik.co: \u2014 9 unread (newsletters, cold pitches, delivery notification)",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T8:30:00-04:00",
+    "action": "Action: \u2014 None urgent, no escalation needed",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T8:30:00-04:00",
+    "action": "jet@nik.co: \u2014 1 unread (Medium newsletter)",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-04T8:30:00-04:00",
+    "action": "nik@nik.co: \u2014 9 unread (newsletters, cold pitches, delivery notification)",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-04T8:30:00-04:00",
+    "action": "Action: \u2014 None urgent, no escalation needed",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-04T12:00:00-04:00",
     "action": "Tomorrow's Schedule",
     "category": "other",
@@ -1144,59 +1198,5 @@
     "action": "23:38 \u2014 Macra first-order benefits listicle landing pages built",
     "category": "other",
     "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T23:24:00-04:00",
-    "action": "23:43 \u2014 Macra first-order benefits LPs upgraded to full brief",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T23:24:00-04:00",
-    "action": "2026-05-01 00:31 ET \u2014 Macra benefits LP v2 redesign shipped",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T23:24:00-04:00",
-    "action": "2026-05-01 00:31 ET \u2014 Macra benefits LP v2 redesign shipped",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T23:24:00-04:00",
-    "action": "2026-05-01 00:31 ET \u2014 Macra benefits LP v2 redesign shipped",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T22:54:00-04:00",
-    "action": "23:04 \u2014 standard.macra.com partner-preview blog shipped",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T22:54:00-04:00",
-    "action": "23:16 \u2014 standard.macra.com article parser fixed",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T22:54:00-04:00",
-    "action": "23:19 \u2014 moved Macra Standard preview to standard.nik.co",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T22:54:00-04:00",
-    "action": "23:24 \u2014 standard.nik.co tracker restored",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T22:54:00-04:00",
-    "action": "23:04 \u2014 standard.macra.com partner-preview blog shipped",
-    "category": "other",
-    "bot": "macra"
   }
 ]
