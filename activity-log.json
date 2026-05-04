@@ -324,6 +324,60 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "18:30 - Email Scan",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "jet@nik.co: \u2014 10 unread (promotions, deal flow, pitch from Max Cho @ cruvabase re: TikTok Shop",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "nik@nik.co: \u2014 0 unread",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "18:30 - Email Scan",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "jet@nik.co: \u2014 10 unread (promotions, deal flow, pitch from Max Cho @ cruvabase re: TikTok Shop",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "nik@nik.co: \u2014 0 unread",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "18:30 - Email Scan",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "jet@nik.co: \u2014 10 unread (promotions, deal flow, pitch from Max Cho @ cruvabase re: TikTok Shop",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "nik@nik.co: \u2014 0 unread",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-04T11:15:00-04:00",
     "action": "Slack Digest (2h scan)",
     "category": "other",
@@ -1144,59 +1198,5 @@
     "action": "Ecom Founders AI Summit \u2014 Rameez activity re Webster Hall event **June 25**. Tatari x Ecom Founders contra",
     "category": "research",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-05-01T21:30:00-04:00",
-    "action": "Chase \u2014 Wire transfer delay alert \u2014 needs Nik's attention.",
-    "category": "reminder",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-01T21:30:00-04:00",
-    "action": "Deal flow / Investor \u2014 Applied Frameworks $1M SAFE pitch (Luke Hohmann, $10M cap, 25% disc); Blackwing ",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-01T21:30:00-04:00",
-    "action": "Ian Myers (Oceans Talent) \u2014 flagged thread re Nik's marketing.",
-    "category": "reminder",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-01T21:30:00-04:00",
-    "action": "GrowthPair \u2014 (Jonathan Martinez, backed by Alex Lieberman) \u2014 equity partnership pitch, logged",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-01T21:30:00-04:00",
-    "action": "End-of-Day Debrief",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-01T21:30:00-04:00",
-    "action": "Macra \u2014 Jim Jannuzzio (Tondo Fulfillment) sent 9-msg thread on Macra ops (08:29).",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-01T21:30:00-04:00",
-    "action": "Macra x FrontrowMD \u2014 Maha Awaisi sent implementations email + calendar invite for **Wed Jun 3, 3pm ED",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-01T21:30:00-04:00",
-    "action": "Left Lane \u2014 Kristina Igoe coordinating in-person meeting with Troy + Rohit (9-msg thread, ma",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-01T21:30:00-04:00",
-    "action": "Ecom Founders AI Summit \u2014 Rameez activity re Webster Hall event **June 25**. Tatari x Ecom Founders contra",
-    "category": "research",
-    "bot": "macra"
   }
 ]
