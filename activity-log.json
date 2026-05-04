@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "Tomorrow's Schedule",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "Tomorrow's Schedule",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "Tomorrow's Schedule",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-03T12:00:00-04:00",
     "action": "Fireflies sync \u2014 confirm fix landed and next run produces JSON. If still broken, escalate to auth",
     "category": "fix",
@@ -1178,24 +1196,6 @@
   {
     "ts": "2026-04-30T22:54:00-04:00",
     "action": "23:04 \u2014 standard.macra.com partner-preview blog shipped",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T22:54:00-04:00",
-    "action": "23:16 \u2014 standard.macra.com article parser fixed",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T22:54:00-04:00",
-    "action": "23:19 \u2014 moved Macra Standard preview to standard.nik.co",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T22:54:00-04:00",
-    "action": "23:24 \u2014 standard.nik.co tracker restored",
     "category": "other",
     "bot": "macra"
   }
