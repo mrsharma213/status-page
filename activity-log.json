@@ -90,6 +90,60 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-05-04T10:30:00-04:00",
+    "action": "jet@nik.co \u2014 No unread emails (last 2h)",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T10:30:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread emails, mostly marketing/newsletters",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T10:30:00-04:00",
+    "action": "Status \u2014 Nothing urgent requiring immediate attention",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T10:30:00-04:00",
+    "action": "jet@nik.co \u2014 No unread emails (last 2h)",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T10:30:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread emails, mostly marketing/newsletters",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T10:30:00-04:00",
+    "action": "Status \u2014 Nothing urgent requiring immediate attention",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T10:30:00-04:00",
+    "action": "jet@nik.co \u2014 No unread emails (last 2h)",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-04T10:30:00-04:00",
+    "action": "nik@nik.co \u2014 10 unread emails, mostly marketing/newsletters",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-04T10:30:00-04:00",
+    "action": "Status \u2014 Nothing urgent requiring immediate attention",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-03T12:00:00-04:00",
     "action": "Fireflies sync \u2014 confirm fix landed and next run produces JSON. If still broken, escalate to auth",
     "category": "fix",
@@ -1142,60 +1196,6 @@
   {
     "ts": "2026-05-01T00:24:00-04:00",
     "action": "09:00 - Fireflies Check",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-01T00:24:00-04:00",
-    "action": "09:00 - Fireflies Check",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-04-30T23:24:00-04:00",
-    "action": "2026-04-30 23:24 ET \u2014 Macra Editorial bot + Standard preview site",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T23:24:00-04:00",
-    "action": "23:29 \u2014 standard.nik.co expanded from 30 to 45 articles",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T23:24:00-04:00",
-    "action": "23:38 \u2014 Macra first-order benefits listicle landing pages built",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T23:24:00-04:00",
-    "action": "23:43 \u2014 Macra first-order benefits LPs upgraded to full brief",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-04-30T23:24:00-04:00",
-    "action": "2026-04-30 23:24 ET \u2014 Macra Editorial bot + Standard preview site",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T23:24:00-04:00",
-    "action": "23:29 \u2014 standard.nik.co expanded from 30 to 45 articles",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T23:24:00-04:00",
-    "action": "23:38 \u2014 Macra first-order benefits listicle landing pages built",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-04-30T23:24:00-04:00",
-    "action": "23:43 \u2014 Macra first-order benefits LPs upgraded to full brief",
     "category": "other",
     "bot": "macra"
   }
