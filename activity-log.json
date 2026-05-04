@@ -270,6 +270,24 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "Slack digest cron \u2014 5:15 PM ET",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "Slack digest cron \u2014 5:15 PM ET",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "Slack digest cron \u2014 5:15 PM ET",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-04T11:15:00-04:00",
     "action": "Slack Digest (2h scan)",
     "category": "other",
@@ -1179,24 +1197,6 @@
     "ts": "2026-05-01T21:30:00-04:00",
     "action": "Macra \u2014 Jim Jannuzzio (Tondo Fulfillment) sent 9-msg thread on Macra ops (08:29).",
     "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-01T21:30:00-04:00",
-    "action": "Macra x FrontrowMD \u2014 Maha Awaisi sent implementations email + calendar invite for **Wed Jun 3, 3pm ED",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-01T21:30:00-04:00",
-    "action": "Left Lane \u2014 Kristina Igoe coordinating in-person meeting with Troy + Rohit (9-msg thread, ma",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-01T21:30:00-04:00",
-    "action": "Ecom Founders AI Summit \u2014 Rameez activity re Webster Hall event **June 25**. Tatari x Ecom Founders contra",
-    "category": "research",
     "bot": "writer"
   }
 ]
