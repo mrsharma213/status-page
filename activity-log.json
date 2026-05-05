@@ -1,5 +1,41 @@
 [
   {
+    "ts": "2026-05-05T1:00:00-04:00",
+    "action": "ET \u2014 Fireflies scan (4-6h lookback)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T1:00:00-04:00",
+    "action": "ET \u2014 Fireflies scan (4-6h lookback)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T1:00:00-04:00",
+    "action": "ET \u2014 Fireflies scan (4-6h lookback)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T12:13:00-04:00",
+    "action": "Heartbeat checks",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T12:13:00-04:00",
+    "action": "Heartbeat checks",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T12:13:00-04:00",
+    "action": "Heartbeat checks",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-04T8:30:00-04:00",
     "action": "jet@nik.co: \u2014 1 unread (Medium newsletter)",
     "category": "content",
