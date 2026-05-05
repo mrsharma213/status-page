@@ -1,30 +1,4 @@
-{
-  "overall": "operational",
-  "updatedAt": "May 05, 2026 at 04:56 AM ET",
-  "updatedAtUTC": "2026-05-05T08:56:26Z",
-  "infrastructure": [
-    {"name": "Gateway", "emoji": "🖥️", "status": "operational"},
-    {"name": "Anthropic API", "emoji": "🧠", "status": "operational"},
-    {"name": "Exec Engine", "emoji": "⚙️", "status": "operational"}
-  ],
-  "bots": [
-    {"name": "Jet (Main)", "emoji": "⚡", "status": "operational"},
-    {"name": "CRM", "emoji": "📇", "status": "operational"},
-    {"name": "Macra Supps", "emoji": "💊", "status": "operational"},
-    {"name": "Macra App", "emoji": "📱", "status": "operational"},
-    {"name": "Printing Press", "emoji": "🖨️", "status": "unknown"},
-    {"name": "Josiah (Writer)", "emoji": "✍️", "status": "operational"},
-    {"name": "Chip (Gemma)", "emoji": "🤓", "status": "operational"},
-    {"name": "Grok Research", "emoji": "🔍", "status": "operational"},
-    {"name": "Health & Fitness", "emoji": "💪", "status": "operational"}
-  ],
-  "integrations": [
-    {"name": "Gmail (jet@nik.co)", "emoji": "📧", "status": "operational"},
-    {"name": "Gmail (nik@nik.co)", "emoji": "📧", "status": "operational"},
-    {"name": "Slack", "emoji": "💬", "status": "operational"},
-    {"name": "Fireflies", "emoji": "🔥", "status": "unknown"}
-  ],
-  "incidents": [
+[
   {
     "date": "April 4, 2026",
     "title": "Exec Approval Timeouts — All Commands Blocked",
@@ -54,4 +28,3 @@
     "resolvedAt": "April 1, 2026 — Watchdog LaunchAgent deployed to prevent recurrence"
   }
 ]
-}
