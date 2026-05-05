@@ -414,6 +414,24 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "19:55-20:02 \u2014 OpenClaw full health check after 2026.5.3-1 update",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "19:55-20:02 \u2014 OpenClaw full health check after 2026.5.3-1 update",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-04T12:00:00-04:00",
+    "action": "19:55-20:02 \u2014 OpenClaw full health check after 2026.5.3-1 update",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-04T11:15:00-04:00",
     "action": "Slack Digest (2h scan)",
     "category": "other",
@@ -1179,24 +1197,6 @@
     "ts": "2026-05-01T2:30:00-04:00",
     "action": "FLAGGED: \u2014 Ian Myers (Oceans Talent) re: \"Nik's marketing stuff\" - marked IMPORTANT, 15-msg",
     "category": "reminder",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-01T2:30:00-04:00",
-    "action": "FLAGGED: \u2014 Ian Myers (Oceans Talent) re: \"Nik's marketing stuff\" - marked IMPORTANT, 15-msg",
-    "category": "reminder",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-01T2:30:00-04:00",
-    "action": "15:15 - Slack Digest (Cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-01T2:30:00-04:00",
-    "action": "15:15 - Slack Digest (Cron)",
-    "category": "other",
     "bot": "macra"
   }
 ]
