@@ -1,5 +1,77 @@
 [
   {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Morning Briefing (8:05 AM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Calendar: \u2014 Unable to retrieve (API 404 error)",
+    "category": "infra",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Overnight Emails: \u2014 15+ unread (mostly promo/news)",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Key Items:",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Morning Briefing (8:05 AM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Calendar: \u2014 Unable to retrieve (API 404 error)",
+    "category": "infra",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Overnight Emails: \u2014 15+ unread (mostly promo/news)",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Key Items:",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Morning Briefing (8:05 AM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Calendar: \u2014 Unable to retrieve (API 404 error)",
+    "category": "infra",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Overnight Emails: \u2014 15+ unread (mostly promo/news)",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Key Items:",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-05T9:30:00-04:00",
     "action": "ET \u2014 End-of-Day Debrief",
     "category": "other",
@@ -1125,77 +1197,5 @@
     "action": "21:54-22:15 \u2014 Follow-up OpenClaw fixes completed",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "22:34 \u2014 Alert hygiene tightened after Nik flagged noisy status messages",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Headline",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Key Events",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "12:30\u20132:00 PM Dentist \u2014 (90-min block)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "2:30 PM IRS call \u2014 tax matter, important",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Rasheen (Flexpower, strength 4) \u2014 62 days silent. \u2014 Crossed 2-month threshold. Flagged for check-in this week.",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Decisions / Outcomes",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Open Threads (carry into May 5)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Rasheen (Flexpower) \u2014 62 days, due for check-in. Calendar already has 8:30 AM \"Check if Dylan / Flexpo",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Tondo/Praveen contract \u2014 needs Tondo LLC address + Praveen NIC; Rameez review.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "nik.co/book landing page \u2014 still in draft, awaiting Nik review (carried from May 3).",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Fireflies sync \u2014 confirm Saturday's HTML-instead-of-JSON fix is holding (carried from May 3).",
-    "category": "fix",
-    "bot": "writer"
   }
 ]
