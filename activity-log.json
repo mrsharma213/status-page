@@ -180,6 +180,24 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Anrok VOTW draft \u2014 Rameez request",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Anrok VOTW draft \u2014 Rameez request",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Anrok VOTW draft \u2014 Rameez request",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-05T9:30:00-04:00",
     "action": "ET \u2014 End-of-Day Debrief",
     "category": "other",
@@ -1179,23 +1197,5 @@
     "action": "Macra x FrontrowMD \u2014 Wed Jun 3, 3 PM EDT meeting confirmation.",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Stale high-value contacts \u2014 Jane Fisher, Jainy Tong, Dylan all approaching 2-month line.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Tomorrow (Tue May 5) \u2014 Preview",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Headline",
-    "category": "other",
-    "bot": "crm"
   }
 ]
