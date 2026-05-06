@@ -1,7 +1,7 @@
 {
   "overall": "operational",
-  "updatedAt": "May 06, 2026 at 01:56 PM ET",
-  "updatedAtUTC": "2026-05-06T17:56:30Z",
+  "updatedAt": "May 06, 2026 at 04:56 PM ET",
+  "updatedAtUTC": "2026-05-06T20:56:42Z",
   "infrastructure": [
     {"name": "Gateway", "emoji": "🖥️", "status": "operational"},
     {"name": "Anthropic API", "emoji": "🧠", "status": "operational"},

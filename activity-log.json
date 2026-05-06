@@ -1,1201 +1,673 @@
 [
   {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Morning Briefing (8:05 AM)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Calendar: \u2014 Unable to retrieve (API 404 error)",
-    "category": "infra",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Overnight Emails: \u2014 15+ unread (mostly promo/news)",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Key Items:",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Morning Briefing (8:05 AM)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Calendar: \u2014 Unable to retrieve (API 404 error)",
-    "category": "infra",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Overnight Emails: \u2014 15+ unread (mostly promo/news)",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Key Items:",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Morning Briefing (8:05 AM)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Calendar: \u2014 Unable to retrieve (API 404 error)",
-    "category": "infra",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Overnight Emails: \u2014 15+ unread (mostly promo/news)",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Key Items:",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "2026-05-06 10:08 EDT \u2014 Dante payment settled",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "2026-05-06 10:08 EDT \u2014 Dante payment settled",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "2026-05-06 10:08 EDT \u2014 Dante payment settled",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "2026-05-06 11:15 EDT \u2014 Slack Digest Scan (Cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Issue: \u2014 message tool does not support Slack read action; slack skill requires API token ",
-    "category": "infra",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Channels in manifest: \u2014 15 identified (all-nikco, colin-nik-ww, limitedsupply_hq, love_wellness-tv-chat,",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Status: \u2014 Unable to scan due to tool limitation. No urgent items surfaced.",
-    "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Result: \u2014 NO_REPLY",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "2026-05-06 11:15 EDT \u2014 Slack Digest Scan (Cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Issue: \u2014 message tool does not support Slack read action; slack skill requires API token ",
-    "category": "infra",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Channels in manifest: \u2014 15 identified (all-nikco, colin-nik-ww, limitedsupply_hq, love_wellness-tv-chat,",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Status: \u2014 Unable to scan due to tool limitation. No urgent items surfaced.",
-    "category": "check",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Result: \u2014 NO_REPLY",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "2026-05-06 11:15 EDT \u2014 Slack Digest Scan (Cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Issue: \u2014 message tool does not support Slack read action; slack skill requires API token ",
-    "category": "infra",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Channels in manifest: \u2014 15 identified (all-nikco, colin-nik-ww, limitedsupply_hq, love_wellness-tv-chat,",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Status: \u2014 Unable to scan due to tool limitation. No urgent items surfaced.",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Result: \u2014 NO_REPLY",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Anrok VOTW draft \u2014 Rameez request",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Anrok VOTW draft \u2014 Rameez request",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Anrok VOTW draft \u2014 Rameez request",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "2026-05-06 11:30 AM EDT \u2014 Fireflies: Climatic x Nik Sharma",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Alert level: \u2014 Medium priority \u2014 advisory engagement being discussed, but no urgent deadline sp",
-    "category": "reminder",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "2026-05-06 11:30 AM EDT \u2014 Fireflies: Climatic x Nik Sharma",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Alert level: \u2014 Medium priority \u2014 advisory engagement being discussed, but no urgent deadline sp",
-    "category": "reminder",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "2026-05-06 11:30 AM EDT \u2014 Fireflies: Climatic x Nik Sharma",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Alert level: \u2014 Medium priority \u2014 advisory engagement being discussed, but no urgent deadline sp",
-    "category": "reminder",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "ET \u2014 End-of-Day Debrief",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "After Ours sync \u2014 (2:00\u20132:34 PM): Mano (Minul) given 1-month runway to take over execution. Distri",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "YoSharma check-in \u2014 (3:00 PM): $3K cash balance; Paul invoice pending, Rolo invoice delayed (\u2212$100).",
-    "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Default model fix: \u2014 `main` agent was hardcoded to `anthropic/claude-sonnet-4-5-20250929`, overriding",
-    "category": "fix",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Alert hygiene confirmed working: \u2014 12 tightened crons (email-scan, fireflies-check, status-page-update, etc.) now s",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Vercel deploy blocker (open): \u2014 `jet@nik.co` not a member of `nik-2658` team; CLI lacks credentials. Needs colla",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Critical: \u2014 Rasheen (Flexpower) at 63 days since last contact \u2014 needs outreach this week.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Approaching stale (50+ days): \u2014 Jane Fisher (Harper Wilde), Jainy Tong (Love Wellness), Dylan (MentionStack), Di",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "ET \u2014 End-of-Day Debrief",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "After Ours sync \u2014 (2:00\u20132:34 PM): Mano (Minul) given 1-month runway to take over execution. Distri",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "YoSharma check-in \u2014 (3:00 PM): $3K cash balance; Paul invoice pending, Rolo invoice delayed (\u2212$100).",
-    "category": "check",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Default model fix: \u2014 `main` agent was hardcoded to `anthropic/claude-sonnet-4-5-20250929`, overriding",
-    "category": "fix",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Alert hygiene confirmed working: \u2014 12 tightened crons (email-scan, fireflies-check, status-page-update, etc.) now s",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Vercel deploy blocker (open): \u2014 `jet@nik.co` not a member of `nik-2658` team; CLI lacks credentials. Needs colla",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Critical: \u2014 Rasheen (Flexpower) at 63 days since last contact \u2014 needs outreach this week.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Approaching stale (50+ days): \u2014 Jane Fisher (Harper Wilde), Jainy Tong (Love Wellness), Dylan (MentionStack), Di",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "ET \u2014 End-of-Day Debrief",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "After Ours sync \u2014 (2:00\u20132:34 PM): Mano (Minul) given 1-month runway to take over execution. Distri",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "YoSharma check-in \u2014 (3:00 PM): $3K cash balance; Paul invoice pending, Rolo invoice delayed (\u2212$100).",
-    "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Default model fix: \u2014 `main` agent was hardcoded to `anthropic/claude-sonnet-4-5-20250929`, overriding",
-    "category": "fix",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Alert hygiene confirmed working: \u2014 12 tightened crons (email-scan, fireflies-check, status-page-update, etc.) now s",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Vercel deploy blocker (open): \u2014 `jet@nik.co` not a member of `nik-2658` team; CLI lacks credentials. Needs colla",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Critical: \u2014 Rasheen (Flexpower) at 63 days since last contact \u2014 needs outreach this week.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Approaching stale (50+ days): \u2014 Jane Fisher (Harper Wilde), Jainy Tong (Love Wellness), Dylan (MentionStack), Di",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "ET \u2014 Fireflies check (4-6h lookback)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "2 transcripts found in window:",
-    "category": "research",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Financial: \u2014 $3K cash balance; Paul's invoice pending; Rolo's invoice delayed (\u2212$100 discount",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Music: \u2014 \"Around Me\" scheduled for May 22; \"Never Come Back\" postponed.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Events: \u2014 Exploring city block rentals in Brooklyn/Manhattan; outdoor venues for permit si",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Merch: \u2014 Hoodie quotes $66.73\u2013$74.90; full landed costs pending from Stitchy.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Projects: \u2014 Flex Power follow-up planned; Supernatural (Rolling Ventures) assigned to Troy; ",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Sponsorship: \u2014 Ongoing challenge with sponsor policy compliance.",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "ET \u2014 Fireflies check (4-6h lookback)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "2 transcripts found in window:",
-    "category": "research",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Financial: \u2014 $3K cash balance; Paul's invoice pending; Rolo's invoice delayed (\u2212$100 discount",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Music: \u2014 \"Around Me\" scheduled for May 22; \"Never Come Back\" postponed.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Events: \u2014 Exploring city block rentals in Brooklyn/Manhattan; outdoor venues for permit si",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Merch: \u2014 Hoodie quotes $66.73\u2013$74.90; full landed costs pending from Stitchy.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Projects: \u2014 Flex Power follow-up planned; Supernatural (Rolling Ventures) assigned to Troy; ",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Sponsorship: \u2014 Ongoing challenge with sponsor policy compliance.",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "ET \u2014 Fireflies check (4-6h lookback)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "2 transcripts found in window:",
-    "category": "research",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Financial: \u2014 $3K cash balance; Paul's invoice pending; Rolo's invoice delayed (\u2212$100 discount",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Music: \u2014 \"Around Me\" scheduled for May 22; \"Never Come Back\" postponed.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Events: \u2014 Exploring city block rentals in Brooklyn/Manhattan; outdoor venues for permit si",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Merch: \u2014 Hoodie quotes $66.73\u2013$74.90; full landed costs pending from Stitchy.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Projects: \u2014 Flex Power follow-up planned; Supernatural (Rolling Ventures) assigned to Troy; ",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T6:00:00-04:00",
-    "action": "Sponsorship: \u2014 Ongoing challenge with sponsor policy compliance.",
-    "category": "deploy",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T3:02:00-04:00",
-    "action": "ET \u2014 After Ours Sync Debrief (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T3:02:00-04:00",
-    "action": "Mano (Minul) autonomy confirmed \u2014 1-month runway to learn playbook + take on execution",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T3:02:00-04:00",
-    "action": "Distributor evaluation underway \u2014 exploring Stem, Create, Label Works vs. Dignis",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T3:02:00-04:00",
-    "action": "Thursday call \u2014 scheduled for shoot content strategy + distributor review",
-    "category": "content",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T3:02:00-04:00",
-    "action": "Nik's items: \u2014 supervise Brandon on artist involvement + keep Mano synced on budgets (shared wi",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T3:02:00-04:00",
-    "action": "ET \u2014 After Ours Sync Debrief (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T3:02:00-04:00",
-    "action": "Mano (Minul) autonomy confirmed \u2014 1-month runway to learn playbook + take on execution",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T3:02:00-04:00",
-    "action": "Distributor evaluation underway \u2014 exploring Stem, Create, Label Works vs. Dignis",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T3:02:00-04:00",
-    "action": "Thursday call \u2014 scheduled for shoot content strategy + distributor review",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T3:02:00-04:00",
-    "action": "Nik's items: \u2014 supervise Brandon on artist involvement + keep Mano synced on budgets (shared wi",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T3:02:00-04:00",
-    "action": "ET \u2014 After Ours Sync Debrief (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T3:02:00-04:00",
-    "action": "Mano (Minul) autonomy confirmed \u2014 1-month runway to learn playbook + take on execution",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T3:02:00-04:00",
-    "action": "Distributor evaluation underway \u2014 exploring Stem, Create, Label Works vs. Dignis",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T3:02:00-04:00",
-    "action": "Thursday call \u2014 scheduled for shoot content strategy + distributor review",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T3:02:00-04:00",
-    "action": "Nik's items: \u2014 supervise Brandon on artist involvement + keep Mano synced on budgets (shared wi",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T1:00:00-04:00",
-    "action": "ET \u2014 Fireflies scan (4-6h lookback)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T1:00:00-04:00",
-    "action": "ET \u2014 Fireflies scan (4-6h lookback)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T1:00:00-04:00",
-    "action": "ET \u2014 Fireflies scan (4-6h lookback)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T12:13:00-04:00",
-    "action": "Heartbeat checks",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T12:13:00-04:00",
-    "action": "Heartbeat checks",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T12:13:00-04:00",
-    "action": "Heartbeat checks",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T8:30:00-04:00",
-    "action": "jet@nik.co: \u2014 1 unread (Medium newsletter)",
-    "category": "content",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T8:30:00-04:00",
-    "action": "nik@nik.co: \u2014 9 unread (newsletters, cold pitches, delivery notification)",
-    "category": "content",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T8:30:00-04:00",
-    "action": "Action: \u2014 None urgent, no escalation needed",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T8:30:00-04:00",
-    "action": "jet@nik.co: \u2014 1 unread (Medium newsletter)",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T8:30:00-04:00",
-    "action": "nik@nik.co: \u2014 9 unread (newsletters, cold pitches, delivery notification)",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T8:30:00-04:00",
-    "action": "Action: \u2014 None urgent, no escalation needed",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T8:30:00-04:00",
-    "action": "jet@nik.co: \u2014 1 unread (Medium newsletter)",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T8:30:00-04:00",
-    "action": "nik@nik.co: \u2014 9 unread (newsletters, cold pitches, delivery notification)",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T8:30:00-04:00",
-    "action": "Action: \u2014 None urgent, no escalation needed",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T8:30:00-04:00",
-    "action": "09:00 - Fireflies Check (Cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T8:30:00-04:00",
-    "action": "09:00 - Fireflies Check (Cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T8:30:00-04:00",
-    "action": "09:00 - Fireflies Check (Cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T8:30:00-04:00",
-    "action": "Email Scan",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T8:30:00-04:00",
-    "action": "Email Scan",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T8:30:00-04:00",
-    "action": "Email Scan",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T23:56:36-04:00",
+    "ts": "2026-05-06T14:26:42-04:00",
     "action": "",
     "category": "other"
   },
   {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "Slack Digest - 2026-05-04 13:16 EDT",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Morning Briefing (8:05 AM)",
     "category": "other",
     "bot": "crm"
   },
   {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "No messages found \u2014 in the 2-hour window (11:15 AM - 1:15 PM ET)",
-    "category": "research",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Calendar: \u2014 Unable to retrieve (API 404 error)",
+    "category": "infra",
     "bot": "crm"
   },
   {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "Slack Digest - 2026-05-04 13:16 EDT",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "No messages found \u2014 in the 2-hour window (11:15 AM - 1:15 PM ET)",
-    "category": "research",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "Slack Digest - 2026-05-04 13:16 EDT",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "No messages found \u2014 in the 2-hour window (11:15 AM - 1:15 PM ET)",
-    "category": "research",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "14:30 - Email Scan (Cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "jet@nik.co: \u2014 No unread emails (last 2h)",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Overnight Emails: \u2014 15+ unread (mostly promo/news)",
     "category": "outbound",
     "bot": "crm"
   },
   {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "nik@nik.co: \u2014 8 unread emails",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "URGENT: \u2014 Legal invoice from Greenberg Traurig for Sharma Media Holdings, LLC (April 2026)",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Key Items:",
     "category": "other",
     "bot": "crm"
   },
   {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "14:30 - Email Scan (Cron)",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Morning Briefing (8:05 AM)",
     "category": "other",
     "bot": "macra"
   },
   {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "jet@nik.co: \u2014 No unread emails (last 2h)",
-    "category": "outbound",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Calendar: \u2014 Unable to retrieve (API 404 error)",
+    "category": "infra",
     "bot": "macra"
   },
   {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "nik@nik.co: \u2014 8 unread emails",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Overnight Emails: \u2014 15+ unread (mostly promo/news)",
     "category": "outbound",
     "bot": "macra"
   },
   {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "URGENT: \u2014 Legal invoice from Greenberg Traurig for Sharma Media Holdings, LLC (April 2026)",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Key Items:",
     "category": "other",
     "bot": "macra"
   },
   {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "14:30 - Email Scan (Cron)",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Morning Briefing (8:05 AM)",
     "category": "other",
     "bot": "writer"
   },
   {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "jet@nik.co: \u2014 No unread emails (last 2h)",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Calendar: \u2014 Unable to retrieve (API 404 error)",
+    "category": "infra",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Overnight Emails: \u2014 15+ unread (mostly promo/news)",
     "category": "outbound",
     "bot": "writer"
   },
   {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "nik@nik.co: \u2014 8 unread emails",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T1:00:00-04:00",
-    "action": "URGENT: \u2014 Legal invoice from Greenberg Traurig for Sharma Media Holdings, LLC (April 2026)",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Key Items:",
     "category": "other",
     "bot": "writer"
   },
   {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Tomorrow's Schedule",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "2026-05-06 10:08 EDT \u2014 Dante payment settled",
     "category": "other",
     "bot": "crm"
   },
   {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Tomorrow's Schedule",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "2026-05-06 10:08 EDT \u2014 Dante payment settled",
     "category": "other",
     "bot": "macra"
   },
   {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Tomorrow's Schedule",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "2026-05-06 10:08 EDT \u2014 Dante payment settled",
     "category": "other",
     "bot": "writer"
   },
   {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "16:30 - Email Scan",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "2026-05-06 11:15 EDT \u2014 Slack Digest Scan (Cron)",
     "category": "other",
     "bot": "crm"
   },
   {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "jet@nik.co \u2014 No unread",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Issue: \u2014 message tool does not support Slack read action; slack skill requires API token ",
+    "category": "infra",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Channels in manifest: \u2014 15 identified (all-nikco, colin-nik-ww, limitedsupply_hq, love_wellness-tv-chat,",
     "category": "other",
     "bot": "crm"
   },
   {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 3 unread, nothing urgent",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "16:30 - Email Scan",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "jet@nik.co \u2014 No unread",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 3 unread, nothing urgent",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "16:30 - Email Scan",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "jet@nik.co \u2014 No unread",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "nik@nik.co \u2014 3 unread, nothing urgent",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Slack digest cron \u2014 5:15 PM ET",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Slack digest cron \u2014 5:15 PM ET",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Slack digest cron \u2014 5:15 PM ET",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "18:00 - Fireflies Check (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "No new transcripts in last 4-6 hours \u2014 (since 12:00 PM ET / 16:00 UTC)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "18:00 - Fireflies Check (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "No new transcripts in last 4-6 hours \u2014 (since 12:00 PM ET / 16:00 UTC)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "18:00 - Fireflies Check (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "No new transcripts in last 4-6 hours \u2014 (since 12:00 PM ET / 16:00 UTC)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "18:30 - Email Scan",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "jet@nik.co: \u2014 10 unread (promotions, deal flow, pitch from Max Cho @ cruvabase re: TikTok Shop",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "nik@nik.co: \u2014 0 unread",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "18:30 - Email Scan",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "jet@nik.co: \u2014 10 unread (promotions, deal flow, pitch from Max Cho @ cruvabase re: TikTok Shop",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "nik@nik.co: \u2014 0 unread",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "18:30 - Email Scan",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "jet@nik.co: \u2014 10 unread (promotions, deal flow, pitch from Max Cho @ cruvabase re: TikTok Shop",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "nik@nik.co: \u2014 0 unread",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "19:15 - Slack Digest (cron)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "nik-workweek \u2014 Internal message from Natalie to Hanna - Instant Deep Dive approved for 5/5 at 1",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "19:15 - Slack Digest (cron)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "nik-workweek \u2014 Internal message from Natalie to Hanna - Instant Deep Dive approved for 5/5 at 1",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "19:15 - Slack Digest (cron)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "nik-workweek \u2014 Internal message from Natalie to Hanna - Instant Deep Dive approved for 5/5 at 1",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "19:55-20:02 \u2014 OpenClaw full health check after 2026.5.3-1 update",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "19:55-20:02 \u2014 OpenClaw full health check after 2026.5.3-1 update",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "19:55-20:02 \u2014 OpenClaw full health check after 2026.5.3-1 update",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Cron: Email Scan (20:30 ET)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Cron: Email Scan (20:30 ET)",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Cron: Email Scan (20:30 ET)",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "12:30\u20132:00 PM Dentist \u2014 (90-min block)",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "2:30 PM IRS call \u2014 tax matter, important",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Rasheen (Flexpower, strength 4) \u2014 62 days silent. \u2014 Crossed 2-month threshold. Flagged for check-in this week.",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Status: \u2014 Unable to scan due to tool limitation. No urgent items surfaced.",
     "category": "check",
     "bot": "crm"
   },
   {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Open Threads (carry into May 5)",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Result: \u2014 NO_REPLY",
     "category": "other",
     "bot": "crm"
   },
   {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Rasheen (Flexpower) \u2014 62 days, due for check-in. Calendar already has 8:30 AM \"Check if Dylan / Flexpo",
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "2026-05-06 11:15 EDT \u2014 Slack Digest Scan (Cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Issue: \u2014 message tool does not support Slack read action; slack skill requires API token ",
+    "category": "infra",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Channels in manifest: \u2014 15 identified (all-nikco, colin-nik-ww, limitedsupply_hq, love_wellness-tv-chat,",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Status: \u2014 Unable to scan due to tool limitation. No urgent items surfaced.",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Result: \u2014 NO_REPLY",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "2026-05-06 11:15 EDT \u2014 Slack Digest Scan (Cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Issue: \u2014 message tool does not support Slack read action; slack skill requires API token ",
+    "category": "infra",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Channels in manifest: \u2014 15 identified (all-nikco, colin-nik-ww, limitedsupply_hq, love_wellness-tv-chat,",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Status: \u2014 Unable to scan due to tool limitation. No urgent items surfaced.",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Result: \u2014 NO_REPLY",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Anrok VOTW draft \u2014 Rameez request",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Anrok VOTW draft \u2014 Rameez request",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Anrok VOTW draft \u2014 Rameez request",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "2026-05-06 11:30 AM EDT \u2014 Fireflies: Climatic x Nik Sharma",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Alert level: \u2014 Medium priority \u2014 advisory engagement being discussed, but no urgent deadline sp",
+    "category": "reminder",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "2026-05-06 11:30 AM EDT \u2014 Fireflies: Climatic x Nik Sharma",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Alert level: \u2014 Medium priority \u2014 advisory engagement being discussed, but no urgent deadline sp",
+    "category": "reminder",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "2026-05-06 11:30 AM EDT \u2014 Fireflies: Climatic x Nik Sharma",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Alert level: \u2014 Medium priority \u2014 advisory engagement being discussed, but no urgent deadline sp",
+    "category": "reminder",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "ET \u2014 End-of-Day Debrief",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "After Ours sync \u2014 (2:00\u20132:34 PM): Mano (Minul) given 1-month runway to take over execution. Distri",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "YoSharma check-in \u2014 (3:00 PM): $3K cash balance; Paul invoice pending, Rolo invoice delayed (\u2212$100).",
     "category": "check",
     "bot": "crm"
   },
   {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Tondo/Praveen contract \u2014 needs Tondo LLC address + Praveen NIC; Rameez review.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "nik.co/book landing page \u2014 still in draft, awaiting Nik review (carried from May 3).",
-    "category": "content",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Fireflies sync \u2014 confirm Saturday's HTML-instead-of-JSON fix is holding (carried from May 3).",
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "Default model fix: \u2014 `main` agent was hardcoded to `anthropic/claude-sonnet-4-5-20250929`, overriding",
     "category": "fix",
     "bot": "crm"
   },
   {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Macra x FrontrowMD \u2014 Wed Jun 3, 3 PM EDT meeting confirmation.",
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "Alert hygiene confirmed working: \u2014 12 tightened crons (email-scan, fireflies-check, status-page-update, etc.) now s",
+    "category": "outbound",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "Vercel deploy blocker (open): \u2014 `jet@nik.co` not a member of `nik-2658` team; CLI lacks credentials. Needs colla",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "Critical: \u2014 Rasheen (Flexpower) at 63 days since last contact \u2014 needs outreach this week.",
     "category": "other",
     "bot": "crm"
   },
   {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Stale high-value contacts \u2014 Jane Fisher, Jainy Tong, Dylan all approaching 2-month line.",
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "Approaching stale (50+ days): \u2014 Jane Fisher (Harper Wilde), Jainy Tong (Love Wellness), Dylan (MentionStack), Di",
     "category": "other",
     "bot": "crm"
   },
   {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Tomorrow (Tue May 5) \u2014 Preview",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "21:52 \u2014 Large-file reading startup rule fixed across agents",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "21:54-22:15 \u2014 Follow-up OpenClaw fixes completed",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "12:30\u20132:00 PM Dentist \u2014 (90-min block)",
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "ET \u2014 End-of-Day Debrief",
     "category": "other",
     "bot": "macra"
   },
   {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "2:30 PM IRS call \u2014 tax matter, important",
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "After Ours sync \u2014 (2:00\u20132:34 PM): Mano (Minul) given 1-month runway to take over execution. Distri",
     "category": "other",
     "bot": "macra"
   },
   {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Rasheen (Flexpower, strength 4) \u2014 62 days silent. \u2014 Crossed 2-month threshold. Flagged for check-in this week.",
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "YoSharma check-in \u2014 (3:00 PM): $3K cash balance; Paul invoice pending, Rolo invoice delayed (\u2212$100).",
     "category": "check",
     "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "Default model fix: \u2014 `main` agent was hardcoded to `anthropic/claude-sonnet-4-5-20250929`, overriding",
+    "category": "fix",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "Alert hygiene confirmed working: \u2014 12 tightened crons (email-scan, fireflies-check, status-page-update, etc.) now s",
+    "category": "outbound",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "Vercel deploy blocker (open): \u2014 `jet@nik.co` not a member of `nik-2658` team; CLI lacks credentials. Needs colla",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "Critical: \u2014 Rasheen (Flexpower) at 63 days since last contact \u2014 needs outreach this week.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "Approaching stale (50+ days): \u2014 Jane Fisher (Harper Wilde), Jainy Tong (Love Wellness), Dylan (MentionStack), Di",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "ET \u2014 End-of-Day Debrief",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "After Ours sync \u2014 (2:00\u20132:34 PM): Mano (Minul) given 1-month runway to take over execution. Distri",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "YoSharma check-in \u2014 (3:00 PM): $3K cash balance; Paul invoice pending, Rolo invoice delayed (\u2212$100).",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "Default model fix: \u2014 `main` agent was hardcoded to `anthropic/claude-sonnet-4-5-20250929`, overriding",
+    "category": "fix",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "Alert hygiene confirmed working: \u2014 12 tightened crons (email-scan, fireflies-check, status-page-update, etc.) now s",
+    "category": "outbound",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "Vercel deploy blocker (open): \u2014 `jet@nik.co` not a member of `nik-2658` team; CLI lacks credentials. Needs colla",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "Critical: \u2014 Rasheen (Flexpower) at 63 days since last contact \u2014 needs outreach this week.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T9:30:00-04:00",
+    "action": "Approaching stale (50+ days): \u2014 Jane Fisher (Harper Wilde), Jainy Tong (Love Wellness), Dylan (MentionStack), Di",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "ET \u2014 Fireflies check (4-6h lookback)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "2 transcripts found in window:",
+    "category": "research",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Financial: \u2014 $3K cash balance; Paul's invoice pending; Rolo's invoice delayed (\u2212$100 discount",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Music: \u2014 \"Around Me\" scheduled for May 22; \"Never Come Back\" postponed.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Events: \u2014 Exploring city block rentals in Brooklyn/Manhattan; outdoor venues for permit si",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Merch: \u2014 Hoodie quotes $66.73\u2013$74.90; full landed costs pending from Stitchy.",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Projects: \u2014 Flex Power follow-up planned; Supernatural (Rolling Ventures) assigned to Troy; ",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Sponsorship: \u2014 Ongoing challenge with sponsor policy compliance.",
+    "category": "deploy",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "ET \u2014 Fireflies check (4-6h lookback)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "2 transcripts found in window:",
+    "category": "research",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Financial: \u2014 $3K cash balance; Paul's invoice pending; Rolo's invoice delayed (\u2212$100 discount",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Music: \u2014 \"Around Me\" scheduled for May 22; \"Never Come Back\" postponed.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Events: \u2014 Exploring city block rentals in Brooklyn/Manhattan; outdoor venues for permit si",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Merch: \u2014 Hoodie quotes $66.73\u2013$74.90; full landed costs pending from Stitchy.",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Projects: \u2014 Flex Power follow-up planned; Supernatural (Rolling Ventures) assigned to Troy; ",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Sponsorship: \u2014 Ongoing challenge with sponsor policy compliance.",
+    "category": "deploy",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "ET \u2014 Fireflies check (4-6h lookback)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "2 transcripts found in window:",
+    "category": "research",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Financial: \u2014 $3K cash balance; Paul's invoice pending; Rolo's invoice delayed (\u2212$100 discount",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Music: \u2014 \"Around Me\" scheduled for May 22; \"Never Come Back\" postponed.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Events: \u2014 Exploring city block rentals in Brooklyn/Manhattan; outdoor venues for permit si",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Merch: \u2014 Hoodie quotes $66.73\u2013$74.90; full landed costs pending from Stitchy.",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Projects: \u2014 Flex Power follow-up planned; Supernatural (Rolling Ventures) assigned to Troy; ",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T6:00:00-04:00",
+    "action": "Sponsorship: \u2014 Ongoing challenge with sponsor policy compliance.",
+    "category": "deploy",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T3:02:00-04:00",
+    "action": "ET \u2014 After Ours Sync Debrief (cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T3:02:00-04:00",
+    "action": "Mano (Minul) autonomy confirmed \u2014 1-month runway to learn playbook + take on execution",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T3:02:00-04:00",
+    "action": "Distributor evaluation underway \u2014 exploring Stem, Create, Label Works vs. Dignis",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T3:02:00-04:00",
+    "action": "Thursday call \u2014 scheduled for shoot content strategy + distributor review",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T3:02:00-04:00",
+    "action": "Nik's items: \u2014 supervise Brandon on artist involvement + keep Mano synced on budgets (shared wi",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T3:02:00-04:00",
+    "action": "ET \u2014 After Ours Sync Debrief (cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T3:02:00-04:00",
+    "action": "Mano (Minul) autonomy confirmed \u2014 1-month runway to learn playbook + take on execution",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T3:02:00-04:00",
+    "action": "Distributor evaluation underway \u2014 exploring Stem, Create, Label Works vs. Dignis",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T3:02:00-04:00",
+    "action": "Thursday call \u2014 scheduled for shoot content strategy + distributor review",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T3:02:00-04:00",
+    "action": "Nik's items: \u2014 supervise Brandon on artist involvement + keep Mano synced on budgets (shared wi",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T3:02:00-04:00",
+    "action": "ET \u2014 After Ours Sync Debrief (cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T3:02:00-04:00",
+    "action": "Mano (Minul) autonomy confirmed \u2014 1-month runway to learn playbook + take on execution",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T3:02:00-04:00",
+    "action": "Distributor evaluation underway \u2014 exploring Stem, Create, Label Works vs. Dignis",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T3:02:00-04:00",
+    "action": "Thursday call \u2014 scheduled for shoot content strategy + distributor review",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T3:02:00-04:00",
+    "action": "Nik's items: \u2014 supervise Brandon on artist involvement + keep Mano synced on budgets (shared wi",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T1:00:00-04:00",
+    "action": "ET \u2014 Fireflies scan (4-6h lookback)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T1:00:00-04:00",
+    "action": "ET \u2014 Fireflies scan (4-6h lookback)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T1:00:00-04:00",
+    "action": "ET \u2014 Fireflies scan (4-6h lookback)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T12:13:00-04:00",
+    "action": "Heartbeat checks",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T12:13:00-04:00",
+    "action": "Heartbeat checks",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T12:13:00-04:00",
+    "action": "Heartbeat checks",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-05T12:00:00-04:00",
+    "action": "Tomorrow's Schedule",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-05T12:00:00-04:00",
+    "action": "Tomorrow's Schedule",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-05T12:00:00-04:00",
+    "action": "Tomorrow's Schedule",
+    "category": "other",
+    "bot": "writer"
   }
 ]
