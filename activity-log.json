@@ -90,6 +90,96 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "2026-05-06 11:15 EDT \u2014 Slack Digest Scan (Cron)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Issue: \u2014 message tool does not support Slack read action; slack skill requires API token ",
+    "category": "infra",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Channels in manifest: \u2014 15 identified (all-nikco, colin-nik-ww, limitedsupply_hq, love_wellness-tv-chat,",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Status: \u2014 Unable to scan due to tool limitation. No urgent items surfaced.",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Result: \u2014 NO_REPLY",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "2026-05-06 11:15 EDT \u2014 Slack Digest Scan (Cron)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Issue: \u2014 message tool does not support Slack read action; slack skill requires API token ",
+    "category": "infra",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Channels in manifest: \u2014 15 identified (all-nikco, colin-nik-ww, limitedsupply_hq, love_wellness-tv-chat,",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Status: \u2014 Unable to scan due to tool limitation. No urgent items surfaced.",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Result: \u2014 NO_REPLY",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "2026-05-06 11:15 EDT \u2014 Slack Digest Scan (Cron)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Issue: \u2014 message tool does not support Slack read action; slack skill requires API token ",
+    "category": "infra",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Channels in manifest: \u2014 15 identified (all-nikco, colin-nik-ww, limitedsupply_hq, love_wellness-tv-chat,",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Status: \u2014 Unable to scan due to tool limitation. No urgent items surfaced.",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-06T12:00:00-04:00",
+    "action": "Result: \u2014 NO_REPLY",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-05T9:30:00-04:00",
     "action": "ET \u2014 End-of-Day Debrief",
     "category": "other",
@@ -1107,95 +1197,5 @@
     "action": "Headline",
     "category": "other",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Key Events",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Decisions / Outcomes",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Macra/Tondo (Jim Jannuzzio) \u2014 9-msg ops thread from Friday still pending Nik response.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Left Lane / Kristina Igoe \u2014 Troy + Rohit in-person coordination open.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Chase wire transfer delay \u2014 escalate if not resolved.",
-    "category": "fix",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Ian Myers (Oceans Talent) \u2014 marketing thread pending Nik response. Calendar has 8:00 AM \"Oceans Post\" tomorr",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "System Notes",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "22:34 \u2014 Alert hygiene tightened after Nik flagged noisy status messages",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Headline",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Key Events",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Decisions / Outcomes",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Macra/Tondo (Jim Jannuzzio) \u2014 9-msg ops thread from Friday still pending Nik response.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Left Lane / Kristina Igoe \u2014 Troy + Rohit in-person coordination open.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Chase wire transfer delay \u2014 escalate if not resolved.",
-    "category": "fix",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-04T12:00:00-04:00",
-    "action": "Ian Myers (Oceans Talent) \u2014 marketing thread pending Nik response. Calendar has 8:00 AM \"Oceans Post\" tomorr",
-    "category": "other",
-    "bot": "macra"
   }
 ]
