@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-05-07T13:56:32-04:00",
+    "action": "",
+    "category": "other"
+  },
+  {
     "ts": "2026-05-07T06:26:33-04:00",
     "action": "",
     "category": "other"
@@ -589,12 +594,6 @@
     "ts": "2026-05-05T9:30:00-04:00",
     "action": "YoSharma check-in \u2014 (3:00 PM): $3K cash balance; Paul invoice pending, Rolo invoice delayed (\u2212$100).",
     "category": "check",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Default model fix: \u2014 `main` agent was hardcoded to `anthropic/claude-sonnet-4-5-20250929`, overriding",
-    "category": "fix",
     "bot": "writer"
   }
 ]
