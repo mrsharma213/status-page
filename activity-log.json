@@ -23,6 +23,96 @@
     "bot": "writer"
   },
   {
+    "ts": "2026-05-07T12:00:00-04:00",
+    "action": "Fireflies Check (6:00 PM)",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-07T12:00:00-04:00",
+    "action": "Nik's actions: \u2014 Provide feedback on website preview (when available); send meeting notes post-ca",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-07T12:00:00-04:00",
+    "action": "Status: \u2014 Routine, no blocker",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-07T12:00:00-04:00",
+    "action": "Nik's actions: \u2014 Brainstorm/prepare fireside chat content (TV+AI); finalize session title/descrip",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-07T12:00:00-04:00",
+    "action": "Status: \u2014 Routine, no urgent decision needed today",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-07T12:00:00-04:00",
+    "action": "Fireflies Check (6:00 PM)",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-07T12:00:00-04:00",
+    "action": "Nik's actions: \u2014 Provide feedback on website preview (when available); send meeting notes post-ca",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-07T12:00:00-04:00",
+    "action": "Status: \u2014 Routine, no blocker",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-07T12:00:00-04:00",
+    "action": "Nik's actions: \u2014 Brainstorm/prepare fireside chat content (TV+AI); finalize session title/descrip",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-07T12:00:00-04:00",
+    "action": "Status: \u2014 Routine, no urgent decision needed today",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-07T12:00:00-04:00",
+    "action": "Fireflies Check (6:00 PM)",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-07T12:00:00-04:00",
+    "action": "Nik's actions: \u2014 Provide feedback on website preview (when available); send meeting notes post-ca",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-07T12:00:00-04:00",
+    "action": "Status: \u2014 Routine, no blocker",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-07T12:00:00-04:00",
+    "action": "Nik's actions: \u2014 Brainstorm/prepare fireside chat content (TV+AI); finalize session title/descrip",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-07T12:00:00-04:00",
+    "action": "Status: \u2014 Routine, no urgent decision needed today",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-07T06:26:33-04:00",
     "action": "",
     "category": "other"
