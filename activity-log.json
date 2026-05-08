@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-05-08T06:56:36-04:00",
+    "action": "",
+    "category": "other"
+  },
+  {
     "ts": "2026-05-07T20:26:41-04:00",
     "action": "",
     "category": "other"
@@ -276,6 +281,18 @@
   {
     "ts": "2026-05-07T12:00:00-04:00",
     "action": "High-value at risk: \u2014 Jane Fisher (Harper Wilde, 56d), Jainy Tong (Love Wellness, 57d), Dylan (Mention",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-07T12:00:00-04:00",
+    "action": "EOD Debrief \u2014 9:30 PM EDT",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-07T12:00:00-04:00",
+    "action": "EOD Debrief \u2014 9:30 PM EDT",
     "category": "other",
     "bot": "writer"
   },
@@ -588,173 +605,5 @@
     "action": "Jane Fisher (Harper Wilde, strength 5) \u2014 55 days, hits critical by May 12.",
     "category": "other",
     "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Jainy Tong (Love Wellness) \u2014 56 days.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Dylan (MentionStack) \u2014 55 days.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Pitches to triage: \u2014 Samyak Gakhar (NATIV \u2014 premium pet nutrition India), Magnus Holt (TikTok Shop ag",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Mercury IO credit limit changed \u2014 informational, no action confirmed.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "EOD Debrief \u2014 9:30 PM EDT",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "roast.nik.co confirmation emails (LIVE) \u2014 Customer confirmation email now sends from Jet <jet@nik.co> on Stripe `checkout.",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Anrok VOTW draft \u2014 Drafted Vendor of the Week piece in Limited Supply format per Rameez's request. ",
-    "category": "content",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Loop Closure Rule \u2014 appended to AGENTS.md after Nik flagged recurring failure to close execution loo",
-    "category": "reminder",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Dante balance: SETTLED \u2014 Minul confirmed $20K transfer; Dante is paid in full. Treat as closed unless con",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Climatic advisory engagement \u2014 in active discussion with Allie Melnick (founder). 8K-9K units sold in 2 weeks, ",
-    "category": "research",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Rasheen @ Flexpower (CRITICAL) \u2014 64 days since last contact, explicit \"text next week\" promise overdue ~9 weeks. ",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Jane Fisher (Harper Wilde, strength 5) \u2014 55 days, hits critical by May 12.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Jainy Tong (Love Wellness) \u2014 56 days.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Dylan (MentionStack) \u2014 55 days.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Pitches to triage: \u2014 Samyak Gakhar (NATIV \u2014 premium pet nutrition India), Magnus Holt (TikTok Shop ag",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Mercury IO credit limit changed \u2014 informational, no action confirmed.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "EOD Debrief \u2014 9:30 PM EDT",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "roast.nik.co confirmation emails (LIVE) \u2014 Customer confirmation email now sends from Jet <jet@nik.co> on Stripe `checkout.",
-    "category": "outbound",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Anrok VOTW draft \u2014 Drafted Vendor of the Week piece in Limited Supply format per Rameez's request. ",
-    "category": "content",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Loop Closure Rule \u2014 appended to AGENTS.md after Nik flagged recurring failure to close execution loo",
-    "category": "reminder",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Dante balance: SETTLED \u2014 Minul confirmed $20K transfer; Dante is paid in full. Treat as closed unless con",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Climatic advisory engagement \u2014 in active discussion with Allie Melnick (founder). 8K-9K units sold in 2 weeks, ",
-    "category": "research",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Rasheen @ Flexpower (CRITICAL) \u2014 64 days since last contact, explicit \"text next week\" promise overdue ~9 weeks. ",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Jane Fisher (Harper Wilde, strength 5) \u2014 55 days, hits critical by May 12.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Jainy Tong (Love Wellness) \u2014 56 days.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Dylan (MentionStack) \u2014 55 days.",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Pitches to triage: \u2014 Samyak Gakhar (NATIV \u2014 premium pet nutrition India), Magnus Holt (TikTok Shop ag",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Mercury IO credit limit changed \u2014 informational, no action confirmed.",
-    "category": "other",
-    "bot": "writer"
   }
 ]
