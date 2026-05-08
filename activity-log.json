@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-05-07T20:26:41-04:00",
+    "action": "",
+    "category": "other"
+  },
+  {
     "ts": "2026-05-07T13:56:32-04:00",
     "action": "",
     "category": "other"
@@ -588,120 +593,6 @@
     "ts": "2026-05-06T12:00:00-04:00",
     "action": "Mercury IO credit limit changed \u2014 informational, no action confirmed.",
     "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "ET \u2014 End-of-Day Debrief",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "After Ours sync \u2014 (2:00\u20132:34 PM): Mano (Minul) given 1-month runway to take over execution. Distri",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "YoSharma check-in \u2014 (3:00 PM): $3K cash balance; Paul invoice pending, Rolo invoice delayed (\u2212$100).",
-    "category": "check",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Default model fix: \u2014 `main` agent was hardcoded to `anthropic/claude-sonnet-4-5-20250929`, overriding",
-    "category": "fix",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Alert hygiene confirmed working: \u2014 12 tightened crons (email-scan, fireflies-check, status-page-update, etc.) now s",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Vercel deploy blocker (open): \u2014 `jet@nik.co` not a member of `nik-2658` team; CLI lacks credentials. Needs colla",
-    "category": "deploy",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Critical: \u2014 Rasheen (Flexpower) at 63 days since last contact \u2014 needs outreach this week.",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Approaching stale (50+ days): \u2014 Jane Fisher (Harper Wilde), Jainy Tong (Love Wellness), Dylan (MentionStack), Di",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "ET \u2014 End-of-Day Debrief",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "After Ours sync \u2014 (2:00\u20132:34 PM): Mano (Minul) given 1-month runway to take over execution. Distri",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "YoSharma check-in \u2014 (3:00 PM): $3K cash balance; Paul invoice pending, Rolo invoice delayed (\u2212$100).",
-    "category": "check",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Default model fix: \u2014 `main` agent was hardcoded to `anthropic/claude-sonnet-4-5-20250929`, overriding",
-    "category": "fix",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Alert hygiene confirmed working: \u2014 12 tightened crons (email-scan, fireflies-check, status-page-update, etc.) now s",
-    "category": "outbound",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Vercel deploy blocker (open): \u2014 `jet@nik.co` not a member of `nik-2658` team; CLI lacks credentials. Needs colla",
-    "category": "deploy",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Critical: \u2014 Rasheen (Flexpower) at 63 days since last contact \u2014 needs outreach this week.",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "Approaching stale (50+ days): \u2014 Jane Fisher (Harper Wilde), Jainy Tong (Love Wellness), Dylan (MentionStack), Di",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "ET \u2014 End-of-Day Debrief",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "After Ours sync \u2014 (2:00\u20132:34 PM): Mano (Minul) given 1-month runway to take over execution. Distri",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-05T9:30:00-04:00",
-    "action": "YoSharma check-in \u2014 (3:00 PM): $3K cash balance; Paul invoice pending, Rolo invoice delayed (\u2212$100).",
-    "category": "check",
     "bot": "writer"
   }
 ]
