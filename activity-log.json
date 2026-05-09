@@ -1,5 +1,10 @@
 [
   {
+    "ts": "2026-05-08T22:56:34-04:00",
+    "action": "",
+    "category": "other"
+  },
+  {
     "ts": "2026-05-08T12:00:00-04:00",
     "action": "VOTW drafts staged (3) \u2014 Workweek/Limited Supply Vendor of the Week placements drafted in `projects/write",
     "category": "content",
@@ -88,6 +93,12 @@
     "action": "High-value at risk: \u2014 Jane Fisher (Harper Wilde, 57d), Jainy Tong (Love Wellness, 58d), Dylan (Mention",
     "category": "other",
     "bot": "writer"
+  },
+  {
+    "ts": "2026-05-08T12:00:00-04:00",
+    "action": "EOD Debrief \u2014 9:30 PM EDT",
+    "category": "other",
+    "bot": "crm"
   },
   {
     "ts": "2026-05-08T06:56:36-04:00",
@@ -587,113 +598,5 @@
     "action": "Anrok VOTW draft \u2014 Rameez request",
     "category": "other",
     "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Anrok VOTW draft \u2014 Rameez request",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "2026-05-06 11:30 AM EDT \u2014 Fireflies: Climatic x Nik Sharma",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Alert level: \u2014 Medium priority \u2014 advisory engagement being discussed, but no urgent deadline sp",
-    "category": "reminder",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "2026-05-06 11:30 AM EDT \u2014 Fireflies: Climatic x Nik Sharma",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Alert level: \u2014 Medium priority \u2014 advisory engagement being discussed, but no urgent deadline sp",
-    "category": "reminder",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "2026-05-06 11:30 AM EDT \u2014 Fireflies: Climatic x Nik Sharma",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Alert level: \u2014 Medium priority \u2014 advisory engagement being discussed, but no urgent deadline sp",
-    "category": "reminder",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "2026-05-06 \u2014 Loop closure failure corrected",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "2026-05-06 \u2014 Loop closure failure corrected",
-    "category": "other",
-    "bot": "macra"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "2026-05-06 \u2014 Loop closure failure corrected",
-    "category": "other",
-    "bot": "writer"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "EOD Debrief \u2014 9:30 PM EDT",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "roast.nik.co confirmation emails (LIVE) \u2014 Customer confirmation email now sends from Jet <jet@nik.co> on Stripe `checkout.",
-    "category": "outbound",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Anrok VOTW draft \u2014 Drafted Vendor of the Week piece in Limited Supply format per Rameez's request. ",
-    "category": "content",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Loop Closure Rule \u2014 appended to AGENTS.md after Nik flagged recurring failure to close execution loo",
-    "category": "reminder",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Dante balance: SETTLED \u2014 Minul confirmed $20K transfer; Dante is paid in full. Treat as closed unless con",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Climatic advisory engagement \u2014 in active discussion with Allie Melnick (founder). 8K-9K units sold in 2 weeks, ",
-    "category": "research",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Rasheen @ Flexpower (CRITICAL) \u2014 64 days since last contact, explicit \"text next week\" promise overdue ~9 weeks. ",
-    "category": "other",
-    "bot": "crm"
-  },
-  {
-    "ts": "2026-05-06T12:00:00-04:00",
-    "action": "Jane Fisher (Harper Wilde, strength 5) \u2014 55 days, hits critical by May 12.",
-    "category": "other",
-    "bot": "crm"
   }
 ]
