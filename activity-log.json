@@ -1,5 +1,95 @@
 [
   {
+    "ts": "2026-05-08T12:00:00-04:00",
+    "action": "VOTW drafts staged (3) \u2014 Workweek/Limited Supply Vendor of the Week placements drafted in `projects/write",
+    "category": "content",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-08T12:00:00-04:00",
+    "action": "Dream cycle ran clean overnight \u2014 3:00 AM ET cron produced proposal `20260508T070008Z-9fdb703d.json`. Auto-applied",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-08T12:00:00-04:00",
+    "action": "Vercel spend API blocked (HIGH severity) \u2014 Logged at 12:03 PM ET in `memory/vercel-spend-api-check.md`. Token authenticates",
+    "category": "check",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-08T12:00:00-04:00",
+    "action": "Rasheen @ Flexpower: 66 days \u2014 explicit \"text next week\" promise from March 3 still unresolved. Fourth consecut",
+    "category": "fix",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-08T12:00:00-04:00",
+    "action": "High-value at risk: \u2014 Jane Fisher (Harper Wilde, 57d), Jainy Tong (Love Wellness, 58d), Dylan (Mention",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-08T12:00:00-04:00",
+    "action": "VOTW drafts staged (3) \u2014 Workweek/Limited Supply Vendor of the Week placements drafted in `projects/write",
+    "category": "content",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-08T12:00:00-04:00",
+    "action": "Dream cycle ran clean overnight \u2014 3:00 AM ET cron produced proposal `20260508T070008Z-9fdb703d.json`. Auto-applied",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-08T12:00:00-04:00",
+    "action": "Vercel spend API blocked (HIGH severity) \u2014 Logged at 12:03 PM ET in `memory/vercel-spend-api-check.md`. Token authenticates",
+    "category": "check",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-08T12:00:00-04:00",
+    "action": "Rasheen @ Flexpower: 66 days \u2014 explicit \"text next week\" promise from March 3 still unresolved. Fourth consecut",
+    "category": "fix",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-08T12:00:00-04:00",
+    "action": "High-value at risk: \u2014 Jane Fisher (Harper Wilde, 57d), Jainy Tong (Love Wellness, 58d), Dylan (Mention",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-08T12:00:00-04:00",
+    "action": "VOTW drafts staged (3) \u2014 Workweek/Limited Supply Vendor of the Week placements drafted in `projects/write",
+    "category": "content",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-08T12:00:00-04:00",
+    "action": "Dream cycle ran clean overnight \u2014 3:00 AM ET cron produced proposal `20260508T070008Z-9fdb703d.json`. Auto-applied",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-08T12:00:00-04:00",
+    "action": "Vercel spend API blocked (HIGH severity) \u2014 Logged at 12:03 PM ET in `memory/vercel-spend-api-check.md`. Token authenticates",
+    "category": "check",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-08T12:00:00-04:00",
+    "action": "Rasheen @ Flexpower: 66 days \u2014 explicit \"text next week\" promise from March 3 still unresolved. Fourth consecut",
+    "category": "fix",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-08T12:00:00-04:00",
+    "action": "High-value at risk: \u2014 Jane Fisher (Harper Wilde, 57d), Jainy Tong (Love Wellness, 58d), Dylan (Mention",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-08T06:56:36-04:00",
     "action": "",
     "category": "other"
