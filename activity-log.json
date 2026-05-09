@@ -1,5 +1,41 @@
 [
   {
+    "ts": "2026-05-09T12:00:00-04:00",
+    "action": "boring.nik.co Retention OS v1 launched",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-09T12:00:00-04:00",
+    "action": "boring.nik.co simplified into Boring Retention School",
+    "category": "other",
+    "bot": "crm"
+  },
+  {
+    "ts": "2026-05-09T12:00:00-04:00",
+    "action": "boring.nik.co Retention OS v1 launched",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-09T12:00:00-04:00",
+    "action": "boring.nik.co simplified into Boring Retention School",
+    "category": "other",
+    "bot": "macra"
+  },
+  {
+    "ts": "2026-05-09T12:00:00-04:00",
+    "action": "boring.nik.co Retention OS v1 launched",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
+    "ts": "2026-05-09T12:00:00-04:00",
+    "action": "boring.nik.co simplified into Boring Retention School",
+    "category": "other",
+    "bot": "writer"
+  },
+  {
     "ts": "2026-05-09T01:56:32-04:00",
     "action": "",
     "category": "other"
