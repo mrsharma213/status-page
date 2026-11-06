@@ -1,0 +1,34 @@
+{
+  "name": "bot-work",
+  "private": true,
+  "description": "Private bot work board. Operational snapshots stay in server-side storage.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test tests/*.test.ts"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@vercel/blob": "^2.8.2",
+    "next": "^16.4.5",
+    "next-auth": "5.0.0-beta.32",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "server-only": "^0.0.1",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^22.19.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "eslint": "^9.39.0",
+    "eslint-config-next": "^16.4.5",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
